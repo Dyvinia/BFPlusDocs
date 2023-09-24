@@ -28,8 +28,19 @@ plugins:
       auto_caption: false
       caption_position: bottom
   - mkdocs-video
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/file-arrow-down
+      link: https://www.nexusmods.com/starwarsbattlefront22017/mods/7592 
+      name: Download BF+
+    - icon: fontawesome/brands/discord  
+      link: https://discord.gg/99VtTgFBqq 
+      name: Discord
 extra_css:
   - stylesheets/extra.css
+  
+copyright: Battlefront+ Team 
 
 nav:
   - Overview: 'index.md'
@@ -40,3 +51,5 @@ nav:
     - 'content/reinforcements.md'
     - 'content/troopers.md'
   - Changelog: 'changes.md'
+  - Troubleshooting:
+    - 'troubleshooting/compatibility.md'
