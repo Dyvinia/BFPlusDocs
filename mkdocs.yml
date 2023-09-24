@@ -9,6 +9,8 @@ theme:
     text: Poppins
   features:
     - navigation.expand
+  icon:
+    repo: octicons/download-24
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -31,7 +33,7 @@ plugins:
 extra:
   generator: false
   social:
-    - icon: fontawesome/solid/file-arrow-down
+    - icon: fontawesome/solid/folder-plus
       link: https://www.nexusmods.com/starwarsbattlefront22017/mods/7592 
       name: Download BF+
     - icon: fontawesome/brands/discord  
@@ -39,6 +41,9 @@ extra:
       name: Discord
 extra_css:
   - stylesheets/extra.css
+
+repo_url: https://www.nexusmods.com/starwarsbattlefront22017/mods/7592 
+repo_name: Download on NexusMods
   
 copyright: Battlefront+ Team 
 
