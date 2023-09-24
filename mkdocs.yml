@@ -31,7 +31,6 @@ plugins:
       auto_caption: false
       caption_position: bottom
   - mkdocs-video
-  - social
 extra:
   generator: false
   social:
@@ -46,6 +45,8 @@ extra_css:
 
 repo_url: https://www.nexusmods.com/starwarsbattlefront22017/mods/7592 
 repo_name: Download on NexusMods
+
+site_url: https://dyvinia.github.io/BFPlusDocs/
   
 copyright: Battlefront+ Team 
 
