@@ -114,7 +114,7 @@ Features dozens of new characters and well over a hundred new abilities.
     <img class="no-lb" src="https://secure.gravatar.com/avatar/e98fe794ebd62a78c63ab7de635120e0" width="48px"/>Thisguy446
 </a>
 <a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/77916933">
-    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1502760901878898696/NVOkUfnM_400x400.jpg" width="48px"/>Ultistinct
+    <img class="no-lb" src="https://media.discordapp.net/attachments/923061853813350461/1086504415227293746/image.png" width="48px"/>Ultistinct
 </a>
 <a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/55952402">
     <img class="no-lb" src="https://secure.gravatar.com/avatar/20e428b6d3af6c7b935e40fabab0775e" width="48px"/>VictorPL
