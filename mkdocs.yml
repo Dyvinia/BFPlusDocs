@@ -31,6 +31,7 @@ plugins:
       auto_caption: false
       caption_position: bottom
   - mkdocs-video
+  - social
 extra:
   generator: false
   social:
