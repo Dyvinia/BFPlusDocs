@@ -35,3 +35,23 @@
   border-color:var(--md-primary-fg-color);
   color: #fff;
 }
+
+/* Button */
+.md-typeset .author {
+    color: #fff;
+    cursor:pointer;
+    display:inline-block;
+    font-weight: 500;
+    padding:.5em .5em;
+    transition:color 125ms,background-color 125ms,border-color 125ms;
+    align-content: center;
+}
+.author > img {
+    border-radius: 50%;
+    vertical-align: middle;
+    transition:opacity 125ms;
+    margin-right: 0.5em;
+}
+.author:hover > img {
+    opacity: 0.5;
+}

@@ -26,7 +26,7 @@ plugins:
       zoomable: true
       draggable: false
       skip_classes:
-       - custom-skip-class-name
+       - no-lb
       auto_caption: false
       caption_position: bottom
   - mkdocs-video
