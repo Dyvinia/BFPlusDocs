@@ -36,8 +36,8 @@
   color: #fff;
 }
 
-/* Button */
-.md-typeset .author {
+/* Developers */
+.md-typeset .devs {
     color: #fff;
     cursor:pointer;
     display:inline-block;
@@ -46,13 +46,13 @@
     transition:color 125ms,background-color 125ms,border-color 125ms;
     align-content: center;
 }
-.author > img {
+.devs > img {
     border-radius: 50%;
     vertical-align: middle;
     transition:opacity 125ms;
     margin-right: 0.5em;
 }
-.author:hover > img {
+.devs:hover > img {
     opacity: 0.5;
 }
 /*
