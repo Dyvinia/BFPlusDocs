@@ -1,0 +1,35 @@
+site_name: Battlefront+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: indigo
+  font:
+    text: Montserrat
+  features:
+    - navigation.expand
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.keys
+plugins:
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: false
+      skip_classes:
+       - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+  - mkdocs-video
+
+nav:
+  - Home: 'index.md'
+  - Changelog: 'changelog.md'
+
