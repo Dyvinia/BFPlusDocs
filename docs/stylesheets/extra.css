@@ -55,3 +55,13 @@
 .author:hover > img {
     opacity: 0.5;
 }
+/*
+.md-header__button.md-logo img {
+    width: 48px;
+    height: 24px;
+}
+
+.md-header__button.md-logo {
+    margin-left: .2rem;
+    padding-left: .4rem;
+}*/
