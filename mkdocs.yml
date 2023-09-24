@@ -33,6 +33,7 @@ extra_css:
 
 nav:
   - Overview: 'index.md'
+  - Gallery: 'gallery.md'
   - Installation: 'installation.md'
   - Details:
     - 'content/heroes.md'
