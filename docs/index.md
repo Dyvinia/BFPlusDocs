@@ -11,6 +11,9 @@ Features dozens of new characters and well over a hundred new abilities.
 <a class="author" href="https://www.nexusmods.com/starwarsjedifallenorder/users/86430143">
     <img class="no-lb" src="https://forums.nexusmods.com/uploads/profile/photo-thumb-86430143.jpg" width="48px"/>AlexPo
 </a>
+<a class="author" href="https://acribro.artstation.com">
+    <img class="no-lb" src="https://cdnb.artstation.com/p/users/avatars/002/819/735/large/6102192eaa6c4675e09fe36d8540c323.jpg" width="48px"/>Acribro
+</a>
 <a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/75185453">
     <img class="no-lb" src="https://forums.nexusmods.com/uploads/profile/photo-75185453.png" width="48px"/>AmWhitey
 </a>
@@ -63,19 +66,22 @@ Features dozens of new characters and well over a hundred new abilities.
     <img class="no-lb" src="https://cdnb.artstation.com/p/users/avatars/001/140/167/large/e64f7c0b9aee95c350d6729d02cab929.jpg" width="48px"/>Hammie
 </a>
 <a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/89581623">
-    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-89581623.png?_r=1685579699" width="48px"/>Lazerweaver
+    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-89581623.png" width="48px"/>Lazerweaver
 </a>
 <a class="author" href="https://www.artstation.com/mandalo">
     <img class="no-lb" src="https://cdnb.artstation.com/p/users/avatars/000/738/903/large/4568229eec0827472d96f6ab0c9ef6fa.jpg" width="48px"/>Mandalo
 </a>
-<a class="author" href="https://github.com/Dyvinia">
+<a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/98792048">
+    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-98792048.png" width="48px"/>Mistyvail
+</a>
+<a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/50279956">
     <img class="no-lb" src="https://cdn.discordapp.com/avatars/165828190332256257/ddf81a04d1cda1cdd2583f74a481bdd2.webp" width="48px"/>Mophead
 </a>
 <a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/2736758">
     <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-2736758.jpg?_r=1652911460" width="48px"/>NanoBuds
 </a>
 <a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/95970763">
-    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1648431870659514370/RpOji4oG_400x400.jpg" width="48px"/>Owen
+    <img class="no-lb" src="https://www.nexusmods.com/assets/images/default/avatar.png" width="48px"/>Owen
 </a>
 <a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/73176903">
     <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-73176903.png" width="48px"/>PianoBoy1764
@@ -89,27 +95,36 @@ Features dozens of new characters and well over a hundred new abilities.
 <a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/50265961">
     <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-50265961.png" width="48px"/>Satanthenoscoper
 </a>
-<a class="author" href="https://github.com/Dyvinia">
-    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1648431870659514370/RpOji4oG_400x400.jpg" width="48px"/>Dyvinia
+<a class="author" href="https://twitter.com/momentarilyepic">
+    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1418146355986448388/H8ZGvHc9_400x400.jpg" width="48px"/>Sean Lack
 </a>
-<a class="author" href="https://github.com/Dyvinia">
-    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1648431870659514370/RpOji4oG_400x400.jpg" width="48px"/>Dyvinia
+<a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/35862475">
+    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-35862475.png" width="48px"/>SiRME
 </a>
-<a class="author" href="https://github.com/Dyvinia">
-    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1648431870659514370/RpOji4oG_400x400.jpg" width="48px"/>Dyvinia
+<a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/73309078">
+    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-73309078.png" width="48px"/>Soulbruh
 </a>
-<a class="author" href="https://github.com/Dyvinia">
-    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1648431870659514370/RpOji4oG_400x400.jpg" width="48px"/>Dyvinia
+<a class="author" href="">
+    <img class="no-lb" src="https://cdn.discordapp.com/avatars/443908039339409409/3af7a3029d5c2405f159ceb289e47b41.png" width="48px"/>Squidy
 </a>
-<a class="author" href="https://github.com/Dyvinia">
-    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1648431870659514370/RpOji4oG_400x400.jpg" width="48px"/>Dyvinia
+<a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/85153988">
+    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-85153988.png" width="48px"/>TheSpartanCV
 </a>
-<a class="author" href="https://github.com/Dyvinia">
-    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1648431870659514370/RpOji4oG_400x400.jpg" width="48px"/>Dyvinia
+<a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/94065553">
+    <img class="no-lb" src="https://secure.gravatar.com/avatar/e98fe794ebd62a78c63ab7de635120e0" width="48px"/>Thisguy446
 </a>
-<a class="author" href="https://github.com/Dyvinia">
-    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1648431870659514370/RpOji4oG_400x400.jpg" width="48px"/>Dyvinia
+<a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/77916933">
+    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1502760901878898696/NVOkUfnM_400x400.jpg" width="48px"/>Ultistinct
 </a>
-<a class="author" href="https://github.com/Dyvinia">
-    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1648431870659514370/RpOji4oG_400x400.jpg" width="48px"/>Dyvinia
+<a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/55952402">
+    <img class="no-lb" src="https://secure.gravatar.com/avatar/20e428b6d3af6c7b935e40fabab0775e" width="48px"/>VictorPL
+</a>
+<a class="author" href="https://github.com/wannkunstbeikor">
+    <img class="no-lb" src="https://cdn.discordapp.com/attachments/1030536483318284308/1155613413238636674/e79b457aeda4fc9e71d9e1c139cb3796.png" width="48px"/>wannkunstbeikor
+</a>
+<a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/93017128">
+    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-93017128.jpg" width="48px"/>Ywingpilot
+</a>
+<a class="author" href="https://www.nexusmods.com/starwarsbattlefront22017/users/51785036">
+    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-51785036.jpg?_r=1634681743" width="48px"/>zatomos
 </a>
