@@ -54,7 +54,7 @@ nav:
     - 'content/heroes.md'
     - 'content/reinforcements.md'
     - 'content/troopers.md'
-  - Changelog: 'changes.md'
-  - Installation: 'installation.md'
-  - Troubleshooting:
-    - 'troubleshooting/compatibility.md'
+  - Setup:
+    - 'setup/installation.md'
+    - 'setup/troubleshooting.md'
+  - Changelog: 'changelog.md'

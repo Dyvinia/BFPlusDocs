@@ -1,4 +1,4 @@
-# Mod Compatibility
+# Troubleshooting
 
 ## Incompatible Mods
 - Ortho's Clones

@@ -1,16 +1,16 @@
 # Changelog
 
-## Battlefront+ V9
+## Battlefront+ v9
 - SoonTM
 
-## Battlefront+ V8.6
+## Battlefront+ v8.6
 - Stat adjustments to the Baragwin Repeater, M-45, and SE-14r (Explosive Shot)
 - Adjusted the position of the Sidearm button and fixed the frontend weapons menu
 - Added a TIE Pilot appearance for the Imperial Officer
 - Incorporated Chucky's "Improved Scarif Rebels" to give the Heavy and Specialist Pathfinders a more distinctive appearance from the Assault
 - The collection for use with IAO (XL) now correctly displays the red "Modded" rarity for custom skins
 
-## Battlefront+ V8
+## Battlefront+ v8
 - Re-divided into dedicated PM and IA versions, greatly increasing stability when used with Instant Action Overhaul XL
 - Added 7 new blasters:
     - Assault: DH-17R, T-12
