@@ -3,7 +3,7 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: amber
+    primary: custom
     accent: orange
   font:
     text: Poppins
@@ -28,6 +28,8 @@ plugins:
       auto_caption: false
       caption_position: bottom
   - mkdocs-video
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Overview: 'index.md'
