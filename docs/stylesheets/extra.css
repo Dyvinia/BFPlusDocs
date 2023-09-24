@@ -1,18 +1,26 @@
+/* Accent Color */
 :root {
     --md-primary-fg-color:        #fcad03;
     --md-default-fg-color--light: #fff1bbbb;
     --md-primary-fg-color--dark:  #90030C;
 }
 
+/* Page Background Color */
 [data-md-color-scheme="slate"] {
     --md-default-bg-color: hsla(577,10%,10%,1)
 }
+
+/* Hover Color */
 [data-md-color-accent="orange"] {
     --md-accent-fg-color:  #808080;
 }
-.md-nav__title {
-    color: #fff;
-}
+
+/* Header Background Color */
 .md-header {
     background-color: #353535;
+}
+
+/* Header Text Color */
+.md-nav__title {
+    color: #fff;
 }
