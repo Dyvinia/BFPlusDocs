@@ -1,0 +1,1 @@
+"%APPDATA%\Python\Python311\Scripts\mkdocs.exe" serve
