@@ -7,3 +7,5 @@
 ![rexahsokamagna](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1649279318-773800904.png)
 ![grievious](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1649279330-769874065.png)
 ![bountyhunters](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1648161761-1292028198.png)
+
+<p style="font-size: 12px; text-align: center;">Hint: Click on images to zoom</p>
