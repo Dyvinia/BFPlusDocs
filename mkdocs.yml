@@ -3,10 +3,10 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: deep purple
-    accent: indigo
+    primary: amber
+    accent: orange
   font:
-    text: Montserrat
+    text: Poppins
   features:
     - navigation.expand
 markdown_extensions:
@@ -30,6 +30,10 @@ plugins:
   - mkdocs-video
 
 nav:
-  - Home: 'index.md'
-  - Changelog: 'changelog.md'
-
+  - Overview: 'index.md'
+  - Installation: 'installation.md'
+  - Details:
+    - 'content/heroes.md'
+    - 'content/reinforcements.md'
+    - 'content/troopers.md'
+  - Changelog: 'changes.md'
