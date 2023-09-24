@@ -24,3 +24,14 @@
 .md-nav__title {
     color: #fff;
 }
+
+/* Button */
+.md-typeset .md-button {
+    padding:.4em 1em;
+}
+.md-typeset .md-button:focus,
+.md-typeset .md-button:hover {
+  background-color: transparent;
+  border-color:var(--md-primary-fg-color);
+  color: #fff;
+}
