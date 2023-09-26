@@ -48,7 +48,7 @@ Features dozens of new characters and well over a hundred new abilities.
     <img class="no-lb" src="https://cdnb.artstation.com/p/users/avatars/001/610/909/large/b16050371380be6f3e59eb376cd28610.jpg" width="48px"/>DeggialNox
 </a>
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/100537993">
-    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-100537993.png?_r=1643762433" width="48px"/>Dragunov7
+    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-100537993.png?_r=1643762433" width="48px"/>dragunov
 </a>
 <a class="devs" href="https://github.com/Dyvinia">
     <img class="no-lb" src="https://pbs.twimg.com/profile_images/1648431870659514370/RpOji4oG_400x400.jpg" width="48px"/>Dyvinia
@@ -116,8 +116,8 @@ Features dozens of new characters and well over a hundred new abilities.
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/77916933">
     <img class="no-lb" src="https://media.discordapp.net/attachments/923061853813350461/1086504415227293746/image.png" width="48px"/>Ultistinct
 </a>
-<a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/55952402">
-    <img class="no-lb" src="https://secure.gravatar.com/avatar/20e428b6d3af6c7b935e40fabab0775e" width="48px"/>VictorPL
+<a class="devs" href="https://twitter.com/VictorPL2003">
+    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1695494833299718144/fv4ZO-Yx_400x400.jpg" width="48px"/>VictorPL
 </a>
 <a class="devs" href="https://github.com/wannkunstbeikor">
     <img class="no-lb" src="https://cdn.discordapp.com/attachments/1030536483318284308/1155613413238636674/e79b457aeda4fc9e71d9e1c139cb3796.png" width="48px"/>wannkunstbeikor
