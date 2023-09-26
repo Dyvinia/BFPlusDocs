@@ -56,6 +56,6 @@ nav:
     - 'Details/Reinforcements.md'
     - 'Details/Troopers.md'
   - Setup:
-    - 'ModSetup/Installation.md'
-    - 'ModSetup/Troubleshooting.md'
+    - 'Setup/Installation.md'
+    - 'Setup/Troubleshooting.md'
   - Changelog: 'Changelog.md'
