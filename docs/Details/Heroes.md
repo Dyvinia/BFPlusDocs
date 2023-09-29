@@ -149,6 +149,60 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_MazKanata.png">
+  <div class="text">
+    <h3>
+      <strong>Maz Kanata</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -0.7em;" src="../../assets/abilities/mazkanata/Weapons_MazKanataDH-17R.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+    <a class="ability-item" data-text="Maz creates an extra volatile reaction to dash forward with her jetpack, causing burn damage to nearby enemies while it is active.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/mazkanata/MazKanata_BurnDash.svg">
+      <span class="ability-name">Burn Dash</span>
+    </a>
+    <a class="ability-item" data-text="Enemies dealing damage to Maz will recieve a small amount of damage in return.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/mazkanata/MazKanata_Reflect.svg">
+      <span class="ability-name">Change in Fortune</span>
+    </a>
+    <a class="ability-item" data-text="Maz equips an MPL-57 grenade launcher that will increase the projectile's fuse time, blast, and launch speed when the trigger is held.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/mazkanata/MazKanata_MPL.svg">
+      <span class="ability-name">Adjustable Fuse</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_NienNunb.png">
+  <div class="text">
+    <h3>
+      <strong>Nein Nunb</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1em;" src="../../assets/abilities/niennunb/Weapons_NienNunbDH-17.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+    <a class="ability-item" data-text="Nien Nunb deploys a Detonite Charge, wired to blow when enemies enter its proximity.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/niennunb/NienNunb_ProximityBomb.svg">
+      <span class="ability-name">Proximity Bomb</span>
+    </a>
+    <a class="ability-item" data-text="Switch to a modified DLT-20A Pulse Cannon configured for fast charging and high damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/niennunb/NienNunb_PulseCannon.svg">
+      <span class="ability-name">Rapid Pulse Cannon</span>
+    </a>
+    <a class="ability-item" data-text="Deploy a blaster turret fitted with upgraded sensors for quicker lock-on time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/niennunb/NienNunb_BlasterTurret.svg">
+      <span class="ability-name">Augmented Turret</span>
+    </a>
+    </div>
+  </div>
+</div>
+
 ## Villains
 
 <div class="hero">
