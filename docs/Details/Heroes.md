@@ -183,7 +183,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <div class="text">
     <h3>
       <strong>Commander Pyre</strong>
-      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.05em; transform: translateY(2px)" src="../../assets/abilities/commanderpyre/Weapons_PyreF-11D.svg">
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.05em; transform: translateY(3px)" src="../../assets/abilities/commanderpyre/Weapons_PyreF-11D.svg">
     </h3>
     <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
     <div>
@@ -229,6 +229,91 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     <a class="ability-item" data-text="Dengar has a special trait that brifly grants damage resistance upon deafeating enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_KillDR.svg">
       <span class="ability-name">Tough Fighter</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_Hask.png">
+  <div class="text">
+    <h3>
+      <strong>Gideon Hask</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.5em; transform: translateY(4px)" src="../../assets/abilities/gideonhask/Weapons_HaskRK-3.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+    <a class="ability-item" data-text="Hask reveals enemies within his line of sight to his allies. When revealed, they will have all forms of healing blocked.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/gideonhask/Hask_DebuffEnemy.svg">
+      <span class="ability-name">Routing Traitors</span>
+    </a>
+    <a class="ability-item" data-text="Hask leads the charge with a modified E-11 Blast Cannon, passively boosting nearby allies with dsiruption immunity.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/gideonhask/Hask_BuffAlly.svg">
+      <span class="ability-name">Blast Cannon</span>
+    </a>
+    <a class="ability-item" data-text="Hask charges up a volatile power blast that ignites a small flame upon impact.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/gideonhask/Hask_IncendiaryRounds.svg">
+      <span class="ability-name">Inferno Blast</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_Greedo.png">
+  <div class="text">
+    <h3>
+      <strong>Greedo</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.4em; transform: translateY(4px)" src="../../assets/abilities/greedo/Weapons_GreedoDT-12.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+    <a class="ability-item" data-text="Throws a Thermal Detonator by default. While Confidence Boost is active, a Thermal Imploder is thrown instead.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/greedo/Greedo_Grenade.svg">
+      <span class="ability-name">Brash Blast</span>
+    </a>
+    <a class="ability-item" data-text="Greedo boosts his senses, enabling him to detect enemies, even through walls.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/greedo/Greedo_HighSenses.svg">
+      <span class="ability-name">High Senses</span>
+    </a>
+    <a class="ability-item" data-text="Greedo's DT-12 will deal increased damage, and his Brash Blast will upgrade to a Thermal Imploder and be recharged if in cooldown.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/greedo/Greedo_Confidence.svg">
+      <span class="ability-name">Confidence Boost</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_JangoFett.png">
+  <div class="text">
+    <h3>
+      <strong>Jango Fett</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -0.25em; transform: translateY(2px)" src="../../assets/abilities/jangofett/Weapons_JangoWestars.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+    <a class="ability-item" data-text="Back mounted jetpack that utilizes burst thrusters to allow Jango to jet over large distances. It is well suited for traversing obstructions and evading danger.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/jangofett/Jango_JumpPack.svg">
+      <span class="ability-name">Jet Boost</span>
+    </a>
+    <a class="ability-item" data-text="When dealing damage, Jango Fett gains bonus health. Upon getting kills, he is awarded extra Battle Points.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/jangofett/Jango_Collecting.svg">
+      <span class="ability-name">Collecting Bounties</span>
+    </a>
+    <a class="ability-item" data-text="Jango briefly activates the flamethrower mounted in his gauntlet, incinerating enemies in front of him.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/jangofett/Jango_WristFlamethrower.svg">
+      <span class="ability-name">Wrist Flamethower</span>
+    </a>
+    <a class="ability-item" data-text="Press/hold ZOOM to fire a Saberdart that significantly weakens enemies as well as damages them over time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/jangofett/Jango_PoisonDart.svg">
+      <span class="ability-name">Expert Hunter</span>
     </a>
     </div>
   </div>
