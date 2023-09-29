@@ -81,7 +81,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </a>
     <a class="ability-item" data-text="Generation one armor holds up, boosting Rex's health.">
       <img class="ability" class="no-lb" src="../../assets/abilities/captainrex/Rex_Fortify.svg">
-      <span class="ability-name">Gen. One</span>
+      <span class="ability-name">Generation One</span>
     </a>
     </div>
   </div>
