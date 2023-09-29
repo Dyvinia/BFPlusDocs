@@ -46,7 +46,15 @@
     transition:color 125ms,background-color 125ms,border-color 125ms;
     align-content: center;
 }
+.md-typeset .devs:hover {
+    color: var(--md-accent-fg-color) !important;
+}
+.md-typeset .devs:focus {
+    color: #fff
+}
+
 .devs > img {
+    width: 48px;
     border-radius: 50%;
     vertical-align: middle;
     transition:opacity 125ms;
@@ -55,6 +63,8 @@
 .devs:hover > img {
     opacity: 0.5;
 }
+
+
 /*
 .md-header__button.md-logo img {
     width: 48px;
