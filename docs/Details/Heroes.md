@@ -372,3 +372,30 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </div>
   </div>
 </div>
+
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_SecondSister.png">
+  <div class="text">
+    <h3>
+      <strong>The Second Sister</strong>
+      <img class="weapon-saber" class="no-lb" src="../../assets/abilities/secondsister/Weapons_SecondSisterLightsaber.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+    <a class="ability-item" data-text="The Second Sister saps the life force from enemies in front of her to heal herself. This effect is amplified with a higher number of victims.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/secondsister/SecondSister_ForceDrain.svg">
+      <span class="ability-name">Force Drain</span>
+    </a>
+    <a class="ability-item" data-text="The Second Sister switches forms to attack with a Double-Bladed lightsaber, increasing her stamina but reducing damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/secondsister/SecondSister_DoubleLightsaber.svg">
+      <span class="ability-name">Double-Bladed</span>
+    </a>
+    <a class="ability-item" data-text="The Second Sister lunges forward with a deadly slash that knocks enemies onto the ground.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/secondsister/SecondSister_Lunge.svg">
+      <span class="ability-name">Cunning Slash</span>
+    </a>
+    </div>
+  </div>
+</div>
