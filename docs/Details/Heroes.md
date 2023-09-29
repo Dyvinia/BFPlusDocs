@@ -49,6 +49,27 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <br style="display: block; content: ''; margin-top: 0;">
 
 <div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_CaptainRex.png">
+  <div class="text">
+    <h3>
+      <strong>Captain Rex</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -0.75em;" src="../../assets/abilities/captainrex/Weapons_RexDC-17Dual.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+      <img class="ability" class="no-lb" src="../../assets/abilities/captainrex/Rex_Grenade.svg">
+      <span class="ability-name" data-text="Rex can throw up to three EMP grenades that will explode after a short time, stunning enemies.">Droid Poppers</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/captainrex/Rex_HealBlockAura.svg">
+      <span class="ability-name" data-text="While active, enemies nearby to Rex will have all forms of healing blocked. Rex will additionally have increased sprint speed.">Unconventional Tactics</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/captainrex/Rex_Fortify.svg">
+      <span class="ability-name" data-text="Generation one armor holds up, boosting Rex's health.">Gen. One</span>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portait_CommanderCody.png">
   <div class="text">
     <h3>
@@ -86,6 +107,27 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <span class="ability-name" data-text="Cardinal is immune to crowd control abilities, preventing him from being knocked down or stunned. Additionally, his blaster has improved cooling. His damage and mobility are reduced.">Steadfast</span>
       <img class="ability" class="no-lb" src="../../assets/abilities/captaincardinal/Cardinal_Mobility.svg">
       <span class="ability-name" data-text="Cardinal's mobility is increased, as is the rate of fire on the F-11D. His damage and armor are reduced.">Absolution</span>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_CommanderPyre3.png">
+  <div class="text">
+    <h3>
+      <strong>Commander Pyre</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.05em; transform: translateY(2px)" src="../../assets/abilities/commanderpyre/Weapons_PyreF-11D.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+      <img class="ability" class="no-lb" src="../../assets/abilities/commanderpyre/Pyre_DeployBoost.svg">
+      <span class="ability-name" data-text="Commander Pyre plants a device that boosts the health of nearby allies.">Gold Zone</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/commanderpyre/Pyre_Might.svg">
+      <span class="ability-name" data-text="Commander Pyre commands nearby allies to withstand all attacks, granting those around him a very high damage reduction for a short time.">Seize This Moment</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/commanderpyre/Pyre_Laxus.svg">
+      <span class="ability-name" data-text="Commander Pyre increases his damage and passively heals nearby allies.">Thunderer Legion</span>
     </div>
   </div>
 </div>

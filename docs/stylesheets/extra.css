@@ -82,12 +82,13 @@
 
 .ability {
     width: 32px;
+    margin-right: -3px;
     vertical-align: middle;
 }
 .ability-name {
     vertical-align: middle;
     font-weight: bold;
-    margin-right: 4px;
+    margin-right: 8px;
     position:relative;
 }
 .ability-name::before {
