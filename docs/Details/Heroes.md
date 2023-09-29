@@ -5,19 +5,22 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 ## Heroes
 
 <div class="hero">
-  <img src="../../assets/portraits/Portait_Ahsoka.png">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portait_Ahsoka.png">
   <div class="text">
-    <h3><strong>Ahsoka</strong></h3>
-    <p>Hi!</p>
+    <h3>
+      <strong>Ahsoka</strong>
+      <img class="weapon" class="no-lb" src="../../assets/abilities/ahsokatano/Weapons_AhsokaLightsabers.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+      <img class="ability" class="no-lb" src="../../assets/abilities/ahsokatano/Ahsoka_SaberThrow.svg">
+      <span class="ability-name" data-text="Ability Description">Saber Throw</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/ahsokatano/Ahsoka_Flurry.svg">
+      <span class="ability-name" data-text="Ability Description">Flurry</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/ahsokatano/Ahsoka_CombatRush.svg">
+      <span class="ability-name" data-text="Ability Description">Rush</span>
+    </div>
   </div>
 </div>
 
 ## Villains
-
-<div class="hero">
-  <img src="../../assets/portraits/Portait_CaptainCardinal.png">
-  <div class="text">
-    <h3><strong>Captain Cardinal</strong></h3>
-    <p>Hi!</p>
-  </div>
-</div>

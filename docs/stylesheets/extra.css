@@ -64,23 +64,77 @@
     opacity: 0.69;
 }
 
-
+/* Hero Cards */
 .hero {
     display: flex;
+    flex-basis: 0;
+    /*border: 2px solid var(--md-primary-fg-color);*/
 }
   
-.hero img {
-    width: 150px;
+.hero .portrait {
+    height: 150px;
     border-radius: 10%;
     margin-right: 10px;
     display: block;
     background-color: #080808;
     border: 2px solid var(--md-primary-fg-color);
 }
+
+.ability {
+    width: 32px;
+    vertical-align: middle;
+}
+.ability-name {
+    vertical-align: middle;
+    font-weight: bold;
+    margin-right: 4px;
+    position:relative;
+}
+.ability-name::before {
+    content: attr(data-text);
+    position: absolute;
+    z-index: 1000;
+
+    top: 125%;
+    left: -25%;
+    
+    width: 400px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid var(--md-primary-fg-color);
+    background: #000;
+    color: #fff;
+    font-size: small;
+    text-align: left;
+    
+    display:none;
+}
+.ability-name:hover:before {
+    display:block;
+}
+
+.weapon {
+    width: 125px;
+    vertical-align: top;
+    margin-left: -1.25em;
+}
   
 .hero h3,
 .hero p {
     margin: 0;
+}
+
+.hero a {
+    color: #aaa !important;
+    font-size: small;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 0.5em;
+}
+
+.hero span {
+    display:inline-block;
+    font-weight: 500;
 }
 
 
