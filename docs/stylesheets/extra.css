@@ -123,6 +123,7 @@
 }
 .ability-item:hover:before {
     display:block;
+    pointer-events: none;
 }
 
 .weapon-saber {

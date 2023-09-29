@@ -100,7 +100,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     <div>
     <a class="ability-item" data-text="Commander Cody activates an ion field that defuses incoming explosives and jams enemy blasters, as well as slowly damaging them over time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/commandercody/Cody_DefuseDisrupt.svg">
-      <span class="ability-name" >Ion Field</span>
+      <span class="ability-name">Ion Field</span>
     </a>
     <a class="ability-item" data-text="Commander Cody swaps to an ion charged burst fire DC-15 for a limited time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/commandercody/Cody_PierceShield.svg">
@@ -113,6 +113,37 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     <a class="ability-item" data-text="Commander Cody deploys with 150 bonus health. While standing near allied Reinforcements and Heroes, he will passively regenerate lost health.">
       <img class="ability" class="no-lb" src="../../assets/abilities/commandercody/Cody_Sentinel.svg">
       <span class="ability-name">Ghost Company</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_DinDjarin.png">
+  <div class="text">
+    <h3>
+      <strong>Din Djarin</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.3em;" src="../../assets/abilities/dindjarin/Weapons_MandoIB94.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+    <a class="ability-item" data-text="Equips a high power disruptor sniper rifle for a short time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/dindjarin/Mando_AmbanSniper.svg">
+      <span class="ability-name">Amban Phase-Pulse Blaster</span>
+    </a>
+    <a class="ability-item" data-text="Din Djarin's Helmet displays heat signatures, revealing nearby enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/dindjarin/Mando_ThermalVision.svg">
+      <span class="ability-name">Thermal Vision</span>
+    </a>
+    <a class="ability-item" data-text="Din Djarin fires a salvo of guided munitions that seek out nearby enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/dindjarin/Mando_WhistlingBirds.svg">
+      <span class="ability-name">Whistling Birds</span>
+    </a>
+    <a class="ability-item" data-text="When performing a melee attack, he will strike down nearby enemies with the Darksaber.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/dindjarin/Mando_Darksaber.svg">
+      <span class="ability-name">Darksaber</span>
     </a>
     </div>
   </div>
@@ -183,21 +214,21 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </h3>
     <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
     <div>
-    <a class="ability-item" data-text="Commander Pyre plants a device that boosts the health of nearby allies.">
+    <a class="ability-item" data-text="Dengar throws a handful of explosive devices, dealing heavy damage to anyone caught in the radius.">
       <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_ExplosiveArray.svg">
       <span class="ability-name">Explosive Array</span>
     </a>
-    <a class="ability-item" data-text="Commander Pyre commands nearby allies to withstand all attacks, granting those around him a very high damage reduction for a short time.">
+    <a class="ability-item" data-text="Dengar increases his blaster's rate of fire for a short amount of time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_FrenzyConfiguration.svg">
       <span class="ability-name">Frenzied Blast</span>
     </a>
-    <a class="ability-item" data-text="Commander Pyre increases his damage and passively heals nearby allies.">
+    <a class="ability-item" data-text="Dengar raises his blaster overhead to bash an enemy into the ground.">
       <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_HurricaneStrike.svg">
       <span class="ability-name">Bashing Skulls</span>
     </a>
-    <a class="ability-item" data-text="Commander Pyre increases his damage and passively heals nearby allies.">
+    <a class="ability-item" data-text="Dengar has a special trait that brifly grants damage resistance upon deafeating enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_KillDR.svg">
-      <span class="ability-name">Bashing Skulls</span>
+      <span class="ability-name">Tough Fighter</span>
     </a>
     </div>
   </div>
