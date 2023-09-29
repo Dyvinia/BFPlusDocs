@@ -13,12 +13,18 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </h3>
     <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
     <div>
+    <a class="ability-item" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">
       <img class="ability" class="no-lb" src="../../assets/abilities/ahsokatano/Ahsoka_SaberThrow.svg">
-      <span class="ability-name" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">Saber Throw</span>
+      <span class="ability-name">Saber Throw</span>
+    </a>
+    <a class="ability-item" data-text="Ahsoka closes the distance with a lunge attack.">
       <img class="ability" class="no-lb" src="../../assets/abilities/ahsokatano/Ahsoka_Flurry.svg">
-      <span class="ability-name" data-text="Ahsoka closes the distance with a lunge attack.">Saber Flurry</span>
+      <span class="ability-name">Saber Flurry</span>
+    </a>
+    <a class="ability-item" data-text="Small and agile, Ahsoka sprints forward at high speeds, greatly improving her recharge times as she does so.">
       <img class="ability" class="no-lb" src="../../assets/abilities/ahsokatano/Ahsoka_CombatRush.svg">
-      <span class="ability-name" data-text="Small and agile, Ahsoka sprints forward at high speeds, greatly improving her recharge times as she does so.">Moral Spirit</span>
+      <span class="ability-name">Moral Spirit</span>
+    </a>
     </div>
   </div>
 </div>
@@ -34,14 +40,22 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </h3>
     <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
     <div>
+    <a class="ability-item" data-text="Cal uses the Force to freeze enemies in front of him. By charging up this ability, he can extend the reach of this ability.">
       <img class="ability" class="no-lb" src="../../assets/abilities/calkestis/Cal_Freeze.svg">
-      <span class="ability-name" data-text="Cal uses the Force to freeze enemies in front of him. By charging up this ability, he can extend the reach of this ability.">Force Stasis</span>
+      <span class="ability-name">Force Stasis</span>
+    </a>
+    <a class="ability-item" data-text="Cal switches forms to attack with a Double-Bladed lightsaber, increasing his stamina but reducing damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/calkestis/Cal_DoubleLightsaber.svg">
-      <span class="ability-name" data-text="Cal switches forms to attack with a Double-Bladed lightsaber, increasing his stamina but reducing damage.">Double-Bladed</span>
+      <span class="ability-name">Double-Bladed</span>
+    </a>
+    <a class="ability-item" data-text="Cal injects himself with a Stim Canister, instantly replenishing a large portion of his health.">
       <img class="ability" class="no-lb" src="../../assets/abilities/calkestis/Cal_Stim.svg">
-      <span class="ability-name" data-text="Cal injects himself with a Stim Canister, instantly replenishing a large portion of his health.">Stim</span>
+      <span class="ability-name">Stim</span>
+    </a>
+    <a class="ability-item" data-text="Cal recharges his abilities faster in combat. Defeating enemies will have a stronger effect than dealing damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/calkestis/Cal_KillRecharge.svg">
-      <span class="ability-name" data-text="Cal recharges his abilities faster in combat. Defeating enemies will have a stronger effect than dealing damage.">Done Hiding</span>
+      <span class="ability-name">Done Hiding</span>
+    </a>
     </div>
   </div>
 </div>
@@ -128,6 +142,32 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <span class="ability-name" data-text="Commander Pyre commands nearby allies to withstand all attacks, granting those around him a very high damage reduction for a short time.">Seize This Moment</span>
       <img class="ability" class="no-lb" src="../../assets/abilities/commanderpyre/Pyre_Laxus.svg">
       <span class="ability-name" data-text="Commander Pyre increases his damage and passively heals nearby allies.">Thunderer Legion</span>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_Dengar.png">
+  <div class="text">
+    <h3>
+      <strong>Dengar</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: 0em; transform: translateY(2px)" src="../../assets/abilities/dengar/Weapons_DengarDLT-19.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+    <a class="ability-item" data-text="Commander Pyre plants a device that boosts the health of nearby allies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_ExplosiveArray.svg">
+      <span class="ability-name">Explosive Array</span>
+    </a>
+      
+      <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_FrenzyConfiguration.svg">
+      <span class="ability-name" data-text="Commander Pyre commands nearby allies to withstand all attacks, granting those around him a very high damage reduction for a short time.">Frenzied Blast</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_HurricaneStrike.svg">
+      <span class="ability-name" data-text="Commander Pyre increases his damage and passively heals nearby allies.">Bashing Skulls</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_HurricaneStrike.svg">
+      <span class="ability-name" data-text="Commander Pyre increases his damage and passively heals nearby allies.">Bashing Skulls</span>
     </div>
   </div>
 </div>
