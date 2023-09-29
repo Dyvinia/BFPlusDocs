@@ -71,12 +71,18 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </h3>
     <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
     <div>
+    <a class="ability-item" data-text="Rex can throw up to three EMP grenades that will explode after a short time, stunning enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/captainrex/Rex_Grenade.svg">
-      <span class="ability-name" data-text="Rex can throw up to three EMP grenades that will explode after a short time, stunning enemies.">Droid Poppers</span>
+      <span class="ability-name">Droid Poppers</span>
+    </a>
+    <a class="ability-item" data-text="While active, enemies nearby to Rex will have all forms of healing blocked. Rex will additionally have increased sprint speed.">
       <img class="ability" class="no-lb" src="../../assets/abilities/captainrex/Rex_HealBlockAura.svg">
-      <span class="ability-name" data-text="While active, enemies nearby to Rex will have all forms of healing blocked. Rex will additionally have increased sprint speed.">Unconventional Tactics</span>
+      <span class="ability-name">Unconventional Tactics</span>
+    </a>
+    <a class="ability-item" data-text="Generation one armor holds up, boosting Rex's health.">
       <img class="ability" class="no-lb" src="../../assets/abilities/captainrex/Rex_Fortify.svg">
-      <span class="ability-name" data-text="Generation one armor holds up, boosting Rex's health.">Gen. One</span>
+      <span class="ability-name">Gen. One</span>
+    </a>
     </div>
   </div>
 </div>
@@ -92,14 +98,22 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </h3>
     <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
     <div>
+    <a class="ability-item" data-text="Commander Cody activates an ion field that defuses incoming explosives and jams enemy blasters, as well as slowly damaging them over time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/commandercody/Cody_DefuseDisrupt.svg">
-      <span class="ability-name" data-text="Commander Cody activates an ion field that defuses incoming explosives and jams enemy blasters, as well as slowly damaging them over time.">Ion Field</span>
+      <span class="ability-name" >Ion Field</span>
+    </a>
+    <a class="ability-item" data-text="Commander Cody swaps to an ion charged burst fire DC-15 for a limited time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/commandercody/Cody_PierceShield.svg">
-      <span class="ability-name" data-text="Commander Cody swaps to an ion charged burst fire DC-15 for a limited time.">Battle Rifle</span>
+      <span class="ability-name">Battle Rifle</span>
+    </a>
+    <a class="ability-item" data-text="Deployable cover that is impervious to damage, but can be destroyed by attacking its central projector.">
       <img class="ability" class="no-lb" src="../../assets/abilities/commandercody/Cody_Shield.svg">
-      <span class="ability-name" data-text="Deployable cover that is impervious to damage, but can be destroyed by attacking its central projector.">Energy Wall</span>
+      <span class="ability-name">Energy Wall</span>
+    </a>
+    <a class="ability-item" data-text="Commander Cody deploys with 150 bonus health. While standing near allied Reinforcements and Heroes, he will passively regenerate lost health.">
       <img class="ability" class="no-lb" src="../../assets/abilities/commandercody/Cody_Sentinel.svg">
-      <span class="ability-name" data-text="Commander Cody deploys with 150 bonus health. While standing near allied Reinforcements and Heroes, he will passively regenerate lost health.">Ghost Company</span>
+      <span class="ability-name">Ghost Company</span>
+    </a>
     </div>
   </div>
 </div>
@@ -115,12 +129,18 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </h3>
     <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
     <div>
+    <a class="ability-item" data-text="Cardinal's F-11D has increased damage and accuracy. His armor and mobility are reduced">
       <img class="ability" class="no-lb" src="../../assets/abilities/captaincardinal/Cardinal_Damage.svg">
-      <span class="ability-name" data-text="Cardinal's F-11D has increased damage and accuracy. His armor and mobility are reduced">Finalizer</span>
+      <span class="ability-name">Finalizer</span>
+    </a>
+    <a class="ability-item" data-text="Cardinal is immune to crowd control abilities, preventing him from being knocked down or stunned. Additionally, his blaster has improved cooling. His damage and mobility are reduced.">
       <img class="ability" class="no-lb" src="../../assets/abilities/captaincardinal/Cardinal_Steadfast.svg">
-      <span class="ability-name" data-text="Cardinal is immune to crowd control abilities, preventing him from being knocked down or stunned. Additionally, his blaster has improved cooling. His damage and mobility are reduced.">Steadfast</span>
+      <span class="ability-name">Steadfast</span>
+    </a>
+    <a class="ability-item" data-text="Cardinal's mobility is increased, as is the rate of fire on the F-11D. His damage and armor are reduced.">
       <img class="ability" class="no-lb" src="../../assets/abilities/captaincardinal/Cardinal_Mobility.svg">
-      <span class="ability-name" data-text="Cardinal's mobility is increased, as is the rate of fire on the F-11D. His damage and armor are reduced.">Absolution</span>
+      <span class="ability-name">Absolution</span>
+    </a>
     </div>
   </div>
 </div>
@@ -136,12 +156,18 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </h3>
     <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
     <div>
+    <a class="ability-item" data-text="Commander Pyre plants a device that boosts the health of nearby allies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/commanderpyre/Pyre_DeployBoost.svg">
-      <span class="ability-name" data-text="Commander Pyre plants a device that boosts the health of nearby allies.">Gold Zone</span>
+      <span class="ability-name">Gold Zone</span>
+    </a>
+    <a class="ability-item" data-text="Commander Pyre commands nearby allies to withstand all attacks, granting those around him a very high damage reduction for a short time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/commanderpyre/Pyre_Might.svg">
-      <span class="ability-name" data-text="Commander Pyre commands nearby allies to withstand all attacks, granting those around him a very high damage reduction for a short time.">Seize This Moment</span>
+      <span class="ability-name">Seize This Moment</span>
+    </a>
+    <a class="ability-item" data-text="Commander Pyre increases his damage and passively heals nearby allies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/commanderpyre/Pyre_Laxus.svg">
-      <span class="ability-name" data-text="Commander Pyre increases his damage and passively heals nearby allies.">Thunderer Legion</span>
+      <span class="ability-name">Thunderer Legion</span>
+    </a>
     </div>
   </div>
 </div>
@@ -161,13 +187,18 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_ExplosiveArray.svg">
       <span class="ability-name">Explosive Array</span>
     </a>
-      
+    <a class="ability-item" data-text="Commander Pyre commands nearby allies to withstand all attacks, granting those around him a very high damage reduction for a short time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_FrenzyConfiguration.svg">
-      <span class="ability-name" data-text="Commander Pyre commands nearby allies to withstand all attacks, granting those around him a very high damage reduction for a short time.">Frenzied Blast</span>
+      <span class="ability-name">Frenzied Blast</span>
+    </a>
+    <a class="ability-item" data-text="Commander Pyre increases his damage and passively heals nearby allies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_HurricaneStrike.svg">
-      <span class="ability-name" data-text="Commander Pyre increases his damage and passively heals nearby allies.">Bashing Skulls</span>
+      <span class="ability-name">Bashing Skulls</span>
+    </a>
+    <a class="ability-item" data-text="Commander Pyre increases his damage and passively heals nearby allies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_HurricaneStrike.svg">
-      <span class="ability-name" data-text="Commander Pyre increases his damage and passively heals nearby allies.">Bashing Skulls</span>
+      <span class="ability-name">Bashing Skulls</span>
+    </a>
     </div>
   </div>
 </div>
