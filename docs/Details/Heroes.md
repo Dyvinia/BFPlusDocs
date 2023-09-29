@@ -203,6 +203,33 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_ShrivSuurgav.png">
+  <div class="text">
+    <h3>
+      <strong>Shriv Suurgav</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -0.4em;" src="../../assets/abilities/shriv/Weapons_ShrivE-5C.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+    <a class="ability-item" data-text="Shriv throws a modified Bacta Grenade that quickly restores and boosts health to allies, meanwhile enemies are damaged and have healing temporarily blocked.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/shriv/Shriv_BactaCocktail.svg">
+      <span class="ability-name">Bacta Cocktail</span>
+    </a>
+    <a class="ability-item" data-text="CA-87 retro-fitted Jawa blaster that has been further modified to produce a powerful short-range shockwave, capable of knocking enemies off their feet.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/shriv/Shriv_RepulsorCannon.svg">
+      <span class="ability-name">Repulsor Cannon</span>
+    </a>
+    <a class="ability-item" data-text="Shriv equips a set of macrobinoculars. Tagging enemies will disrupt their blasters and mark them for his entire team.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/shriv/Shriv_ScoutBinoculars.svg">
+      <span class="ability-name">Remote Sabotage</span>
+    </a>
+    </div>
+  </div>
+</div>
+
 ## Villains
 
 <div class="hero">
