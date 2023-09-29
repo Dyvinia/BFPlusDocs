@@ -235,7 +235,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portait_CaptainCardinal.png">
   <div class="text">
-    <h3>
+    <h3 id="cardinal">
       <strong>Captain Cardinal</strong>
       <img class="weapon-blaster" class="no-lb" style="transform: translateY(2px)" src="../../assets/abilities/captaincardinal/Weapons_CardinalF-11D.svg">
     </h3>
@@ -262,7 +262,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_CommanderPyre3.png">
   <div class="text">
-    <h3>
+    <h3 id="pyre">
       <strong>Commander Pyre</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.05em; transform: translateY(3px)" src="../../assets/abilities/commanderpyre/Weapons_PyreF-11D.svg">
     </h3>
@@ -289,7 +289,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_Dengar.png">
   <div class="text">
-    <h3>
+    <h3 id="dengar">
       <strong>Dengar</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: 0em; transform: translateY(2px)" src="../../assets/abilities/dengar/Weapons_DengarDLT-19.svg">
     </h3>
@@ -320,7 +320,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_Hask.png">
   <div class="text">
-    <h3>
+    <h3 id="hask">
       <strong>Gideon Hask</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.5em; transform: translateY(4px)" src="../../assets/abilities/gideonhask/Weapons_HaskRK-3.svg">
     </h3>
@@ -347,7 +347,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_Greedo.png">
   <div class="text">
-    <h3>
+    <h3 id="greedo">
       <strong>Greedo</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.4em; transform: translateY(4px)" src="../../assets/abilities/greedo/Weapons_GreedoDT-12.svg">
     </h3>
@@ -374,7 +374,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_JangoFett.png">
   <div class="text">
-    <h3>
+    <h3 id="jango">
       <strong>Jango Fett</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -0.25em; transform: translateY(2px)" src="../../assets/abilities/jangofett/Weapons_JangoWestars.svg">
     </h3>
@@ -405,7 +405,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_SecondSister.png">
   <div class="text">
-    <h3>
+    <h3 id="trilla">
       <strong>The Second Sister</strong>
       <img class="weapon-saber" class="no-lb" src="../../assets/abilities/secondsister/Weapons_SecondSisterLightsaber.svg">
     </h3>
