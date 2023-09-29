@@ -65,6 +65,25 @@
 }
 
 
+.hero {
+    display: flex;
+}
+  
+.hero img {
+    width: 128px;
+    border-radius: 10%;
+    margin-right: 10px;
+    display: block;
+    background-color: #080808;
+    border: 2px solid var(--md-primary-fg-color);
+}
+  
+.hero h3,
+.hero p {
+    margin: 0;
+}
+
+
 /*
 .md-header__button.md-logo img {
     width: 48px;
