@@ -5,7 +5,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 ## Heroes
 
 <div class="hero">
-  <img src="https://media.discordapp.net/attachments/800796417895432203/1157375193900134410/Portait_Ahsoka.png?ex=65186125&is=65170fa5&hm=30582282fdd04774d01d9607ce1c749514b1a41d0ebb555356a283bc11750a34&=">
+  <img src="../../assets/portraits/Portait_Ahsoka.png">
   <div class="text">
     <h3><strong>Ahsoka</strong></h3>
     <p>Hi!</p>
@@ -13,3 +13,11 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 </div>
 
 ## Villains
+
+<div class="hero">
+  <img src="../../assets/portraits/Portait_CaptainCardinal.png">
+  <div class="text">
+    <h3><strong>Captain Cardinal</strong></h3>
+    <p>Hi!</p>
+  </div>
+</div>
