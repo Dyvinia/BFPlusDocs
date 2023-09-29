@@ -196,7 +196,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <span class="ability-name">Bashing Skulls</span>
     </a>
     <a class="ability-item" data-text="Commander Pyre increases his damage and passively heals nearby allies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_HurricaneStrike.svg">
+      <img class="ability" class="no-lb" src="../../assets/abilities/dengar/Dengar_KillDR.svg">
       <span class="ability-name">Bashing Skulls</span>
     </a>
     </div>
