@@ -1,1 +1,1 @@
-"%APPDATA%\Python\Python311\Scripts\mkdocs.exe" serve
+py -m mkdocs serve
