@@ -7,7 +7,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portait_Ahsoka.png">
   <div class="text">
-    <h3>
+    <h3 id="ahsoka">
       <strong>Ahsoka Tano</strong>
       <img class="weapon-saber" class="no-lb" src="../../assets/abilities/ahsokatano/Weapons_AhsokaLightsabers.svg">
     </h3>
@@ -34,7 +34,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_CalKestis.png">
   <div class="text">
-    <h3>
+    <h3 id="cal">
       <strong>Cal Kestis</strong>
       <img class="weapon-saber" class="no-lb" style="margin-left: -0em;" src="../../assets/abilities/calkestis/Weapons_CalLightsaber.svg">
     </h3>
@@ -65,7 +65,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_CaptainRex.png">
   <div class="text">
-    <h3>
+    <h3 id="rex">
       <strong>Captain Rex</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -0.75em;" src="../../assets/abilities/captainrex/Weapons_RexDC-17Dual.svg">
     </h3>
@@ -92,7 +92,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portait_CommanderCody.png">
   <div class="text">
-    <h3>
+    <h3 id="cody">
       <strong>Commander Cody</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -0.75em;" src="../../assets/abilities/commandercody/Weapons_CodyDC-15A.svg">
     </h3>
@@ -123,7 +123,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_DinDjarin.png">
   <div class="text">
-    <h3>
+    <h3 id="mando">
       <strong>Din Djarin</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.3em;" src="../../assets/abilities/dindjarin/Weapons_MandoIB94.svg">
     </h3>
@@ -154,7 +154,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_MazKanata.png">
   <div class="text">
-    <h3>
+    <h3 id="maz">
       <strong>Maz Kanata</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -0.7em;" src="../../assets/abilities/mazkanata/Weapons_MazKanataDH-17R.svg">
     </h3>
@@ -181,7 +181,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_NienNunb.png">
   <div class="text">
-    <h3>
+    <h3 id="nein">
       <strong>Nein Nunb</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1em;" src="../../assets/abilities/niennunb/Weapons_NienNunbDH-17.svg">
     </h3>
@@ -208,7 +208,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_ShrivSuurgav.png">
   <div class="text">
-    <h3>
+    <h3 id="shriv">
       <strong>Shriv Suurgav</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -0.4em;" src="../../assets/abilities/shriv/Weapons_ShrivE-5C.svg">
     </h3>

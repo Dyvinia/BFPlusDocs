@@ -16,6 +16,10 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.keys
+  - toc:
+      toc_depth: 3
+hooks:
+  - 'docs/Details/hero_toc.py'
 plugins:
   - glightbox:
       touchNavigation: true
