@@ -97,6 +97,11 @@
     vertical-align: middle;
     margin-right: 8px;
     position:relative;
+    cursor: default;
+}
+.ability-item:hover span,
+.ability-item:hover img {
+    opacity: 0.69;
 }
 
 .ability-item::before {
@@ -142,6 +147,7 @@
 .hero h3,
 .hero p {
     margin: 0;
+    color: #fff;
 }
 
 .hero a {
