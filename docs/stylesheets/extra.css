@@ -126,6 +126,7 @@
     width: 100px;
     vertical-align: center;
     margin-left: -0.5em;
+    transform: translateY(5px)
 }
   
 .hero h3,

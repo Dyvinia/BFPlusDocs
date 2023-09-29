@@ -23,6 +23,52 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_CalKestis.png">
+  <div class="text">
+    <h3>
+      <strong>Cal Kestis</strong>
+      <img class="weapon-saber" class="no-lb" style="margin-left: -0em;" src="../../assets/abilities/calkestis/Weapons_CalLightsaber.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+      <img class="ability" class="no-lb" src="../../assets/abilities/calkestis/Cal_Freeze.svg">
+      <span class="ability-name" data-text="Cal uses the Force to freeze enemies in front of him. By charging up this ability, he can extend the reach of this ability.">Force Stasis</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/calkestis/Cal_DoubleLightsaber.svg">
+      <span class="ability-name" data-text="Cal switches forms to attack with a Double-Bladed lightsaber, increasing his stamina but reducing damage.">Double-Bladed</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/calkestis/Cal_Stim.svg">
+      <span class="ability-name" data-text="Cal injects himself with a Stim Canister, instantly replenishing a large portion of his health.">Stim</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/calkestis/Cal_KillRecharge.svg">
+      <span class="ability-name" data-text="Cal recharges his abilities faster in combat. Defeating enemies will have a stronger effect than dealing damage.">Done Hiding</span>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portait_CommanderCody.png">
+  <div class="text">
+    <h3>
+      <strong>Commander Cody</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -0.75em;" src="../../assets/abilities/commandercody/Weapons_CodyDC-15A.svg">
+    </h3>
+    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <div>
+      <img class="ability" class="no-lb" src="../../assets/abilities/commandercody/Cody_DefuseDisrupt.svg">
+      <span class="ability-name" data-text="Commander Cody activates an ion field that defuses incoming explosives and jams enemy blasters, as well as slowly damaging them over time.">Ion Field</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/commandercody/Cody_PierceShield.svg">
+      <span class="ability-name" data-text="Commander Cody swaps to an ion charged burst fire DC-15 for a limited time.">Battle Rifle</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/commandercody/Cody_Shield.svg">
+      <span class="ability-name" data-text="Deployable cover that is impervious to damage, but can be destroyed by attacking its central projector.">Energy Wall</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/commandercody/Cody_Sentinel.svg">
+      <span class="ability-name" data-text="Commander Cody deploys with 150 bonus health. While standing near allied Reinforcements and Heroes, he will passively regenerate lost health.">Ghost Company</span>
+    </div>
+  </div>
+</div>
+
 ## Villains
 
 <div class="hero">
@@ -30,7 +76,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <div class="text">
     <h3>
       <strong>Captain Cardinal</strong>
-      <img class="weapon-blaster" class="no-lb" src="../../assets/abilities/captaincardinal/Weapons_CardinalF-11D.svg">
+      <img class="weapon-blaster" class="no-lb" style="transform: translateY(2px)" src="../../assets/abilities/captaincardinal/Weapons_CardinalF-11D.svg">
     </h3>
     <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
     <div>
