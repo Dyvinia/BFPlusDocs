@@ -99,7 +99,10 @@
     left: -25%;
     
     width: 400px;
-    padding: 5px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
     border-radius: 5px;
     border: 2px solid var(--md-primary-fg-color);
     background: #000;
@@ -113,10 +116,16 @@
     display:block;
 }
 
-.weapon {
+.weapon-saber {
     width: 125px;
     vertical-align: top;
     margin-left: -1.25em;
+}
+
+.weapon-blaster {
+    width: 100px;
+    vertical-align: center;
+    margin-left: -0.5em;
 }
   
 .hero h3,
