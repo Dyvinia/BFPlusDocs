@@ -480,7 +480,7 @@
       <span class="ability-name">T-21B</span>
     </a>
     <div>
-    <a class="ability-item" data-text="The Jetpack Boost's burst thrusters are used to boost the Aerial upwards. Well suited for traversing obstructions and evading danger.">
+    <a class="ability-item" data-text="The Jetpack's burst thrusters are used to boost the Aerial upwards. Well suited for traversing obstructions and evading danger.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelrocketjumper/RebelRocketJumper_Jetpack.svg">
       <span class="ability-name">Jump Pack</span>
     </a><a class="ability-item" data-text="Modified Vanguard that fires in 2-round bursts, up to 6 shots in total.">
@@ -774,5 +774,63 @@
 </div>
 
 <br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_NiktoSmuggler.png">
+  <div class="text">
+    <h3>
+      <strong>Nikto Smuggler</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Infiltrator">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1em; margin-left: -1.1em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/niktosmuggler/Weapons_NiktoSmugglerDualDT29.svg">
+      <span class="ability-name">Dual DT-29</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Fire from both DT-29s at once, trading accuracy for firepower.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/niktosmuggler/NiktoSmuggler_DualShot.svg">
+      <span class="ability-name">Double Tap</span>
+    </a><a class="ability-item" data-text="Scan the area to reveal the 4 closest enemies. The number of enemies you can reveal is increased by defeating enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/niktosmuggler/NiktoSmuggler_Scanner.svg">
+      <span class="ability-name">Data Theft</span>
+    </a><a class="ability-item" data-text="Charge forward, knocking over and damaging the first enemy you hit.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/niktosmuggler/NiktoSmuggler_ShoulderCharge.svg">
+      <span class="ability-name">Shoulder Charge</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_ResistanceJumpTrooper.png">
+  <div class="text">
+    <h3>
+      <strong>Resistance Rocket-Jumper</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Aerial">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_JumpTrooper.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.75em; margin-left: -2.25em; transform: translateY(-3px);" src="../../assets/abilities/reinfocements/resistancerocketjumper/Weapons_ResistanceRocketJumperA180-Rifle.svg">
+      <span class="ability-name">A180 Rifle</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="The Jetpack's burst thrusters are used to boost the Aerial upwards. Well suited for traversing obstructions and evading danger.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_Jetpack.svg">
+      <span class="ability-name">Jump Pack</span>
+    </a><a class="ability-item" data-text="Designed to fire solid projectiles, this crude but reliable rifle is excellent at hitting targets at extreme ranges.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_CyclerRifle.svg">
+      <span class="ability-name">Cycler Rifle</span>
+    </a><a class="ability-item" data-text="Fires a concussion projectile that knocks down enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_ConcussionDart.svg">
+      <span class="ability-name">Concussion Dart</span>
+    </a>
+    </div>
+  </div>
+</div>
 
 ### First Order
