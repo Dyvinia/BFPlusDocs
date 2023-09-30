@@ -178,7 +178,8 @@
     top: 110%;
     left: 2%;
     
-    width: 400px;
+    width: max-content;
+    max-width: calc(20vw + 50px);
     padding-top: 5px;
     padding-bottom: 6px;
     padding-left: 8px;
