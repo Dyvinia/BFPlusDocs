@@ -156,13 +156,13 @@
     font-weight: bold;
     font-size: medium;
     color: #fff;
-    position:relative;
+    position: relative;
 }
 
 .ability-item {
     vertical-align: middle;
     margin-right: 8px;
-    position:relative;
+    position: relative;
     cursor: default;
 }
 .ability-item:hover span,
@@ -193,6 +193,44 @@
     display:none;
 }
 .ability-item:hover:before {
+    display:block;
+    pointer-events: none;
+}
+
+.reinforcement-class {
+    vertical-align: middle;
+    margin-right: 8px;
+    position: relative;
+    cursor: default;
+}
+.reinforcement-class:hover span,
+.reinforcement-class:hover img {
+    opacity: 0.69;
+}
+
+.reinforcement-class::before {
+    content: attr(data-text);
+    position: absolute;
+    z-index: 1000;
+
+    top: -115%;
+    left: -75%;
+    
+    width: 78px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 5px;
+    border: 2px solid var(--md-primary-fg-color);
+    background: #000;
+    color: #fff;
+    font-size: small;
+    text-align: left;
+    
+    display:none;
+}
+.reinforcement-class:hover:before {
     display:block;
     pointer-events: none;
 }
