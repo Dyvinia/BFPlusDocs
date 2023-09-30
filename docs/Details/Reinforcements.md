@@ -9,6 +9,9 @@
   <div class="text">
     <h3 id="ahsoka">
       <strong>Gungan Warrior</strong>
+      <a class="ability-item" data-text="Protector">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_SaberThrow.svg">
+      </a>
     </h3>
     <a class="ability-item" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0em; margin-left: 0.1em; transform: translateY(1px);" src="../../assets/abilities/heroes/calkestis/Weapons_CalLightsaber.svg">

@@ -107,7 +107,7 @@
 }
   
 .reinforcement .portrait {
-    height: 100px;
+    height: 110px;
     border-radius: 10%;
     margin-right: 10px;
     display: block;
@@ -138,6 +138,12 @@
     width: 150px;
     margin-bottom: -1em;
     margin-top: -0.25em;
+}
+
+.reinforcement-type {
+    width: 32px;
+    vertical-align: middle;
+    margin-right: -1px;
 }
 
 .ability {
