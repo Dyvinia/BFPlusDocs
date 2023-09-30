@@ -339,6 +339,36 @@
 
 <br style="display: block; content: ''; margin-top: -1.5em;">
 
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_TacticalDroid.png">
+  <div class="text">
+    <h3>
+      <strong>Tactical Droid</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -1.5em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/tacticaldroid/Weapons_TacticalDroidE-5.svg">
+      <span class="ability-name">E-5</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Fires a grenade that inflicts lingering damage to those caught in its blast radius.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_RadiationLauncher.svg">
+      <span class="ability-name">Radiation Launcher</span>
+    </a><a class="ability-item" data-text="Command an ally to fight harder, temporarily granting them unlimited blaster cooling and immunity to crowd control abilities.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_ChainBoost.svg">
+      <span class="ability-name">Tactical Prowess</span>
+    </a><a class="ability-item" data-text="Enhanced energy shield that protects users from incoming projectiles while allowing outward projectiles to pass through, but has a limited power supply that hinders its deployment time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_BubbleShield.svg">
+      <span class="ability-name">Enhanced Squad Shield</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
 ## Galactic Civil War
 
 ### Rebel Alliance
