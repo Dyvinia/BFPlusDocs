@@ -383,7 +383,7 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -3em; margin-left: -3.25em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/rebelpilot/Weapons_RebelPilotBlurrg-1120.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -3.1em; margin-left: -3.25em; transform: translateY(0px);" src="../../assets/abilities/reinfocements/rebelpilot/Weapons_RebelPilotBlurrg-1120.svg">
       <span class="ability-name">DH-17</span>
     </a>
     <div>
@@ -446,22 +446,49 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -3em; margin-left: -3.25em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/rebelpilot/Weapons_RebelPilotBlurrg-1120.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -3.1em; margin-left: -3.25em; transform: translateY(0px);" src="../../assets/abilities/reinfocements/rebelpilot/Weapons_RebelPilotBlurrg-1120.svg">
       <span class="ability-name">Blurrg-1120</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Kickstarts health regeneration of every allied player within the vicinity.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Bacta.svg">
-      <span class="ability-name">Bacta Grenade</span>
-    </a><a class="ability-item" data-text="Switches to a modified A280-CFE, equipped with a triple burst mode and ion shots that can more easily take down Imperial Walkers.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_A280CFE.svg">
-      <span class="ability-name">A280-CFE</span>
-    </a><a class="ability-item" data-text="The Honor Guard boosts his health and discharges the surrounding area, neutralising all explosive devices.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Defuser.svg">
-      <span class="ability-name">Honorable Discharge</span>
-    </a><a class="ability-item" data-text="Stick close to Heroes to gain bonus health regeneration and boost the radius of Honorable Discharge.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
-      <span class="ability-name">Sentinel</span>
+    <a class="ability-item" data-text="With increased ammo and improved homing systems, this modified Homing Shot launches proton torpedos at enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelpilot/RebelPilot_ProtonLauncher.svg">
+      <span class="ability-name">Proton Launcher</span>
+    </a><a class="ability-item" data-text="Inspire your allies to keep the fight up by giving them unlimited cooling for a short time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelpilot/RebelPilot_BuiltOnHope.svg">
+      <span class="ability-name">Built On Hope</span>
+    </a><a class="ability-item" data-text="R5-D4 is no stranger to combat. This little droid is capable of blasting enemies at range and revealing targets in the nearby area.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelpilot/RebelPilot_R5D4Updated.svg">
+      <span class="ability-name">R5-D4</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RebelRocketJumper.png">
+  <div class="text">
+    <h3>
+      <strong>Rebel Rocket-Jumper</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Aerial">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_JumpTrooper.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: 0.15em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/rebelrocketjumper/Weapons_RebelRocketJumperT-21B.svg">
+      <span class="ability-name">T-21B</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="The Jetpack Boost's burst thrusters are used to boost the Aerial upwards. Well suited for traversing obstructions and evading danger.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelrocketjumper/RebelRocketJumper_Jetpack.svg">
+      <span class="ability-name">Jump Pack</span>
+    </a><a class="ability-item" data-text="Modified Vanguard that fires in 2-round bursts, up to 6 shots in total.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelrocketjumper/RebelRocketJumper_BurstVanguard.svg">
+      <span class="ability-name">Burst Vanguard</span>
+    </a><a class="ability-item" data-text="The Rocket Launcher fires an explosive projectile.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelrocketjumper/RebelRocketJumper_RocketLauncher.svg">
+      <span class="ability-name">Rocket Launcher</span>
     </a>
     </div>
   </div>
