@@ -212,7 +212,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Shriv Suurgav</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -0.4em;" src="../../assets/abilities/heroes/shriv/Weapons_ShrivE-5C.svg">
     </h3>
-    <a>Shriv Suurgav is Danger Squadron's cynical and sarcastic commander. Beneath his snarky exterior, however, is a genuine care for his comrades and desire to liberate the galaxy of tyrrany.</a>
+    <a>Shriv Suurgav is Danger Squadron's cynical and sarcastic commander. Beneath his snarky exterior, however, is a genuine care for his comrades and desire to liberate the galaxy of tyranny.</a>
     <div>
     <a class="ability-item" data-text="Shriv throws a modified Bacta Grenade that quickly restores and boosts health to allies, meanwhile enemies are damaged and have healing temporarily blocked.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/shriv/Shriv_BactaCocktail.svg">
