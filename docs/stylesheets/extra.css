@@ -221,7 +221,8 @@
 }
 .reinforcement-class:hover span,
 .reinforcement-class:hover img {
-    opacity: 0.69;
+    /* Apply a filter to the SVG to change it to --md-primary-fg-color */
+    filter: brightness(0) saturate(100%) invert(63%) sepia(90%) saturate(826%) hue-rotate(357deg) brightness(99%) contrast(101%);
 }
 
 .reinforcement-class::before {
