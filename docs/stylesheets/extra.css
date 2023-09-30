@@ -143,6 +143,7 @@
 .ability {
     width: 32px;
     vertical-align: middle;
+    margin-right: -1px;
 }
 .ability-name {
     vertical-align: middle;
