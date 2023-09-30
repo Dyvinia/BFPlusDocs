@@ -744,4 +744,35 @@
 
 ### Resistance
 
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CombatMedic.png">
+  <div class="text">
+    <h3>
+      <strong>Combat Medic</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -1.75em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/combatmedic/Weapons_CombatMedicNN14.svg">
+      <span class="ability-name">NN-14</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Multi-Purpose Launcher loaded with two smoke grenades.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/combatmedic/CombatMedic_SmokeLauncher.svg">
+      <span class="ability-name">Smoke Launcher</span>
+    </a><a class="ability-item" data-text="Call out to an ally in need, granting them damage reduction. Improves your sprint speed while gaining a small amount of health regeneration upon taking damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/combatmedic/CombatMedic_Dependable.svg">
+      <span class="ability-name">Dependable</span>
+    </a><a class="ability-item" data-text="Pressurized bacta container that sprays allies with a healing mist.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/combatmedic/CombatMedic_BactaSpray.svg">
+      <span class="ability-name">Bacta Spray</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
 ### First Order
