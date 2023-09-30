@@ -139,9 +139,11 @@
 }
 
 .reinforcement-weapon {
-    width: 125px;
-    margin-bottom: -0.75em;
-    margin-top: 0;
+    height: 32px;
+    width: 128px;
+    max-width: 128px !important;
+    margin-bottom: -1em;
+    margin-top: -0.5em;
 }
 
 .reinforcement-type {

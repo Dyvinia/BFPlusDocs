@@ -14,7 +14,7 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.1em; margin-left: -1.1em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/arctrooper/Weapons_ARCDC-17Dual.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.25em; margin-left: -1.5em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/arctrooper/Weapons_ARCDC-17Dual.svg">
       <span class="ability-name">Dual DC-17</span>
     </a>
     <div>
@@ -74,7 +74,7 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0.1em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/cloneflametrooper/Weapons_CloneFlamethrower.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/cloneflametrooper/Weapons_CloneFlamethrower.svg">
       <span class="ability-name">BT X-42 Heavy Flame Projector</span>
     </a>
     <div>
@@ -134,7 +134,7 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.5em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/sharpshooter/Weapons_SharpshooterFirepuncher.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.25em; transform: translateY(-4px);" src="../../assets/abilities/reinfocements/sharpshooter/Weapons_SharpshooterFirepuncher.svg">
       <span class="ability-name">Firepuncher</span>
     </a>
     <div>
@@ -164,7 +164,7 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.5em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/gunganwarrior/Weapons_GunganWarriorSpear.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/gunganwarrior/Weapons_GunganWarriorSpear.svg">
       <span class="ability-name">Gungan Spear</span>
     </a>
     <div>
@@ -194,7 +194,7 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.5em; transform: translateY(1px);" src="../../assets/abilities/reinfocements/aquadroid/Weapons_AQBlaster.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.15em; transform: translateY(0px);" src="../../assets/abilities/reinfocements/aquadroid/Weapons_AQBlaster.svg">
       <span class="ability-name">AQ Laser Cannon</span>
     </a>
     <div>
@@ -224,7 +224,7 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -1.6em; transform: translateY(1px);" src="../../assets/abilities/reinfocements/b2/Weapons_B2TwinBlaster.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -2em; transform: translateY(1px);" src="../../assets/abilities/reinfocements/b2/Weapons_B2TwinBlaster.svg">
       <span class="ability-name">Twin Wrist Blaster</span>
     </a>
     <div>
@@ -254,7 +254,7 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -1.6em; transform: translateY(1px);" src="../../assets/abilities/reinfocements/b2rp/Weapons_B2RPBlaster.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -2em; transform: translateY(1px);" src="../../assets/abilities/reinfocements/b2rp/Weapons_B2RPBlaster.svg">
       <span class="ability-name">Twin Wrist Blaster</span>
     </a>
     <div>
@@ -287,7 +287,7 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -0.25em; margin-left: -0.25em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/combatmagnaguard/Weapons_CombatMagnaGuardE-5C.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -0.3em; margin-left: -0.5em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/combatmagnaguard/Weapons_CombatMagnaGuardE-5C.svg">
       <span class="ability-name">Burst E-5C</span>
     </a>
     <div>
@@ -317,7 +317,7 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: 0.25em; transform: translateY(2px);" src="../../assets/abilities/reinfocements/magnaguardprotector/Weapons_MagnaGuardProtectorElectroStaff.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: 0.1em; transform: translateY(0px);" src="../../assets/abilities/reinfocements/magnaguardprotector/Weapons_MagnaGuardProtectorElectroStaff.svg">
       <span class="ability-name">Electrostaff</span>
     </a>
     <div>
@@ -349,7 +349,7 @@
       </a>
     </h3>
     <a style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -1.5em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/tacticaldroid/Weapons_TacticalDroidE-5.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -1.75em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/tacticaldroid/Weapons_TacticalDroidE-5.svg">
       <span class="ability-name">E-5</span>
     </a>
     <div>
@@ -372,6 +372,102 @@
 ## Galactic Civil War
 
 ### Rebel Alliance
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_HonorGuard.png">
+  <div class="text">
+    <h3>
+      <strong>Honor Guard</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -3em; margin-left: -3.25em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/rebelpilot/Weapons_RebelPilotBlurrg-1120.svg">
+      <span class="ability-name">DH-17</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Kickstarts health regeneration of every allied player within the vicinity.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Bacta.svg">
+      <span class="ability-name">Bacta Grenade</span>
+    </a><a class="ability-item" data-text="Switches to a modified A280-CFE, equipped with a triple burst mode and ion shots that can more easily take down Imperial Walkers.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_A280CFE.svg">
+      <span class="ability-name">A280-CFE</span>
+    </a><a class="ability-item" data-text="The Honor Guard boosts his health and discharges the surrounding area, neutralising all explosive devices.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Defuser.svg">
+      <span class="ability-name">Honorable Discharge</span>
+    </a><a class="ability-item" data-text="Stick close to Heroes to gain bonus health regeneration and boost the radius of Honorable Discharge.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      <span class="ability-name">Sentinel</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_Xeno.png">
+  <div class="text">
+    <h3>
+      <strong>Rebel Commando</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0em; margin-left: -0.25em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/rebelcommando/Weapons_RebelCommandoRelbyV10.svg">
+      <span class="ability-name">Relby-V10</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Switches the Relby-V10 into a grenade firing mode. Limited ammo, but can be resupplied by Officers using recharge command.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelcommando/RebelCommando_Barrage.svg">
+      <span class="ability-name">Grenadier</span>
+    </a><a class="ability-item" data-text="Switches the Relby-V10 into an automatic firing mode allowing for faster firing with less accuracy.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelcommando/RebelCommando_Repeater.svg">
+      <span class="ability-name">Repeater Mode</span>
+    </a><a class="ability-item" data-text="Injects the Commando with stimulants that boosts movement speed and starts health regen instantly. Limited uses.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelcommando/RebelCommando_StimPacks.svg">
+      <span class="ability-name">Stim Packs</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RebelPilot.png">
+  <div class="text">
+    <h3>
+      <strong>Rebel Pilot</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -3em; margin-left: -3.25em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/rebelpilot/Weapons_RebelPilotBlurrg-1120.svg">
+      <span class="ability-name">Blurrg-1120</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Kickstarts health regeneration of every allied player within the vicinity.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Bacta.svg">
+      <span class="ability-name">Bacta Grenade</span>
+    </a><a class="ability-item" data-text="Switches to a modified A280-CFE, equipped with a triple burst mode and ion shots that can more easily take down Imperial Walkers.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_A280CFE.svg">
+      <span class="ability-name">A280-CFE</span>
+    </a><a class="ability-item" data-text="The Honor Guard boosts his health and discharges the surrounding area, neutralising all explosive devices.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Defuser.svg">
+      <span class="ability-name">Honorable Discharge</span>
+    </a><a class="ability-item" data-text="Stick close to Heroes to gain bonus health regeneration and boost the radius of Honorable Discharge.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      <span class="ability-name">Sentinel</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
 
 ### Galactic Empire
 
