@@ -11,7 +11,8 @@
       <strong>Gungan Warrior</strong>
     </h3>
     <a class="ability-item" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">
-      <img class="reinforcement-weapon" class="no-lb" style="transform: translateY(-1px);" src="../../assets/abilities/heroes/calkestis/Weapons_CalLightsaber.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0em; margin-left: 0.1em; transform: translateY(1px);" src="../../assets/abilities/heroes/calkestis/Weapons_CalLightsaber.svg">
+      <span class="ability-name">Gungan Staff</span>
     </a>
     <div>
     <a class="ability-item" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">
