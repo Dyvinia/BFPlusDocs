@@ -617,6 +617,36 @@
 <br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_ISB_Agent.png">
+  <div class="text">
+    <h3>
+      <strong>ISB Agent</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Infiltrator">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1em; margin-left: -1.25em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/isbagent/Weapons_ISBRK-3Dual.svg">
+      <span class="ability-name">Dual RK-3</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Throw a grenade that damages and weakens nearby enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/isbagent/ISB_Grenade.svg">
+      <span class="ability-name">Weakness Grenade</span>
+    </a><a class="ability-item" data-text="Scan the area to reveal the 4 closest enemies. The number of enemies revealed is increased by defeating more enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/isbagent/ISB_Scanner.svg">
+      <span class="ability-name">Imperial Intel</span>
+    </a><a class="ability-item" data-text="The ISB Agent increases her sprint speed and gains damage reduction while sprinting.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/isbagent/ISB_DefensiveRush.svg">
+      <span class="ability-name">Assault Training</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_PurgeTrooper.png">
   <div class="text">
     <h3>
