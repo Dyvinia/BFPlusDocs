@@ -108,7 +108,7 @@
       <span class="ability-name">DC-15A</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Advanced jetpack that enables flight while spending fuel. It's hover mode is activated by aiming down sights while in the air.">
+    <a class="ability-item" data-text="Advanced jetpack that enables flight while spending fuel. Its hover mode is activated by aiming down sights while in the air.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/clonejettrooper/CloneJetTrooper_Jetpack.svg">
       <span class="ability-name">Jetpack</span>
     </a><a class="ability-item" data-text="Apply an Ion Charge to your regular ammunition for a short time. Highly effective against vehicles.">
@@ -579,6 +579,36 @@
     </a><a class="ability-item" data-text="SPARTAN PLEASE FIX.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_MarksmanRush.svg">
       <span class="ability-name">Marksman Rush</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_SkyTrooper.png">
+  <div class="text">
+    <h3>
+      <strong>Imperial Jumptrooper</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Aerial">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_JumpTrooper.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.75em; margin-left: -1.5em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/imperialjumptrooper/Weapons_ImperialJumpTrooperE-11.svg">
+      <span class="ability-name">E-11</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Advanced jetpack that enables flight while spending fuel. Its hover mode is activated by aiming down sights while in the air.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/imperialjumptrooper/ImperialJumpTrooper_Jetpack.svg">
+      <span class="ability-name">Jetpack</span>
+    </a><a class="ability-item" data-text="Unleashes a blast of electricity, dealing immense damage to targeted enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/imperialjumptrooper/ImperialJumpTrooper_ArcCaster.svg">
+      <span class="ability-name">Arc Caster</span>
+    </a><a class="ability-item" data-text="Barrel mounted flashlight that reveals enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/imperialjumptrooper/ImperialJumpTrooper_Flashlight.svg">
+      <span class="ability-name">Flashlight</span>
     </a>
     </div>
   </div>
