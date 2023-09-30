@@ -277,6 +277,68 @@
 
 <br style="display: block; content: ''; margin-top: -1.5em;">
 
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CombatMagnaGuard.png">
+  <div class="text">
+    <h3>
+      <strong>Combat MagnaGuard</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -0.25em; margin-left: -0.25em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/combatmagnaguard/Weapons_CombatMagnaGuardE-5C.svg">
+      <span class="ability-name">Burst E-5C</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Switches weapons to the Bulldog RLR. Packing a powerful punch, the explosive rockets are capable of dealing high damage in exchange for being limited in ammo.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/combatmagnaguard/CombatMagnaGuard_Bulldog.svg">
+      <span class="ability-name">Bulldog RLR</span>
+    </a><a class="ability-item" data-text="Equips the E-60R Homing Launcher. Fires an explosive missile that tracks hostiles within its targeting distance and explodes on impact with any object.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/combatmagnaguard/CombatMagnaGuard_Homing.svg">
+      <span class="ability-name">E-60R Homing Launcher</span>
+    </a><a class="ability-item" data-text="Deploys a DRK-1 Probe Turret. The droid patrols the surrounding area, pinging hostiles on friendly radars and firing at them with a compact blaster cannon.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/combatmagnaguard/CombatMagnaGuard_Droid.svg">
+      <span class="ability-name">Probe Turret</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_MagnaGuardProtector.png">
+  <div class="text">
+    <h3>
+      <strong>MagnaGuard Protector</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Protector">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Protector.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: 0.25em; transform: translateY(2px);" src="../../assets/abilities/reinfocements/magnaguardprotector/Weapons_MagnaGuardProtectorElectroStaff.svg">
+      <span class="ability-name">Electrostaff</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Recovers stamina for melee attacks and blocking.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/magnaguardprotector/MagnaGuardProtector_Stamina.svg">
+      <span class="ability-name">Stamina</span>
+    </a><a class="ability-item" data-text="Applies a regen to slowly recover all lost health. However, encountering damage during the process will cancel the healing effect.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/magnaguardprotector/MagnaGuardProtector_HealthBuff.svg">
+      <span class="ability-name">System Cooling</span>
+    </a><a class="ability-item" data-text="Each hit with the Electropike becomes more powerful and damaging to any opponent for a brief period.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/magnaguardprotector/MagnaGuardProtector_DamageBuff.svg">
+      <span class="ability-name">Droid Rage</span>
+    </a><a class="ability-item" data-text="Temporarily boost the IG-100's health to a surplus. Encountering damage during the process will cancel the effect.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/magnaguardprotector/MagnaGuardProtector_ShieldBuff.svg">
+      <span class="ability-name">Shield</span>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
 ## Galactic Civil War
 
 ### Rebel Alliance
