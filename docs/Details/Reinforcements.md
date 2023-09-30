@@ -122,6 +122,66 @@
   </div>
 </div>
 
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneSharpshooter.png">
+  <div class="text">
+    <h3>
+      <strong>Clone Sharpshooter</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Infiltrator">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.5em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/sharpshooter/Weapons_SharpshooterFirepuncher.svg">
+      <span class="ability-name">Firepuncher</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Throw an explosive charge that detonates only when shot. If the charge explodes while it is still in the air, its blast will be more powerful.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/sharpshooter/Sharpshooter_Trapshot.svg">
+      <span class="ability-name">Trapshot</span>
+    </a><a class="ability-item" data-text="Reconfigures the firepuncher to shoot a deadly beam that must be charged up before firing.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/sharpshooter/Sharpshooter_DeathRay.svg">
+      <span class="ability-name">Beam Rifle</span>
+    </a><a class="ability-item" data-text="Fires a flare that will ignite after a second, revealing enemies within a large vicinity to your team. Enemies hidden behind cover from the flare will not be revealed.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/sharpshooter/Sharpshooter_Flare.svg">
+      <span class="ability-name">Spotting Flare</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_GunganWarrior.png">
+  <div class="text">
+    <h3>
+      <strong>Gungan Warrior</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Protector">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Protector.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.5em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/gunganwarrior/Weapons_GunganWarriorSpear.svg">
+      <span class="ability-name">Gungan Spear</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="The Gungan Warrior and nearby allies receive reduced explosive damage, as well as being immune to crowd control abilities, preventing them from being stunned or knocked down.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/gunganwarrior/GunganWarrior_BombadStrength.svg">
+      <span class="ability-name">Bombad Strength</span>
+    </a><a class="ability-item" data-text="The Gungan Warrior and nearby allies will slowly regenerate health for a short time, even when taking damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/gunganwarrior/GunganWarrior_Healing.svg">
+      <span class="ability-name">Will Of The Gods</span>
+    </a><a class="ability-item" data-text="Projects a forward energy shield to block incoming blaster fire without hindering mobility.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/gunganwarrior/GunganWarrior_CombatShield.svg">
+      <span class="ability-name">Combat Shield</span>
+    </a>
+    </div>
+  </div>
+</div>
+
 ### Separatists
 
 ## Galactic Civil War
