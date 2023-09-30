@@ -79,6 +79,65 @@
     background-color: #080808;
     border: 2px solid var(--md-primary-fg-color);
 }
+  
+.hero h3,
+.hero p {
+    margin: 0;
+    color: #fff;
+}
+
+.hero a {
+    color: #aaa !important;
+    font-size: small;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 0.5em;
+}
+
+.hero span {
+    display:inline-block;
+    font-weight: 500;
+}
+
+.reinforcement {
+    display: flex;
+    flex-basis: 0;
+    /*border: 2px solid var(--md-primary-fg-color);*/
+}
+  
+.reinforcement .portrait {
+    height: 100px;
+    border-radius: 10%;
+    margin-right: 10px;
+    display: block;
+    background-color: #080808;
+    border: 2px solid var(--md-primary-fg-color);
+}
+
+.reinforcement h3,
+.reinforcement p {
+    margin: 0;
+    color: #fff;
+}
+
+.reinforcement a {
+    color: #aaa !important;
+    font-size: small;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 0.5em;
+}
+
+.reinforcement span {
+    display:inline-block;
+    font-weight: 500;
+}
+
+.reinforcement-weapon {
+    width: 150px;
+    margin-bottom: -1em;
+    margin-top: -0.25em;
+}
 
 .ability {
     width: 32px;
@@ -142,25 +201,6 @@
     vertical-align: center;
     margin-left: -0.5em;
     transform: translateY(5px)
-}
-  
-.hero h3,
-.hero p {
-    margin: 0;
-    color: #fff;
-}
-
-.hero a {
-    color: #aaa !important;
-    font-size: small;
-    display: inline-block;
-    vertical-align: top;
-    margin-bottom: 0.5em;
-}
-
-.hero span {
-    display:inline-block;
-    font-weight: 500;
 }
 
 
