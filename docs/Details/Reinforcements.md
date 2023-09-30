@@ -712,6 +712,33 @@
 
 <br style="display: block; content: ''; margin-top: -1.5em;">
 
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_ViperProbe.png">
+  <div class="text">
+    <h3>
+      <strong>Viper Probe Droid</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Infiltrator">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2.25em; margin-left: -2.1em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/viper/Weapons_ViperBlaster.svg">
+      <span class="ability-name">Viper Blaster</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Deployable decoy that relays enemy locations and disrupt their scanners to display a false enemy. If deployed outdoors, it can be used to call in an orbital strike.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_ScannerBeacon.svg">
+      <span class="ability-name">Scanner Beacon</span>
+    </a><a class="ability-item" data-text="The droid provides itself and nearby allies a cooling bonus.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_Support.svg">
+      <span class="ability-name">Mechanical Companion</span>
+    </a><a class="ability-item" data-text="Primes the droid for self-destruct when activated. When fired, it detonates and immediately kills to droid while taking out nearby enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_SelfDestruct.svg">
+      <span class="ability-name">Self Destruct</span>
+    </a>
+    </div>
+  </div>
+</div>
 
 ## The Cold War
 
