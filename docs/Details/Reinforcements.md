@@ -744,7 +744,6 @@
 
 ### Resistance
 
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CombatMedic.png">
   <div class="text">
@@ -834,3 +833,99 @@
 </div>
 
 ### First Order
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_FlameTrooper.png">
+  <div class="text">
+    <h3>
+      <strong>First Order Flametrooper</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -0.75em; margin-left: -0.75em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/flametrooper/Weapons_FlametrooperD-93Incinerator.svg">
+      <span class="ability-name">D-93 Incinerator</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Burns nearby enemies and splits into smaller fires on explosion.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/flametrooper/Flametrooper_IncendiaryGrenade.svg">
+      <span class="ability-name">Incendiary Imploder</span>
+    </a><a class="ability-item" data-text="Reconfigures the D-93 to spew lingering flames that stick to surfaces.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/flametrooper/Flametrooper_Berserker.svg">
+      <span class="ability-name">Blazing Inferno</span>
+    </a><a class="ability-item" data-text="When retriggered, splits into multiple smaller incendiary grenades that deal a small amount of damage to enemies passing through.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/flametrooper/Flametrooper_SplitterFire.svg">
+      <span class="ability-name">Incendiary Splitter</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_GuavianSecurity.png">
+  <div class="text">
+    <h3>
+      <strong>Guavian Security</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -0.75em; margin-left: -0.75em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/guaviansecurity/Weapons_GuavianSecurityPercussiveCannon.svg">
+      <span class="ability-name">JND-41 Percussive Cannon</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Emphasizes aggressive behavior by increasing the damage and speed of melee attacks. Retrigger to deactivate ability.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/guaviansecurity/GuavianSecurity_Aggression.svg">
+      <span class="ability-name">Aggression</span>
+    </a><a class="ability-item" data-text="Greatly enhances control over the JND-41, reducing recoil and negating the movement penalty while aiming. Retrigger to deactivate ability.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/guaviansecurity/GuavianSecurity_Stability.svg">
+      <span class="ability-name">Control</span>
+    </a><a class="ability-item" data-text="Passively regenerates a small amount of health while active. Retrigger to deactivate ability.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/guaviansecurity/GuavianSecurity_Healing.svg">
+      <span class="ability-name">Regeneration</span>
+    </a><a class="ability-item" data-text="Cybernetic reservoir containing a serum that enhances the Guavian Security's attributes. Using abilities will drain this reservoir, which will need to fully replenish itself before it can be used again.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/guaviansecurity/GuavianSecurity_Supply.svg">
+      <span class="ability-name">Reservoir</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_GuavianSecurity.png">
+  <div class="text">
+    <h3>
+      <strong>Riot Control Trooper</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -0.75em; transform: translateY(-5px);" src="../../assets/abilities/reinfocements/riotcontrol/Weapons_RiotControlSE-44C_and_Z6RiotControlBaton.svg">
+      <span class="ability-name">SE-44C + Z6 Riot Control Baton</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Non-lethal grenade that drastically blinds enemies for a short duration.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/riotcontrol/RiotControl_Grenade.svg">
+      <span class="ability-name">Flash Grenade</span>
+    </a><a class="ability-item" data-text="While active, your sprint speed is increased and attacks with the Z6 baton have significantly reduced stamina cost.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/riotcontrol/RiotControl_Stamina.svg">
+      <span class="ability-name">Endurance</span>
+    </a><a class="ability-item" data-text="Temporarily boosts the Enforcer's health.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/riotcontrol/RiotControl_Fortify.svg">
+      <span class="ability-name">Fortify</span>
+    </a><a class="ability-item" data-text="The Z6 Riot Control Baton takes the place of the primary attack. The SE-44C is fired by using the secondary attack/aim button.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/guaviansecurity/GuavianSecurity_Supply.svg">
+      <span class="ability-name">Duality</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
