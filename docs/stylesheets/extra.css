@@ -107,7 +107,7 @@
 }
   
 .reinforcement .portrait {
-    height: 110px;
+    height: 105px;
     border-radius: 10%;
     margin-right: 10px;
     display: block;
@@ -137,7 +137,7 @@
 .reinforcement-weapon {
     width: 150px;
     margin-bottom: -1em;
-    margin-top: -0.25em;
+    margin-top: -0.5em;
 }
 
 .reinforcement-type {
