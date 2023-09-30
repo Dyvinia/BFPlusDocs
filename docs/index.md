@@ -15,7 +15,7 @@ Features dozens of new characters and well over a hundred new abilities.
     <img class="no-lb" src="https://cdnb.artstation.com/p/users/avatars/002/819/735/large/6102192eaa6c4675e09fe36d8540c323.jpg"/>Acribro
 </a>
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/75185453" target="_blank" rel="noopener noreferrer">
-    <img class="no-lb" src="https://forums.nexusmods.com/uploads/profile/photo-75185453.png"/>AmWhitey
+    <img class="no-lb" src="https://forums.nexusmods.com/uploads/profile/photo-thumb-75185453.png"/>AmWhitey
 </a>
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/90993108" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-90993108.png"/>AScreamingRoomba
