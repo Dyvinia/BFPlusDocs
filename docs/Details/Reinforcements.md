@@ -13,7 +13,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.25em; margin-left: -1.5em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/arctrooper/Weapons_ARCDC-17Dual.svg">
       <span class="ability-name">Dual DC-17</span>
     </a>
@@ -43,7 +43,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: -0.1em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/cloneengineer/Weapons_CloneEngineerDP23.svg">
       <span class="ability-name">DP-23 Shotgun</span>
     </a>
@@ -73,7 +73,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/cloneflametrooper/Weapons_CloneFlamethrower.svg">
       <span class="ability-name">BT X-42 Heavy Flame Projector</span>
     </a>
@@ -103,7 +103,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_JumpTrooper.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -0.9em; margin-left: -1.6em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/clonejettrooper/Weapons_CloneJetTrooperDC-15A.svg">
       <span class="ability-name">DC-15A</span>
     </a>
@@ -133,7 +133,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.25em; transform: translateY(-4px);" src="../../assets/abilities/reinfocements/sharpshooter/Weapons_SharpshooterFirepuncher.svg">
       <span class="ability-name">Firepuncher</span>
     </a>
@@ -163,7 +163,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Protector.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/gunganwarrior/Weapons_GunganWarriorSpear.svg">
       <span class="ability-name">Gungan Spear</span>
     </a>
@@ -193,7 +193,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.15em; transform: translateY(0px);" src="../../assets/abilities/reinfocements/aquadroid/Weapons_AQBlaster.svg">
       <span class="ability-name">AQ Laser Cannon</span>
     </a>
@@ -223,7 +223,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -2em; transform: translateY(1px);" src="../../assets/abilities/reinfocements/b2/Weapons_B2TwinBlaster.svg">
       <span class="ability-name">Twin Wrist Blaster</span>
     </a>
@@ -253,7 +253,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_JumpTrooper.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -2em; transform: translateY(1px);" src="../../assets/abilities/reinfocements/b2rp/Weapons_B2RPBlaster.svg">
       <span class="ability-name">Twin Wrist Blaster</span>
     </a>
@@ -286,7 +286,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -0.3em; margin-left: -0.5em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/combatmagnaguard/Weapons_CombatMagnaGuardE-5C.svg">
       <span class="ability-name">Burst E-5C</span>
     </a>
@@ -316,7 +316,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Protector.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: 0.1em; transform: translateY(0px);" src="../../assets/abilities/reinfocements/magnaguardprotector/Weapons_MagnaGuardProtectorElectroStaff.svg">
       <span class="ability-name">Electrostaff</span>
     </a>
@@ -348,7 +348,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -1.75em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/tacticaldroid/Weapons_TacticalDroidE-5.svg">
       <span class="ability-name">E-5</span>
     </a>
@@ -382,7 +382,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -3.1em; margin-left: -3.25em; transform: translateY(0px);" src="../../assets/abilities/reinfocements/rebelpilot/Weapons_RebelPilotBlurrg-1120.svg">
       <span class="ability-name">DH-17</span>
     </a>
@@ -415,7 +415,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0em; margin-left: -0.25em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/rebelcommando/Weapons_RebelCommandoRelbyV10.svg">
       <span class="ability-name">Relby-V10</span>
     </a>
@@ -445,7 +445,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -3.1em; margin-left: -3.25em; transform: translateY(0px);" src="../../assets/abilities/reinfocements/rebelpilot/Weapons_RebelPilotBlurrg-1120.svg">
       <span class="ability-name">Blurrg-1120</span>
     </a>
@@ -475,7 +475,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_JumpTrooper.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: 0.15em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/rebelrocketjumper/Weapons_RebelRocketJumperT-21B.svg">
       <span class="ability-name">T-21B</span>
     </a>
@@ -505,7 +505,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -2.5em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/rebelsaboteur/Weapons_RebelSaboteurA180-Pistol.svg">
       <span class="ability-name">A180 Pistol</span>
     </a>
@@ -535,7 +535,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.25em; margin-left: -0.75em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/wookieewarrior/Weapons_WookieeWarriorBowcaster.svg">
       <span class="ability-name">Bowcaster</span>
     </a>
@@ -565,7 +565,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
-    <a style="cursor: default;">
+    <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.4em; margin-left: 0.25em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/deathtrooper/Weapons_DeathTrooperE-11D.svg">
       <span class="ability-name">E-11D</span>
     </a>

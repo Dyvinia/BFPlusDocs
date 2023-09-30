@@ -146,6 +146,10 @@
     margin-top: -0.5em;
 }
 
+.reinforcement-weapon-item {
+    opacity: 0.69;
+}
+
 .reinforcement-type {
     width: 32px;
     vertical-align: middle;
@@ -171,9 +175,14 @@
     position: relative;
     cursor: default;
 }
+
+.ability-item span,
+.ability-item img {
+    opacity: 0.69;
+}
 .ability-item:hover span,
 .ability-item:hover img {
-    opacity: 0.69;
+    opacity: 1;
 }
 
 .ability-item::before {
