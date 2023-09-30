@@ -556,6 +556,36 @@
 
 ### Galactic Empire
 
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_Deathtrooper.png">
+  <div class="text">
+    <h3>
+      <strong>Death Trooper</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.4em; margin-left: 0.25em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/deathtrooper/Weapons_DeathTrooperE-11D.svg">
+      <span class="ability-name">E-11D</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="The Sonic Imploder uses light and sound to subdue targets, overloading enemies' senses without inflicting very much damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_SonicImploder.svg">
+      <span class="ability-name">Sonic Imploder</span>
+    </a><a class="ability-item" data-text="Activates the Death Trooper's advanced helmet sensors, highlighting enemies and revealing their locations on radar.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_MotionScan.svg">
+      <span class="ability-name">Advanced Sensors</span>
+    </a><a class="ability-item" data-text="SPARTAN PLEASE FIX.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_MarksmanRush.svg">
+      <span class="ability-name">Marksman Rush</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
 
 ## The Cold War
 
