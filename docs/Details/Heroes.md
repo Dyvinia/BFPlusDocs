@@ -11,7 +11,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Ahsoka Tano</strong>
       <img class="weapon-saber" class="no-lb" style="margin-left: -1.5em; width: 140px; transform: translateY(-2px);" src="../../assets/abilities/heroes/ahsokatano/Weapons_AhsokaLightsabers.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>Ahsoka Tano was the Jedi Padawan of Anakin Skywalker and commander of the famed 501st Legion during the Clone Wars until she lost faith in the Jedi Order. When the tyrannical Empire superceded the Republic, she played a crucial role in forming a network of rebel cells prior to the outbreak of the Galactic Civil War.</a>
     <div>
     <a class="ability-item" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_SaberThrow.svg">
@@ -38,7 +38,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Cal Kestis</strong>
       <img class="weapon-saber" class="no-lb" style="margin-left: -0em; width: 140px; transform: translateY(-2px);" src="../../assets/abilities/heroes/calkestis/Weapons_CalLightsaber.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>As one of the few Jedi who survived the purge that destroyed the Jedi Order, Cal Kestis lived in seclusion for years until a confrontation with the Inquisitorius compelled him to openly resist the Empire's rule. Hunted across the galaxy by the Empire's Jedi hunters, Kestis embraced his connection to the Force once more.</a>
     <div>
     <a class="ability-item" data-text="Cal uses the Force to freeze enemies in front of him. By charging up this ability, he can extend the reach of this ability.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/calkestis/Cal_Freeze.svg">
@@ -69,7 +69,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Captain Rex</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -0.75em;" src="../../assets/abilities/heroes/captainrex/Weapons_RexDC-17Dual.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>CT-7567 "Rex" was a veteran Clone Captain of the famed 501st Legion. Throughout a highly successful military career in both the Clone Army and the Rebel Alliance, Rex maintained a great bond with his Jedi leadership and fellow soldiers, making himself a fiercely loyal and strong-willed companion.</a>
     <div>
     <a class="ability-item" data-text="Rex can throw up to three EMP grenades that will explode after a short time, stunning enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captainrex/Rex_Grenade.svg">
@@ -96,7 +96,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Commander Cody</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -0.75em;" src="../../assets/abilities/heroes/commandercody/Weapons_CodyDC-15A.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>CC-2224 "Cody" was a Clone Marshal Commander who commanded the 7th Sky Corps - including its renowned 212th Attack Battalion. His skill as a military strategist and fighter was equally matched by his friendship and loyalty, as Cody maintained a strong bond with his Jedi General Obi-Wan Kenobi and fellow troopers.</a>
     <div>
     <a class="ability-item" data-text="Commander Cody activates an ion field that defuses incoming explosives and jams enemy blasters, as well as slowly damaging them over time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commandercody/Cody_DefuseDisrupt.svg">
@@ -127,7 +127,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Din Djarin</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.3em;" src="../../assets/abilities/heroes/dindjarin/Weapons_MandoIB94.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>Din Djarin, also known as "the Mandalorian" or simply "Mando," was a renowned Mandalorian warrior during the era of the New Republic. With his Mandalorian armor, IB-94 blaster pistol, Amban sniper rifle, and distinctive beskar helmet, Djarin was both well-equipped and enigmatic.</a>
     <div>
     <a class="ability-item" data-text="Equips a high power disruptor sniper rifle for a short time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_AmbanSniper.svg">
@@ -158,7 +158,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Maz Kanata</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -0.7em;" src="../../assets/abilities/heroes/mazkanata/Weapons_MazKanataDH-17R.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>Maz Kanata had resided at her castle for over a thousand years, witnessing the Dark Side take many forms, when the First Order emerged from hiding. The destruction of the Hosnian System and subsequent subjugation of the galaxy prompted the "Pirate Queen" to take a stand against this new threat.</a>
     <div>
     <a class="ability-item" data-text="Maz creates an extra volatile reaction to dash forward with her jetpack, causing burn damage to nearby enemies while it is active.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_BurnDash.svg">
@@ -185,7 +185,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Nein Nunb</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1em;" src="../../assets/abilities/heroes/niennunb/Weapons_NienNunbDH-17.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>The Sullustian pilot Nien Nunb excels in harassing the Empire from afar with his Augmented Turret, Rapid Pulse Cannon and for when things get too close to comfort, his DH-17 is always raring to go.</a>
     <div>
     <a class="ability-item" data-text="Nien Nunb deploys a Detonite Charge, wired to blow when enemies enter its proximity.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_ProximityBomb.svg">
@@ -212,7 +212,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Shriv Suurgav</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -0.4em;" src="../../assets/abilities/heroes/shriv/Weapons_ShrivE-5C.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>Shriv Suurgav is Danger Squadron's cynical and sarcastic commander. Beneath his snarky exterior, however, is a genuine care for his comrades and desire to liberate the galaxy of tyrrany.</a>
     <div>
     <a class="ability-item" data-text="Shriv throws a modified Bacta Grenade that quickly restores and boosts health to allies, meanwhile enemies are damaged and have healing temporarily blocked.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/shriv/Shriv_BactaCocktail.svg">
@@ -239,7 +239,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Captain Cardinal</strong>
       <img class="weapon-blaster" class="no-lb" style="transform: translateY(2px)" src="../../assets/abilities/heroes/captaincardinal/Weapons_CardinalF-11D.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>Inducted into the First Order as an orphan child from Jakku, Archex was handpicked and personally trained by Brendol Hux, eventually becoming his personal guard. Highly skilled and infinitely loyal, Hux ceremoniously gifted him a personalized set of red armor, for he said it was a color of power, and henceforth called him Cardinal.</a>
     <div>
     <a class="ability-item" data-text="Cardinal's F-11D has increased damage and accuracy. His armor and mobility are reduced">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Damage.svg">
@@ -266,7 +266,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Commander Pyre</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.05em; transform: translateY(3px)" src="../../assets/abilities/heroes/commanderpyre/Weapons_PyreF-11D.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>Clad in a unique, gold-plated set of stormtrooper armor and a military leader at heart, Commander Pyre showed determination to serve the First Order at all costs.</a>
     <div>
     <a class="ability-item" data-text="Commander Pyre plants a device that boosts the health of nearby allies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commanderpyre/Pyre_DeployBoost.svg">
@@ -293,7 +293,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Dengar</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: 0em; transform: translateY(2px)" src="../../assets/abilities/heroes/dengar/Weapons_DengarDLT-19.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>Dengar was a Corellian bounty hunter, fighting in both the Clone Wars and Galactic Civil War. Considered one of the best in the galaxy, he was among the bounty hunters selected by Darth Vader to hunt Han Solo.</a>
     <div>
     <a class="ability-item" data-text="Dengar throws a handful of explosive devices, dealing heavy damage to anyone caught in the radius.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dengar/Dengar_ExplosiveArray.svg">
@@ -324,7 +324,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Gideon Hask</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.5em; transform: translateY(4px)" src="../../assets/abilities/heroes/gideonhask/Weapons_HaskRK-3.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>Oprhaned as a child by a Rebel attack, Gideon Hask became zealously loyal to the Galactic Empire, eventually joining the elite Inferno Squadron. After his squadmates defected to the Rebellion during Operation Cinder, Hask maintained his allegiance to the Empire and later its successor state: the First Order.</a>
     <div>
     <a class="ability-item" data-text="Hask reveals enemies within his line of sight to his allies. When revealed, they will have all forms of healing blocked.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_DebuffEnemy.svg">
@@ -351,7 +351,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Greedo</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.4em; transform: translateY(4px)" src="../../assets/abilities/heroes/greedo/Weapons_GreedoDT-12.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>The bounty hunter Greedo is a skilled marksman utilising his quick reflexes and heightened senses to quickly dispatch targets with his DT-12 blaster pistol and collection of grenades.</a>
     <div>
     <a class="ability-item" data-text="Throws a Thermal Detonator by default. While Confidence Boost is active, a Thermal Imploder is thrown instead.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/greedo/Greedo_Grenade.svg">
@@ -378,7 +378,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Jango Fett</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -0.25em; transform: translateY(2px)" src="../../assets/abilities/heroes/jangofett/Weapons_JangoWestars.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>Jango Fett served as the clone template for what would become the Grand Army of the Republic. Thousands of troopers, and his clone son Boba, sharing his face ensured he left behind a legacy that changed the course of galactic history.</a>
     <div>
     <a class="ability-item" data-text="Back mounted jetpack that utilizes burst thrusters to allow Jango to jet over large distances. It is well suited for traversing obstructions and evading danger.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/jangofett/Jango_JumpPack.svg">
@@ -406,10 +406,10 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_SecondSister.png">
   <div class="text">
     <h3 id="trilla">
-      <strong>The Second Sister</strong>
+      <strong>Second Sister</strong>
       <img class="weapon-saber" class="no-lb" src="../../assets/abilities/heroes/secondsister/Weapons_SecondSisterLightsaber.svg">
     </h3>
-    <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
+    <a>The Second Sister, previously Trilla Suduri, was an expert lightsaber duelist and one of the Empire's deadliest Jedi hunters. However, Suduri's strongest asset was her brilliant intellect, being able to anticipate the behavior of her prey.</a>
     <div>
     <a class="ability-item" data-text="The Second Sister saps the life force from enemies in front of her to heal herself. This effect is amplified with a higher number of victims.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/secondsister/SecondSister_ForceDrain.svg">
