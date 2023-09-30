@@ -11,19 +11,19 @@
       <strong>Gungan Warrior</strong>
     </h3>
     <a class="ability-item" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">
-      <img class="reinforcement-weapon" class="no-lb" style="transform: translateY(-1px);" src="../../assets/abilities/calkestis/Weapons_CalLightsaber.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="transform: translateY(-1px);" src="../../assets/abilities/heroes/calkestis/Weapons_CalLightsaber.svg">
     </a>
     <div>
     <a class="ability-item" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/ahsokatano/Ahsoka_SaberThrow.svg">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_SaberThrow.svg">
       <span class="ability-name">Saber Throw</span>
     </a>
     <a class="ability-item" data-text="Ahsoka closes the distance with a lunge attack.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/ahsokatano/Ahsoka_Flurry.svg">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_Flurry.svg">
       <span class="ability-name">Saber Flurry</span>
     </a>
     <a class="ability-item" data-text="Small and agile, Ahsoka sprints forward at high speeds, greatly improving her recharge times as she does so.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/ahsokatano/Ahsoka_CombatRush.svg">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_CombatRush.svg">
       <span class="ability-name">Moral Spirit</span>
     </a>
     </div>
