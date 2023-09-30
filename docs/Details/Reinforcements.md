@@ -9,7 +9,7 @@
   <div class="text">
     <h3 id="ahsoka">
       <strong>Gungan Warrior</strong>
-      <a class="ability-item" data-text="Protector">
+      <a class="ability-item" data-text="Protector" style="margin-left: -0.25em;">
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_SaberThrow.svg">
       </a>
     </h3>
