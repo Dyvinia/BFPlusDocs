@@ -9,7 +9,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <div class="text">
     <h3 id="ahsoka">
       <strong>Ahsoka Tano</strong>
-      <img class="weapon-saber" class="no-lb" src="../../assets/abilities/ahsokatano/Weapons_AhsokaLightsabers.svg">
+      <img class="weapon-saber" class="no-lb" style="margin-left: -1.5em; width: 140px; transform: translateY(-2px);" src="../../assets/abilities/ahsokatano/Weapons_AhsokaLightsabers.svg">
     </h3>
     <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
     <div>
@@ -36,7 +36,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <div class="text">
     <h3 id="cal">
       <strong>Cal Kestis</strong>
-      <img class="weapon-saber" class="no-lb" style="margin-left: -0em;" src="../../assets/abilities/calkestis/Weapons_CalLightsaber.svg">
+      <img class="weapon-saber" class="no-lb" style="margin-left: -0em; width: 140px; transform: translateY(-2px);" src="../../assets/abilities/calkestis/Weapons_CalLightsaber.svg">
     </h3>
     <a>DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</a>
     <div>
