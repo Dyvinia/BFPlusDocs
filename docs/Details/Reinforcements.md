@@ -5,12 +5,12 @@
 ### Galactic Republic
 
 <div class="reinforcement">
-  <img class="portrait" class="no-lb" src="../../assets/portraits/Portait_Ahsoka.png">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneFlametrooper.png">
   <div class="text">
     <h3>
       <strong>Clone Flametrooper</strong>
-      <a class="reinforcement-class" style="margin-left: -0.25em;"  data-text="Protector">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_SaberThrow.svg">
+      <a class="reinforcement-class" style="margin-left: -0.5em;"  data-text="Sentinel">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
       </a>
     </h3>
     <a style="cursor: default;">
@@ -19,16 +19,16 @@
     </a>
     <div>
     <a class="ability-item" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_Charge.svg">
-      <span class="ability-name">Saber Throw</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_Toggle.svg">
+      <span class="ability-name">Therobaric Barrage</span>
     </a>
     <a class="ability-item" data-text="Ahsoka closes the distance with a lunge attack.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_Charge.svg">
-      <span class="ability-name">Saber Flurry</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_DefensiveStance.svg">
+      <span class="ability-name">Pyrotechnics</span>
     </a>
     <a class="ability-item" data-text="Small and agile, Ahsoka sprints forward at high speeds, greatly improving her recharge times as she does so.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_Charge.svg">
-      <span class="ability-name">Moral Spirit</span>
+      <span class="ability-name">Scorching Charge</span>
     </a>
     </div>
   </div>

@@ -215,10 +215,11 @@
     z-index: 1000;
 
     top: -115%;
-    left: -75%;
+    left: 50%;
+    transform: translate(-50%, 0);
     
     width: max-content;
-    padding-top: 5px;
+    padding-top: 6px;
     padding-bottom: 6px;
     padding-left: 8px;
     padding-right: 8px;
@@ -227,12 +228,12 @@
     background: #000;
     color: #fff;
     font-size: small;
-    text-align: left;
+    text-align: center;
     
-    display:none;
+    display: none;
 }
 .reinforcement-class:hover:before {
-    display:block;
+    display: block;
     pointer-events: none;
 }
 
