@@ -13,7 +13,7 @@
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_SaberThrow.svg">
       </a>
     </h3>
-    <a class="ability-item" data-text="Sporting insulated armor and a BT X-42 Heavy Flame Projector, the Clone Flametrooper Corps was ruthlessly effective in area denial tactics and often considered to be overkill.">
+    <a style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0em; margin-left: 0.1em; transform: translateY(1px);" src="../../assets/abilities/reinfocements/cloneflametrooper/Weapons_CloneFlamethrower.svg">
       <span class="ability-name">BT X-42 Heavy Flame Projector</span>
     </a>
