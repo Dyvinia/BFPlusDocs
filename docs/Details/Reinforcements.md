@@ -898,7 +898,7 @@
 <br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
-  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_GuavianSecurity.png">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RiotTrooper.png">
   <div class="text">
     <h3>
       <strong>Riot Control Trooper</strong>
@@ -929,3 +929,31 @@
 </div>
 
 <br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_FirstOrderCommander.png">
+  <div class="text">
+    <h3>
+      <strong>Stormtrooper Commander</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.75em; margin-left: -1.75em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/stormtroopercommander/Weapons_StormtrooperCommanderF-11D.svg">
+      <span class="ability-name">F-11D</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Grants a healing boost to a targeted ally.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/stormtroopercommander/StormtrooperCommander_Healing.svg">
+      <span class="ability-name">Restoration</span>
+    </a><a class="ability-item" data-text="Activates an aura that increases damage takes for nearby enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/stormtroopercommander/StormtrooperCommander_WeaknessAura.svg">
+      <span class="ability-name">Repression</span>
+    </a><a class="ability-item" data-text="Spherical barrier that provides protection from incoming blaster fire.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/stormtroopercommander/StormtrooperCommander_PersonalShield.svg">
+      <span class="ability-name">Personal Shield</span>
+    </a>
+    </div>
+  </div>
+</div>
