@@ -127,7 +127,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Din Djarin</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.3em;" src="../../assets/abilities/heroes/dindjarin/Weapons_MandoIB94.svg">
     </h3>
-    <a>Din Djarin, also known as "the Mandalorian" or simply "Mando," was a renowned Mandalorian warrior during the era of the New Republic. With his Mandalorian armor, IB-94 blaster pistol, Amban sniper rifle, and distinctive beskar helmet, Djarin was both well-equipped and enigmatic.</a>
+    <a>Din Djarin, also known as "the Mandalorian" or simply "Mando," was a renowned Mandalorian warrior during the era of the New Republic. With his Mandalorian armor, IB-94 blaster pistol, Amban sniper rifle, and beskar helmet, Djarin was both well-equipped and enigmatic.</a>
     <div>
     <a class="ability-item" data-text="Equips a high power disruptor sniper rifle for a short time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_AmbanSniper.svg">
