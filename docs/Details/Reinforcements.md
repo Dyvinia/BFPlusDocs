@@ -616,6 +616,102 @@
 
 <br style="display: block; content: ''; margin-top: -1.5em;">
 
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_PurgeTrooper.png">
+  <div class="text">
+    <h3>
+      <strong>Purge Trooper Commander</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Infiltrator">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.3em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/purgetroopercommander/Weapons_PurgeTrooperCommanderDC-15LE.svg">
+      <span class="ability-name">DC-15LE</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Shock grenade that stuns enemies in place.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/purgetroopercommander/PurgeTrooperCommander_StunGrenade.svg">
+      <span class="ability-name">Pacification Grenade</span>
+    </a><a class="ability-item" data-text="Scans the vicinity to reveal nearby enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/purgetroopercommander/PurgeTrooperCommander_Scanner.svg">
+      <span class="ability-name">Inquisition</span>
+    </a><a class="ability-item" data-text="Charges up a powerful explosive shot at the cost of additional heat build-up.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/purgetroopercommander/PurgeTrooperCommander_PowerShot.svg">
+      <span class="ability-name">Power Blast</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RoyalGuard.png">
+  <div class="text">
+    <h3>
+      <strong>Royal Guard</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.3em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/royalguard/Weapons_RoyalGuardT21.svg">
+      <span class="ability-name">T-21</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Temporarily overcharge the T-21 into a triple burst firing mode.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_BurstMode.svg">
+      <span class="ability-name">Burst Fire</span>
+    </a><a class="ability-item" data-text="Those caught in the Royal Guard's gaze will recieve increased damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_RoyalPresence.svg">
+      <span class="ability-name">Royal Presence</span>
+    </a><a class="ability-item" data-text="The Royal Guard receives a large damage reduction and bonus health, but only for a short time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_EmperorsWill.svg">
+      <span class="ability-name">Emperor's Will</span>
+    </a><a class="ability-item" data-text="When near another villain, the Royal Guard will passively gain a small health increase.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_Inspiration.svg">
+      <span class="ability-name">Inspiration</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_ShockTrooper.png">
+  <div class="text">
+    <h3>
+      <strong>Shock Trooper</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2.25em; margin-left: -2.1em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/shocktrooper/Weapons_ShockTrooper_SE-14C.svg">
+      <span class="ability-name">SE-14C</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Kickstarts health regeneration of every allied player within its vicinity.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_BactaGrenade.svg">
+      <span class="ability-name">Bacta Grenade</span>
+    </a><a class="ability-item" data-text="Fires canisters that administer a continuous electric shock that deals damage and greatly hinders enemies' vision.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_ShockLauncher.svg">
+      <span class="ability-name">Shock Launcher</span>
+    </a><a class="ability-item" data-text="A modified defusion device which creates a burst of ionized energy that overheats enemy weapons, defuses explosives, and temporarily disables turrets.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_Disruption.svg">
+      <span class="ability-name">Disruption</span>
+    </a><a class="ability-item" data-text="Stick close to Heroes to gain bonus health regeneration and an extra bonus upon activating Disruption.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      <span class="ability-name">Sentinel</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
 
 ## The Cold War
 
