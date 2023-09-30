@@ -32,7 +32,7 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: 0;">
+<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneEngineer.png">
@@ -62,7 +62,7 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: 0;">
+<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneFlametrooper.png">
@@ -87,6 +87,36 @@
     </a><a class="ability-item" data-text="Lay down a trail of fire as you charge forth. Slam into the enemy while charging to knock them down.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_Charge.svg">
       <span class="ability-name">Scorching Charge</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneJetTrooper.png">
+  <div class="text">
+    <h3>
+      <strong>Clone Jet Trooper</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Jumptrooper">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_JumpTrooper.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -0.9em; margin-left: -1.6em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/clonejettrooper/Weapons_CloneJetTrooperDC-15A.svg">
+      <span class="ability-name">DC-15A</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Advanced jetpack that enables flight while spending fuel. It's hover mode is activated by aiming down sights while in the air.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/clonejettrooper/CloneJetTrooper_Jetpack.svg">
+      <span class="ability-name">Jetpack</span>
+    </a><a class="ability-item" data-text="Apply an Ion Charge to your regular ammunition for a short time. Highly effective against vehicles.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/clonejettrooper/CloneJetTrooper_IonCharge.svg">
+      <span class="ability-name">Ion Charge</span>
+    </a><a class="ability-item" data-text="Throw a thermal detonator that will stick to surfaces and explode shortly after.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/clonejettrooper/CloneJetTrooper_StickyGrenade.svg">
+      <span class="ability-name">Sticky Grenade</span>
     </a>
     </div>
   </div>
