@@ -383,7 +383,7 @@
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -3.1em; margin-left: -3.25em; transform: translateY(0px);" src="../../assets/abilities/reinfocements/rebelpilot/Weapons_RebelPilotBlurrg-1120.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2.25em; margin-left: -1.8em; transform: translateY(0px);" src="../../assets/abilities/heroes/niennunb/Weapons_NienNunbDH-17.svg">
       <span class="ability-name">DH-17</span>
     </a>
     <div>
