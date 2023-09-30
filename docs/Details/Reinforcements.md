@@ -99,7 +99,7 @@
   <div class="text">
     <h3>
       <strong>Clone Jet Trooper</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Jumptrooper">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Aerial">
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_JumpTrooper.svg">
       </a>
     </h3>
@@ -183,6 +183,99 @@
 </div>
 
 ### Separatists
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_AquaDroid.png">
+  <div class="text">
+    <h3>
+      <strong>Aqua Droid</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Infiltrator">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.5em; transform: translateY(1px);" src="../../assets/abilities/reinfocements/aquadroid/Weapons_AQBlaster.svg">
+      <span class="ability-name">AQ Laser Cannon</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Defeating enemies with the AQ Laser Cannon while Recon is active will reveal their nearby allies to you and your team.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_Recon.svg">
+      <span class="ability-name">Recon</span>
+    </a><a class="ability-item" data-text="Scans the vicinity to briefly reveal nearby hostiles.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_Scanner.svg">
+      <span class="ability-name">Sonar Scan</span>
+    </a><a class="ability-item" data-text="Rapidly regenerates the Aqua Droid's health.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_SelfRepair.svg">
+      <span class="ability-name">Self-Repair</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_B2.png">
+  <div class="text">
+    <h3>
+      <strong>B2 Super Battle Droid</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -1.6em; transform: translateY(1px);" src="../../assets/abilities/reinfocements/b2/Weapons_B2TwinBlaster.svg">
+      <span class="ability-name">Twin Wrist Blaster</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="High velocity anti-personnel rockets that explode on impact with any object.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/b2/B2_WristRocket.svg">
+      <span class="ability-name">Wrist Rocket</span>
+    </a><a class="ability-item" data-text="Upgrades the B2 Super Battle Droid's armor, but negates natural health regeneration.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/b2/B2_SuperiorChassis.svg">
+      <span class="ability-name">Superior Chassis</span>
+    </a><a class="ability-item" data-text="Reset your ability cooldowns and blaster heat.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/b2/B2_Rearm.svg">
+      <span class="ability-name">Rearm</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_B2RPRocketDroid.png">
+  <div class="text">
+    <h3>
+      <strong>B2-RP Rocket Droid</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Aerial">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_JumpTrooper.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -1.6em; transform: translateY(1px);" src="../../assets/abilities/reinfocements/b2rp/Weapons_B2RPBlaster.svg">
+      <span class="ability-name">Twin Wrist Blaster</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="High velocity anti-personnel rockets that explode on impact with any object.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/b2rp/B2RP_WristRocket.svg">
+      <span class="ability-name">Wrist Rocket</span>
+    </a><a class="ability-item" data-text="Emergency fuel reserves prevent the jetpack from depleting fuel.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/b2rp/B2RP_FuelReserves.svg">
+      <span class="ability-name">Fuel Reserves</span>
+    </a><a class="ability-item" data-text="Reconfigures the wrist blaster to fire multiple blaster bolts at once in a triangular pattern.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/b2rp/B2RP_TriShot.svg">
+      <span class="ability-name">Tri-Shot</span>
+    </a><a class="ability-item" data-text="Advanced jetpack that enables flight while spending fuel.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/b2rp/B2RP_Jetpack.svg">
+      <span class="ability-name">Jetpack</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
 
 ## Galactic Civil War
 

@@ -115,7 +115,11 @@
     border: 2px solid var(--md-primary-fg-color);
 }
 
-.reinforcement h3,
+.reinforcement h3 {
+    margin: 0;
+    color: #fff;
+    font-size: 20px;
+}
 .reinforcement p {
     margin: 0;
     color: #fff;
