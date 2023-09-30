@@ -496,6 +496,64 @@
 
 <br style="display: block; content: ''; margin-top: -1.5em;">
 
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RebelSaboteur.png">
+  <div class="text">
+    <h3>
+      <strong>Rebel Saboteur</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Infiltrator">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -2.5em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/rebelsaboteur/Weapons_RebelSaboteurA180-Pistol.svg">
+      <span class="ability-name">A180 Pistol</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Deploy a highly explosive device set yo detonate after a short time. While active, your sprint speed is also increased.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_TimeBomb.svg">
+      <span class="ability-name">Time Bomb</span>
+    </a><a class="ability-item" data-text="Rebel Intelligence reveals nearby hostiles.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_Scanner.svg">
+      <span class="ability-name">Rebel Intel</span>
+    </a><a class="ability-item" data-text="Blunt force melee strikes that can be chained into a powerful third strike, that knocks the enemy to the ground.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_Baton.svg">
+      <span class="ability-name">Truncheon Attack</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_WookieWarrior.png">
+  <div class="text">
+    <h3>
+      <strong>Wookiee Warrior</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.25em; margin-left: -0.75em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/wookieewarrior/Weapons_WookieeWarriorBowcaster.svg">
+      <span class="ability-name">Bowcaster</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="The Thermal Imploder's compressed heat wave creates a massive implosion, dealiong damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/wookieewarrior/WookieeWarrior_ThermalImploder.svg">
+      <span class="ability-name">Thermal Imploder</span>
+    </a><a class="ability-item" data-text="Modifies the primary fire mode and supercools the barrel to prevent heat buildup.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/wookieewarrior/WookieeWarrior_Overload.svg">
+      <span class="ability-name">Overload</span>
+    </a><a class="ability-item" data-text="The Wookiee Warrior smals his fists into the ground, dealing damage and knocking enemies off their feet. When successfully hitting an enemy, the warrior replenishes a portion of his base health. Sustaining damage will build the Wookiee's rage, increasing the radius of the ability.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/wookieewarrior/WookieeWarrior_Slam.svg">
+      <span class="ability-name">Slam</span>
+    </a>
+    </div>
+  </div>
+</div>
+
 ### Galactic Empire
 
 
