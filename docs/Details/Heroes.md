@@ -266,7 +266,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Commander Pyre</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.05em; transform: translateY(3px)" src="../../assets/abilities/heroes/commanderpyre/Weapons_PyreF-11D.svg">
     </h3>
-    <a>Clad in a unique, gold-plated set of stormtrooper armor and a military leader at heart, Commander Pyre showed determination to serve the First Order at all costs.</a>
+    <a>Clad in a unique, gold-plated set of stormtrooper armor and a military leader at heart, Commander Pyre showed determination to serve the First Order at all costs and made sure to distinguish himself on the field. </a>
     <div>
     <a class="ability-item" data-text="Commander Pyre plants a device that boosts the health of nearby allies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commanderpyre/Pyre_DeployBoost.svg">
@@ -351,7 +351,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Greedo</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.4em; transform: translateY(4px)" src="../../assets/abilities/heroes/greedo/Weapons_GreedoDT-12.svg">
     </h3>
-    <a>The bounty hunter Greedo is a skilled marksman utilising his quick reflexes and heightened senses to quickly dispatch targets with his DT-12 blaster pistol and collection of grenades.</a>
+    <a>The Rodian bounty hunter Greedo is a skilled marksman utilising his quick reflexes and heightened senses to quickly dispatch targets with his DT-12 blaster pistol and deadly collection of grenades.</a>
     <div>
     <a class="ability-item" data-text="Throws a Thermal Detonator by default. While Confidence Boost is active, a Thermal Imploder is thrown instead.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/greedo/Greedo_Grenade.svg">
