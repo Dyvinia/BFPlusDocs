@@ -9,8 +9,8 @@
   <div class="text">
     <h3>
       <strong>Clone Flametrooper</strong>
-      <a class="reinforcement-class" style="margin-left: -0.5em;"  data-text="Sentinel">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      <a class="reinforcement-class" style="margin-left: -0.5em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
     <a style="cursor: default;">
@@ -18,15 +18,15 @@
       <span class="ability-name">BT X-42 Heavy Flame Projector</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">
+    <a class="ability-item" data-text="Toggle the BT X-42 into a charge-up, burst-fire explosive projectile launcher for increased range and indirect fire capabilities.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_Toggle.svg">
       <span class="ability-name">Therobaric Barrage</span>
     </a>
-    <a class="ability-item" data-text="Ahsoka closes the distance with a lunge attack.">
+    <a class="ability-item" data-text="Instantly cool the BT X-42 and recieve bonus health for the duration of the ability.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_DefensiveStance.svg">
       <span class="ability-name">Pyrotechnics</span>
     </a>
-    <a class="ability-item" data-text="Small and agile, Ahsoka sprints forward at high speeds, greatly improving her recharge times as she does so.">
+    <a class="ability-item" data-text="Lay down a trail of fire as you charge forth. Slam into the enemy while charging to knock them down.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_Charge.svg">
       <span class="ability-name">Scorching Charge</span>
     </a>
