@@ -5,7 +5,7 @@
 ### Galactic Republic
 
 <div class="reinforcement">
-  <img class="portrait" class="no-lb"  src="../../assets/portraits/Portait_Ahsoka.png">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/Portait_Ahsoka.png">
   <div class="text">
     <h3 id="ahsoka">
       <strong>Gungan Warrior</strong>
