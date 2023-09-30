@@ -406,7 +406,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <img class="portrait" class="no-lb"  src="../../assets/portraits/Portrait_SecondSister.png">
   <div class="text">
     <h3 id="trilla">
-      <strong>Second Sister</strong>
+      <strong>The Second Sister</strong>
       <img class="weapon-saber" class="no-lb" src="../../assets/abilities/heroes/secondsister/Weapons_SecondSisterLightsaber.svg">
     </h3>
     <a>The Second Sister, previously Trilla Suduri, was an expert lightsaber duelist and one of the Empire's deadliest Jedi hunters. However, Suduri's strongest asset was her brilliant intellect, being able to anticipate the behavior of her prey.</a>
