@@ -35,6 +35,36 @@
 <br style="display: block; content: ''; margin-top: 0;">
 
 <div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneEngineer.png">
+  <div class="text">
+    <h3>
+      <strong>Combat Engineer</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: -0.1em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/cloneengineer/Weapons_CloneEngineerDP23.svg">
+      <span class="ability-name">DP-23 Shotgun</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="A powerful manually detonated explosive device.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_DetoniteCharge.svg">
+      <span class="ability-name">Detonite Charge</span>
+    </a><a class="ability-item" data-text="Unleash a blast of electricity, dealing immense damage to targeted enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_BoltCaster.svg">
+      <span class="ability-name">Bolt Caster</span>
+    </a><a class="ability-item" data-text="Drop a grenade that supercools the blasters of nearby allies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_CoolingGrenade.svg">
+      <span class="ability-name">Supercooling Grenade</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<br style="display: block; content: ''; margin-top: 0;">
+
+<div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneFlametrooper.png">
   <div class="text">
     <h3>
