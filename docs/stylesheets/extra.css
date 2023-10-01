@@ -1,8 +1,9 @@
 /* Accent Color */
 :root {
-    --md-primary-fg-color:        #fcad03;
+    --md-primary-fg-color:        #fca503;
     --md-default-fg-color--light: #cecece;
-    --md-primary-fg-color--dark:  #e79600;
+    --md-primary-fg-color--dark:  #e78b00;
+    --md-primary-fg-color--extradark:  #e08600;
 }
 
 /* Page Background Color */
@@ -49,13 +50,14 @@
 
 /* Button */
 .md-typeset .md-button {
-    padding:.4em 1em;
-    border-radius: 0.5em;
+    padding: 0.4em 1em;
+    border-radius: 0.4rem;
+    margin-right: 0.1rem;
 }
 .md-typeset .md-button:focus,
 .md-typeset .md-button:hover {
-  background-color: transparent;
-  border-color:var(--md-primary-fg-color);
+  background-color: var(--md-primary-fg-color--extradark);
+  border-color: var(--md-primary-fg-color--extradark);
   color: #fff;
 }
 

@@ -4,10 +4,9 @@
 
 ### Downloads
 
-[Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite/releases/latest/download/FrostyModManager.zip)  
-[Battlefront Plus - Kyber](https://www.nexusmods.com/starwarsbattlefront22017/mods/7592?tab=files){ :target="_blank" }  
-[KyberBrowser](https://github.com/Dyvinia/KyberBrowser/releases/latest){ :target="_blank" }  
-
+[Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite/releases/latest/download/FrostyModManager.zip){ .md-button }
+[Battlefront Plus - Kyber](https://www.nexusmods.com/starwarsbattlefront22017/mods/7592?tab=files){ .md-button target="_blank" }
+[KyberBrowser](https://github.com/Dyvinia/KyberBrowser/releases/latest){ .md-button target="_blank" }
 
 ### Install
 
@@ -35,7 +34,7 @@
 
 3. In the dropdown in the lower right corner, select the pack you generated earlier, press `Install InitfsFix`, and click on `OK`.
 
-    a. If you own a Battlefront copy from Epic Games, also select "Datapath Fix" as the Launch Fix. 
+    a. If you own a Battlefront copy from Epic Games, also select `Datapath Fix` as the Launch Fix. 
 
 4. Close the Settings window.
 
@@ -54,9 +53,9 @@
 
 ### Downloads
 
-[Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite/releases/latest/download/FrostyModManager.zip)  
-[Battlefront Plus - IAO XL](https://www.nexusmods.com/starwarsbattlefront22017/mods/7592?tab=files){ :target="_blank" }  
-[Invisibility Fix Initfs](https://www.nexusmods.com/starwarsbattlefront22017/mods/9775){ :target="_blank" }
+[Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite/releases/latest/download/FrostyModManager.zip){ .md-button }
+[Battlefront Plus - IAO XL](https://www.nexusmods.com/starwarsbattlefront22017/mods/7592?tab=files){ .md-button target="_blank" }
+[Invisibility Fix Initfs](https://www.nexusmods.com/starwarsbattlefront22017/mods/9775){ .md-button target="_blank" }
 
 ### Install
 
