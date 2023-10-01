@@ -4,7 +4,7 @@
 
 Features dozens of new characters and well over a hundred new abilities.
 
-[Available on NexusMods](https://www.nexusmods.com/starwarsbattlefront22017/mods/7592){ .md-button }
+[Available on NexusMods](https://www.nexusmods.com/starwarsbattlefront22017/mods/7592){ .md-button target="_blank" }
 
 ### Developers
 
