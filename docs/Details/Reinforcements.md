@@ -180,6 +180,7 @@
     </a>
     </div>
   </div>
+</div>
 
 <br style="display: block; content: ''; margin-top: -1.5em;">
 
@@ -209,7 +210,6 @@
     </a>
     </div>
   </div>
-</div>
 </div>
 
 ### Separatists
