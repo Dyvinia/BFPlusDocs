@@ -135,7 +135,7 @@
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.5em; margin-left: 0.25em; transform: translateY(-4px);" src="../../assets/abilities/reinfocements/sharpshooter/Weapons_SharpshooterFirepuncher.svg">
-      <span class="ability-name">Firepuncher</span>
+      <span class="ability-name">773-Firepuncher</span>
     </a>
     <div>
     <a class="ability-item" data-text="Throw an explosive charge that detonates only when shot. If the charge explodes while it is still in the air, its blast will be more powerful.">
@@ -180,6 +180,36 @@
     </a>
     </div>
   </div>
+
+<br style="display: block; content: ''; margin-top: -1.5em;">
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneFlametrooper.png">
+  <div class="text">
+    <h3>
+      <strong>Republic Gunner</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/cloneflametrooper/Weapons_CloneFlamethrower.svg">
+      <span class="ability-name">Z-6 Rotary Cannon</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Give a health and cooling bonus to an ally for a small battle point reward.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_Toggle.svg">
+      <span class="ability-name">Together Brothers</span>
+    </a><a class="ability-item" data-text="Toggle a supercharged mode with a small explosive blast added to each shot.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_DefensiveStance.svg">
+      <span class="ability-name">Anti-Infantry Mode</span>
+    </a><a class="ability-item" data-text="Deploys a Combat Shield to block fire coming from the front. If allies are nearby, a more powerful Bubble Shield is deployed instead for full protection.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_Charge.svg">
+      <span class="ability-name">Personal Shield</span>
+    </a>
+    </div>
+  </div>
+</div>
 </div>
 
 ### Separatists
