@@ -182,6 +182,7 @@
 
 .ability-item span,
 .ability-item img {
+    transition: opacity 100ms !important;
     opacity: 0.69;
 }
 .ability-item:hover span,
@@ -209,12 +210,14 @@
     color: #fff;
     font-size: small;
     text-align: left;
-    
-    display:none;
+
+    opacity: 0;
+    transition: opacity 100ms !important;
+    pointer-events: none;
 }
 .ability-item:hover:before {
     display:block;
-    pointer-events: none;
+    opacity: 1;
 }
 
 .reinforcement-class {
@@ -250,11 +253,13 @@
     font-size: small;
     text-align: center;
     
-    display: none;
+    opacity: 0;
+    transition: opacity 100ms !important;
+    pointer-events: none;
 }
 .reinforcement-class:hover:before {
     display: block;
-    pointer-events: none;
+    opacity: 1;
 }
 
 .weapon-saber {
