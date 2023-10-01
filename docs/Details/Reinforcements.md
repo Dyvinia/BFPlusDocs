@@ -185,7 +185,7 @@
 <br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
-  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneFlametrooper.png">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RepublicGunner.png">
   <div class="text">
     <h3>
       <strong>Republic Gunner</strong>
@@ -194,18 +194,18 @@
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/cloneflametrooper/Weapons_CloneFlamethrower.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: -0.2em; transform: translateY(-4px);" src="../../assets/abilities/reinfocements/republicgunner/Weapons_RepublicGunner.svg">
       <span class="ability-name">Z-6 Rotary Cannon</span>
     </a>
     <div>
     <a class="ability-item" data-text="Give a health and cooling bonus to an ally for a small battle point reward.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_Toggle.svg">
-      <span class="ability-name">Together Brothers</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/republicgunner/RepublicGunner_TogetherBrothers.svg">
+      <span class="ability-name">Together Brothers  </span>
     </a><a class="ability-item" data-text="Toggle a supercharged mode with a small explosive blast added to each shot.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_DefensiveStance.svg">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/republicgunner/RepublicGunner_Explosive.svg">
       <span class="ability-name">Anti-Infantry Mode</span>
     </a><a class="ability-item" data-text="Deploys a Combat Shield to block fire coming from the front. If allies are nearby, a more powerful Bubble Shield is deployed instead for full protection.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneflametrooper/CloneFlametrooper_Charge.svg">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/republicgunner/RepublicGunner_CombatShield.svg">
       <span class="ability-name">Personal Shield</span>
     </a>
     </div>
