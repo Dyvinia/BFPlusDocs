@@ -1,7 +1,7 @@
 /* Accent Color */
 :root {
     --md-primary-fg-color:        #fcad03;
-    --md-default-fg-color--light: #f1bbbb;
+    --md-default-fg-color--light: #cecece;
     --md-primary-fg-color--dark:  #e79600;
 }
 
@@ -13,6 +13,17 @@
 /* Hover Color */
 [data-md-color-accent="orange"] {
     --md-accent-fg-color: #808080;
+}
+
+/* H1, H2, etc */
+.md-typeset h1 {
+    color: #aaa;
+    font-size: 2em;
+}
+.md-typeset h2 {
+    color: #ccc;
+    font-size: 1.69em;
+    font-weight: 400;
 }
 
 /* Header */
