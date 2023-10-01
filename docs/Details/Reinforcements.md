@@ -194,7 +194,7 @@
       <span class="ability-name">Anti-Infantry Mode</span>
     </a><a class="ability-item" data-text="Deploys a Combat Shield to block fire coming from the front. If allies are nearby, a more powerful Bubble Shield is deployed instead for full protection.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/republicgunner/RepublicGunner_CombatShield.svg">
-      <span class="ability-name">Personal Shield</span>
+      <span class="ability-name">Advanced Shield</span>
     </a>
     </div>
   </div>
