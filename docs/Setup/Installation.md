@@ -2,7 +2,7 @@
 
 ## Kyber
 
-### Download
+### Downloads
 
 [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite/releases/latest/download/FrostyModManager.zip)  
 [Battlefront Plus - Kyber](https://www.nexusmods.com/starwarsbattlefront22017/mods/7592?tab=files){ :target="_blank" }  
