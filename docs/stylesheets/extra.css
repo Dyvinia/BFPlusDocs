@@ -7,7 +7,7 @@
 
 /* Page Background Color */
 [data-md-color-scheme="slate"] {
-    --md-default-bg-color: hsla(577,10%,10%,1)
+    --md-default-bg-color: hsla(577,10%,6%,1)
 }
 
 /* Hover Color */
@@ -188,7 +188,7 @@
 
 .ability-item span,
 .ability-item img {
-    transition: opacity 100ms !important;
+    transition: opacity 75ms !important;
     opacity: 0.69;
 }
 .ability-item:hover span,
@@ -218,7 +218,7 @@
     text-align: left;
 
     opacity: 0;
-    transition: opacity 100ms !important;
+    transition: opacity 75ms !important;
     pointer-events: none;
 }
 .ability-item:hover:before {
