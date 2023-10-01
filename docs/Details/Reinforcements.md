@@ -746,7 +746,7 @@
     </a><a class="ability-item" data-text="The droid provides itself and nearby allies a cooling bonus.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_Support.svg">
       <span class="ability-name">Mechanical Companion</span>
-    </a><a class="ability-item" data-text="Primes the droid for self-destruct when activated. When fired, it detonates and immediately kills to droid while taking out nearby enemies.">
+    </a><a class="ability-item" data-text="Primes the droid for self-destruct when activated. When fired, it detonates and immediately kills the droid while damaging nearby enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_SelfDestruct.svg">
       <span class="ability-name">Self Destruct</span>
     </a>
