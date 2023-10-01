@@ -32,8 +32,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneEngineer.png">
   <div class="text">
@@ -61,8 +59,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneFlametrooper.png">
@@ -92,8 +88,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneJetTrooper.png">
   <div class="text">
@@ -121,8 +115,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneSharpshooter.png">
@@ -152,8 +144,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_GunganWarrior.png">
   <div class="text">
@@ -181,8 +171,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RepublicGunner.png">
@@ -242,8 +230,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_B2.png">
   <div class="text">
@@ -271,8 +257,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_B2RPRocketDroid.png">
@@ -305,8 +289,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CombatMagnaGuard.png">
   <div class="text">
@@ -334,8 +316,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_MagnaGuardProtector.png">
@@ -367,8 +347,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_TacticalDroid.png">
   <div class="text">
@@ -396,8 +374,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 ## Galactic Civil War
 
@@ -434,8 +410,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_Xeno.png">
   <div class="text">
@@ -463,8 +437,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RebelPilot.png">
@@ -494,8 +466,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RebelRocketJumper.png">
   <div class="text">
@@ -524,8 +494,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RebelSaboteur.png">
   <div class="text">
@@ -553,8 +521,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_WookieWarrior.png">
@@ -614,8 +580,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_SkyTrooper.png">
   <div class="text">
@@ -643,8 +607,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_ISB_Agent.png">
@@ -674,8 +636,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_PurgeTrooper.png">
   <div class="text">
@@ -703,8 +663,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RoyalGuard.png">
@@ -737,8 +695,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_ShockTrooper.png">
   <div class="text">
@@ -769,8 +725,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_ViperProbe.png">
@@ -832,8 +786,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_NiktoSmuggler.png">
   <div class="text">
@@ -861,8 +813,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_ResistanceJumpTrooper.png">
@@ -922,8 +872,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_GuavianSecurity.png">
   <div class="text">
@@ -955,8 +903,6 @@
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: -1.5em;">
-
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_RiotTrooper.png">
   <div class="text">
@@ -984,8 +930,6 @@
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: -1.5em;">
 
 <div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_FirstOrderCommander.png">
