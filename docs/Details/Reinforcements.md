@@ -576,7 +576,7 @@
     </a><a class="ability-item" data-text="Activates the Death Trooper's advanced helmet sensors, highlighting enemies and revealing their locations on radar.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_MotionScan.svg">
       <span class="ability-name">Advanced Sensors</span>
-    </a><a class="ability-item" data-text="SPARTAN PLEASE FIX.">
+    </a><a class="ability-item" data-text="For a limited time, equip a DLT-19D sniper rifle. Extra time is gained with kills.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_MarksmanRush.svg">
       <span class="ability-name">Marksman Rush</span>
     </a>
@@ -950,9 +950,6 @@
     </a><a class="ability-item" data-text="Temporarily boosts the Enforcer's health.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/riotcontrol/RiotControl_Fortify.svg">
       <span class="ability-name">Fortify</span>
-    </a><a class="ability-item" data-text="The Z6 Riot Control Baton takes the place of the primary attack. The SE-44C is fired by using the secondary attack/aim button.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/guaviansecurity/GuavianSecurity_Supply.svg">
-      <span class="ability-name">Duality</span>
     </a>
     </div>
   </div>
