@@ -84,7 +84,7 @@
 
 5. **Battlefront Plus** and **IAO XL** now appear in the left-hand column of Frosty. Add them to your load order in the right-hand column by clicking `Apply Mod(s)`.
 
-6. **IAO XL** is placed in a way so that it has a lower priority - with Frosty set to `List` it is placed above Battlefront Plus, with `Priority` it is placed below.
+6. **IAO XL** is placed in a way so that it has a lower priority[^5]
 
 7. Now press `Launch` to start the game. The first time, and after every change to your load order, this process takes a few minutes and can be very CPU intensive for your device.
 
@@ -97,3 +97,5 @@
 [^3]: Keyboard Shortcut: ++f12++
 
 [^4]: Keyboard Shortcut: ++ctrl+n++
+
+[^5]: With Frosty set to `List` *(default)* it is placed above Battlefront Plus, with `Priority` it is placed below.
