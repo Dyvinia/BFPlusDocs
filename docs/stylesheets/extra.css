@@ -12,12 +12,12 @@
 
 /* Hover Color */
 [data-md-color-accent="orange"] {
-    --md-accent-fg-color:  #808080;
+    --md-accent-fg-color: #808080;
 }
 
 /* Header Background Color */
 .md-header {
-    background-color: #353535;
+    background-color: #000;
 }
 
 /* Header Text Color */
@@ -28,6 +28,7 @@
 /* Button */
 .md-typeset .md-button {
     padding:.4em 1em;
+    border-radius: 0.5em;
 }
 .md-typeset .md-button:focus,
 .md-typeset .md-button:hover {
@@ -62,6 +63,11 @@
 }
 .devs:hover > img {
     opacity: 0.69;
+}
+
+.round-corners {
+    border-radius: 0.75em;
+    /*border: 2px solid var(--md-primary-fg-color);*/
 }
 
 /* Hero Cards */
