@@ -3,6 +3,8 @@
     --md-primary-fg-color:        #fcad03;
     --md-default-fg-color--light: #cecece;
     --md-primary-fg-color--dark:  #e79600;
+
+    --md-code-bg-color: #000000 !important;
 }
 
 /* Page Background Color */
@@ -24,6 +26,10 @@
     color: #ccc;
     font-size: 1.69em;
     font-weight: 400;
+}
+.md-typeset code {
+    color: #fff;
+    background-color: #1e1e1e;
 }
 
 /* Header */
