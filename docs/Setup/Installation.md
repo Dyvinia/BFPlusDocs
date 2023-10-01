@@ -35,7 +35,7 @@
 
 3. In the dropdown in the lower right corner, select the pack you generated earlier, press `Install InitfsFix`, and click on `OK`.
 
-    a. If you own a Battlefront copy from EpicGames, also select "Datapath Fix" as the Launch Fix. 
+    a. If you own a Battlefront copy from Epic Games, also select "Datapath Fix" as the Launch Fix. 
 
 4. Close the Settings window.
 
