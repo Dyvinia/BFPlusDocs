@@ -383,7 +383,7 @@
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2.25em; margin-left: -1.8em; transform: translateY(0px);" src="../../assets/abilities/heroes/niennunb/Weapons_NienNunbDH-17.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2.25em; margin-left: -1.8em; transform: translateY(-2px);" src="../../assets/abilities/heroes/niennunb/Weapons_NienNunbDH-17.svg">
       <span class="ability-name">DH-17</span>
     </a>
     <div>
@@ -416,7 +416,7 @@
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0em; margin-left: -0.25em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/rebelcommando/Weapons_RebelCommandoRelbyV10.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0em; margin-left: -0.25em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/rebelcommando/Weapons_RebelCommandoRelbyV10.svg">
       <span class="ability-name">Relby-V10</span>
     </a>
     <div>
