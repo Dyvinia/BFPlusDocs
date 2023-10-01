@@ -27,8 +27,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: 0;">
-
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_CalKestis.png">
   <div class="text">
@@ -55,8 +53,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: 0;">
-
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_CaptainRex.png">
   <div class="text">
@@ -79,8 +75,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: 0;">
 
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portait_CommanderCody.png">
@@ -108,8 +102,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: 0;">
-
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_DinDjarin.png">
   <div class="text">
@@ -136,8 +128,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: 0;">
-
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_MazKanata.png">
   <div class="text">
@@ -161,8 +151,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: 0;">
-
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_NienNunb.png">
   <div class="text">
@@ -185,8 +173,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: 0;">
 
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_ShrivSuurgav.png">
@@ -236,8 +222,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: 0;">
-
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_CommanderPyre3.png">
   <div class="text">
@@ -260,8 +244,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: 0;">
 
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Dengar.png">
@@ -289,8 +271,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: 0;">
-
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Hask.png">
   <div class="text">
@@ -314,8 +294,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
-<br style="display: block; content: ''; margin-top: 0;">
-
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Greedo.png">
   <div class="text">
@@ -338,8 +316,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: 0;">
 
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_JangoFett.png">
@@ -366,8 +342,6 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </div>
   </div>
 </div>
-
-<br style="display: block; content: ''; margin-top: 0;">
 
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_SecondSister.png">

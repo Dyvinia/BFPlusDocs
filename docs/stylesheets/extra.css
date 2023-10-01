@@ -95,6 +95,11 @@
     flex-basis: 0;
     /*border: 2px solid var(--md-primary-fg-color);*/
 }
+
+/* Space between heroes */
+.hero + .hero {
+    margin-top: 1em;
+}
   
 .hero .portrait {
     height: 150px;
