@@ -1,7 +1,7 @@
 /* Accent Color */
 :root {
     --md-primary-fg-color:        #fcad03;
-    --md-default-fg-color--light: #fff1bbbb;
+    --md-default-fg-color--light: #f1bbbb;
     --md-primary-fg-color--dark:  #e79600;
 }
 
@@ -15,14 +15,18 @@
     --md-accent-fg-color: #808080;
 }
 
-/* Header Background Color */
+/* Header */
 .md-header {
     background-color: #000;
 }
-
-/* Header Text Color */
 .md-nav__title {
     color: #fff;
+}
+
+/* Footer */
+.md-footer,
+.md-footer-meta {
+    background-color: #000;
 }
 
 /* Button */
