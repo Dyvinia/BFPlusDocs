@@ -19,22 +19,21 @@
 
 3. Select STAR WARS Battlefront II.
 
-4. In Frosty Mod Manager, click `Add Mod(s)` in the upper left corner and select the downloaded Battlefront Plus `.zip` file. You do not need to unzip/open downloaded mods.
+4. In Frosty Mod Manager, click `Add Mod(s)` in the upper left corner and select the downloaded Battlefront Plus `.zip` file.[^1]
 
 5. **Battlefront Plus** now appears in the left-hand column of Frosty. Add them to your load order in the right-hand column by clicking `Apply Mod(s)`.
 
 6. Setup your modlist with other mods if you choose, and then click `Launch` to generate the final ModData. This process takes a few minutes and can be very CPU intensive for your device.
 
-    a. *Remember the name of the Pack that you have selected  
-    (shown to the left of the* `Launch` *button*).
+    a. *Remember the name of the Pack that you have selected*[^2].
 
 #### Setting up KyberBrowser & the Invisibility Fix
 
 1. Open the `KyberBrowser` application.
 
-2. Click on the settings wheel in the lower right corner.
+2. Click on the settings wheel[^3] in the lower right corner.
 
-3. In the dropdown in the lower right corner, select the pack you generated earlier, press "Install InitfsFix", and click on `OK`.
+3. In the dropdown in the lower right corner, select the pack you generated earlier, press `Install InitfsFix`, and click on `OK`.
 
     a. If you own a Battlefront copy from EpicGames, also select "Datapath Fix" as the Launch Fix. 
 
@@ -49,7 +48,7 @@
 
 ##### To Create & Host a Server:
 
-- Click on the `+` button in the lower right corner, fill in the information, select the correct pack in the dropdown, and press `PLAY`
+- Click on the `+` button[^4] in the lower right corner, fill in the information, select the correct pack in the dropdown, and press `PLAY`
 
 ## Instant Action
 
@@ -88,3 +87,13 @@
 6. **IAO XL** is placed in a way so that it has a lower priority - with Frosty set to `List` it is placed above Battlefront Plus, with `Priority` it is placed below.
 
 7. Now press `Launch` to start the game. The first time, and after every change to your load order, this process takes a few minutes and can be very CPU intensive for your device.
+
+    a. *Remember the name of the Pack[^2] that you have selected, which is used in step 3 of* ***Installing the Custom Initfs***.
+
+[^1]: You do not need to unzip/open downloaded mods
+
+[^2]: Shown to the left of the `Launch` button
+
+[^3]: Keyboard Shortcut: ++f12++
+
+[^4]: Keyboard Shortcut: ++ctrl+n++

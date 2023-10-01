@@ -25,6 +25,9 @@
     font-size: 1.69em;
     font-weight: 400;
 }
+.md-typeset h5 {
+    color: #999;
+}
 .md-typeset code {
     color: #fff;
     background-color: #1e1e1e;
