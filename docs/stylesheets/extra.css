@@ -114,7 +114,13 @@
     font-size: small;
     display: inline-block;
     vertical-align: top;
-    margin-bottom: 0.5em;
+}
+.hero > div > a {
+    margin-left: 0.069em;
+    margin-bottom: 0.2em;
+}
+.hero > div > div {
+    margin-left: -0.1em;
 }
 
 .hero span {
