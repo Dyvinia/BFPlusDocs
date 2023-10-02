@@ -35,34 +35,6 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
 </div>
 
 <div class="reinforcement">
-  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneEngineer.png">
-  <div class="text">
-    <h3>
-      <strong>Combat Engineer</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
-      </a>
-    </h3>
-    <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: -0.1em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/cloneengineer/Weapons_CloneEngineerDP23.svg">
-      <span class="ability-name">DP-23 Shotgun</span>
-    </a>
-    <div>
-    <a class="ability-item" data-text="A powerful explosive charge which can be manually detonated at any time.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_Detpack.svg">
-      <span class="ability-name">Detpack</span>
-    </a><a class="ability-item" data-text="Unleash a blast of electricity, dealing immense damage to targeted enemies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_BoltCaster.svg">
-      <span class="ability-name">Bolt Caster</span>
-    </a><a class="ability-item" data-text="Drop a grenade that supercools the blasters of nearby allies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_CoolingGrenade.svg">
-      <span class="ability-name">Supercooling Grenade</span>
-    </a>
-    </div>
-  </div>
-</div>
-
-<div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneFlametrooper.png">
   <div class="text">
     <h3>
@@ -141,6 +113,34 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a><a class="ability-item" data-text="Fires a flare that will ignite after a second, revealing enemies within a large vicinity to your team. Enemies hidden behind cover from the flare will not be revealed.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/sharpshooter/Sharpshooter_Flare.svg">
       <span class="ability-name">Spotting Flare</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_CloneEngineer.png">
+  <div class="text">
+    <h3>
+      <strong>Combat Engineer</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: -0.1em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/cloneengineer/Weapons_CloneEngineerDP23.svg">
+      <span class="ability-name">DP-23 Shotgun</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="A powerful explosive charge which can be manually detonated at any time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_Detpack.svg">
+      <span class="ability-name">Detpack</span>
+    </a><a class="ability-item" data-text="Unleash a blast of electricity, dealing immense damage to targeted enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_BoltCaster.svg">
+      <span class="ability-name">Bolt Caster</span>
+    </a><a class="ability-item" data-text="Drop a grenade that supercools the blasters of nearby allies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_CoolingGrenade.svg">
+      <span class="ability-name">Supercooling Grenade</span>
     </a>
     </div>
   </div>
