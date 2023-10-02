@@ -1,6 +1,6 @@
 # Reinforcements
 
-Battlefront Plus adds more than a dozen new heroes across all factions, each with their own unique abilities, Star Cards, and appearances. From iconic, fan favorite characters to more obscure ones, new heroes come from every corner of the Star Wars canon.
+Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian Death Gang's elite enforcers, hunt Jedi with the Inquisition's Purge Troopers, or specialize in any of the other 30 new or reworked Reinforcements featured in Battlefront Plus.
 
 ## The Clone Wars
 
