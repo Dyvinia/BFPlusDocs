@@ -48,10 +48,10 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
       <span class="ability-name">DP-23 Shotgun</span>
     </a>
     <div>
-    <a class="ability-item" data-text="A powerful manually detonated explosive device.">
+    <a class="ability-item" data-text="A powerful explosive charge which can be manually detonated at any time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_Detpack.svg">
       <span class="ability-name">Detpack</span>
-    </a><a class="ability-item" data-text="A powerful explosive charge which can be manually detonated at any time.">
+    </a><a class="ability-item" data-text="Unleash a blast of electricity, dealing immense damage to targeted enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_BoltCaster.svg">
       <span class="ability-name">Bolt Caster</span>
     </a><a class="ability-item" data-text="Drop a grenade that supercools the blasters of nearby allies.">
