@@ -49,7 +49,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </a>
     <div>
     <a class="ability-item" data-text="A powerful manually detonated explosive device.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_DetoniteCharge.svg">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_Detpack.svg">
       <span class="ability-name">Detpack</span>
     </a><a class="ability-item" data-text="A powerful explosive charge which can be manually detonated at any time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_BoltCaster.svg">
