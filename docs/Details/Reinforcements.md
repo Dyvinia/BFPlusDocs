@@ -511,7 +511,7 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a>
     <div>
     <a class="ability-item" data-text="Deploy a highly explosive device set yo detonate after a short time. While active, your sprint speed is also increased.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_TimeBomb.svg">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_TimeBomb_Fixed.svg">
       <span class="ability-name">Time Bomb</span>
     </a><a class="ability-item" data-text="Rebel Intelligence reveals nearby hostiles.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_Scanner.svg">
