@@ -30,18 +30,19 @@ Delaying majority of new content to V10, pushing this forward with massive QOL c
         - Sound effect plays as a UX sound instead of in-world.
 
 - **Reinforcements**
-    - Clone Engineer
-        - Decreased max health.
-        - Reduced delay before health regeneration.
-        - New DETPACK replaces DETONITE CHARGE.
-            - A powerful explosive charge, from days of old, which can be manually detonated at any time.
-
     - Clone Flametrooper
         - Increased bonus health granted by PYROTECHNICS.
 
     - Clone Sharpshooter
         - Improved 773-FIREPUNCHER effects.
-
+   
+    - Combat Engineer
+        - Decreased max health.
+        - Reduced delay before health regeneration.
+        - New DETPACK replaces DETONITE CHARGE.
+            - A powerful explosive charge, from days of old, which can be manually detonated at any time.
+            - Autoplayers using the DETPACK will randomize the amount of time (0.25 - 7.5 seconds) between throwing the device and it exploding.
+   
     - Death Trooper
         - MARKSMAN RUSH
             - Increased damage.
