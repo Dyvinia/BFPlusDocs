@@ -1,5 +1,7 @@
 # Reinforcements
 
+Battlefront Plus adds more than a dozen new heroes across all factions, each with their own unique abilities, Star Cards, and appearances. From iconic, fan favorite characters to more obscure ones, new heroes come from every corner of the Star Wars canon.
+
 ## The Clone Wars
 
 ### Galactic Republic
@@ -48,8 +50,8 @@
     <div>
     <a class="ability-item" data-text="A powerful manually detonated explosive device.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_DetoniteCharge.svg">
-      <span class="ability-name">Detonite Charge</span>
-    </a><a class="ability-item" data-text="Unleash a blast of electricity, dealing immense damage to targeted enemies.">
+      <span class="ability-name">Detpack</span>
+    </a><a class="ability-item" data-text="A powerful explosive charge which can be manually detonated at any time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_BoltCaster.svg">
       <span class="ability-name">Bolt Caster</span>
     </a><a class="ability-item" data-text="Drop a grenade that supercools the blasters of nearby allies.">
