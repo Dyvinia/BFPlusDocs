@@ -12,7 +12,7 @@ def on_page_content(html, page, **kwargs):
                 child.children.append(AnchorLink('Commander Cody', 'cody', 1))
                 child.children.append(AnchorLink('Din Djarin', 'mando', 1))
                 child.children.append(AnchorLink('Maz Kanata', 'maz', 1))
-                child.children.append(AnchorLink('Nein Nunb', 'nein', 1))
+                child.children.append(AnchorLink('Nien Nunb', 'nien', 1))
                 child.children.append(AnchorLink('Shriv Suurgav', 'shriv', 1))
 
             if (child.title == "Villains"):

@@ -154,8 +154,8 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_NienNunb.png">
   <div class="text">
-    <h3 id="nein">
-      <strong>Nein Nunb</strong>
+    <h3 id="nien">
+      <strong>Nien Nunb</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1em;" src="../../assets/abilities/heroes/niennunb/Weapons_NienNunbDH-17.svg">
     </h3>
     <a>The Sullustian pilot Nien Nunb excels in harassing the Empire from afar with his Augmented Turret, Rapid Pulse Cannon and for when things get too close to comfort, his DH-17 is always raring to go.</a>
