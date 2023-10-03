@@ -50,7 +50,7 @@ Delaying majority of new content to V10, pushing this forward with massive QOL c
     - Guavian Security
         - JND-41
             - Increased damage.
-        - SUPPLY
+        - RESERVOIR
             - Improved recharge time.
 
     - Gungan Warrior
