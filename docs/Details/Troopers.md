@@ -26,7 +26,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Heat Per Shot: 0.038<br>
                 </a>
                 <div>
-                    <div class="attachment-item">
+                    <div class="attachment-item" onclick="window.location='#sharpshooter';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Sharpshooter.svg">
                         <span class="ability-name">Sharpshooter</span>
                     </div><div class="attachment-item">
@@ -309,3 +309,9 @@ Join the fray with a selection of over a hundred new abilities available to the 
     </div>
 
 </div>
+
+
+## Attachments
+<p id="sharpshooter">Sharpshooter</p>
+<p id="test">test</p>
+<p id="sharpshooter">Sharpshooter</p>
