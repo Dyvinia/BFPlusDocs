@@ -139,10 +139,11 @@
 }
 
 .hero span {
-    display:inline-block;
+    display: inline-block;
     font-weight: 500;
 }
 
+/* Reinforcement Cards */
 .reinforcement {
     display: flex;
     flex-basis: 0;
@@ -326,6 +327,84 @@
     transform: translateY(5px)
 }
 
+/* Trooper Blaster Cards */
+.trooper-blaster {
+    display: flex;
+    flex-basis: 0;
+    /*border: 2px solid var(--md-primary-fg-color);*/
+}
+
+/* Space between heroes */
+.trooper-blaster + .trooper-blaster {
+    margin-top: 1em;
+}
+  
+.trooper-blaster .portrait {
+    height: 150px;
+    width: 150px;
+    min-width: 150px;
+    border-radius: 10%;
+    margin-right: 10px;
+    display: block;
+    background-color: #080808;
+    border: 2px solid var(--md-primary-fg-color);
+}
+  
+.trooper-blaster h3,
+.trooper-blaster p {
+    margin: 0;
+    margin-top: -0.15em;
+    color: #fff;
+}
+
+.trooper-blaster a {
+    color: #aaa !important;
+    font-size: small;
+    display: inline-block;
+    vertical-align: top;
+}
+.trooper-blaster > div > a {
+    margin-left: 0.069em;
+    margin-bottom: 0.2em;
+    font-size:medium
+}
+.trooper-blaster > div > div {
+    margin-left: -0.1em;
+}
+
+.trooper-blaster span {
+    display: inline-block;
+    font-weight: 500;
+}
+
+.trooper-blaster-weapon {
+    height: 64px;
+    width: 256px;
+    max-width: 256px !important;
+    margin-bottom: -1em;
+    margin-top: -0.5em;
+}
+
+.attachment-item {
+    vertical-align: middle;
+    margin-right: 8px;
+    position: relative;
+    cursor: default;
+    opacity: 0.69;
+}
+
+.container {
+    width: 100%;
+    height: auto;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.item {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
 
 /*
 .md-header__button.md-logo img {
