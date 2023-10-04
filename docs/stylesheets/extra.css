@@ -414,6 +414,11 @@ p:target {
     color: var(--md-primary-fg-color);
 }
 
+/* Line between weapons */
+.container > .item + .item {
+    border-left: 1px solid #808080;
+}
+
 /*
 .md-header__button.md-logo img {
     width: 48px;
