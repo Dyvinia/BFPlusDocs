@@ -99,6 +99,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     E-5
                 </h3>
                 <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_E-5.svg">
+                <div class="blaster-trait">Droids have 50% more cooling</div>
             </div>
             <div class="text">
                 <a>
@@ -106,7 +107,6 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Range: 30-40<br>
                     Firerate: 200<br>
                     Heat Per Shot: 0.1<br>
-                    Trait: Droids have 50% more cooling<br>
                 </a>
                 <div>
                     <div class="attachment-item" onclick="window.location='#seeker';">
@@ -343,6 +343,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     VT-33D
                 </h3>
                 <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_VT-33D_Blaster.svg">
+                <div class="blaster-trait">Fires at least 3 blasts per trigger pull</div>
             </div>
             <div class="text">
                 <a>
@@ -350,7 +351,6 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Range: 10-30<br>
                     Firerate: 600<br>
                     Heat Per Shot: 0.048<br>
-                    Trait: Fires at least 3 blasts per trigger pull
                 </a>
                 <div>
                     <div class="attachment-item" onclick="window.location='#gunslinger';">
@@ -371,6 +371,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Zersium Rifle
                 </h3>
                 <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_ZersiumRifle.svg">
+                <div class="blaster-trait">Randomizes stats on trigger pull</div>
             </div>
             <div class="text">
                 <a>
@@ -378,7 +379,6 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Range: 30-40 | 20-30 | 10-20<br>
                     Firerate: 320<br>
                     Heat Per Shot: 0.05 x 0.9 | 1 | 1.1<br>
-                    Trait: Randomizes stats on trigger pull
                 </a>
                 <div>
                     <div class="attachment-item" onclick="window.location='#gunslinger';">
