@@ -392,6 +392,10 @@
     margin-left: -0.1em;
 }
 
+.trooper-blaster h3 {
+    margin-bottom: 0.5em;
+}
+
 .trooper-blaster span {
     display: inline-block;
     font-weight: 500;
