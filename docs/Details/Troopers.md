@@ -724,24 +724,24 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 
 ## Attachments
-<p id="berserker">Berserker: Increases damage while hip-firing, but decreases damage while aiming.</p>
-<p id="burstmode">Burst Mode: Enables a burst mode with each pull of the trigger.</p>
-<p id="chargehack">Charge Hack: Alters weapon charge-up at the cost of lower potential.</p>
-<p id="dualzoom">Dual Zoom: Macroscope that can toggle between two magnification levels while zooming.</p>
-<p id="eliteblaster">Elite Blaster: Increases damage and reconfigures the weapon to fire in bursts, with distinct purple blaster bolts.</p>
-<p id="escapeartist">Escape Artist: Increases movement speed, but reduces zoom magnification.</p>
-<p id="explosive">Explosive Shot: Unstable plasma that explodes on impact, dispersing the bolt damage across a small area. Due to its volatile nature, the blaster builds heat significantly faster.</p>
-<p id="focusedfire">Focused Fire: Improves recoil at the cost of worse sprint time recovery.</p>
-<p id="gunslinger">Gunslinger: Improves sprint time recovery, but increases recoil.</p>
-<p id="heavy">Heavy Handed: Improves heat drop delay and rate, but reduces movement speed.</p>
-<p id="lightshot">Light Shot: Improves cooling at the cost of damage.</p>
-<p id="multishot">Multi-Shot Configuration: While firing from the hip, the blaster is configured to fire multiple projectiles at once with reduced damage. Reduces zoom magnification.</p>
-<p id="precisionblaster">Precision Blaster: Increases range and projectile speed, with distinct purple trails, but disables active cooldown.</p>
-<p id="altfire">Secondary Fire: Enable a secondary fire that charges up a powerful shot while aiming.</p>
-<p id="scope">Improved Zoom: Scope with increased magnification.</p>
-<p id="seeker">Seeker Tactics: Increases movement speed while aiming, but reduces blaster bolt speed.</p>
-<p id="sharpshooter">Sharpshooter: Increases damage while aiming, but decreases damage while hip-firing.</p>
-<p id="phasmashot">Stabilizer: The blaster has terrible accuracy when first fired, but quickly settles into a tight firing pattern.</p>
+<p id="berserker"><strong>Berserker:</strong> <span style="opacity: 0.69;">Increases damage while hip-firing, but decreases damage while aiming.</span></p>
+<p id="burstmode"><strong>Burst Mode:</strong> <span style="opacity: 0.69;">Enables a burst mode with each pull of the trigger.</span></p>
+<p id="chargehack"><strong>Charge Hack:</strong> <span style="opacity: 0.69;">Alters weapon charge-up at the cost of lower potential.</span></p>
+<p id="dualzoom"><strong>Dual Zoom:</strong> <span style="opacity: 0.69;">Macroscope that can toggle between two magnification levels while zooming.</span></p>
+<p id="eliteblaster"><strong>Elite Blaster:</strong> <span style="opacity: 0.69;">Increases damage and reconfigures the weapon to fire in bursts, with distinct purple blaster bolts.</span></p>
+<p id="escapeartist"><strong>Escape Artist:</strong> <span style="opacity: 0.69;">Increases movement speed, but reduces zoom magnification.</span></p>
+<p id="explosive"><strong>Explosive Shot:</strong> <span style="opacity: 0.69;">Unstable plasma that explodes on impact, dispersing the bolt damage across a small area. Due to its volatile nature, the blaster builds heat significantly faster.</span></p>
+<p id="focusedfire"><strong>Focused Fire:</strong> <span style="opacity: 0.69;">Improves recoil at the cost of worse sprint time recovery.</span></p>
+<p id="gunslinger"><strong>Gunslinger:</strong> <span style="opacity: 0.69;">Improves sprint time recovery, but increases recoil.</span></p>
+<p id="heavy"><strong>Heavy Handed:</strong> <span style="opacity: 0.69;">Improves heat drop delay and rate, but reduces movement speed.</span></p>
+<p id="lightshot"><strong>Light Shot:</strong> <span style="opacity: 0.69;">Improves cooling at the cost of damage.</span></p>
+<p id="multishot"><strong>Multi-Shot Configuration:</strong> <span style="opacity: 0.69;">While firing from the hip, the blaster is configured to fire multiple projectiles at once with reduced damage. Reduces zoom magnification.</span></p>
+<p id="precisionblaster"><strong>Precision Blaster:</strong> <span style="opacity: 0.69;">Increases range and projectile speed, with distinct purple trails, but disables active cooldown.</span></p>
+<p id="altfire"><strong>Secondary Fire:</strong> <span style="opacity: 0.69;">Enable a secondary fire that charges up a powerful shot while aiming.</span></p>
+<p id="scope"><strong>Improved Zoom:</strong> <span style="opacity: 0.69;">Scope with increased magnification.</span></p>
+<p id="seeker"><strong>Seeker Tactics:</strong> <span style="opacity: 0.69;">Increases movement speed while aiming, but reduces blaster bolt speed.</span></p>
+<p id="sharpshooter"><strong>Sharpshooter:</strong> <span style="opacity: 0.69;">Increases damage while aiming, but decreases damage while hip-firing.</span></p>
+<p id="phasmashot"><strong>Stabilizer:</strong> <span style="opacity: 0.69;">The blaster has terrible accuracy when first fired, but quickly settles into a tight firing pattern.</span></p>
 
 ### Unique Attachments
 
