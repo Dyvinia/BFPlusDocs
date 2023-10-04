@@ -14,7 +14,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    DH-17
+                    A280C
                 </h3>
                 <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/clonejettrooper/Weapons_CloneJetTrooperDC-15A.svg">
             </div>
