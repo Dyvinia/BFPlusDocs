@@ -207,7 +207,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <h3>
                     EE-3
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_A280C.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_EE-3.svg">
             </div>
             <div class="text">
                 <a>
@@ -234,7 +234,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <h3>
                     EE-4
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_A280C.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_EE-4.svg">
             </div>
             <div class="text">
                 <a>
@@ -255,9 +255,87 @@ Join the fray with a selection of over a hundred new abilities available to the 
             </div>
         </div>
     </div>
-
-
-
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    GALAAR-15
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_GALAAR-15.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 43-30<br>
+                    Range: 12-30<br>
+                    Firerate: 380<br>
+                    Heat Per Shot: 0.1<br>
+                </a>
+                <div>
+                    <div class="attachment-item" onclick="window.location='#sharpshooter';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Berserker.svg">
+                        <span class="ability-name">Berserker</span>
+                    </div><div class="attachment-item" onclick="window.location='#lightshot';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_CoolingCell.svg">
+                        <span class="ability-name">Light Shot</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    ST-W48
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_ST-W48.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 21-10<br>
+                    Range: 15-35<br>
+                    Firerate: 620<br>
+                    Heat Per Shot: 0.026<br>
+                </a>
+                <div>
+                    <div class="attachment-item" onclick="window.location='#berserker';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Berserker.svg">
+                        <span class="ability-name">Berserker</span>
+                    </div><div class="attachment-item" onclick="window.location='#seeker';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
+                        <span class="ability-name">Seeker Tactics</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    T-12
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_A280C.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 38-7<br>
+                    Range: 7-18<br>
+                    Firerate: 300<br>
+                    Heat Per Shot: 0.66<br>
+                </a>
+                <div>
+                    <div class="attachment-item" onclick="window.location='#t12-slug';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_RangeFinder.svg">
+                        <span class="ability-name">Slug</span>
+                    </div><div class="attachment-item" onclick="window.location='#t12-oneshot';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Trigger.svg">
+                        <span class="ability-name">Both Barrels</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 </div>
