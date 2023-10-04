@@ -3,8 +3,8 @@
 ## FAQ
 
 #### I'm stuck in an infinite loading screen.
-- Make sure the Custom Initfs / Invisibility Fix is installed properly, in both Data and ModData.  
-Check for and remove any mods that might be broken.
+- Make sure the Custom Initfs / Invisibility Fix is installed properly, in both Data and ModData.
+- Check for and remove any mods that might be broken.
 
 #### I can’t see any portraits in the main menu and the characters are invisible in matches.
 - Make sure the Custom Initfs / Invisibility Fix is installed properly, in both Data and ModData.
