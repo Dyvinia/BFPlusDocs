@@ -436,6 +436,45 @@ Join the fray with a selection of over a hundred new abilities available to the 
             </div>
         </div>
     </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    Glie-44
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/officer-blasters/Weapons_Glie-44.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 40-32<br>
+                    Range: 30-45<br>
+                    Firerate: 220<br>
+                    Heat Per Shot: 0.09<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    DC-17
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/officer-blasters/Weapons_DC-17.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 42-27<br>
+                    Range: 25-40<br>
+                    Firerate: 270<br>
+                    Heat Per Shot: 0.08<br>
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+
 
 </div>
 
