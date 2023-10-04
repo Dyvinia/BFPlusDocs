@@ -548,7 +548,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    DL-18
+                    DT-29
                 </h3>
                 <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-sidearms/Weapons_DT-29.svg">
             </div>
@@ -662,10 +662,10 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Heat Per Shot: 0.01<br>
                 </a>
                 <div>
-                    <div class="attachment-item" onclick="window.location='#berserker';">
+                    <div class="attachment-item" onclick="window.location='#heavyhanded';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_CoolingCell.svg">
                         <span class="ability-name">Heavy Handed</span>
-                    </div><div class="attachment-item" onclick="window.location='#eliteblaster';">
+                    </div><div class="attachment-item" onclick="window.location='#focusedfire';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
                         <span class="ability-name">Focused Fire</span>
                     </div>
@@ -2278,7 +2278,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <p id="flashlight"><strong>Flashlight:</strong> <span style="opacity: 0.69;">Barrel mounted light source that reveals enemies while zooming.</span></p>
 <p id="focusedfire"><strong>Focused Fire:</strong> <span style="opacity: 0.69;">Improves recoil at the cost of worse sprint time recovery.</span></p>
 <p id="gunslinger"><strong>Gunslinger:</strong> <span style="opacity: 0.69;">Improves sprint time recovery, but increases recoil.</span></p>
-<p id="heavy"><strong>Heavy Handed:</strong> <span style="opacity: 0.69;">Improves heat drop delay and rate, but reduces movement speed.</span></p>
+<p id="heavyhanded"><strong>Heavy Handed:</strong> <span style="opacity: 0.69;">Improves heat drop delay and rate, but reduces movement speed.</span></p>
 <p id="ionshot"><strong>Ion Shot:</strong> <span style="opacity: 0.69;">Ionized bolts that increase damage against turrets, vehicles, and shields, but reduced damage against infantry, special units, and heroes.</span></p>
 <p id="lightshot"><strong>Light Shot:</strong> <span style="opacity: 0.69;">Improves cooling at the cost of damage.</span></p>
 <p id="multishot"><strong>Multi-Shot Configuration:</strong> <span style="opacity: 0.69;">While firing from the hip, the blaster is configured to fire multiple projectiles at once with reduced damage. Reduces zoom magnification.</span></p>
