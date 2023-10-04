@@ -244,10 +244,10 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Heat Per Shot: 0.08<br>
                 </a>
                 <div>
-                    <div class="attachment-item" onclick="window.location='#sharpshooter';">
+                    <div class="attachment-item" onclick="window.location='#lightshot';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_CoolingCell.svg">
                         <span class="ability-name">Light Shot</span>
-                    </div><div class="attachment-item" onclick="window.location='#escapeartist';">
+                    </div><div class="attachment-item" onclick="window.location='#ionshot';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Barrel.svg">
                         <span class="ability-name">Ion Shot</span>
                     </div>
@@ -271,7 +271,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Heat Per Shot: 0.1<br>
                 </a>
                 <div>
-                    <div class="attachment-item" onclick="window.location='#sharpshooter';">
+                    <div class="attachment-item" onclick="window.location='#berserker';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Berserker.svg">
                         <span class="ability-name">Berserker</span>
                     </div><div class="attachment-item" onclick="window.location='#lightshot';">
@@ -734,6 +734,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <p id="focusedfire">Focused Fire: Improves recoil at the cost of worse sprint time recovery.</p>
 <p id="gunslinger">Gunslinger: Improves sprint time recovery, but increases recoil.</p>
 <p id="heavy">Heavy Handed: Improves heat drop delay and rate, but reduces movement speed.</p>
+<p id="ionshot">Ion Shot: Ionized bolts that increase damage against turrets, vehicles, and shields, but reduced damage against infantry, special units, and heroes.</p>
 <p id="lightshot">Light Shot: Improves cooling at the cost of damage.</p>
 <p id="multishot">Multi-Shot Configuration: While firing from the hip, the blaster is configured to fire multiple projectiles at once with reduced damage. Reduces zoom magnification.</p>
 <p id="precisionblaster">Precision Blaster: Increases range and projectile speed, with distinct purple trails, but disables active cooldown.</p>
