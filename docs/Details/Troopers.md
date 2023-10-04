@@ -508,6 +508,80 @@ Join the fray with a selection of over a hundred new abilities available to the 
             </div>
         </div>
     </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    DC-15S
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-sidearms/Weapons_DC-15S.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 33-20<br>
+                    Range: 30-60<br>
+                    Firerate: 270<br>
+                    Heat Per Shot: 0.194<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    DL-18
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-sidearms/Weapons_DL-18.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 41-15<br>
+                    Range: 15-30<br>
+                    Firerate: 300<br>
+                    Heat Per Shot: 0.05<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    DL-18
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-sidearms/Weapons_DT-29.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 75-42<br>
+                    Range: 20-40<br>
+                    Firerate: 300<br>
+                    Heat Per Shot: 0.17<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    SE-14C
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-sidearms/Weapons_SE-14C.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 20-15<br>
+                    Range: 15-35<br>
+                    Firerate: 800 x 5 - 90<br>
+                    Heat Per Shot: 0.035<br>
+                </a>
+            </div>
+        </div>
+    </div>
+
+
 
 </div>
 
@@ -991,6 +1065,78 @@ Join the fray with a selection of over a hundred new abilities available to the 
             </div>
         </div>
     </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    DL-18
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-sidearms/Weapons_Blurrg-1120.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 30-12<br>
+                    Range: 15-40<br>
+                    Firerate: 600 x 2 - 130<br>
+                    Heat Per Shot: 0.05<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    DL-44
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-sidearms/Weapons_DL-44.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 70-25<br>
+                    Range: 20-40<br>
+                    Firerate: 180<br>
+                    Heat Per Shot: 0.12<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    K-16 Bryar Pistol
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-sidearms/Weapons_K16BryarPistol.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 56-12 x 1 | 1.5 | 2<br>
+                    Range: 8-36<br>
+                    Firerate: 250<br>
+                    Heat Per Shot: 0.078<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    NN-14
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-sidearms/Weapons_NN-14.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 37-18<br>
+                    Range: 25-40<br>
+                    Firerate: 280<br>
+                    Heat Per Shot: 0.067<br>
+                </a>
+            </div>
+        </div>
+    </div>
 
 </div>
 
@@ -1177,7 +1323,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Damage: 33-20<br>
                     Range: 30-60<br>
                     Firerate: 270<br>
-                    Heat Per Shot: 0.0194<br>
+                    Heat Per Shot: 0.194<br>
                 </a>
                 <div>
                     <div class="attachment-item" onclick="window.location='#dc15s-powercell';">
@@ -1396,7 +1542,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <a>
                     Damage: 56-12 (1x | 1.5x | 2x)<br>
                     Range: 8-36<br>
-                    Firerate: 300<br>
+                    Firerate: 250<br>
                     Heat Per Shot: 0.078<br>
                 </a>
                 <div>
@@ -2041,6 +2187,78 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Range: 15-30<br>
                     Firerate: 300<br>
                     Heat Per Shot: 0.06<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    DT-12
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_DT-12.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 40-16<br>
+                    Range: 25-40<br>
+                    Firerate: 250<br>
+                    Heat Per Shot: 0.07<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    EC-17
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_EC-17.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 35-11<br>
+                    Range: 10-25<br>
+                    Firerate: 600 x 2 - 200<br>
+                    Heat Per Shot: 0.0715<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    S-5
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_S-5.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 67-45<br>
+                    Range: 15-50<br>
+                    Firerate: 140<br>
+                    Heat Per Shot: 0.1<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    X-8
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_X-8.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 50-35<br>
+                    Range: 10-40<br>
+                    Firerate: 210<br>
+                    Heat Per Shot: 0.11<br>
                 </a>
             </div>
         </div>
