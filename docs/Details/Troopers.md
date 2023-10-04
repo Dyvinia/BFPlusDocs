@@ -405,7 +405,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <h3>
                     DC-17
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/officer-blasters/Weapons_DC-17.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/universal-sidearms/Weapons_DC-17.svg">
             </div>
             <div class="text">
                 <a>
@@ -424,7 +424,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <h3>
                     DH-17
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/officer-blasters/Weapons_DH-17.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/universal-sidearms/Weapons_DH-17.svg">
             </div>
             <div class="text">
                 <a>
@@ -442,7 +442,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <h3>
                     Glie-44
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/officer-blasters/Weapons_Glie-44.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/universal-sidearms/Weapons_Glie-44.svg">
             </div>
             <div class="text">
                 <a>
@@ -458,16 +458,16 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    DC-17
+                    RG-4D
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/officer-blasters/Weapons_DC-17.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/universal-sidearms/Weapons_RG-4D.svg">
             </div>
             <div class="text">
                 <a>
-                    Damage: 42-27<br>
-                    Range: 25-40<br>
-                    Firerate: 270<br>
-                    Heat Per Shot: 0.08<br>
+                    Damage: 28-14<br>
+                    Range: 15-45<br>
+                    Firerate: 500<br>
+                    Heat Per Shot: 0.05<br>
                 </a>
             </div>
         </div>
