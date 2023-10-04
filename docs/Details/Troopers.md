@@ -703,7 +703,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Barrel.svg">
                         <span class="ability-name">Flashlight</span>
                     </div><div class="attachment-item" onclick="window.location='#sharpshooter';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_sharpshooter.svg">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Sharpshooter.svg">
                         <span class="ability-name">Sharpshooter</span>
                     </div>
                 </div>
@@ -826,7 +826,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     T-7 Disruptor Rifle
                 </h3>
                 <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_T-7_DisruptorRifle.svg">
-                <div class="blaster-trait">Charges to 3 power levels at 0.14275 power per second</div>
+                <div class="blaster-trait">Charges to 3 power levels at 0.14275 power per second, increasing blast damage and radius</div>
             </div>
             <div class="text">
                 <a>
@@ -1390,7 +1390,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     K-16 Bryar Pistol
                 </h3>
                 <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/officer-blasters/Weapons_K16BryarPistol.svg">
-                <div class="blaster-trait">Charges to 3 power levels at 0.9 power per second</div>
+                <div class="blaster-trait">Charges to 3 power levels at 0.9 power per second, increasing damage</div>
             </div>
             <div class="text">
                 <a>
@@ -1658,7 +1658,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <h3>
                     DLT-19x
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_DLT-19x.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_DLT-19X.svg">
             </div>
             <div class="text">
                 <a>
@@ -1686,7 +1686,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     DLT-20A
                 </h3>
                 <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_DLT-20A.svg">
-                <div class="blaster-trait">Charges to 3 power levels at 1 power per second</div>
+                <div class="blaster-trait">Charges to 3 power levels at 1 power per second, increasing damage</div>
             </div>
             <div class="text">
                 <a>
@@ -1711,24 +1711,25 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    RT-97C
+                    E-5S
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_RT-97C.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_E-5S.svg">
+                <div class="blaster-trait">Built-in thermal scanner scope</div>
             </div>
             <div class="text">
                 <a>
-                    Damage: 17-14<br>
-                    Range: 25-55<br>
-                    Firerate: 600<br>
-                    Heat Per Shot: 0.03125<br>
+                    Damage: 55-45<br>
+                    Range: 40-65<br>
+                    Firerate: 180<br>
+                    Heat Per Shot: 0.251<br>
                 </a>
                 <div>
-                    <div class="attachment-item" onclick="window.location='#berserker';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_BarrelExtension.svg">
-                        <span class="ability-name">Explosive Shot</span>
-                    </div><div class="attachment-item" onclick="window.location='#seeker';">
+                    <div class="attachment-item" onclick="window.location='#focusedfire';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
-                        <span class="ability-name">Seeker Tactics</span>
+                        <span class="ability-name">Focused Fire</span>
+                    </div><div class="attachment-item" onclick="window.location='#precisionblaster';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Elite.svg">
+                        <span class="ability-name">Precision Blaster</span>
                     </div>
                 </div>
             </div>
@@ -1738,53 +1739,25 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    Baragwin Repeater
+                    Valken-38x
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_BaragwinRepeater.svg">
-                <div class="blaster-trait">Accuracy tightens during burst</div>
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 9-6<br>
-                    Range: 20-64<br>
-                    Firerate: 2700 x 10 - 100<br>
-                    Heat Per Shot: 0.021<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#ionshot';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Barrel.svg">
-                        <span class="ability-name">Ion Shot</span>
-                    </div><div class="attachment-item" onclick="window.location='#stabilizer';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_RangeFinder.svg">
-                        <span class="ability-name">Stabilizer</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    DC-12U
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_DC-12U.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_Valken-38x.svg">
                 <div class="blaster-trait">Fires 2 parallel blaster bolts at once</div>
             </div>
             <div class="text">
                 <a>
-                    Damage: 10-7 x 2 (+3)<br>
-                    Range: 12-60<br>
-                    Firerate: 540<br>
-                    Heat Per Shot: 0.05<br>
+                    Damage: 48-40 x 2 (+8)<br>
+                    Range: 20-60<br>
+                    Firerate: 100<br>
+                    Heat Per Shot: 0.3<br>
                 </a>
                 <div>
-                    <div class="attachment-item" onclick="window.location='#flashlight';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Barrel.svg">
-                        <span class="ability-name">Flashlight</span>
-                    </div><div class="attachment-item" onclick="window.location='#sharpshooter';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_sharpshooter.svg">
-                        <span class="ability-name">Sharpshooter</span>
+                    <div class="attachment-item" onclick="window.location='#valken-apex';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_TripleTake.svg">
+                        <span class="ability-name">Triple Take</span>
+                    </div><div class="attachment-item" onclick="window.location='#valken-verticalshot';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Scope.svg">
+                        <span class="ability-name">Reconfiguration Scope</span>
                     </div>
                 </div>
             </div>
@@ -1794,24 +1767,53 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    DP-23
+                    773-Firepuncher
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_DP-23.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_773-Firepuncher.svg">
+                <div class="blaster-trait">Blaster bolts will ricochet off all surfaces</div>
             </div>
             <div class="text">
                 <a>
-                    Damage: 17-6 x 8<br>
-                    Range: 6-30<br>
-                    Firerate: 120<br>
-                    Heat Per Shot: 0.225<br>
+                    Damage: 50 (+10)<br>
+                    Range: 12-60<br>
+                    Firerate: 200<br>
+                    Heat Per Shot: 0.167<br>
                 </a>
                 <div>
-                    <div class="attachment-item" onclick="window.location='#ionshot';">
+                    <div class="attachment-item" onclick="window.location='#firepuncher-fuze';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_BarrelExtension.svg">
+                        <span class="ability-name">Fuze</span>
+                    </div><div class="attachment-item" onclick="window.location='#firepuncher-longlife';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Barrel.svg">
-                        <span class="ability-name">Ion Shot</span>
-                    </div><div class="attachment-item" onclick="window.location='#dp23-choke';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Choke.svg">
-                        <span class="ability-name">Choke</span>
+                        <span class="ability-name">Extended Life</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    Bowcaster
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_Bowcaster.svg">
+                <div class="blaster-trait">Charges to 3 power levels at 0.45 power per second, increasing projectile count</div>
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 40-30 x 1 | 3 | 5<br>
+                    Range: 25-60<br>
+                    Firerate: 80<br>
+                    Heat Per Shot: 0.17<br>
+                </a>
+                <div>
+                    <div class="attachment-item" onclick="window.location='#chargehack';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_SecondaryFire.svg">
+                        <span class="ability-name">Charge Hack</span>
+                    </div><div class="attachment-item" onclick="window.location='#berserker';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Berserker.svg">
+                        <span class="ability-name">Berserker</span>
                     </div>
                 </div>
             </div>
@@ -1906,7 +1908,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     T-7 Disruptor Rifle
                 </h3>
                 <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_T-7_DisruptorRifle.svg">
-                <div class="blaster-trait">Charges to 3 power levels at 0.14275 power per second</div>
+                <div class="blaster-trait">Charges to 3 power levels at 0.14275 power per second, increasing blast damage and radius</div>
             </div>
             <div class="text">
                 <a>
