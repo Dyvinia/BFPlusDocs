@@ -398,6 +398,7 @@
     font-size:small;
     opacity: 0.69;
     text-wrap: wrap;
+    white-space: pre-wrap;
     text-align: center;
     width: 256px !important;
 }

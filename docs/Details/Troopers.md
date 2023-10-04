@@ -853,7 +853,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <h3>
                     V-6D
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_V-6D.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.4em; margin-left: -0.25em; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_V-6D.svg">
                 <div class="blaster-trait">Zoom-in charges up projectile launch speed</div>
             </div>
             <div class="text">
