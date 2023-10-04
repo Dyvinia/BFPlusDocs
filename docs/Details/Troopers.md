@@ -27,10 +27,10 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 </a>
                 <div>
                     <div class="attachment-item">
-                        <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_ProximityBomb.svg">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Sharpshooter.svg">
                         <span class="ability-name">Sharpshooter</span>
                     </div><div class="attachment-item">
-                        <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_BlasterTurret.svg">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_EscapeArtist.svg">
                         <span class="ability-name">Escape Artist</span>
                     </div>
                 </div>
@@ -55,17 +55,71 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 </a>
                 <div>
                     <div class="attachment-item">
-                        <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_ProximityBomb.svg">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_RangeFinder.svg">
                         <span class="ability-name">Seeker Tactics</span>
                     </div><div class="attachment-item">
-                        <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_BlasterTurret.svg">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
                         <span class="ability-name">Focused Fire</span>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    E-11
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_E-11.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 35-15<br>
+                    Range: 10-60<br>
+                    Firerate: 300<br>
+                    Heat Per Shot: 0.055<br>
+                </a>
+                <div>
+                    <div class="attachment-item">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Berserker.svg">
+                        <span class="ability-name">Berserker</span>
+                    </div><div class="attachment-item">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Elite.svg">
+                        <span class="ability-name">Elite Blaster</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    E-5
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_E-5.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 60-50<br>
+                    Range: 30-40<br>
+                    Firerate: 200<br>
+                    Heat Per Shot: 0.1<br>
+                    Trait: Droids have 50% more cooling<br>
+                </a>
+                <div>
+                    <div class="attachment-item">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
+                        <span class="ability-name">Seeker Tactics</span>
+                    </div><div class="attachment-item">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Trigger.svg">
+                        <span class="ability-name">Bulldog RLR</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 #### Secondary
