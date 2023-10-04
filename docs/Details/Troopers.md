@@ -1823,25 +1823,25 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    E-22
+                    CJ-9 Bo-Rifle
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_E-22.svg">
-                <div class="blaster-trait">Fires 2 parallel blaster bolts at once</div>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_CJ-9Bo-Rifle.svg">
+                <div class="blaster-trait">Enhanced melee stuns enemies and does increased damage</div>
             </div>
             <div class="text">
                 <a>
-                    Damage: 30-22 x 2<br>
-                    Range: 15-40<br>
-                    Firerate: 200<br>
-                    Heat Per Shot: 0.11<br>
+                    Damage: 45-30 x 2<br>
+                    Range: 10-60<br>
+                    Firerate: 220<br>
+                    Heat Per Shot: 0.067<br>
                 </a>
                 <div>
-                    <div class="attachment-item" onclick="window.location='#seeker';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
-                        <span class="ability-name">Seeker Tactics</span>
-                    </div><div class="attachment-item" onclick="window.location='#stabilizer';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Grip.svg">
-                        <span class="ability-name">Gunslinger</span>
+                    <div class="attachment-item" onclick="window.location='#dualzoom';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Scope.svg">
+                        <span class="ability-name">Dual Zoom</span>
+                    </div><div class="attachment-item" onclick="window.location='#sharpshooter';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Sharpshooter.svg">
+                        <span class="ability-name">Sharpshooter</span>
                     </div>
                 </div>
             </div>
@@ -1851,21 +1851,22 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    G125
+                    DC-17m Sniper
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_G125.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_DC-17m-Sniper.svg">
+                <div class="blaster-trait">Requires reloading an energy magazine</div>
             </div>
             <div class="text">
                 <a>
-                    Damage: 40-15<br>
-                    Range: 20-40<br>
-                    Firerate: 250<br>
-                    Heat Per Shot: 0.04<br>
+                    Damage: 110-75<br>
+                    Range: 10-65<br>
+                    Firerate: 65<br>
+                    Heat Per Shot: 0.2<br>
                 </a>
                 <div>
-                    <div class="attachment-item" onclick="window.location='#altfire';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_SecondaryFire.svg">
-                        <span class="ability-name">Secondary Fire</span>
+                    <div class="attachment-item" onclick="window.location='#lightshot';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_CoolingCell.svg">
+                        <span class="ability-name">Light Shot</span>
                     </div><div class="attachment-item" onclick="window.location='#burstmode';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Trigger.svg">
                         <span class="ability-name">Burst Mode</span>
@@ -1878,80 +1879,51 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    Sonic Blaster
+                    Relby V-10
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_SonicBlaster.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_RelbyV-10.svg">
             </div>
             <div class="text">
                 <a>
-                    Damage: 49-30 | 20<br>
-                    Range: 20-40 | 1-5<br>
-                    Firerate: 90<br>
-                    Heat Per Shot: 0.17<br>
+                    Damage: 38-32<br>
+                    Range: 10-60 | 1-5<br>
+                    Firerate: 350<br>
+                    Heat Per Shot: 0.067<br>
                 </a>
                 <div>
-                    <div class="attachment-item" onclick="window.location='#lightshot';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_CoolingCell.svg">
-                        <span class="ability-name">Light Shot</span>
-                    </div><div class="attachment-item" onclick="window.location='#sonic-fast';">
+                    <div class="attachment-item" onclick="window.location='#focusedfire';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
+                        <span class="ability-name">Focused Fire</span>
+                    </div><div class="attachment-item" onclick="window.location='#relbyv10-microgrenade';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_MicroGrenades.svg">
+                        <span class="ability-name">Microgrenades</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    T-21B
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_T-21B.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 38-32<br>
+                    Range: 10-60 | 1-5<br>
+                    Firerate: 350<br>
+                    Heat Per Shot: 0.067<br>
+                </a>
+                <div>
+                    <div class="attachment-item" onclick="window.location='#explosive';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_BarrelExtension.svg">
-                        <span class="ability-name">Accelerated Sphere</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    T-7 Disruptor Rifle
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_T-7_DisruptorRifle.svg">
-                <div class="blaster-trait">Charges to 3 power levels at 0.14275 power per second, increasing blast damage and radius</div>
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 115 | 150 | 335<br>
-                    Radius: 1-5 | 1.25 - 7.5 | 1.5 - 9<br>
-                    Firerate: 80<br>
-                    Heat Per Shot: 3.0<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#heavyhanded';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_CoolingCell.svg">
-                        <span class="ability-name">Heavy Handed</span>
-                    </div><div class="attachment-item" onclick="window.location='#chargehack';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_SecondaryFire.svg">
-                        <span class="ability-name">Charge Hack</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    V-6D
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-blasters/Weapons_V-6D.svg">
-                <div class="blaster-trait">Zoom-in charges up projectile launch speed</div>
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 80<br>
-                    Radius: 0.75-5<br>
-                    Firerate: 80<br>
-                    Heat Per Shot: 0.034<br>
-                </a>
-                <div>
-                    </div><div class="attachment-item" onclick="window.location='#chargehack';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_SecondaryFire.svg">
-                        <span class="ability-name">Charge Hack</span>
-                    </div><div class="attachment-item" onclick="window.location='#v6d-coldwar';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_ColdWar.svg">
-                        <span class="ability-name">Pulse Barrage</span>
+                        <span class="ability-name">Explosive Shot</span>
+                    </div><div class="attachment-item" onclick="window.location='#escapeartist';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_EscapeArtist.svg">
+                        <span class="ability-name">Escape Artist</span>
                     </div>
                 </div>
             </div>
