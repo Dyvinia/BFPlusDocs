@@ -4,6 +4,26 @@
     --md-default-fg-color--light: #cecece;
     --md-primary-fg-color--dark:  #e78b00;
     --md-primary-fg-color--extradark:  #e08600;
+
+    scrollbar-width: thin;
+    scrollbar-color: #808080 #000;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #000;
+}
+  
+::-webkit-scrollbar-thumb {
+    background: #808080;
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
 }
 
 /* Page Background Color */
@@ -406,8 +426,9 @@
 
 .item {
     display: inline-block;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-bottom: 1em;
 }
 
 p:target {
@@ -419,13 +440,25 @@ p:target {
     border-left: 1px solid #808080;
 }
 
-/*
-.md-header__button.md-logo img {
-    width: 48px;
-    height: 24px;
+/* Weapon Scrollbar */
+.container {
+    scrollbar-width: thin;
+    scrollbar-color: #808080 #000;
 }
 
-.md-header__button.md-logo {
-    margin-left: .2rem;
-    padding-left: .4rem;
-}*/
+.container::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+  
+.container::-webkit-scrollbar-track {
+    background: #000;
+}
+  
+.container::-webkit-scrollbar-thumb {
+    background: #808080;
+}
+  
+.container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
