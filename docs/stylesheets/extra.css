@@ -406,6 +406,10 @@
     padding-right: 20px;
 }
 
+p:target {
+    color: var(--md-primary-fg-color);
+}
+
 /*
 .md-header__button.md-logo img {
     width: 48px;
