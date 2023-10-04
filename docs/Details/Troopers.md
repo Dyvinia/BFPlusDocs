@@ -530,45 +530,45 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 
 ## Attachments
-<p id="berserker">Berserker</p>
-<p id="burstmode">Burst Mode</p>
-<p id="chargehack">Charge Hack</p>
-<p id="coolingcell">Cooling Cell</p>
-<p id="dualzoom">Dual Zoom</p>
-<p id="eliteblaster">Elite Blaster</p>
-<p id="escapeartist">Escape Artist</p>
-<p id="explosive">Explosive Shot</p>
-<p id="focusedfire">Focused Fire</p>
-<p id="gunslinger">Gunslinger</p>
-<p id="heavy">Heavy Handed</p>
-<p id="lightshot">Light Shot</p>
-<p id="multishot">Multi-Shot Configuration</p>
-<p id="precisionblaster">Precision Blaster</p>
-<p id="altfire">Secondary Fire</p>
-<p id="scope">Improved Zoom</p>
-<p id="seeker">Seeker Tactics</p>
-<p id="sharpshooter">Sharpshooter</p>
-<p id="phasmashot">Stabilizer</p>
+<p id="berserker">Berserker: Increases damage while hip-firing, but decreases damage while aiming.</p>
+<p id="burstmode">Burst Mode: Enables a burst mode with each pull of the trigger.</p>
+<p id="chargehack">Charge Hack: Alters weapon charge-up at the cost of lower potential.</p>
+<p id="dualzoom">Dual Zoom: Macroscope that can toggle between two magnification levels while zooming.</p>
+<p id="eliteblaster">Elite Blaster: Increases damage and reconfigures the weapon to fire in bursts, with distinct purple blaster bolts.</p>
+<p id="escapeartist">Escape Artist: Increases movement speed, but reduces zoom magnification.</p>
+<p id="explosive">Explosive Shot: Unstable plasma that explodes on impact, dispersing the bolt damage across a small area. Due to its volatile nature, the blaster builds heat significantly faster.</p>
+<p id="focusedfire">Focused Fire: Improves recoil at the cost of worse sprint time recovery.</p>
+<p id="gunslinger">Gunslinger: Improves sprint time recovery, but increases recoil.</p>
+<p id="heavy">Heavy Handed: Improves heat drop delay and rate, but reduces movement speed.</p>
+<p id="lightshot">Light Shot: Improves cooling at the cost of damage.</p>
+<p id="multishot">Multi-Shot Configuration: While firing from the hip, the blaster is configured to fire multiple projectiles at once with reduced damage. Reduces zoom magnification.</p>
+<p id="precisionblaster">Precision Blaster: Increases range and projectile speed, with distinct purple trails, but disables active cooldown.</p>
+<p id="altfire">Secondary Fire: Enable a secondary fire that charges up a powerful shot while aiming.</p>
+<p id="scope">Improved Zoom: Scope with increased magnification.</p>
+<p id="seeker">Seeker Tactics: Increases movement speed while aiming, but reduces blaster bolt speed.</p>
+<p id="sharpshooter">Sharpshooter: Increases damage while aiming, but decreases damage while hip-firing.</p>
+<p id="phasmashot">Stabilizer: The blaster has terrible accuracy when first fired, but quickly settles into a tight firing pattern.</p>
 
 ### Unique Attachments
 
-<p id="ca87-crouchcontrol">Crouch Control</p>
-<p id="dc15s-powercell">Power Cell</p>
-<p id="dp23-choke">Choke</p>
-<p id="ee3-sugi">Sugi</p>
-<p id="firepuncher-longlife">Extended Life</p>
-<p id="firepuncher-fuze">Fuze</p>
-<p id="hf94-vanthrefrigeration">Second Chance</p>
-<p id="sonic-fast">Accelerated Sphere</p>
-<p id="t12-oneshot">Both Barrels</p>
-<p id="t12-slug">Slug</p>
-<p id="t39p-invertrange">Ranger Conversion</p>
-<p id="v6d-coldwar">Pulse Barrage</p>
-<p id="valken-apex">Triple Take</p>
-<p id="valken-verticalshot">Reconfiguration Scope</p>
+<p id="ca87-crouchcontrol">Crouch Control: Modifies the CA-87 to condense all its blaster bolts while crouched, but decreases its rate of fire.</p>
+<p id="dc15s-powercell">Power Cell: Reduces the blaster's cooling speed to upgrade its damage.</p>
+<p id="dp23-choke">Choke: Tightens the shock blaster's spread, but worsens recoil.</p>
+<p id="dt29-cooling">Cooling Cell: Enables supercooling of the blaster at the cost of heat build-up.</p>
+<p id="ee3-sugi">Sugi: Outfits the EE-3 with similar settings used by the bounty hunter Sugi, making it semi-automatic with blue blaster bolts.</p>
+<p id="firepuncher-longlife">Extended Life: Increases the live time of the Firepuncher's projectile, but reduces its speed.</p>
+<p id="firepuncher-fuze">Fuze: Creates an explosion when the Firepuncher projectile's life ends, but reduces its active time.</p>
+<p id="hf94-vanthrefrigeration">Second Chance: Trades some of the HF-94's power and range for the ability to fire a second shot without overheating.</p>
+<p id="sonic-fast">Accelerated Sphere: Expends a portion of the sonic sphere's blast damage to increase its travel speed.</p>
+<p id="t12-oneshot">Both Barrels: Fire from both barrels simultaneously.</p>
+<p id="t12-slug">Slug: Fire a single slug for improved accuracy and range. Additionally enables the scope and increases zoom.</p>
+<p id="t39p-invertrange">Ranger Conversion: Converted blaster pack inverts blaster damage drop-off and reduces rate of fire.</p>
+<p id="v6d-coldwar">Pulse Barrage: Charges up a rapid burst that fires all projectiles.</p>
+<p id="valken-apex">Triple Take: Further modifies the Valken-38x to fire a third blaster bolt, but reduces its cooling power.</p>
+<p id="valken-verticalshot">Reconfiguration Scope: While aiming down sights, the Valken-38x will reconfigure to fire its blaster bolts vertically parallel. Additionally, the scope magnification is increased.</p>
 
 ### Sidearm Replacers
-<p id="a180-pistol">A180 Pistol</p>
-<p id="a180-rifle">A180 Rifle</p>
-<p id="e5-rocket">Bulldog RLR</p>
-<p id="relbyv10-grenade">Microgrenades</p>
+<p id="a180-pistol">A180 Pistol: Pistol configuration of the A180 suited for close range.</p>
+<p id="a180-rifle">A180 Rifle: Rifle configuration of the A180 suited for medium range.</p>
+<p id="e5-rocket">Bulldog RLR: Anti-personnel rocket launcher utilizing the frame assembly of the E-5 blaster rifle.</p>
+<p id="relbyv10-grenade">Microgrenades: Equips the Relby V-10 with a microgrenade launcher.</p>
