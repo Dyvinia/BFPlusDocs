@@ -20,10 +20,10 @@ Join the fray with a selection of over a hundred new abilities available to the 
             </div>
             <div class="text">
                 <a>
-                    Damage: 36<br>
-                    Range: 69<br>
-                    Firerate: 420<br>
-                    Heat Per Shot: 0.69<br>
+                    Damage: 25-12<br>
+                    Range: 10-60<br>
+                    Firerate: 400<br>
+                    Heat Per Shot: 0.038<br>
                 </a>
                 <div>
                     <div class="attachment-item">
