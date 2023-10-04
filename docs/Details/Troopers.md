@@ -16,7 +16,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <h3>
                     A280C
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/clonejettrooper/Weapons_CloneJetTrooperDC-15A.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_A280C.svg">
             </div>
             <div class="text">
                 <a>
@@ -28,10 +28,10 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <div>
                     <div class="attachment-item">
                         <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_ProximityBomb.svg">
-                        <span class="ability-name">Proximity Bomb</span>
+                        <span class="ability-name">Sharpshooter</span>
                     </div><div class="attachment-item">
                         <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_BlasterTurret.svg">
-                        <span class="ability-name">Augmented Turret</span>
+                        <span class="ability-name">Escape Artist</span>
                     </div>
                 </div>
             </div>
@@ -42,24 +42,24 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    DH-17
+                    DC-15A
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/clonejettrooper/Weapons_CloneJetTrooperDC-15A.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_DC-15A.svg">
             </div>
             <div class="text">
                 <a>
-                    Damage: 36<br>
-                    Range: 69<br>
-                    Firerate: 420<br>
-                    Heat Per Shot: 0.69<br>
+                    Damage: 26-22<br>
+                    Range: 20-35<br>
+                    Firerate: 350<br>
+                    Heat Per Shot: 0.032<br>
                 </a>
                 <div>
                     <div class="attachment-item">
                         <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_ProximityBomb.svg">
-                        <span class="ability-name">Proximity Bomb</span>
+                        <span class="ability-name">Seeker Tactics</span>
                     </div><div class="attachment-item">
                         <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_BlasterTurret.svg">
-                        <span class="ability-name">Augmented Turret</span>
+                        <span class="ability-name">Focused Fire</span>
                     </div>
                 </div>
             </div>
