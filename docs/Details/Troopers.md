@@ -315,7 +315,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <h3>
                     T-12
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_A280C.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_T-12.svg">
             </div>
             <div class="text">
                 <a>
@@ -336,7 +336,62 @@ Join the fray with a selection of over a hundred new abilities available to the 
             </div>
         </div>
     </div>
-
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    VT-33D
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_VT-33D_Blaster.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 22-19<br>
+                    Range: 10-30<br>
+                    Firerate: 600<br>
+                    Heat Per Shot: 0.048<br>
+                    Trait: Fires at least 3 blasts per trigger pull
+                </a>
+                <div>
+                    <div class="attachment-item" onclick="window.location='#gunslinger';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Grip.svg">
+                        <span class="ability-name">Gunslinger</span>
+                    </div><div class="attachment-item" onclick="window.location='#escapeartist';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_EscapeArtist.svg">
+                        <span class="ability-name">Escape Artist</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    Zersium Rifle
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_ZersiumRifle.svg">
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 30-27 | 40-30 | 70-40<br>
+                    Range: 30-40 | 20-30 | 10-20<br>
+                    Firerate: 320<br>
+                    Heat Per Shot: 0.05 x 0.9 | 1 | 1.1<br>
+                    Trait: Randomizes stats on trigger pull
+                </a>
+                <div>
+                    <div class="attachment-item" onclick="window.location='#gunslinger';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Grip.svg">
+                        <span class="ability-name">Gunslinger</span>
+                    </div><div class="attachment-item" onclick="window.location='#escapeartist';">
+                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_EscapeArtist.svg">
+                        <span class="ability-name">Escape Artist</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 </div>
 
@@ -348,26 +403,17 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    DH-17
+                    DC-17
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/clonejettrooper/Weapons_CloneJetTrooperDC-15A.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/officer-blasters/Weapons_DC-17.svg">
             </div>
             <div class="text">
                 <a>
-                    Damage: 36<br>
-                    Range: 69<br>
-                    Firerate: 420<br>
-                    Heat Per Shot: 0.69<br>
+                    Damage: 42-27<br>
+                    Range: 25-40<br>
+                    Firerate: 270<br>
+                    Heat Per Shot: 0.08<br>
                 </a>
-                <div>
-                    <div class="attachment-item">
-                        <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_ProximityBomb.svg">
-                        <span class="ability-name">Proximity Bomb</span>
-                    </div><div class="attachment-item">
-                        <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_BlasterTurret.svg">
-                        <span class="ability-name">Augmented Turret</span>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
@@ -378,24 +424,15 @@ Join the fray with a selection of over a hundred new abilities available to the 
                 <h3>
                     DH-17
                 </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/clonejettrooper/Weapons_CloneJetTrooperDC-15A.svg">
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/officer-blasters/Weapons_DH-17.svg">
             </div>
             <div class="text">
                 <a>
-                    Damage: 36<br>
-                    Range: 69<br>
-                    Firerate: 420<br>
-                    Heat Per Shot: 0.69<br>
+                    Damage: 25-5<br>
+                    Range: 25-40<br>
+                    Firerate: 450<br>
+                    Heat Per Shot: 0.04<br>
                 </a>
-                <div>
-                    <div class="attachment-item">
-                        <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_ProximityBomb.svg">
-                        <span class="ability-name">Proximity Bomb</span>
-                    </div><div class="attachment-item">
-                        <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_BlasterTurret.svg">
-                        <span class="ability-name">Augmented Turret</span>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
