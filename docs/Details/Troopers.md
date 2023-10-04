@@ -588,7 +588,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 ### Unique Attachments
 
-<p id="ca87-crouchcontrol">Crouch Control: Modifies the CA-87 to condense all its blaster bolts while crouched, but decreases its rate of fire.</p>
+<p id="ca87-crouchcontrol"><strong>Crouch Control:</strong> <span style="opacity: 0.69;">Modifies the CA-87 to condense all its blaster bolts while crouched, but decreases its rate of fire.</span></p>
 <p id="dc15s-powercell">Power Cell: Reduces the blaster's cooling speed to upgrade its damage.</p>
 <p id="dp23-choke">Choke: Tightens the shock blaster's spread, but worsens recoil.</p>
 <p id="dt29-cooling">Cooling Cell: Enables supercooling of the blaster at the cost of heat build-up.</p>
