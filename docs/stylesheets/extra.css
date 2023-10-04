@@ -394,6 +394,7 @@
 
 .blaster-trait {
     margin-top: 1.5em;
+    margin-left: -0.5em;
     font-size:small;
     opacity: 0.69;
     text-wrap: wrap;
