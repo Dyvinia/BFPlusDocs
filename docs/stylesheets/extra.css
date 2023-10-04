@@ -389,8 +389,12 @@
     vertical-align: middle;
     margin-right: 8px;
     position: relative;
-    cursor: default;
+    cursor: pointer;
     opacity: 0.69;
+    transition:opacity 125ms !important;
+}
+.attachment-item:hover {
+    opacity: 1;
 }
 
 .container {
