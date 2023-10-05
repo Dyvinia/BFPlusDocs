@@ -59,7 +59,8 @@ nav:
   - Details:
     - 'details/heroes.md'
     - 'details/reinforcements.md'
-    - 'details/troopers.md'
+    - 'details/blasters.md'
+    - 'details/starcards.md'
   - Setup:
     - 'setup/installation.md'
     - 'setup/troubleshooting.md'
