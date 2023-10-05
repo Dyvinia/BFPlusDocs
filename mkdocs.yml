@@ -47,6 +47,8 @@ extra:
       name: Discord
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - js/extra.js
 
 repo_url: https://www.nexusmods.com/starwarsbattlefront22017/mods/7592 
 repo_name: Download on NexusMods
