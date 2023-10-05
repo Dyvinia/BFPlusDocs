@@ -55,12 +55,12 @@ copyright: Battlefront+ Team
 
 nav:
   - Overview: 'index.md'
-  - Gallery: 'Gallery.md'
+  - Gallery: 'gallery.md'
   - Details:
-    - 'Details/Heroes.md'
-    - 'Details/Reinforcements.md'
-    - 'Details/Troopers.md'
+    - 'details/heroes.md'
+    - 'details/reinforcements.md'
+    - 'details/troopers.md'
   - Setup:
-    - 'Setup/Installation.md'
-    - 'Setup/Troubleshooting.md'
-  - Changelog: 'Changelog.md'
+    - 'setup/installation.md'
+    - 'setup/troubleshooting.md'
+  - Changelog: 'changelog.md'
