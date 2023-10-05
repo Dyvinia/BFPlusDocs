@@ -1,13 +1,11 @@
-window.onload = () => {
-    currentURL = window.location.href;
-    lowerCaseURL = currentURL.toLowerCase();
-    if (currentURL != lowerCaseURL) {
-        if (!UrlExists(currentURL)){
-            console.log("Redirecting from " + currentURL + " to " + lowerCaseURL);
-            location.replace(lowerCaseURL);
-        }
+currentURL = window.location.href;
+lowerCaseURL = currentURL.toLowerCase();
+if (currentURL != lowerCaseURL) {
+    if (!UrlExists(currentURL)){
+        console.log("Redirecting from " + currentURL + " to " + lowerCaseURL);
+        location.replace(lowerCaseURL);
     }
-};
+}
 
 function UrlExists(url) {
     var http = new XMLHttpRequest();
