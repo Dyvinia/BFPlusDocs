@@ -1,7 +1,7 @@
 from mkdocs.structure.toc import AnchorLink
 
 def on_page_content(html, page, **kwargs):
-    if page.file.src_uri != "Details/Heroes.md":
+    if page.file.src_uri != "details/heroes.md":
         return
     for link in page.toc:
         for child in link.children:
