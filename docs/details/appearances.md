@@ -1,5 +1,8 @@
 # Appearances
 
+Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description  
+<p style="font-size: 14px; margin-top: -1em; margin-bottom: -1em; opacity: 0.69;">Hint: Click on images to zoom</p>
+
 ## Clones
 
 <h3><b>Assault</b></h3>
