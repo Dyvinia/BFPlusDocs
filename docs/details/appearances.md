@@ -350,4 +350,96 @@
     </div>
 </div>
 
+
+## First Order
+
+<h3><b>Assault</b></h3>
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 30% 0;" src="../../assets/new-appearances/troopers/firstorder/assault/assault-elite.png">
+            <h4><b>Elite Trooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 65% 0;" src="../../assets/new-appearances/troopers/firstorder/assault/assault-execute.png">
+            <h4><b>Execute Trooper?</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 65% 0;" src="../../assets/new-appearances/troopers/firstorder/assault/assault-tech.png">
+            <h4><b>Tech Trooper?</b></h4>
+        </div>
+    </div>
+</div>
+
+<h3><b>Heavy</b></h3>
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" src="../../assets/new-appearances/troopers/firstorder/heavy/heavy-execute.png">
+            <h4><b>Execute Trooper?</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 60% 0;" src="../../assets/new-appearances/troopers/firstorder/heavy/heavy-patrolleader.png">
+            <h4><b>Patrol Leader</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 60% 0;" src="../../assets/new-appearances/troopers/firstorder/heavy/heavy-tech.png">
+            <h4><b>Tech Trooper?</b></h4>
+        </div>
+    </div>
+</div>
+
+<h3><b>Officer</b></h3>
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" src="../../assets/new-appearances/troopers/firstorder/officer/officer-execute.png">
+            <h4><b>Execute Trooper?</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" src="../../assets/new-appearances/troopers/firstorder/officer/officer-squadleader.png">
+            <h4><b>Squad Leader</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 45% 0;" src="../../assets/new-appearances/troopers/firstorder/officer/officer-tech.png">
+            <h4><b>Tech Trooper?</b></h4>
+        </div>
+    </div>
+</div>
+
+<h3><b>Specialist</b></h3>
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 45% 0;" src="../../assets/new-appearances/troopers/firstorder/specialist/specialist-elite.png">
+            <h4><b>Elite Trooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" src="../../assets/new-appearances/troopers/firstorder/specialist/specialist-execute.png">
+            <h4><b>Execute Trooper?</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 65% 0;" src="../../assets/new-appearances/troopers/firstorder/specialist/specialist-tech.png">
+            <h4><b>Tech Trooper?</b></h4>
+        </div>
+    </div>
+</div>
+
+
 <p style="font-size: 12px; text-align: center; margin-top: 2em; margin-bottom: -1em;">Hint: Click on images to zoom</p>
