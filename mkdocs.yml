@@ -1,7 +1,8 @@
 site_name: Battlefront+
 theme:
   name: material
-  #logo: assets/bfplusvtenshort2.png
+  logo: assets/bfplus-logo.svg
+  favicon: assets/plus.png
   palette:
     scheme: slate
     primary: custom

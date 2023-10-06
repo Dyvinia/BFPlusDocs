@@ -61,6 +61,23 @@
 .md-nav__title {
     color: #fff;
 }
+.md-header__topic:first-child {
+    display: none;
+}
+
+[dir="ltr"] .md-header__title {
+    margin-left: 0.5rem;
+}
+.md-logo {
+    margin: 0 !important;
+    padding: 0 !important;
+    margin-left: 0.2rem !important;
+    padding-left: 0.4rem !important;
+    transform: translateY(-0.75px);
+}
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 1.4rem;
+}
 
 /* Footer */
 .md-footer,
