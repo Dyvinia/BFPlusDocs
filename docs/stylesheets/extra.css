@@ -490,7 +490,7 @@
     max-width: 135px !important;
     margin-top: 0.1em;
     margin-bottom: -0.69em;
-    border-radius: 0.75em;
+    border-radius: 0.725em;
     background-color: #080808;
     border: 2px solid var(--md-primary-fg-color);
     object-fit: cover;
@@ -516,7 +516,7 @@
     max-width: 170px !important;
     margin-top: 0.1em;
     margin-bottom: -0.69em;
-    border-radius: 1em;
+    border-radius: 0.95em;
     background-color: #080808;
     border: 2px solid var(--md-primary-fg-color);
     object-fit: cover;
