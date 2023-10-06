@@ -351,6 +351,8 @@
 .trooper-blaster {
     display: flex;
     flex-basis: 0;
+    margin-left: 8px;
+    margin-right: 12px;
     /*border: 2px solid var(--md-primary-fg-color);*/
 }
 
@@ -559,6 +561,7 @@ p:target {
 /* Line between items */
 .container > .item + .item {
     border-left: 1px solid #808080;
+    padding-left: 8px;
 }
 
 /* Container Scrollbar */
