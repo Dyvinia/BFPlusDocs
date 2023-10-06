@@ -109,7 +109,7 @@ Battlefront Plus is the largest mod project for Star Wars Battlefront II (2017),
 <a class="devs" href="" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://cdn.discordapp.com/avatars/443908039339409409/3af7a3029d5c2405f159ceb289e47b41.png"/>Squidy
 </a>
-<a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/85153988" target="_blank" rel="noopener noreferrer">
+<a class="devs" href="https://ko-fi.com/thespartancv" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-85153988.png"/>TheSpartanCV
 </a>
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/94065553" target="_blank" rel="noopener noreferrer">
