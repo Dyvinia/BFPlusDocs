@@ -3,9 +3,11 @@
 Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description  
 <p style="font-size: 14px; margin-top: -1em; margin-bottom: -1em; opacity: 0.69;">Hint: Click on images to zoom</p>
 
-## Clones
+## Troopers
 
-<h3><b>Assault</b></h3>
+### Clones
+
+<h3 style="font-size: 1.05em; margin-top: -0.5em; "><b>Assault</b></h3>
 <div class="container" style="margin-top: -0.8em;">
     <!-- Item Start -->
     <div class="appearance-item">
@@ -59,7 +61,7 @@ Description Description Description Description Description Description Descript
     </div>
 </div>
 
-<h3><b>Heavy</b></h3>
+<h3 style="font-size: 1.05em;"><b>Heavy</b></h3>
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
@@ -111,7 +113,7 @@ Description Description Description Description Description Description Descript
     </div>
 </div>
 
-<h3><b>Officer</b></h3>
+<h3 style="font-size: 1.05em;"><b>Officer</b></h3>
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
@@ -175,7 +177,7 @@ Description Description Description Description Description Description Descript
     </div>
 </div>
 
-<h3><b>Specialist</b></h3>
+<h3 style="font-size: 1.05em;"><b>Specialist</b></h3>
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
@@ -227,9 +229,9 @@ Description Description Description Description Description Description Descript
     </div>
 </div>
 
-## Empire
+### Empire
 
-<h3><b>Assault</b></h3>
+<h3 style="font-size: 1.05em; margin-top: -0.5em;"><b>Assault</b></h3>
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
@@ -257,7 +259,7 @@ Description Description Description Description Description Description Descript
     </div>
 </div>
 
-<h3><b>Heavy</b></h3>
+<h3 style="font-size: 1.05em;"><b>Heavy</b></h3>
 <div class="container" style="margin-top: -0.8em;">
 <div class="appearance-item">
     <div class="appearance">
@@ -291,7 +293,7 @@ Description Description Description Description Description Description Descript
     </div>
 </div>
 
-<h3><b>Officer</b></h3>
+<h3 style="font-size: 1.05em;"><b>Officer</b></h3>
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
@@ -331,7 +333,7 @@ Description Description Description Description Description Description Descript
     </div>
 </div>
 
-<h3><b>Specialist</b></h3>
+<h3 style="font-size: 1.05em;"><b>Specialist</b></h3>
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
@@ -354,9 +356,9 @@ Description Description Description Description Description Description Descript
 </div>
 
 
-## First Order
+### First Order
 
-<h3><b>Assault</b></h3>
+<h3 style="font-size: 1.05em; margin-top: -0.5em;"><b>Assault</b></h3>
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
@@ -378,7 +380,7 @@ Description Description Description Description Description Description Descript
     </div>
 </div>
 
-<h3><b>Heavy</b></h3>
+<h3 style="font-size: 1.05em;"><b>Heavy</b></h3>
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
@@ -400,7 +402,7 @@ Description Description Description Description Description Description Descript
     </div>
 </div>
 
-<h3><b>Officer</b></h3>
+<h3 style="font-size: 1.05em;"><b>Officer</b></h3>
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
@@ -422,7 +424,7 @@ Description Description Description Description Description Description Descript
     </div>
 </div>
 
-<h3><b>Specialist</b></h3>
+<h3 style="font-size: 1.05em;"><b>Specialist</b></h3>
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
