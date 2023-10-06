@@ -298,7 +298,7 @@ Description Description Description Description Description Description Descript
     <div class="appearance-item">
         <div class="appearance">
             <img style="object-position: 45% 0;" src="../../assets/new-appearances/troopers/empire/officer/officer-captain.png">
-            <h4><b>Captain</b></h4>
+            <h4><b>Squad Leader</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -369,13 +369,13 @@ Description Description Description Description Description Description Descript
     <div class="appearance-item">
         <div class="appearance">
             <img style="object-position: 65% 0;" src="../../assets/new-appearances/troopers/firstorder/assault/assault-execute.png">
-            <h4><b>Execute Trooper?</b></h4>
+            <h4><b>Executioner Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
             <img style="object-position: 65% 0;" src="../../assets/new-appearances/troopers/firstorder/assault/assault-tech.png">
-            <h4><b>Tech Trooper?</b></h4>
+            <h4><b>Tech Trooper</b></h4>
         </div>
     </div>
 </div>
@@ -385,7 +385,7 @@ Description Description Description Description Description Description Descript
     <div class="appearance-item">
         <div class="appearance">
             <img style="object-position: 50% 0;" src="../../assets/new-appearances/troopers/firstorder/heavy/heavy-execute.png">
-            <h4><b>Execute Trooper?</b></h4>
+            <h4><b>Executioner Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -397,7 +397,7 @@ Description Description Description Description Description Description Descript
     <div class="appearance-item">
         <div class="appearance">
             <img style="object-position: 60% 0;" src="../../assets/new-appearances/troopers/firstorder/heavy/heavy-tech.png">
-            <h4><b>Tech Trooper?</b></h4>
+            <h4><b>Tech Trooper</b></h4>
         </div>
     </div>
 </div>
@@ -407,7 +407,7 @@ Description Description Description Description Description Description Descript
     <div class="appearance-item">
         <div class="appearance">
             <img style="object-position: 50% 0;" src="../../assets/new-appearances/troopers/firstorder/officer/officer-execute.png">
-            <h4><b>Execute Trooper?</b></h4>
+            <h4><b>Executioner Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -419,7 +419,7 @@ Description Description Description Description Description Description Descript
     <div class="appearance-item">
         <div class="appearance">
             <img style="object-position: 45% 0;" src="../../assets/new-appearances/troopers/firstorder/officer/officer-tech.png">
-            <h4><b>Tech Trooper?</b></h4>
+            <h4><b>Tech Trooper</b></h4>
         </div>
     </div>
 </div>
@@ -435,13 +435,13 @@ Description Description Description Description Description Description Descript
     <div class="appearance-item">
         <div class="appearance">
             <img style="object-position: 50% 0;" src="../../assets/new-appearances/troopers/firstorder/specialist/specialist-execute.png">
-            <h4><b>Execute Trooper?</b></h4>
+            <h4><b>Executioner Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
             <img style="object-position: 65% 0;" src="../../assets/new-appearances/troopers/firstorder/specialist/specialist-tech.png">
-            <h4><b>Tech Trooper?</b></h4>
+            <h4><b>Tech Trooper</b></h4>
         </div>
     </div>
 </div>
