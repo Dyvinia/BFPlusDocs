@@ -8,4 +8,4 @@
 ![grievious](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1649279330-769874065.png){ .round-corners }
 ![bountyhunters](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1648161761-1292028198.png){ .round-corners }
 
-<p style="font-size: 12px; text-align: center;">Hint: Click on images to zoom</p>
+<p style="font-size: 12px; text-align: center; margin-top: 2em; margin-bottom: -1em;">Hint: Click on images to zoom</p>
