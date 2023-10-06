@@ -481,18 +481,19 @@
 
 /* Appearance */
 .appearance {
-    width: 200px !important;
+    width: 165px !important;
 }
 
 .appearance img {
-    height: auto;
-    width: 200px;
-    max-width: 200px !important;
-    margin-top: 0em;
+    height: 280px;
+    width: 165px;
+    max-width: 165px !important;
+    margin-top: 0.1em;
     margin-bottom: -0.69em;
     border-radius: 1em;
     background-color: #080808;
     border: 2px solid var(--md-primary-fg-color);
+    object-fit: cover;
 }
 
 .appearance h4 {
@@ -501,6 +502,7 @@
     color: #fff;
     margin-bottom: 0em;
     text-align: center;
+    font-size: medium;
 }
 
 .container {
@@ -512,21 +514,28 @@
 
 .item {
     display: inline-block;
-    padding-left: 16px;
-    padding-right: 16px;
     margin-bottom: 1em;
+}
+
+.appearance-item {
+    display: inline-block;
+    margin-bottom: 0.4em;
+}
+
+.container > .appearance-item + .appearance-item {
+    padding-left: 8px;
 }
 
 p:target {
     color: var(--md-primary-fg-color);
 }
 
-/* Line between weapons */
+/* Line between items */
 .container > .item + .item {
     border-left: 1px solid #808080;
 }
 
-/* Weapon Scrollbar */
+/* Container Scrollbar */
 .container {
     scrollbar-width: thin;
     scrollbar-color: #808080 #000;
