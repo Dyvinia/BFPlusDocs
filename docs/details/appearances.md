@@ -525,7 +525,7 @@
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance-hero">
-            <img style="object-position: 95% 0;" src="../../assets/new-appearances/heroes/darth-vader/darth-vader-2-damaged.png">
+            <img style="object-position: 100% 0;" src="../../assets/new-appearances/heroes/darth-vader/darth-vader-2-damaged.png">
             <h4><b>Damaged</b></h4>
         </div>
     </div>
@@ -553,6 +553,44 @@
         <div class="appearance-hero">
             <img style="object-position: 50% 0;" src="../../assets/new-appearances/heroes/han/han-9-general.png">
             <h4><b>General</b></h4>
+        </div>
+    </div>
+</div>
+
+### **Luke Skywalker**
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 60% 0;" src="../../assets/new-appearances/heroes/luke/luke-5-stormtrooper.png">
+            <h4><b>Stormtrooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 55% 0;" src="../../assets/new-appearances/heroes/luke/luke-6-endor.png">
+            <h4><b>Endor</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 40% 0;" src="../../assets/new-appearances/heroes/luke/luke-7-duel.png">
+            <h4><b>Duel</b></h4>
+        </div>
+    </div>
+</div>
+
+### **Obi-Wan Kenobi**
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 60% 0;" src="../../assets/new-appearances/heroes/obi-wan/obi-wan-4-pilot.png">
+            <h4><b>Pilot</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 55% 0;" src="../../assets/new-appearances/heroes/obi-wan/obi-wan-5-knight.png">
+            <h4><b>Jedi Knight</b></h4>
         </div>
     </div>
 </div>
