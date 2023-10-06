@@ -441,5 +441,120 @@
     </div>
 </div>
 
+## Heroes
+
+### **Anakin**
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 50% 0;" src="../../assets/new-appearances/heroes/anakin/anakin-4-pilot.png">
+            <h4><b>Pilot</b></h4>
+        </div>
+    </div>
+</div>
+
+### **Boba Fett**
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 50% 0;" src="../../assets/new-appearances/heroes/boba/boba-2-rebirth.png">
+            <h4><b>Rebirth</b></h4>
+        </div>
+    </div>
+</div>
+
+### **Bossk**
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 50% 0;" src="../../assets/new-appearances/heroes/bossk/bossk-2-james.png">
+            <h4><b>James Bossk</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 35% 0;" src="../../assets/new-appearances/heroes/bossk/bossk-3-lothal.png">
+            <h4><b>Lothal</b></h4>
+        </div>
+    </div>
+</div>
+
+### **Chewbacca**
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 25% 0;" src="../../assets/new-appearances/heroes/chewbacca/chewbacca-4-stormtrooper.png">
+            <h4><b>Stormtrooper</b></h4>
+        </div>
+    </div>
+</div>
+
+### **Count Dooku**
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 35% 0;" src="../../assets/new-appearances/heroes/count-dooku/count-dooku-4-duelist.png">
+            <h4><b>Duelist</b></h4>
+        </div>
+    </div>
+</div>
+
+### **Darth Maul**
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 65% 0;" src="../../assets/new-appearances/heroes/darth-maul/darth-maul-3-crimsondawn.png">
+            <h4><b>Crimson Dawn</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 50% 0;" src="../../assets/new-appearances/heroes/darth-maul/darth-maul-4-twinsuns.png">
+            <h4><b>Twin Suns</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 30% 0;" src="../../assets/new-appearances/heroes/darth-maul/darth-maul-5-mandalore.png">
+            <h4><b>Mandalore</b></h4>
+        </div>
+    </div>
+</div>
+
+### **Darth Vader**
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 95% 0;" src="../../assets/new-appearances/heroes/darth-vader/darth-vader-2-damaged.png">
+            <h4><b>Damaged</b></h4>
+        </div>
+    </div>
+</div>
+
+### **General Grievous**
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 50% 0;" src="../../assets/new-appearances/heroes/grievous/grievous-4-general.png">
+            <h4><b>General</b></h4>
+        </div>
+    </div>
+</div>
+
+### **Han Solo**
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 70% 0;" src="../../assets/new-appearances/heroes/han/han-8-stormtrooper.png">
+            <h4><b>Stormtrooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance-hero">
+            <img style="object-position: 50% 0;" src="../../assets/new-appearances/heroes/han/han-9-general.png">
+            <h4><b>General</b></h4>
+        </div>
+    </div>
+</div>
 
 <p style="font-size: 12px; text-align: center; margin-top: 2em; margin-bottom: -1em;">Hint: Click on images to zoom</p>

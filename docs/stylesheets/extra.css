@@ -507,13 +507,13 @@
 
 /* Hero Appearance */
 .appearance-hero {
-    width: 135px !important;
+    width: 180px !important;
 }
 
 .appearance-hero img {
-    height: 225px;
-    width: 135px;
-    max-width: 135px !important;
+    height: 280px;
+    width: 180px;
+    max-width: 180px !important;
     margin-top: 0.1em;
     margin-bottom: -0.69em;
     border-radius: 1em;
@@ -528,7 +528,7 @@
     color: #fff;
     margin-bottom: 0em;
     text-align: center;
-    font-size: small;
+    font-size: 0.85em;
 }
 
 .container {
