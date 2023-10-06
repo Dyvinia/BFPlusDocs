@@ -14,5 +14,9 @@
 
 
 ## Incompatible Mods
+- Battlefront 2022[^1]
+- Battlefront Expanded[^1]
 - Ortho's Clones
 - Rebel Alliance Overhaul
+
+[^1]: Large content modpacks are not compatible with each other.
