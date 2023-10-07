@@ -2,7 +2,10 @@
 
 Join the fray with a selection of over a hundred new abilities available to the Assault, Heavy, Officer, and Specialist. Each class has greatly expanded its arsenal of blasters and Star Cards, along with the addition of a sidearm menu to select your secondary weapon, as well as a Ping button to mark points of interest for your team.
 
-<h2 id="assault">Assault</h2>
+<h2 id="assault">
+    <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Assault_01.svg">
+    Assault
+</h2>
 
 #### Primary
 
@@ -583,7 +586,10 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 </div>
 
-<h2 id="heavy">Heavy</h2>
+<h2 id="heavy">
+    <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Heavy_01.svg">
+    Heavy
+</h2>
 
 #### Primary
 
@@ -1138,7 +1144,10 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 </div>
 
-<h2 id="officer">Officer</h2>
+<h2 id="officer">
+    <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Officer_01.svg">
+    Officer
+</h2>
 
 #### Primary
 
@@ -1734,7 +1743,10 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 </div>
 
-<h2 id="specialist">Specialist</h2>
+<h2 id="specialist">
+    <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Specialist_01.svg">
+    Specialist
+</h2>
 
 #### Primary
 

@@ -457,6 +457,14 @@
     opacity: 1;
 }
 
+.blaster-class {
+    width: 48px;
+    vertical-align: middle;
+    margin-left: -0.25em;
+    margin-right: -0.25em;
+    margin-bottom: 0.2em;
+}
+
 /* Star Cards */
 .star-card {
     display: flex;
