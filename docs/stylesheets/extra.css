@@ -134,7 +134,7 @@
 .gallery-images {
     border-radius: 0.75em;
     width: calc(50% - 2.35px);
-    margin-bottom: -3px;
+    margin-top: -3px;
 }
 
 /* Hero Cards */
