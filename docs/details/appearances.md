@@ -473,7 +473,7 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     <div class="appearance-item">
         <div class="appearance-hero">
             <img style="object-position: 50% 0;" src="../../assets/new-appearances/heroes/bossk/bossk-2-james.png">
-            <h4><b>James Bossk</b></h4>
+            <h4><b>Fancy</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -490,7 +490,7 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
         <div class="appearance-hero">
             <img style="object-position: 25% 0;" src="../../assets/new-appearances/heroes/chewbacca/chewbacca-4-stormtrooper.png">
             <h4><b>Stormtrooper Helmet</b></h4>
-            <h4><b>Tampa's Favorite</b></h4>
+            <h4><b>(Tampa's Favorite)</b></h4>
         </div>
     </div>
 </div>
@@ -532,7 +532,7 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     <div class="appearance-item">
         <div class="appearance-hero">
             <img style="object-position: 100% 0;" src="../../assets/new-appearances/heroes/darth-vader/darth-vader-2-damaged.png">
-            <h4><b>Damaged</b></h4>
+            <h4><b>Battle Damaged</b></h4>
         </div>
     </div>
 </div>
