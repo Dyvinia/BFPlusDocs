@@ -455,7 +455,7 @@
 .star-card {
     display: flex;
     flex-basis: 0;
-    width: 26em !important;
+    width: 25em !important;
 }
 
 .star-card img {

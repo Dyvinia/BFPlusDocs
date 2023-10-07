@@ -2,7 +2,7 @@ site_name: Battlefront+
 theme:
   name: material
   logo: assets/bfplus-logo.svg
-  favicon: assets/plus.png
+  favicon: assets/bfplus-rexlogo.png
   palette:
     scheme: slate
     primary: custom
@@ -39,6 +39,9 @@ plugins:
   - mkdocs-video
 extra:
   generator: false
+  analytics:
+    provider: google 
+    property: G-6H10EQ2QT0 
   social:
     - icon: fontawesome/solid/folder-plus
       link: https://www.nexusmods.com/starwarsbattlefront22017/mods/7592 
