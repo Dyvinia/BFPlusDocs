@@ -77,7 +77,7 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 69% 0;" src="../../assets/new-appearances/troopers/clones/heavy/heavy-187.png">
+            <img style="object-position: 60% 0;" src="../../assets/new-appearances/troopers/clones/heavy/heavy-187.png">
             <h4><b>187th Battalion</b></h4>
         </div>
     </div>

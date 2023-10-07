@@ -1,5 +1,7 @@
 # Gallery
 ![mainLogo](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1674924870-1295293081.png){ .round-corners }  
+![firepuncher](/assets/gallery/firepuncher.png){ .gallery-images  }
+
 ![secondsisterLogo](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1680370355-1385766820.png){ .gallery-images  }
 ![firstorderLogo](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1680370358-1410568238.png){ .gallery-images }
 ![feluciaLogo](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1680370367-1689756380.png){ .gallery-images }
