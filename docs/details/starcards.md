@@ -239,20 +239,188 @@ In addition to a plethora of new blasters, each of the four Trooper classes also
 
 ## Heroes
 
-### Ahsoker
+### Ahsoka
 
 <div class="container" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
             <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/ahsoka/Card_Ahsoka_1_Mid.png">
+                <img class="no-lb" src="../../assets/star-cards/hero/ahsoka/Card_Ahsoka_4_Mid.png">
             </div>
             <div class="text">
-                <h4><b>Yippee</b></h4>
-                <a>Death is Reborn in Apex Legends: Resurrection. Revenant has been twisted into something even more sinister and his new reign of terror has begun. Experience his killer new look and deadly new abilities as he is unlocked for all players all season long. Complete challenges to unlock him permanently.</a>
+                <h4><b>Jar'Kai Mastery</b></h4>
+                <a>Ahsoka will deal extra damage with SABER FLURRY if it is performed immediately after a successful SABER THROW attack.</a>
             </div>
         </div>
     </div>
     <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/ahsoka/Card_Ahsoka_3_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Great Stride</b></h4>
+                <a>The active time of MORAL SPIRIT is extended.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/ahsoka/Card_Ahsoka_6_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Fearless</b></h4>
+                <a>SABER FLURRY has increased range, enabling Ahsoka to lunge toward more distant enemies, but the recharge time of the ability is slower.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/ahsoka/Card_Ahsoka_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>I'm No Jedi</b></h4>
+                <a>Ahsoka's basic lightsaber attacks, after being used to defeat an enemy, will deal bonus damage for a brief period. This effect cannot be applied to the same enemy for a short duration. Her maximum health is also decreased.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/ahsoka/Card_Ahsoka_5_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Skywalker's Student</b></h4>
+                <a>The recharge time of SABER THROW is reduced.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Cal Kestis
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cal/Card_Cal_9_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Persistence</b></h4>
+                <a>Cal takes even less damage while using FORCE STASIS.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cal/Card_Cal_11_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Reforged</b></h4>
+                <a>SINGLE-BLADED lightsaber attacks deal more damage if they immediately follow successful attacks with the DOUBLE-BLADED lightsaber. This effect cannot be applied to the same enemy for a short duration.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cal/Card_Cal_10_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Stim Frequency</b></h4>
+                <a>The recharge time of STIM CANISTER is shorter, enabling Cal to heal himself more often.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cal/Card_Cal_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Peacekeeper</b></h4>
+                <a>The charge-up time of FORCE STASIS is slightly shorter.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cal/Card_Cal_6_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>SURVIVOR</b></h4>
+                <a>Cal takes reduced damage from explosions and toxins, as well as recovers from blinding effects more quickly.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Captain Rex
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/rex/Card_7_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Blaster Inspection</b></h4>
+                <a>Cal takes even less damage while using FORCE STASIS.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/rex/Card_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Still Holds Up</b></h4>
+                <a>The bonus health Captain Rex gains from GENERATION ONE is increased and has a slightly longer duration.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/rex/Card_6_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Outranking Experience</b></h4>
+                <a>Increases the radius of UNCONVENTIONAL TACTICS.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/rex/Card_8_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>I'm No Jedi</b></h4>
+                <a>Captain Rex's Dual DC-17 pistols deal extra damage while he is above 90% health.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/rex/Card_9_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Fry Their Circuits</b></h4>
+                <a>DROID POPPERS inflict lingering damage for a short period, but have a longer recharge time.</a>
+            </div>
+        </div>
+    </div>
 </div>
