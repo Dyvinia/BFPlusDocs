@@ -5,7 +5,7 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 
 ## Troopers
 
-### Galactic Empire
+### Galactic Republic
 
 <h3 style="font-size: 1.05em; margin-top: -0.5em; "><b>Assault</b></h3>
 <div class="container" style="margin-top: -0.8em;">
