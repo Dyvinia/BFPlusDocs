@@ -131,9 +131,10 @@
     /*border: 2px solid var(--md-primary-fg-color);*/
 }
 
-.round-corners-half {
+.gallery-images {
     border-radius: 0.75em;
-    width: calc(50% - 3px);
+    width: calc(50% - 2.35px);
+    margin-bottom: -3px;
 }
 
 /* Hero Cards */
