@@ -374,7 +374,7 @@ In addition to a plethora of new blasters, each of the four Trooper classes also
             </div>
             <div class="text">
                 <h4><b>Blaster Inspection</b></h4>
-                <a>Cal takes even less damage while using FORCE STASIS.</a>
+                <a>Every time he kills an enemy, Captain Rex and friendly troopers around him gain a permanent 3% decrease to their blaster overheat per bolt to a maximum. This effect resets when Captain Rex is defeated.</a>
             </div>
         </div>
     </div>
@@ -420,6 +420,316 @@ In addition to a plethora of new blasters, each of the four Trooper classes also
             <div class="text">
                 <h4><b>Fry Their Circuits</b></h4>
                 <a>DROID POPPERS inflict lingering damage for a short period, but have a longer recharge time.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Commander Cody
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cody/Card_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Ion Capacitors</b></h4>
+                <a>The radius of ION FIELD is increased.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cody/Card_7_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>You'll Be Needing This</b></h4>
+                <a>The cooldown of ENERGY WALL is reduced.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cody/Card_8_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Always a Way</b></h4>
+                <a>Defeating enemies with the BATTLE RIFLE will replenish its active time.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cody/Card_6_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>You Can Count On Us</b></h4>
+                <a>When allied Reinforcements or Heroes are standing nearer to Cody, he will regenerate even more health.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cody/Card_5_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Armored Up</b></h4>
+                <a>Commander Cody spawns with extra bonus health.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Din Djarin
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/mando/Card_Mando_3_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Evasion</b></h4>
+                <a>Din Djarin gains an extra Dodge ability charge, but the recharge time of his abilities is increased.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/mando/Card_Mando_8_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>This Is The Way</b></h4>
+                <a>While the AMBAN PHASE-PULSE BLASTER is equipped, replenish its active time by defeating enemies with WHISTLING BIRDS or the DARKSABER.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/mando/Card_Mando_10_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Phalanx</b></h4>
+                <a>Din Djarin takes less damage while using WHISTLING BIRDS.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/mando/Card_Mando_7_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Warm or Cold</b></h4>
+                <a>When Din Djarin defeats an enemy with a headshot, his abilities receive a short boost to recharge speed.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/mando/Card_Mando_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>One Defeats Twenty</b></h4>
+                <a>Din Djarin inflicts more damage when striking an enemy with the DARKSABER.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Maz Kanata
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/maz/Card_Maz_5_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>An Acquired Taste</b></h4>
+                <a>Damage can be reflected back on Maz Kanata's attackers from CHANGE IN FORTUNE more frequently.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/maz/Card_Maz_3_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>We Must Face Them</b></h4>
+                <a>The fire rate of the DH-17R is faster than normal while Maz Kanata is above 90% health, but slower when she falls below that percentage.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/maz/Card_Maz_4_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Fuel Reserves</b></h4>
+                <a>The cooldown time of BURN DASH is reduced.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/maz/Card_Maz_9_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Evasion</b></h4>
+                <a>Maz Kanata has +1 Evade, but slower Evade recharge time.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/maz/Card_Maz_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Live Long Enough</b></h4>
+                <a>Maz Kanata takes reduced damage while CHANGE IN FORTUNE is active, but the ability's active time is shorter.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Nien Nunb
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/niennunb/Card_NienNunb_4_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Bomb Arming Speed</b></h4>
+                <a>The PROXIMITY BOMB will arm and activate faster when deployed, but its recharge time is increased.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/niennunb/Card_NienNunb_7_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Brave Sullustan</b></h4>
+                <a>Nien Nunb's maximum health is increased.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/niennunb/Card_NienNunb_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Sullustan Sharpshooter</b></h4>
+                <a>When Nien Nunb defeats an enemy with a headshot using his RAPID PULSE CANNON, his abilities are taken out of recharge and granted a cooldown bonus.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/niennunb/Card_NienNunb_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Expert Weapons Handling</b></h4>
+                <a>The cooling success states on Nien Nunb's DH-17 are longer.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/niennunb/Card_NienNunb_10_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Buddy Turret</b></h4>
+                <a>Nien Nunb will receive damage reduction when attacking enemies with his DH-17 while the AUGMENTED TURRET is deployed, but the recharge time of the ability is twice as long.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Shriv Suurgav
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/shriv/Card_Shriv_6_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Wartender</b></h4>
+                <a>BACTA COCKTAIL provides additional healing, but its recharge time is increased.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/shriv/Card_Shriv_8_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Got a Bad Idea</b></h4>
+                <a>After Shriv defeats 4 enemies with the REPULSOR CANNON, the recharge rate of all of his abilities is increased.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/shriv/Card_Shriv_9_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Taking Risks</b></h4>
+                <a>For every enemy Shriv defeats with the E-5C, its heat will be reduced.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/shriv/Card_Shriv_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Personal Space</b></h4>
+                <a>Shriv's REPULSOR CANNON fires additional projectiles.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/shriv/Card_Shriv_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Danger Leader</b></h4>
+                <a>If Shriv is within 10 meters of two friendly units, his E-5C will fire faster and his nearby allies will begin regenerating a small amount of health.</a>
             </div>
         </div>
     </div>
