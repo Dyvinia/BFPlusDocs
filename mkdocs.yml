@@ -72,4 +72,6 @@ nav:
   - Setup:
     - 'setup/installation.md'
     - 'setup/troubleshooting.md'
-  - Changelog: 'changelog.md'
+  - Community Updates:
+    - 'community-updates/v9.md'
+    - 'community-updates/v8.md'
