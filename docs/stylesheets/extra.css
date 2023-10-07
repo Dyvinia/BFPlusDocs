@@ -98,6 +98,27 @@
   color: #fff;
 }
 
+/* Buttons with Colors */
+/* Discord Button */
+.md-discord-button {
+    border: .1rem solid;
+    padding: 0.4em 1em;
+    border-radius: 0.4rem;
+    margin-right: 0.1rem;
+    border-color: #7289da;
+    color: #7289da !important;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 700;
+    transition: color 125ms, background-color 125ms, border-color 125ms !important;
+}
+.md-discord-button:focus,
+.md-discord-button:hover {
+  background-color: #7289da;;
+  border-color: #7289da;;
+  color: #fff !important;
+}
+
 /* Developers */
 .md-typeset .devs {
     color: #fff;
