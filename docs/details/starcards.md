@@ -1,6 +1,6 @@
 # Star Cards
 
-In addition to a plethora of new blasters, each of the four Trooper classes also have access to a variety of new Boost and Ability Star Cards.
+Each of the four base classes boasts an array of new Star Cards, from the dreadful Dead Man's Switch to a heavy Flamethrower, creating new ways to play as the Troopers. Every hero featured in Battlefront Plus also has their own set of Star Cards, allowing players to enhance their playstyles with improved stats and ability combos.
 
 ## Troopers
 
