@@ -1073,7 +1073,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    DL-18
+                    Blurrg-1120
                 </h3>
                 <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/heavy-sidearms/Weapons_Blurrg-1120.svg">
             </div>
