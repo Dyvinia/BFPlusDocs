@@ -734,3 +734,439 @@ In addition to a plethora of new blasters, each of the four Trooper classes also
         </div>
     </div>
 </div>
+
+## Villains
+
+### Captain Cardinal
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cardinal/Card_Cardinal_5_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Color of Power</b></h4>
+                <a>All of Captain Cardinal's abilities have a slightly extended duration.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cardinal/Card_Cardinal_4_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Still Standing</b></h4>
+                <a>Captain Cardinal takes reduced damage while STEADFAST is active.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cardinal/Card_Cardinal_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Finalized</b></h4>
+                <a>Captain Cardinal deals more melee damage while FINALIZER is active.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cardinal/Card_Cardinal_3_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Ensuring Progress</b></h4>
+                <a>Lessens the vulnerability penalty from ABSOLUTION.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/cardinal/Card_Cardinal_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Effecting Change</b></h4>
+                <a>Whenever Captain Cardinal defeats an enemy with the F-11D, his abilities recharge faster for a very brief moment.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Commander Pyre
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>All Your Efforts</b></h4>
+                <a>Defeating enemies with THUNDERER LEGION will restore its active time.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Commanding Shine</b></h4>
+                <a>The bonus health awarded by GOLD ZONE is increased.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_3_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Maintaining Order</b></h4>
+                <a>The recharge time of SEIZE THIS MOMENT is reduced.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_6_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Complementary</b></h4>
+                <a>When Commander Pyre defeats an enemy, he will gain a small amount of damage resistance for a short duration. Maintaining quick killstreaks will stack this value.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_8_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>None of Your Concern</b></h4>
+                <a>Commander Pyre's health regeneration is faster and starts sooner.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Dengar
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/dengar/Card_Dengar_9_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>More Toys</b></h4>
+                <a>Dengar throws an additional, lighter grenade with EXPLOSIVE ARRAY, but the ability has a slightly longer recharge time.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/dengar/Card_Dengar_8_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Job Ready</b></h4>
+                <a>Dengar has increased maximum health.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/dengar/Card_Dengar_6_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Take a Dirt Nap</b></h4>
+                <a>BASHING SKULLS deals more damage, but has increased recharge time.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/dengar/Card_Dengar_5_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Spraying Bolts</b></h4>
+                <a>Extends the duration of FRENZIED BLAST.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/dengar/Card_Dengar_7_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>You're Next</b></h4>
+                <a>The damage resistance Dengar gains from defeating an enemy is increased.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Gideon Hask
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/hask/Card_Hask_6_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Lingering Embers</b></h4>
+                <a>Enemies damaged by the flames of INFERNO BLAST will be afflicted with lingering damage for several seconds.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/hask/Card_Hask_4_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Imperial Valor</b></h4>
+                <a>While Hask is using BLAST CANNON, his nearby allies will receive damage reduction, which increases in strength with every 5 troopers defeated or 500 damage dealt to heroes to a maximum. This bonus stays for the next use of the ability but resets when Hask is defeated.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/hask/Card_Hask_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Crimson Star</b></h4>
+                <a>The duration of ROUTING TRAITORS is extended, as is its range.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/hask/Card_Hask_7_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Special Forces</b></h4>
+                <a>If he is within 15 meters of two friendly units, Hask and his close allies will take reduced damage.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/hask/Card_Hask_8_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Returned Favor</b></h4>
+                <a>Hask regains slightly more health when defeating an enemy, but his ability cooldowns are slightly longer.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Greedo
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/greedo/Card_Greedo_5_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Who Shot First</b></h4>
+                <a>The fire rate of the DT-12 is faster than normal while Greedo is above 90% health, but slower when he falls below that percentage.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/greedo/Card_Greedo_7_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Koon T'chuta</b></h4>
+                <a>The THERMAL DETONATOR from Greedo's BRASH BLAST deals increased damage.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/greedo/Card_Greedo_8_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Lucky I Found You</b></h4>
+                <a>Enemies revealed by Greedo's HIGH SENSES will restore extra health to him upon being defeated.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/greedo/Card_Greedo_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Measured Confidence</b></h4>
+                <a>Greedo's CONFIDENCE BOOST has a shorter duration and recharge time.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/greedo/Card_Greedo_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Ma Klounkee</b></h4>
+                <a>Greedo's DT-12 builds less heat when firing.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Jango Fett
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_5_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>An Acquired Taste</b></h4>
+                <a>Damage can be reflected back on Maz Kanata's attackers from CHANGE IN FORTUNE more frequently.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_3_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>We Must Face Them</b></h4>
+                <a>The fire rate of the DH-17R is faster than normal while Maz Kanata is above 90% health, but slower when she falls below that percentage.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_4_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Fuel Reserves</b></h4>
+                <a>The cooldown time of BURN DASH is reduced.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_9_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Evasion</b></h4>
+                <a>Maz Kanata has +1 Evade, but slower Evade recharge time.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Live Long Enough</b></h4>
+                <a>Maz Kanata takes reduced damage while CHANGE IN FORTUNE is active, but the ability's active time is shorter.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Second Sister
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_4_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Bomb Arming Speed</b></h4>
+                <a>The PROXIMITY BOMB will arm and activate faster when deployed, but its recharge time is increased.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_7_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Brave Sullustan</b></h4>
+                <a>Nien Nunb's maximum health is increased.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Sullustan Sharpshooter</b></h4>
+                <a>When Nien Nunb defeats an enemy with a headshot using his RAPID PULSE CANNON, his abilities are taken out of recharge and granted a cooldown bonus.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Expert Weapons Handling</b></h4>
+                <a>The cooling success states on Nien Nunb's DH-17 are longer.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_10_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Buddy Turret</b></h4>
+                <a>Nien Nunb will receive damage reduction when attacking enemies with his DH-17 while the AUGMENTED TURRET is deployed, but the recharge time of the ability is twice as long.</a>
+            </div>
+        </div>
+    </div>
+</div>
