@@ -16,7 +16,8 @@
 
 2. Launch the `FrostyModManager.exe` application. **Most users will need to run it as administrator**.
 
-3. Select STAR WARS Battlefront II.
+3. Select STAR WARS Battlefront II. 
+    (If you do not see it, click the "Scan for games" button on the bottom left corner of the window, or click "New" and manually locate Battlefront II’s main exe file)
 
 4. In Frosty Mod Manager, click `Add Mod(s)` in the upper left corner and select the downloaded Battlefront Plus `.zip` file.[^1]
 
@@ -78,6 +79,7 @@
 2. Launch the `FrostyModManager.exe` application. **Most users will need to run it as administrator**.
 
 3. Select STAR WARS Battlefront II.
+    (If you do not see it, click the "Scan for games" button on the bottom left corner of the window, or click "New" and manually locate Battlefront II’s main exe file)
 
 4. In Frosty Mod Manager, click `Add Mod(s)` in the upper left corner and select the downloaded Battlefront Plus and IAO XL `.zip` files. You do not need to unzip/open downloaded mods.
 
