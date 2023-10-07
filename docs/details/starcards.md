@@ -1054,11 +1054,11 @@ In addition to a plethora of new blasters, each of the four Trooper classes also
     <div class="item">
         <div class="star-card">
             <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_5_Mid.png">
+                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_3_Mid.png">
             </div>
             <div class="text">
-                <h4><b>An Acquired Taste</b></h4>
-                <a>Damage can be reflected back on Maz Kanata's attackers from CHANGE IN FORTUNE more frequently.</a>
+                <h4><b>No Mistakes This Time</b></h4>
+                <a>When Jango Fett defeats an enemy with a SABERDART, his abilities get an extensive recharge bonus.</a>
             </div>
         </div>
     </div>
@@ -1066,29 +1066,29 @@ In addition to a plethora of new blasters, each of the four Trooper classes also
     <div class="item">
         <div class="star-card">
             <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_3_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>We Must Face Them</b></h4>
-                <a>The fire rate of the DH-17R is faster than normal while Maz Kanata is above 90% health, but slower when she falls below that percentage.</a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="star-card">
-            <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_4_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Fuel Reserves</b></h4>
-                <a>The cooldown time of BURN DASH is reduced.</a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="star-card">
-            <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_9_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Always a Pleasure</b></h4>
+                <a>Whenever enemy Heroes are nearby, Jango Fett receives damage reduction. This effect is amplified if Jedi are present.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_8_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Discretion is My Specialty</b></h4>
+                <a>Damaging enemies with the WRIST FLAMETHROWER will restore a portion of Jango Fett's health, but its recharge time is doubled.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_7_Mid.png">
             </div>
             <div class="text">
                 <h4><b>Evasion</b></h4>
@@ -1099,11 +1099,11 @@ In addition to a plethora of new blasters, each of the four Trooper classes also
     <div class="item">
         <div class="star-card">
             <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_1_Mid.png">
+                <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_2_Mid.png">
             </div>
             <div class="text">
-                <h4><b>Live Long Enough</b></h4>
-                <a>Maz Kanata takes reduced damage while CHANGE IN FORTUNE is active, but the ability's active time is shorter.</a>
+                <h4><b>Just a Simple Man</b></h4>
+                <a>COLLECTING BOUNTIES has an extended duration.</a>
             </div>
         </div>
     </div>
@@ -1116,11 +1116,11 @@ In addition to a plethora of new blasters, each of the four Trooper classes also
     <div class="item">
         <div class="star-card">
             <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_4_Mid.png">
+                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_1_Mid.png">
             </div>
             <div class="text">
-                <h4><b>Bomb Arming Speed</b></h4>
-                <a>The PROXIMITY BOMB will arm and activate faster when deployed, but its recharge time is increased.</a>
+                <h4><b>Like All the Others</b></h4>
+                <a>The Second Sister replenishes even more health from FORCE DRAIN.</a>
             </div>
         </div>
     </div>
@@ -1128,44 +1128,44 @@ In addition to a plethora of new blasters, each of the four Trooper classes also
     <div class="item">
         <div class="star-card">
             <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_7_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Brave Sullustan</b></h4>
-                <a>Nien Nunb's maximum health is increased.</a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="star-card">
-            <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_2_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Sullustan Sharpshooter</b></h4>
-                <a>When Nien Nunb defeats an enemy with a headshot using his RAPID PULSE CANNON, his abilities are taken out of recharge and granted a cooldown bonus.</a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="star-card">
-            <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_1_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Expert Weapons Handling</b></h4>
-                <a>The cooling success states on Nien Nunb's DH-17 are longer.</a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="star-card">
-            <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_10_Mid.png">
             </div>
             <div class="text">
-                <h4><b>Buddy Turret</b></h4>
-                <a>Nien Nunb will receive damage reduction when attacking enemies with his DH-17 while the AUGMENTED TURRET is deployed, but the recharge time of the ability is twice as long.</a>
+                <h4><b>Enduring the Pain</b></h4>
+                <a>Trilla's torturous transformation into the Second Sister has taught her to embrace the pain. She will briefly gain increased damage resistance upon taking any hits.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_6_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Perfected Technique</b></h4>
+                <a>SINGLE-BLADED lightsaber attacks deal more damage if they immediately follow successful attacks with the DOUBLE-BLADED lightsaber. This effect cannot be applied to the same enemy for a short duration.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_9_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Let's Finish This</b></h4>
+                <a>After one enemy has been struck by CUNNING SLASH, the attack will inflict weakness on follow-up hits..</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_4_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>I Expected More</b></h4>
+                <a>The Second Sister's maximum health is increased.</a>
             </div>
         </div>
     </div>
