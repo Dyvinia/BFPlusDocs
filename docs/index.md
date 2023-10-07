@@ -37,6 +37,9 @@ Battlefront+ is the largest mod project for Star Wars Battlefront II (2017), fea
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/26626349" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://www.nexusmods.com/assets/images/default/avatar.png"/>clonecam
 </a>
+<a class="devs" href="https://github.com/CosmicDreamsOfCode" target="_blank" rel="noopener noreferrer">
+    <img class="no-lb" src="https://avatars.githubusercontent.com/u/33284629"/>CosmicDreams
+</a>
 <a class="devs" href="https://www.artstation.com/darth_ir0n" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://cdna.artstation.com/p/users/avatars/003/301/040/large/56a65d27571435237c1c8d7e37a76eef.jpg"/>DarthIron
 </a>
