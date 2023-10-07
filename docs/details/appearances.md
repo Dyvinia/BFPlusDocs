@@ -241,6 +241,12 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     </div>
     <div class="appearance-item">
         <div class="appearance">
+            <img style="object-position: 50% 0;" src="../../assets/new-appearances/troopers/empire/assault/assault-sandtrooper.png">
+            <h4><b>Sandtrooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
             <img style="object-position: 50% 0;" src="../../assets/new-appearances/troopers/empire/assault/assault-shadow.png">
             <h4><b>Shadow Trooper</b></h4>
         </div>
