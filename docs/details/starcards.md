@@ -11,7 +11,7 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     <div class="item">
         <div class="star-card">
             <div>
-                <img class="no-lb" src="../../assets/star-cards/trooper/all-radio.png">
+                <img class="no-lb" src="../../assets/star-cards/trooper/all-toughfighter.png">
             </div>
             <div class="text">
                 <h4><b>Tough Fighter</b></h4>
