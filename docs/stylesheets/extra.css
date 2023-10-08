@@ -646,12 +646,14 @@ p:target {
 body[data-md-color-scheme="slate"] .gslide-title {
     margin: 0 !important;
     text-align: center !important;
+    color: #fff !important;
     font-size: normal;
     font-weight: 500;
     font-family: "Poppins", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
 }
 body[data-md-color-scheme="slate"] .gslide-desc {
     text-align: center !important;
+    color: #fff !important;
     font-size: small;
     font-weight: 300;
     font-family: "Poppins", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
