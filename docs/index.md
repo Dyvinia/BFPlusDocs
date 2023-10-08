@@ -4,6 +4,7 @@
 Battlefront+ is the largest mod project for Star Wars Battlefront II (2017), featuring a massive expansion to its roster of characters, selection of abilities, and list of appearances, all while maintaining a philosophy of diversity, balance, and compatibility with the fabric of the vanilla game. This project has continually pushed the boundaries of Battlefront II, bringing forth new and unique content, thanks to the combined efforts and contributions of the most talented members in the game's community.
 
 [Available on NexusMods](https://www.nexusmods.com/starwarsbattlefront22017/mods/7592){ .md-button target="_blank" }
+[Join the Discord](https://discord.gg/99VtTgFBqq){ .md-discord-button target="_blank" }
 
 ### Developers
 
@@ -31,7 +32,7 @@ Battlefront+ is the largest mod project for Star Wars Battlefront II (2017), fea
 <a class="devs" href="https://github.com/CadeEvs" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://pbs.twimg.com/profile_images/1598458260973142017/SGV1p6cJ_400x400.jpg"/>CadeEvs
 </a>
-<a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/50364291" target="_blank" rel="noopener noreferrer">
+<a class="devs" href="https://linktr.ee/Chucky296" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-50364291.png?_r=1548501683"/>Chucky296
 </a>
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/26626349" target="_blank" rel="noopener noreferrer">
@@ -77,7 +78,7 @@ Battlefront+ is the largest mod project for Star Wars Battlefront II (2017), fea
     <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-98792048.png"/>Mistyvail
 </a>
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/50279956" target="_blank" rel="noopener noreferrer">
-    <img class="no-lb" src="https://cdn.discordapp.com/avatars/165828190332256257/ddf81a04d1cda1cdd2583f74a481bdd2.webp"/>Mophead
+    <img class="no-lb" src="/assets/dev-avatars/mophead.png"/>Mophead
 </a>
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/2736758" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-2736758.jpg?_r=1652911460"/>NanoBuds
@@ -107,7 +108,7 @@ Battlefront+ is the largest mod project for Star Wars Battlefront II (2017), fea
     <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-73309078.png"/>Soulbruh
 </a>
 <a class="devs" href="" target="_blank" rel="noopener noreferrer">
-    <img class="no-lb" src="https://cdn.discordapp.com/avatars/443908039339409409/3af7a3029d5c2405f159ceb289e47b41.png"/>Squidy
+    <img class="no-lb" src="/assets/dev-avatars/squidy.png"/>Squidy
 </a>
 <a class="devs" href="https://ko-fi.com/thespartancv" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-85153988.png"/>TheSpartanCV
@@ -116,20 +117,20 @@ Battlefront+ is the largest mod project for Star Wars Battlefront II (2017), fea
     <img class="no-lb" src="https://secure.gravatar.com/avatar/e98fe794ebd62a78c63ab7de635120e0"/>Thisguy446
 </a>
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/77916933" target="_blank" rel="noopener noreferrer">
-    <img class="no-lb" src="https://media.discordapp.net/attachments/923061853813350461/1086504415227293746/image.png"/>Ultistinct
+    <img class="no-lb" src="/assets/dev-avatars/ultistinct.png"/>Ultistinct
 </a>
 <a class="devs" href="https://twitter.com/VictorPL2003" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://pbs.twimg.com/profile_images/1695494833299718144/fv4ZO-Yx_400x400.jpg"/>VictorPL
 </a>
 <a class="devs" href="https://github.com/wannkunstbeikor" target="_blank" rel="noopener noreferrer">
-    <img class="no-lb" src="https://cdn.discordapp.com/attachments/1030536483318284308/1155613413238636674/e79b457aeda4fc9e71d9e1c139cb3796.png"/>wannkunstbeikor
+    <img class="no-lb" src="/assets/dev-avatars/wannkunstbeikor.png"/>wannkunstbeikor
 </a>
 <a class="devs" href="https://tenor.com/view/minecraft-rainbow-sheep-gif-20294986" target="_blank" rel="noopener noreferrer">
-    <img class="no-lb" src="https://cdn.discordapp.com/avatars/242666273471856640/a_c21a50f59c21fb6d9ffe4b8a6a57ec58.png"/>xtampa
+    <img class="no-lb" src="/assets/dev-avatars/xtampa.png"/>xtampa
 </a>
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/93017128" target="_blank" rel="noopener noreferrer">
-    <img class="no-lb" src="https://cdn.discordapp.com/attachments/1030536483318284308/1160257231963566160/image.png"/>Ywingpilot2
+    <img class="no-lb" src="/assets/dev-avatars/ywingpilot2.png"/>Ywingpilot2
 </a>
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/51785036" target="_blank" rel="noopener noreferrer">
-    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-51785036.jpg?_r=1634681743"/>zatomos
+    <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-51785036.jpg"/>zatomos
 </a>
