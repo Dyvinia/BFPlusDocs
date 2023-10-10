@@ -1092,7 +1092,7 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
             </div>
             <div class="text">
                 <h4><b>Evasion</b></h4>
-                <a>Maz Kanata has +1 Evade, but slower Evade recharge time.</a>
+                <a>Jango Fett has +1 Evade, but slower Evade recharge time.</a>
             </div>
         </div>
     </div>
