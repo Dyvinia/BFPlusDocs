@@ -2068,7 +2068,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     <div class="attachment-item" onclick="window.location='#focusedfire';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
                         <span class="ability-name">Focused Fire</span>
-                    </div><div class="attachment-item" onclick="window.location='#relbyv10-microgrenade';">
+                    </div><div class="attachment-item" onclick="window.location='#relbyv10-grenade';">
                         <img class="ability" class="no-lb" src="../../assets/attachments/Attach_MicroGrenades.svg">
                         <span class="ability-name">Microgrenades</span>
                     </div>
@@ -2086,10 +2086,10 @@ Join the fray with a selection of over a hundred new abilities available to the 
             </div>
             <div class="text">
                 <a>
-                    Damage: 38-32<br>
-                    Range: 10-60 | 1-5<br>
-                    Firerate: 350<br>
-                    Heat Per Shot: 0.067<br>
+                    Damage: 68-51<br>
+                    Range: 10-50<br>
+                    Firerate: 150<br>
+                    Heat Per Shot: 0.143<br>
                 </a>
                 <div>
                     <div class="attachment-item" onclick="window.location='#explosive';">
