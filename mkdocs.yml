@@ -69,6 +69,7 @@ nav:
     - 'details/blasters.md'
     - 'details/starcards.md'
     - 'details/appearances.md'
+    - 'details/gamemodes.md'
   - Setup:
     - 'setup/installation.md'
     - 'setup/troubleshooting.md'
