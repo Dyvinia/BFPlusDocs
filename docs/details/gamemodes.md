@@ -40,7 +40,7 @@ Relocated objectives to place more emphasis on placing the battle across the mid
 
 #### Jakku - Supremacy
 
-Near rotal overhaul to shift the battle to the open section of the downed Star Destroyer.
+Near total overhaul to shift the battle to the open section of the downed Star Destroyer.
 
 - A. Security Center  
 - D. Scavenger Outpost  
