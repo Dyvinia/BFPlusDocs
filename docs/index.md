@@ -42,7 +42,7 @@ Battlefront+ is the largest mod project for Star Wars Battlefront II (2017), fea
     <img class="no-lb" src="https://avatars.githubusercontent.com/u/33284629"/>CosmicDreams
 </a>
 <a class="devs" href="https://www.artstation.com/darth_ir0n" target="_blank" rel="noopener noreferrer">
-    <img class="no-lb" src="https://cdna.artstation.com/p/users/avatars/003/301/040/large/56a65d27571435237c1c8d7e37a76eef.jpg"/>DarthIron
+    <img class="no-lb" src="https://cdna.artstation.com/p/users/avatars/003/301/040/large/3d30a0b5afafa096034aeb8a584bff59.jpg"/>DarthIron
 </a>
 <a class="devs" href="https://www.moddb.com/members/deggialnox/mods" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://cdnb.artstation.com/p/users/avatars/001/610/909/large/b16050371380be6f3e59eb376cd28610.jpg"/>Deggial Nox
@@ -90,7 +90,7 @@ Battlefront+ is the largest mod project for Star Wars Battlefront II (2017), fea
     <img class="no-lb" src="https://forum.nexusmods.com/uploads/profile/photo-thumb-73176903.png"/>PianoBoy1764
 </a>
 <a class="devs" href="https://twitter.com/Witch_Priscylla" target="_blank" rel="noopener noreferrer">
-    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1691318741500395521/Z8qwWLz7_400x400.jpg"/>Priscilla
+    <img class="no-lb" src="https://pbs.twimg.com/profile_images/1718472770516922368/hbP_w3HD_400x400.jpg"/>Priscilla
 </a>
 <a class="devs" href="https://www.nexusmods.com/starwarsbattlefront22017/users/140217183" target="_blank" rel="noopener noreferrer">
     <img class="no-lb" src="https://www.nexusmods.com/assets/images/default/avatar.png"/>Russ
