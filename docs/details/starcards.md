@@ -1170,3 +1170,5 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+![cardhand](../assets/star-cards/StarCards_Hand.png)

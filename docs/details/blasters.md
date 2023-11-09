@@ -581,7 +581,25 @@ Join the fray with a selection of over a hundred new abilities available to the 
             </div>
         </div>
     </div>
-
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    Bulldog RLR
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_E-5.svg">
+                <div class="blaster-trait">E-5 Sidearm Exclusive</div>
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 15-10 | 20<br>
+                    Range: 10-20 | 2-4<br>
+                    Firerate: 90<br>
+                    Heat Per Shot: 0.17<br>
+                </a>
+            </div>
+        </div>
+    </div>
 
 
 </div>
@@ -1765,7 +1783,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Damage: 110-70<br>
                     Range: 5-60<br>
                     Firerate: 150<br>
-                    Heat Per Shot: 0.05<br>
+                    Heat Per Shot: 0.5<br>
                 </a>
                 <div>
                     <div class="attachment-item" onclick="window.location='#a180-pistol';">
@@ -2269,6 +2287,63 @@ Join the fray with a selection of over a hundred new abilities available to the 
                     Range: 10-40<br>
                     Firerate: 210<br>
                     Heat Per Shot: 0.11<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    A180 Pistol
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_A180-Pistol.svg">
+                <div class="blaster-trait">A180 Sidearm Exclusive</div>
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 51-12<br>
+                    Range: 20-40<br>
+                    Firerate: 280<br>
+                    Heat Per Shot: 0.05<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    A180 Rifle
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_A180-Rifle.svg">
+                <div class="blaster-trait">A180 Sidearm Exclusive</div>
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 34-21<br>
+                    Range: 10-60<br>
+                    Firerate: 460<br>
+                    Heat Per Shot: 0.05<br>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="trooper-blaster">
+            <div>
+                <h3>
+                    Microgrenades
+                </h3>
+                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_RelbyV-10.svg">
+                <div class="blaster-trait">Relby V-10 Sidearm Exclusive</div>
+            </div>
+            <div class="text">
+                <a>
+                    Damage: 55<br>
+                    Radius: 1.25-2.5<br>
+                    Firerate: 100<br>
+                    Ammo Capacity: 3<br>
                 </a>
             </div>
         </div>
