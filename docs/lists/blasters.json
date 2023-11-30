@@ -1,0 +1,292 @@
+{
+    "assault": {
+        "primary": [
+            {
+                "name": "A280C",
+                "image": "/assault-blasters/Weapons_A280C.svg",
+    
+                "damage": "25-12",
+                "range": "10-60",
+                "rof": "400",
+                "heat": "0.038",
+    
+                "attachmentOne": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
+                },
+                "attachmentTwo": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                }
+            },
+            {
+                "name": "DC-15A",
+                "image": "/assault-blasters/Weapons_DC-15A.svg",
+    
+                "damage": "26-22",
+                "range": "20-35",
+                "rof": "350",
+                "heat": "0.032",
+    
+                "attachmentOne": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#seeker"
+                },
+                "attachmentTwo": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
+                }
+            },
+            {
+                "name": "E-11",
+                "image": "/assault-blasters/Weapons_E-11.svg",
+    
+                "damage": "35-15",
+                "range": "10-60",
+                "rof": "300",
+                "heat": "0.055",
+    
+                "attachmentOne": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
+                },
+                "attachmentTwo": {
+                    "name": "Elite Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#eliteblaster"
+                }
+            },
+            {
+                "name": "E-5",
+                "image": "/assault-blasters/Weapons_E-5.svg",
+    
+                "trait": "Droids have 50% more cooling",
+    
+                "damage": "60-50",
+                "range": "30-40",
+                "rof": "200",
+                "heat": "0.1",
+    
+                "attachmentOne": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#seeker"
+                },
+                "attachmentTwo": {
+                    "name": "Bulldog RLR",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#e5-rocket"
+                }
+            },
+            {
+                "name": "F-11D",
+                "image": "/assault-blasters/Weapons_F-11D.svg",
+    
+                "damage": "60-50",
+                "range": "30-40",
+                "rof": "200",
+                "heat": "0.1",
+    
+                "attachmentOne": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
+                },
+                "attachmentTwo": {
+                    "name": "Explosive Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#explosive"
+                }
+            },
+            {
+                "name": "CA-87",
+                "image": "/assault-blasters/Weapons_CA-87.svg",
+    
+                "damage": "25-10 x 8",
+                "range": "15-40",
+                "rof": "75",
+                "heat": "0.045",
+    
+                "attachmentOne": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
+                },
+                "attachmentTwo": {
+                    "name": "Explosive Shot",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#ca87-crouchcontrol"
+                }
+            },
+            {
+                "name": "DH-17R",
+                "image": "/assault-blasters/Weapons_DH-17R.svg",
+    
+                "damage": "36-25",
+                "range": "18-30",
+                "rof": "360",
+                "heat": "0.062",
+    
+                "attachmentOne": {
+                    "name": "Explosive Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#explosive"
+                },
+                "attachmentTwo": {
+                    "name": "Elite Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#eliteblaster"
+                }
+            },
+            {
+                "name": "EE-3",
+                "image": "/assault-blasters/Weapons_EE-3.svg",
+    
+                "damage": "31-18",
+                "range": "10-60",
+                "rof": "800 x 3 - 115",
+                "heat": "0.038",
+    
+                "attachmentOne": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#seeker"
+                },
+                "attachmentTwo": {
+                    "name": "Sugi",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#ee3-sugi"
+                }
+            },
+            {
+                "name": "EE-4",
+                "image": "/assault-blasters/Weapons_EE-4.svg",
+    
+                "damage": "22-14 x 3",
+                "range": "9-36",
+                "rof": "600 x 2 - 115",
+                "heat": "0.08",
+    
+                "attachmentOne": {
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
+                },
+                "attachmentTwo": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
+                }
+            },
+            {
+                "name": "GALAAR-15",
+                "image": "/assault-blasters/Weapons_GALAAR-15.svg",
+    
+                "damage": "43-30",
+                "range": "12-30",
+                "rof": "380",
+                "heat": "0.1",
+    
+                "attachmentOne": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
+                },
+                "attachmentTwo": {
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
+                }
+            },
+            {
+                "name": "ST-W48",
+                "image": "/assault-blasters/Weapons_ST-W48.svg",
+    
+                "damage": "21-10",
+                "range": "15-35",
+                "rof": "620",
+                "heat": "0.026",
+    
+                "attachmentOne": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
+                },
+                "attachmentTwo": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#seeker"
+                }
+            },
+            {
+                "name": "T-12",
+                "image": "/assault-blasters/Weapons_T-12.svg",
+    
+                "damage": "38-7",
+                "range": "7-18",
+                "rof": "300",
+                "heat": "0.66",
+    
+                "attachmentOne": {
+                    "name": "Slug",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#t12-slug"
+                },
+                "attachmentTwo": {
+                    "name": "Both Barrels",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#t12-oneshot"
+                }
+            },
+            {
+                "name": "VT-33D",
+                "image": "/assault-blasters/Weapons_VT-33D_Blaster.svg",
+
+                "trait": "Fires at least 3 blasts per trigger pull",
+    
+                "damage": "22-19",
+                "range": "10-30",
+                "rof": "600",
+                "heat": "0.048",
+    
+                "attachmentOne": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
+                },
+                "attachmentTwo": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                }
+            },
+            {
+                "name": "Zersium Rifle",
+                "image": "/assault-blasters/Weapons_ZersiumRifle.svg",
+
+                "trait": "Randomizes stats on trigger pull",
+    
+                "damage": "30-27 | 40-30 | 70-40",
+                "range": "30-40 | 20-30 | 10-20",
+                "rof": "320",
+                "heat": "0.05 x 0.9 | 1 | 1.1",
+    
+                "attachmentOne": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
+                },
+                "attachmentTwo": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                }
+            }
+        ]
+    }
+}

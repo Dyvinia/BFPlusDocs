@@ -9,392 +9,42 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 #### Primary
 
-<div class="container">
-    <!-- Item Start -->
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    A280C
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_A280C.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 25-12<br>
-                    Range: 10-60<br>
-                    Firerate: 400<br>
-                    Heat Per Shot: 0.038<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#sharpshooter';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Sharpshooter.svg">
-                        <span class="ability-name">Sharpshooter</span>
-                    </div><div class="attachment-item" onclick="window.location='#escapeartist';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_EscapeArtist.svg">
-                        <span class="ability-name">Escape Artist</span>
+<script>
+    fetch("../../lists/blasters.json").then(res => res.json()).then(data => data.assault.primary.forEach(element => {
+        document.getElementById('assault-primary').innerHTML += `
+            <div class="item">
+                <div class="trooper-blaster">
+                    <div>
+                        <h3>
+                            ${element.name}
+                        </h3>
+                        <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters${element.image}">
+                        ${element.trait ? `<div class="blaster-trait">${element.trait}</div>` : ''}
+                    </div>
+                    <div class="text">
+                        <a>
+                            Damage: ${element.damage}<br>
+                            Range: ${element.range}<br>
+                            Firerate: ${element.rof}<br>
+                            Heat Per Shot: ${element.heat}<br>
+                        </a>
+                        <div>
+                            <div class="attachment-item" onclick="window.location='${element.attachmentOne.jumpto}';">
+                                <img class="ability" class="no-lb" src="../../assets/attachments/${element.attachmentOne.image}">
+                                <span class="ability-name">${element.attachmentOne.name}</span>
+                            </div><div class="attachment-item" onclick="window.location='${element.attachmentTwo.jumpto}';">
+                                <img class="ability" class="no-lb" src="../../assets/attachments/${element.attachmentTwo.image}">
+                                <span class="ability-name">${element.attachmentTwo.name}</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <!-- Item End -->
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    DC-15A
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_DC-15A.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 26-22<br>
-                    Range: 20-35<br>
-                    Firerate: 350<br>
-                    Heat Per Shot: 0.032<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#seeker';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_RangeFinder.svg">
-                        <span class="ability-name">Seeker Tactics</span>
-                    </div><div class="attachment-item" onclick="window.location='#focusedfire';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
-                        <span class="ability-name">Focused Fire</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    E-11
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_E-11.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 35-15<br>
-                    Range: 10-60<br>
-                    Firerate: 300<br>
-                    Heat Per Shot: 0.055<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#berserker';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Berserker.svg">
-                        <span class="ability-name">Berserker</span>
-                    </div><div class="attachment-item" onclick="window.location='#eliteblaster';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Elite.svg">
-                        <span class="ability-name">Elite Blaster</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    E-5
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_E-5.svg">
-                <div class="blaster-trait">Droids have 50% more cooling</div>
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 60-50<br>
-                    Range: 30-40<br>
-                    Firerate: 200<br>
-                    Heat Per Shot: 0.1<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#seeker';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
-                        <span class="ability-name">Seeker Tactics</span>
-                    </div><div class="attachment-item" onclick="window.location='#e5-rocket';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Trigger.svg">
-                        <span class="ability-name">Bulldog RLR</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    F-11D
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_F-11D.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 36-19<br>
-                    Range: 30-60<br>
-                    Firerate: 270<br>
-                    Heat Per Shot: 0.06<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#sharpshooter';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Sharpshooter.svg">
-                        <span class="ability-name">Sharpshooter</span>
-                    </div><div class="attachment-item" onclick="window.location='#explosive';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_BarrelExtension.svg">
-                        <span class="ability-name">Explosive Shot</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    CA-87
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_CA-87.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 25-10 x 8<br>
-                    Range: 15-40<br>
-                    Firerate: 75<br>
-                    Heat Per Shot: 0.045<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#lightshot';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_CoolingCell.svg">
-                        <span class="ability-name">Light Shot</span>
-                    </div><div class="attachment-item" onclick="window.location='#ca87-crouchcontrol';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_RangeFinder.svg">
-                        <span class="ability-name">Crouch Control</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    DH-17R
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_DH-17R.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 36-25<br>
-                    Range: 18-30<br>
-                    Firerate: 360<br>
-                    Heat Per Shot: 0.062<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#explosive';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_BarrelExtension.svg">
-                        <span class="ability-name">Explosive Shot</span>
-                    </div><div class="attachment-item" onclick="window.location='#eliteblaster';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Elite.svg">
-                        <span class="ability-name">Elite Blaster</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    EE-3
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_EE-3.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 31-18<br>
-                    Range: 10-60<br>
-                    Firerate: 800 x 3 - 115<br>
-                    Heat Per Shot: 0.038<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#seeker';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
-                        <span class="ability-name">Seeker Tactics</span>
-                    </div><div class="attachment-item" onclick="window.location='#ee3-sugi';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Elite.svg">
-                        <span class="ability-name">Sugi</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    EE-4
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_EE-4.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 22-14 x 3<br>
-                    Range: 9-36<br>
-                    Firerate: 600 x 2 - 115<br>
-                    Heat Per Shot: 0.08<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#lightshot';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_CoolingCell.svg">
-                        <span class="ability-name">Light Shot</span>
-                    </div><div class="attachment-item" onclick="window.location='#ionshot';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Barrel.svg">
-                        <span class="ability-name">Ion Shot</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    GALAAR-15
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_GALAAR-15.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 43-30<br>
-                    Range: 12-30<br>
-                    Firerate: 380<br>
-                    Heat Per Shot: 0.1<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#berserker';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Berserker.svg">
-                        <span class="ability-name">Berserker</span>
-                    </div><div class="attachment-item" onclick="window.location='#lightshot';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_CoolingCell.svg">
-                        <span class="ability-name">Light Shot</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    ST-W48
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_ST-W48.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 21-10<br>
-                    Range: 15-35<br>
-                    Firerate: 620<br>
-                    Heat Per Shot: 0.026<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#berserker';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Berserker.svg">
-                        <span class="ability-name">Berserker</span>
-                    </div><div class="attachment-item" onclick="window.location='#seeker';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Stock.svg">
-                        <span class="ability-name">Seeker Tactics</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    T-12
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_T-12.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 38-7<br>
-                    Range: 7-18<br>
-                    Firerate: 300<br>
-                    Heat Per Shot: 0.66<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#t12-slug';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_RangeFinder.svg">
-                        <span class="ability-name">Slug</span>
-                    </div><div class="attachment-item" onclick="window.location='#t12-oneshot';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Trigger.svg">
-                        <span class="ability-name">Both Barrels</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    VT-33D
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_VT-33D_Blaster.svg">
-                <div class="blaster-trait">Fires at least 3 blasts per trigger pull</div>
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 22-19<br>
-                    Range: 10-30<br>
-                    Firerate: 600<br>
-                    Heat Per Shot: 0.048<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#gunslinger';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Grip.svg">
-                        <span class="ability-name">Gunslinger</span>
-                    </div><div class="attachment-item" onclick="window.location='#escapeartist';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_EscapeArtist.svg">
-                        <span class="ability-name">Escape Artist</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    Zersium Rifle
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/assault-blasters/Weapons_ZersiumRifle.svg">
-                <div class="blaster-trait">Randomizes stats on trigger pull</div>
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 30-27 | 40-30 | 70-40<br>
-                    Range: 30-40 | 20-30 | 10-20<br>
-                    Firerate: 320<br>
-                    Heat Per Shot: 0.05 x 0.9 | 1 | 1.1<br>
-                </a>
-                <div>
-                    <div class="attachment-item" onclick="window.location='#gunslinger';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_Grip.svg">
-                        <span class="ability-name">Gunslinger</span>
-                    </div><div class="attachment-item" onclick="window.location='#escapeartist';">
-                        <img class="ability" class="no-lb" src="../../assets/attachments/Attach_EscapeArtist.svg">
-                        <span class="ability-name">Escape Artist</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+        `;
+    }));
+</script>
 
-</div>
+<div id="assault-primary" class="container"></div>
 
 #### Secondary
 
