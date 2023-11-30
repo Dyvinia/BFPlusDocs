@@ -274,7 +274,7 @@
                 "damage": "30-27 | 40-30 | 70-40",
                 "range": "30-40 | 20-30 | 10-20",
                 "rof": "320",
-                "heat": "0.05 x 0.9 | 1 | 1.1",
+                "heat": "0.045 | 0.05 | 0.055",
     
                 "attachmentOne": {
                     "name": "Gunslinger",
@@ -1072,7 +1072,262 @@
 
     "specialist": {
         "primary": [
+            {
+                "name": "A180",
+                "image": "/specialist-blasters/Weapons_A180.svg",
+    
+                "damage": "110-70",
+                "range": "5-60",
+                "rof": "150",
+                "heat": "0.5",
+    
+                "attachmentOne": {
+                    "name": "A180 Pistol",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#a180-pistol"
+                },
+                "attachmentTwo": {
+                    "name": "A180 Rifle",
+                    "image": "Attach_RifleA180.svg",
+                    "jumpto": "#a180-rifle"
+                }
+            },
+            {
+                "name": "DLT-19D",
+                "image": "/specialist-blasters/Weapons_DLT-19D.svg",
 
+                "trait": "Built-in night vision scope",
+    
+                "damage": "49-45",
+                "range": "40-100",
+                "rof": "180",
+                "heat": "0.1",
+    
+                "attachmentOne": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
+                },
+                "attachmentTwo": {
+                    "name": "Elite Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#eliteblaster"
+                }
+            },
+            {
+                "name": "DLT-19x",
+                "image": "/specialist-blasters/Weapons_DLT-19X.svg",
+    
+                "damage": "150-100",
+                "range": "6-80",
+                "rof": "100",
+                "heat": "1.0",
+    
+                "attachmentOne": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
+                },
+                "attachmentTwo": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                }
+            },
+            {
+                "name": "DLT-20A",
+                "image": "/specialist-blasters/Weapons_DLT-20A.svg",
+
+                "trait": "Charges to 3 power levels, reaching 100% power after a second",
+    
+                "damage": "80-65 (1x | 1.5x | 2x)",
+                "range": "36-80",
+                "rof": "50",
+                "heat": "0.034",
+    
+                "attachmentOne": {
+                    "name": "Charge Hack",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#chargehack"
+                },
+                "attachmentTwo": {
+                    "name": "Heavy Handed",
+                    "image": "Attach_HeavyHanded.svg",
+                    "jumpto": "#heavyhanded"
+                }
+            },
+            {
+                "name": "E-5S",
+                "image": "/specialist-blasters/Weapons_E-5S.svg",
+
+                "trait": "Built-in thermal scanner scope",
+    
+                "damage": "55-45",
+                "range": "40-65",
+                "rof": "180",
+                "heat": "0.251",
+    
+                "attachmentOne": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
+                },
+                "attachmentTwo": {
+                    "name": "Precision Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#precisionblaster"
+                }
+            },
+            {
+                "name": "Valken-38x",
+                "image": "/specialist-blasters/Weapons_Valken-38x.svg",
+
+                "trait": "Fires 2 parallel blaster bolts at once",
+    
+                "damage": "48-40 x 2 (+8)",
+                "range": "20-60",
+                "rof": "100",
+                "heat": "0.3",
+    
+                "attachmentOne": {
+                    "name": "Triple Take",
+                    "image": "Attach_TripleTake.svg",
+                    "jumpto": "#valken-apex"
+                },
+                "attachmentTwo": {
+                    "name": "Reconfiguration Scope",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#valken-verticalshot"
+                }
+            },
+            {
+                "name": "DLT-19D",
+                "image": "/specialist-blasters/Weapons_773-Firepuncher.svg",
+
+                "trait": "Blaster bolts ricochet off all surfaces",
+    
+                "damage": "50 (+10)",
+                "range": "12-60",
+                "rof": "200",
+                "heat": "0.167",
+    
+                "attachmentOne": {
+                    "name": "Fuze",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#firepuncher-fuze"
+                },
+                "attachmentTwo": {
+                    "name": "Extended Life",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#firepuncher-longlife"
+                }
+            },
+            {
+                "name": "Bowcaster",
+                "image": "/specialist-blasters/Weapons_Bowcaster.svg",
+
+                "trait": "Charges to 3 power levels at 45% power per second, increasing projectile count",
+    
+                "damage": "40-30 x 1 | 3 | 5",
+                "range": "25-60",
+                "rof": "80",
+                "heat": "0.17",
+    
+                "attachmentOne": {
+                    "name": "Charge Hack",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#chargehack"
+                },
+                "attachmentTwo": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
+                }
+            },
+            {
+                "name": "CJ-9 Bo-Rifle",
+                "image": "/specialist-blasters/Weapons_CJ-9Bo-Rifle.svg",
+
+                "trait": "Enhanced melee stuns enemies and does increased damage",
+    
+                "damage": "45-30 x 2",
+                "range": "10-60",
+                "rof": "220",
+                "heat": "0.067",
+    
+                "attachmentOne": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
+                },
+                "attachmentTwo": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
+                }
+            },
+            {
+                "name": "DC-17m Sniper",
+                "image": "/specialist-blasters/Weapons_DC-17m-Sniper.svg",
+
+                "trait": "Requires reloading an energy magazine",
+    
+                "damage": "110-75",
+                "range": "10-65",
+                "rof": "65",
+                "heat": "0.2",
+    
+                "attachmentOne": {
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
+                },
+                "attachmentTwo": {
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
+                }
+            },
+            {
+                "name": "Relby V-10",
+                "image": "/specialist-blasters/Weapons_RelbyV-10.svg",
+    
+                "damage": "38-32",
+                "range": "10-60 | 1-5",
+                "rof": "350",
+                "heat": "0.067",
+    
+                "attachmentOne": {
+                    "name": "Microgrenades",
+                    "image": "Attach_MicroGrenades.svg",
+                    "jumpto": "#focusedfire"
+                },
+                "attachmentTwo": {
+                    "name": "Elite Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#relbyv10-grenade"
+                }
+            },
+            {
+                "name": "DLT-19D",
+                "image": "/specialist-blasters/Weapons_T-21B.svg",
+    
+                "damage": "68-51",
+                "range": "10-50",
+                "rof": "150",
+                "heat": "0.143",
+    
+                "attachmentOne": {
+                    "name": "Explosive Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#explosive"
+                },
+                "attachmentTwo": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                }
+            }
         ],
         "secondary": [
 
