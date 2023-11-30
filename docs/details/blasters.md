@@ -1985,6 +1985,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                             Firerate: ${element.rof}<br>
                             Heat Per Shot: ${element.heat}<br>
                         </a>
+                        ${element.attachmentOne ? `
                         <div>
                             <div class="attachment-item" onclick="window.location='${element.attachmentOne.jumpto}';">
                                 <img class="ability" class="no-lb" src="../../assets/attachments/${element.attachmentOne.image}">
@@ -1994,6 +1995,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                                 <span class="ability-name">${element.attachmentTwo.name}</span>
                             </div>
                         </div>
+                        ` : ''}
                     </div>
                 </div>
             </div>
