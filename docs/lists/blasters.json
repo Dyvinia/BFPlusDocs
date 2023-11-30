@@ -287,6 +287,110 @@
                     "jumpto": "#escapeartist"
                 }
             }
+        ],
+
+        "secondary": [
+            {
+                "name": "DC-17",
+                "image": "/universal-sidearms/Weapons_DC-17.svg",
+    
+                "damage": "42-27",
+                "range": "25-40",
+                "rof": "270",
+                "heat": "0.08"
+            },
+            {
+                "name": "DH-17",
+                "image": "/universal-sidearms/Weapons_DH-17.svg",
+    
+                "damage": "25-5",
+                "range": "25-40",
+                "rof": "450",
+                "heat": "0.04"
+            },
+            {
+                "name": "Glie-44",
+                "image": "/universal-sidearms/Weapons_Glie-44.svg",
+    
+                "damage": "40-32",
+                "range": "30-45",
+                "rof": "220",
+                "heat": "0.09"
+            },
+            {
+                "name": "RG-4D",
+                "image": "/universal-sidearms/Weapons_RG-4D.svg",
+    
+                "damage": "28-14",
+                "range": "15-45",
+                "rof": "500",
+                "heat": "0.05"
+            },
+            {
+                "name": "SE-14r",
+                "image": "/universal-sidearms/Weapons_SE-14r.svg",
+    
+                "damage": "34-23",
+                "range": "20-40",
+                "rof": "300",
+                "heat": "0.05"
+            },
+            {
+                "name": "SE-44C",
+                "image": "/universal-sidearms/Weapons_SE-44C.svg",
+    
+                "damage": "31-20",
+                "range": "15-30",
+                "rof": "300",
+                "heat": "0.06"
+            },
+            {
+                "name": "DC-15S",
+                "image": "/assault-sidearms/Weapons_DC-15S.svg",
+    
+                "damage": "33-20",
+                "range": "30-60",
+                "rof": "270",
+                "heat": "0.194"
+            },
+            {
+                "name": "DL-18",
+                "image": "/assault-sidearms/Weapons_DL-18.svg",
+    
+                "damage": "41-15",
+                "range": "15-30",
+                "rof": "300",
+                "heat": "0.05"
+            },
+            {
+                "name": "DT-29",
+                "image": "/assault-sidearms/Weapons_DT-29.svg",
+    
+                "damage": "75-42",
+                "range": "20-40",
+                "rof": "300",
+                "heat": "0.17"
+            },
+            {
+                "name": "SE-14C",
+                "image": "/assault-sidearms/Weapons_SE-14C.svg",
+    
+                "damage": "20-15",
+                "range": "15-35",
+                "rof": "800 x 5 - 90",
+                "heat": "0.035"
+            },
+            {
+                "name": "Bulldog RLR",
+                "image": "/assault-blasters/Weapons_E-5.svg",
+
+                "trait": "E-5 Sidearm Exclusive",
+    
+                "damage": "15-10 | 20",
+                "range": "10-20 | 2-4",
+                "rof": "90",
+                "heat": "0.17"
+            }
         ]
     }
 }
