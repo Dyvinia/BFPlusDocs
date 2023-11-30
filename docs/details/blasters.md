@@ -337,14 +337,14 @@ Join the fray with a selection of over a hundred new abilities available to the 
         let heat = element.heat;
         let shots = -1;
         if (!isNaN(heat)) {
-            shots = Math.floor(1/heat);
+            shots = Math.ceil(1/heat);
             heat = (heat * 100) + '%';
         }
         else if (heat.includes(" | ")) {
             let heats = heat.split('|');
             let shotss = heat.split('|');
             for (let i = 0; i < heats.length; i++) {
-                shotss[i] = Math.floor(1/heats[i]);
+                shotss[i] = Math.ceil(1/heats[i]);
                 heats[i] = (heats[i] * 100)  + '%';
             }
             heat = heats.join(" | ");

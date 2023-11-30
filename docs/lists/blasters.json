@@ -110,15 +110,15 @@
                 "damage": "25-10 x 8",
                 "range": "15-40",
                 "rof": "75",
-                "heat": "0.045",
+                "heat": "0.45",
     
                 "attachmentOne": {
-                    "name": "Sharpshooter",
+                    "name": "Light Shot",
                     "image": "Attach_CoolingCell.svg",
                     "jumpto": "#lightshot"
                 },
                 "attachmentTwo": {
-                    "name": "Explosive Shot",
+                    "name": "Crouch Control",
                     "image": "Attach_RangeFinder.svg",
                     "jumpto": "#ca87-crouchcontrol"
                 }
@@ -1143,7 +1143,7 @@
                 "damage": "80-65 (1x | 1.5x | 2x)",
                 "range": "36-80",
                 "rof": "50",
-                "heat": "0.034",
+                "heat": "0.34",
     
                 "attachmentOne": {
                     "name": "Charge Hack",
