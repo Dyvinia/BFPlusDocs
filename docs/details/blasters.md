@@ -26,6 +26,8 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 #### Secondary
 
+<div id="heavy-secondary" class="container"></div>
+
 <div class="container">
     <!-- Item Start -->
     <div class="item">
@@ -1440,10 +1442,15 @@ Join the fray with a selection of over a hundred new abilities available to the 
     
     let json = fetch("../../lists/blasters.json").then(response => response.json());
 
+    // add universal sidearms
+    json.then(data => data.universalSidearms.forEach(element => document.getElementById('assault-secondary').innerHTML += createBlaster(element)));
+    json.then(data => data.universalSidearms.forEach(element => document.getElementById('heavy-secondary').innerHTML += createBlaster(element)));
+
     json.then(data => data.assault.primary.forEach(element => document.getElementById('assault-primary').innerHTML += createBlaster(element)));
     json.then(data => data.assault.secondary.forEach(element => document.getElementById('assault-secondary').innerHTML += createBlaster(element)));
 
     json.then(data => data.heavy.primary.forEach(element => document.getElementById('heavy-primary').innerHTML += createBlaster(element)));
+    json.then(data => data.heavy.secondary.forEach(element => document.getElementById('heavy-secondary').innerHTML += createBlaster(element)));
 </script>
 
 

@@ -291,60 +291,6 @@
 
         "secondary": [
             {
-                "name": "DC-17",
-                "image": "/universal-sidearms/Weapons_DC-17.svg",
-    
-                "damage": "42-27",
-                "range": "25-40",
-                "rof": "270",
-                "heat": "0.08"
-            },
-            {
-                "name": "DH-17",
-                "image": "/universal-sidearms/Weapons_DH-17.svg",
-    
-                "damage": "25-5",
-                "range": "25-40",
-                "rof": "450",
-                "heat": "0.04"
-            },
-            {
-                "name": "Glie-44",
-                "image": "/universal-sidearms/Weapons_Glie-44.svg",
-    
-                "damage": "40-32",
-                "range": "30-45",
-                "rof": "220",
-                "heat": "0.09"
-            },
-            {
-                "name": "RG-4D",
-                "image": "/universal-sidearms/Weapons_RG-4D.svg",
-    
-                "damage": "28-14",
-                "range": "15-45",
-                "rof": "500",
-                "heat": "0.05"
-            },
-            {
-                "name": "SE-14r",
-                "image": "/universal-sidearms/Weapons_SE-14r.svg",
-    
-                "damage": "34-23",
-                "range": "20-40",
-                "rof": "300",
-                "heat": "0.05"
-            },
-            {
-                "name": "SE-44C",
-                "image": "/universal-sidearms/Weapons_SE-44C.svg",
-    
-                "damage": "31-20",
-                "range": "15-30",
-                "rof": "300",
-                "heat": "0.06"
-            },
-            {
                 "name": "DC-15S",
                 "image": "/assault-sidearms/Weapons_DC-15S.svg",
     
@@ -670,7 +616,7 @@
             }
         ],
         "secondary": [
-
+            
         ]
     },
 
@@ -687,5 +633,62 @@
         "secondary": [
 
         ]
-    }
+    },
+
+    "universalSidearms": [
+        {
+            "name": "DC-17",
+            "image": "/universal-sidearms/Weapons_DC-17.svg",
+
+            "damage": "42-27",
+            "range": "25-40",
+            "rof": "270",
+            "heat": "0.08"
+        },
+        {
+            "name": "DH-17",
+            "image": "/universal-sidearms/Weapons_DH-17.svg",
+
+            "damage": "25-5",
+            "range": "25-40",
+            "rof": "450",
+            "heat": "0.04"
+        },
+        {
+            "name": "Glie-44",
+            "image": "/universal-sidearms/Weapons_Glie-44.svg",
+
+            "damage": "40-32",
+            "range": "30-45",
+            "rof": "220",
+            "heat": "0.09"
+        },
+        {
+            "name": "RG-4D",
+            "image": "/universal-sidearms/Weapons_RG-4D.svg",
+
+            "damage": "28-14",
+            "range": "15-45",
+            "rof": "500",
+            "heat": "0.05"
+        },
+        {
+            "name": "SE-14r",
+            "image": "/universal-sidearms/Weapons_SE-14r.svg",
+
+            "damage": "34-23",
+            "range": "20-40",
+            "rof": "300",
+            "heat": "0.05"
+        },
+        {
+            "name": "SE-44C",
+            "image": "/universal-sidearms/Weapons_SE-44C.svg",
+
+            "damage": "31-20",
+            "range": "15-30",
+            "rof": "300",
+            "heat": "0.06"
+        }
+    ]
 }
