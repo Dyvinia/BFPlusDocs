@@ -657,7 +657,416 @@
 
     "officer": {
         "primary": [
+            {
+                "name": "DC-17",
+                "image": "/officer-blasters/Weapons_DC-17.svg",
+    
+                "damage": "42-27",
+                "range": "25-40",
+                "rof": "270",
+                "heat": "0.08",
+    
+                "attachmentOne": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
+                },
+                "attachmentTwo": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                }
+            },
+            {
+                "name": "DH-17",
+                "image": "/officer-blasters/Weapons_DH-17.svg",
+    
+                "damage": "25-5",
+                "range": "25-40",
+                "rof": "450",
+                "heat": "0.04",
+    
+                "attachmentOne": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
+                },
+                "attachmentTwo": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#seeker"
+                }
+            },
+            {
+                "name": "Glie-44",
+                "image": "/officer-blasters/Weapons_Glie-44.svg",
+    
+                "damage": "40-32",
+                "range": "30-45",
+                "rof": "220",
+                "heat": "0.09",
+    
+                "attachmentOne": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
+                },
+                "attachmentTwo": {
+                    "name": "Multi-Shot Reconfiguration",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#multishot"
+                }
+            },
+            {
+                "name": "RG-4D",
+                "image": "/officer-blasters/Weapons_RG-4D.svg",
+    
+                "damage": "28-14",
+                "range": "15-45",
+                "rof": "500",
+                "heat": "0.05",
+    
+                "attachmentOne": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
+                },
+                "attachmentTwo": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
+                }
+            },
+            {
+                "name": "RK-3",
+                "image": "/officer-blasters/Weapons_RK-3.svg",
+    
+                "damage": "34-23",
+                "range": "20-40",
+                "rof": "300",
+                "heat": "0.05",
+    
+                "attachmentOne": {
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
+                },
+                "attachmentTwo": {
+                    "name": "Precision Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#precisionblaster"
+                }
+            },
+            {
+                "name": "BG-38",
+                "image": "/officer-blasters/Weapons_BG-38.svg",
+    
+                "damage": "51-12",
+                "range": "20-40",
+                "rof": "280",
+                "heat": "0.05",
+    
+                "attachmentOne": {
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
+                },
+                "attachmentTwo": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
+                }
+            },
+            {
+                "name": "DC-15S",
+                "image": "/officer-blasters/Weapons_DC-15S.svg",
 
+                "trait": "Rapidly cools with no delay",
+    
+                "damage": "33-20",
+                "range": "30-60",
+                "rof": "270",
+                "heat": "0.194",
+    
+                "attachmentOne": {
+                    "name": "Power Cell",
+                    "image": "Attach_HeavyHanded.svg",
+                    "jumpto": "#dc15s-powercell"
+                },
+                "attachmentTwo": {
+                    "name": "Multi-Shot",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#multishot"
+                }
+            },
+            {
+                "name": "DC-17S",
+                "image": "/officer-blasters/Weapons_DC-17S.svg",
+
+                "trait": "Hides user from radar while active",
+    
+                "damage": "32-21",
+                "range": "25-40",
+                "rof": "360",
+                "heat": "0.075",
+    
+                "attachmentOne": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
+                },
+                "attachmentTwo": {
+                    "name": "Elite Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#eliteblaster"
+                }
+            },
+            {
+                "name": "Defender Pistol",
+                "image": "/officer-blasters/Weapons_DefenderPistol.svg",
+    
+                "damage": "25-20",
+                "range": "10-30",
+                "rof": "700 x 3 - 145",
+                "heat": "0.03",
+    
+                "attachmentOne": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
+                },
+                "attachmentTwo": {
+                    "name": "Precision Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#precisionblaster"
+                }
+            },
+            {
+                "name": "DL-44",
+                "image": "/officer-blasters/Weapons_DL-44.svg",
+    
+                "damage": "70-25",
+                "range": "20-40",
+                "rof": "180",
+                "heat": "0.12",
+    
+                "attachmentOne": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
+                },
+                "attachmentTwo": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                }
+            },
+            {
+                "name": "DT-12",
+                "image": "/officer-blasters/Weapons_DT-12.svg",
+    
+                "damage": "40-16",
+                "range": "25-40",
+                "rof": "250",
+                "heat": "0.07",
+    
+                "attachmentOne": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#seeker"
+                },
+                "attachmentTwo": {
+                    "name": "Multi-Shot",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#multishot"
+                }
+            },
+            {
+                "name": "DT-29",
+                "image": "/officer-blasters/Weapons_DT-29.svg",
+
+                "trait": "Cannot autocool nor supercool",
+    
+                "damage": "75-42",
+                "range": "20-40",
+                "rof": "300",
+                "heat": "0.17",
+    
+                "attachmentOne": {
+                    "name": "Cooling Cell",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#dt29-cooling"
+                },
+                "attachmentTwo": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
+                }
+            },
+            {
+                "name": "EC-17",
+                "image": "/officer-blasters/Weapons_EC-17.svg",
+    
+                "damage": "35-11",
+                "range": "10-25",
+                "rof": "600 x 2 - 200",
+                "heat": "0.0715",
+    
+                "attachmentOne": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
+                },
+                "attachmentTwo": {
+                    "name": "Night Vision",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#nightvision"
+                }
+            },
+            {
+                "name": "HF-94",
+                "image": "/officer-blasters/Weapons_HF-94.svg",
+
+                "trait": "Resets heat upon successful shots",
+    
+                "damage": "165-80",
+                "range": "1-15",
+                "rof": "360",
+                "heat": "1.0",
+    
+                "attachmentOne": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
+                },
+                "attachmentTwo": {
+                    "name": "Second Chance",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#hf94-vanthrefrigeration"
+                }
+            },
+            {
+                "name": "K-16 Bryar Pistol",
+                "image": "/officer-blasters/Weapons_K16BryarPistol.svg",
+
+                "trait": "Charges to 3 power levels at 90% power per second, increasing damage",
+    
+                "damage": "56-12 (1x | 1.5x | 2x)",
+                "range": "8-36",
+                "rof": "250",
+                "heat": "0.078",
+    
+                "attachmentOne": {
+                    "name": "Charge Hack",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#chargehack"
+                },
+                "attachmentTwo": {
+                    "name": "Explosive Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#explosive"
+                }
+            },
+            {
+                "name": "NN-14",
+                "image": "/officer-blasters/Weapons_NN-14.svg",
+    
+                "damage": "37-18",
+                "range": "25-40",
+                "rof": "280",
+                "heat": "0.067",
+    
+                "attachmentOne": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
+                },
+                "attachmentTwo": {
+                    "name": "Secondary Fire",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#altfire"
+                }
+            },
+            {
+                "name": "Relby K-23",
+                "image": "/officer-blasters/Weapons_RelbyK-23.svg",
+    
+                "damage": "40-16",
+                "range": "25-40",
+                "rof": "250",
+                "heat": "0.07",
+    
+                "attachmentOne": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                },
+                "attachmentTwo": {
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
+                }
+            },
+            {
+                "name": "SE-14C",
+                "image": "/officer-blasters/Weapons_SE-14C.svg",
+    
+                "damage": "20-15",
+                "range": "15-35",
+                "rof": "800 x 5 - 90",
+                "heat": "0.035",
+    
+                "attachmentOne": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
+                },
+                "attachmentTwo": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
+                }
+            },
+            {
+                "name": "SE-14r",
+                "image": "/officer-blasters/Weapons_SE-14r.svg",
+    
+                "damage": "34-23",
+                "range": "20-40",
+                "rof": "300",
+                "heat": "0.05",
+    
+                "attachmentOne": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                },
+                "attachmentTwo": {
+                    "name": "Explosive Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#explosiveshot"
+                }
+            },
+            {
+                "name": "X-8",
+                "image": "/officer-blasters/Weapons_X-8.svg",
+    
+                "damage": "50-35",
+                "range": "10-40",
+                "rof": "210",
+                "heat": "0.11",
+    
+                "attachmentOne": {
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
+                },
+                "attachmentTwo": {
+                    "name": "Night Vision",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#nightvision"
+                }
+            }
         ]
     },
 
