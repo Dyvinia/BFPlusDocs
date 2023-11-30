@@ -34,6 +34,7 @@
 /* Hover Color */
 [data-md-color-accent="orange"] {
     --md-accent-fg-color: #808080;
+    --md-typeset-color: #ddd;
 }
 
 /* H1, H2, etc */
