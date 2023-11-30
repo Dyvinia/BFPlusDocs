@@ -88,264 +88,23 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 #### Secondary
 
-<div class="container">
-    <!-- Item Start -->
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    DC-17
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/universal-sidearms/Weapons_DC-17.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 42-27<br>
-                    Range: 25-40<br>
-                    Firerate: 270<br>
-                    Heat Per Shot: 0.08<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <!-- Item End -->
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    DH-17
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/universal-sidearms/Weapons_DH-17.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 25-5<br>
-                    Range: 25-40<br>
-                    Firerate: 450<br>
-                    Heat Per Shot: 0.04<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    Glie-44
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/universal-sidearms/Weapons_Glie-44.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 40-32<br>
-                    Range: 30-45<br>
-                    Firerate: 220<br>
-                    Heat Per Shot: 0.09<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    RG-4D
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/universal-sidearms/Weapons_RG-4D.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 28-14<br>
-                    Range: 15-45<br>
-                    Firerate: 500<br>
-                    Heat Per Shot: 0.05<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    SE-14r
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/universal-sidearms/Weapons_SE-14r.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 34-23<br>
-                    Range: 20-40<br>
-                    Firerate: 300<br>
-                    Heat Per Shot: 0.05<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    SE-44C
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/universal-sidearms/Weapons_SE-44C.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 31-20<br>
-                    Range: 15-30<br>
-                    Firerate: 300<br>
-                    Heat Per Shot: 0.06<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    DT-12
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_DT-12.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 40-16<br>
-                    Range: 25-40<br>
-                    Firerate: 250<br>
-                    Heat Per Shot: 0.07<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    EC-17
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_EC-17.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 35-11<br>
-                    Range: 10-25<br>
-                    Firerate: 600 x 2 - 200<br>
-                    Heat Per Shot: 0.0715<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    S-5
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_S-5.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 67-45<br>
-                    Range: 15-50<br>
-                    Firerate: 140<br>
-                    Heat Per Shot: 0.1<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    X-8
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_X-8.svg">
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 50-35<br>
-                    Range: 10-40<br>
-                    Firerate: 210<br>
-                    Heat Per Shot: 0.11<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    A180 Pistol
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_A180-Pistol.svg">
-                <div class="blaster-trait">A180 Sidearm Exclusive</div>
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 51-12<br>
-                    Range: 20-40<br>
-                    Firerate: 280<br>
-                    Heat Per Shot: 0.05<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    A180 Rifle
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-sidearms/Weapons_A180-Rifle.svg">
-                <div class="blaster-trait">A180 Sidearm Exclusive</div>
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 34-21<br>
-                    Range: 10-60<br>
-                    Firerate: 460<br>
-                    Heat Per Shot: 0.05<br>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="trooper-blaster">
-            <div>
-                <h3>
-                    Microgrenades
-                </h3>
-                <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/specialist-blasters/Weapons_RelbyV-10.svg">
-                <div class="blaster-trait">Relby V-10 Sidearm Exclusive</div>
-            </div>
-            <div class="text">
-                <a>
-                    Damage: 55<br>
-                    Radius: 1.25-2.5<br>
-                    Firerate: 100<br>
-                    Ammo Capacity: 3<br>
-                </a>
-            </div>
-        </div>
-    </div>
-
-</div>
+<div id="spec-secondary" class="container"></div>
 
 <script>
     function createBlaster(element) {
         // heat but human readable
-        let heat = element.heat;
+        let heat = element.heat ?? -1;
         let shots = -1;
         if (!isNaN(heat)) {
             shots = Math.ceil(1/heat);
-            heat = (heat * 100) + '%';
+            heat = parseFloat((heat * 100).toFixed(4)) + '%';
         }
         else if (heat.includes(" | ")) {
             let heats = heat.split('|');
             let shotss = heat.split('|');
             for (let i = 0; i < heats.length; i++) {
                 shotss[i] = Math.ceil(1/heats[i]);
-                heats[i] = (heats[i] * 100)  + '%';
+                heats[i] = parseFloat((heats[i] * 100).toFixed(4)) + '%';
             }
             heat = heats.join(" | ");
             shots = shotss.join(" | ");
@@ -358,7 +117,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
                         <h3>
                             ${element.name}
                         </h3>
-                        <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters${element.image}">
+                        <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/${element.image}">
                         ${element.trait ? `<div class="blaster-trait">${element.trait}</div>` : ''}
                     </div>
                     <div class="text">
@@ -367,11 +126,13 @@ Join the fray with a selection of over a hundred new abilities available to the 
                             ${element.range ? `Range: ${element.range}<br>` : ''}
                             ${element.radius ? `Radius: ${element.radius}<br>` : ''}
                             Firerate: ${element.rof}<br>
+                            ${element.heat ? `
                             <span 
                             onmouseover="this.textContent = 'Total Shots: ${shots}';"
                             onmouseout="this.textContent = 'Heat Per Shot: ${heat}';">
                             Heat Per Shot: ${heat}
-                            </span>
+                            </span>` : ''}
+                            ${element.ammo ? `Ammo Capacity: ${element.ammo}` : ''}
                         </a>
                         ${element.attachmentOne ? `
                         <div>
@@ -395,6 +156,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
     // add universal sidearms
     json.then(data => data.universalSidearms.forEach(element => document.getElementById('assault-secondary').innerHTML += createBlaster(element)));
     json.then(data => data.universalSidearms.forEach(element => document.getElementById('heavy-secondary').innerHTML += createBlaster(element)));
+    json.then(data => data.universalSidearms.forEach(element => document.getElementById('spec-secondary').innerHTML += createBlaster(element)));
 
     // add blasters
     json.then(data => data.assault.primary.forEach(element => document.getElementById('assault-primary').innerHTML += createBlaster(element)));
@@ -406,6 +168,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
     json.then(data => data.officer.primary.forEach(element => document.getElementById('officer-primary').innerHTML += createBlaster(element)));
 
     json.then(data => data.specialist.primary.forEach(element => document.getElementById('spec-primary').innerHTML += createBlaster(element)));
+    json.then(data => data.specialist.secondary.forEach(element => document.getElementById('spec-secondary').innerHTML += createBlaster(element)));
 </script>
 
 

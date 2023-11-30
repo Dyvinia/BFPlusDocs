@@ -3,7 +3,7 @@
         "primary": [
             {
                 "name": "A280C",
-                "image": "/assault-blasters/Weapons_A280C.svg",
+                "image": "assault-blasters/Weapons_A280C.svg",
     
                 "damage": "25-12",
                 "range": "10-60",
@@ -23,7 +23,7 @@
             },
             {
                 "name": "DC-15A",
-                "image": "/assault-blasters/Weapons_DC-15A.svg",
+                "image": "assault-blasters/Weapons_DC-15A.svg",
     
                 "damage": "26-22",
                 "range": "20-35",
@@ -43,7 +43,7 @@
             },
             {
                 "name": "E-11",
-                "image": "/assault-blasters/Weapons_E-11.svg",
+                "image": "assault-blasters/Weapons_E-11.svg",
     
                 "damage": "35-15",
                 "range": "10-60",
@@ -63,7 +63,7 @@
             },
             {
                 "name": "E-5",
-                "image": "/assault-blasters/Weapons_E-5.svg",
+                "image": "assault-blasters/Weapons_E-5.svg",
     
                 "trait": "Droids have 50% more cooling",
     
@@ -85,7 +85,7 @@
             },
             {
                 "name": "F-11D",
-                "image": "/assault-blasters/Weapons_F-11D.svg",
+                "image": "assault-blasters/Weapons_F-11D.svg",
     
                 "damage": "60-50",
                 "range": "30-40",
@@ -105,7 +105,7 @@
             },
             {
                 "name": "CA-87",
-                "image": "/assault-blasters/Weapons_CA-87.svg",
+                "image": "assault-blasters/Weapons_CA-87.svg",
     
                 "damage": "25-10 x 8",
                 "range": "15-40",
@@ -125,7 +125,7 @@
             },
             {
                 "name": "DH-17R",
-                "image": "/assault-blasters/Weapons_DH-17R.svg",
+                "image": "assault-blasters/Weapons_DH-17R.svg",
     
                 "damage": "36-25",
                 "range": "18-30",
@@ -145,7 +145,7 @@
             },
             {
                 "name": "EE-3",
-                "image": "/assault-blasters/Weapons_EE-3.svg",
+                "image": "assault-blasters/Weapons_EE-3.svg",
     
                 "damage": "31-18",
                 "range": "10-60",
@@ -165,7 +165,7 @@
             },
             {
                 "name": "EE-4",
-                "image": "/assault-blasters/Weapons_EE-4.svg",
+                "image": "assault-blasters/Weapons_EE-4.svg",
     
                 "damage": "22-14 x 3",
                 "range": "9-36",
@@ -185,7 +185,7 @@
             },
             {
                 "name": "GALAAR-15",
-                "image": "/assault-blasters/Weapons_GALAAR-15.svg",
+                "image": "assault-blasters/Weapons_GALAAR-15.svg",
     
                 "damage": "43-30",
                 "range": "12-30",
@@ -205,7 +205,7 @@
             },
             {
                 "name": "ST-W48",
-                "image": "/assault-blasters/Weapons_ST-W48.svg",
+                "image": "assault-blasters/Weapons_ST-W48.svg",
     
                 "damage": "21-10",
                 "range": "15-35",
@@ -225,7 +225,7 @@
             },
             {
                 "name": "T-12",
-                "image": "/assault-blasters/Weapons_T-12.svg",
+                "image": "assault-blasters/Weapons_T-12.svg",
     
                 "damage": "38-7",
                 "range": "7-18",
@@ -245,7 +245,7 @@
             },
             {
                 "name": "VT-33D",
-                "image": "/assault-blasters/Weapons_VT-33D_Blaster.svg",
+                "image": "assault-blasters/Weapons_VT-33D_Blaster.svg",
 
                 "trait": "Fires at least 3 blasts per trigger pull",
     
@@ -267,7 +267,7 @@
             },
             {
                 "name": "Zersium Rifle",
-                "image": "/assault-blasters/Weapons_ZersiumRifle.svg",
+                "image": "assault-blasters/Weapons_ZersiumRifle.svg",
 
                 "trait": "Randomizes stats on trigger pull",
     
@@ -292,7 +292,7 @@
         "secondary": [
             {
                 "name": "DC-15S",
-                "image": "/assault-sidearms/Weapons_DC-15S.svg",
+                "image": "assault-sidearms/Weapons_DC-15S.svg",
     
                 "damage": "33-20",
                 "range": "30-60",
@@ -301,7 +301,7 @@
             },
             {
                 "name": "DL-18",
-                "image": "/assault-sidearms/Weapons_DL-18.svg",
+                "image": "assault-sidearms/Weapons_DL-18.svg",
     
                 "damage": "41-15",
                 "range": "15-30",
@@ -310,7 +310,7 @@
             },
             {
                 "name": "DT-29",
-                "image": "/assault-sidearms/Weapons_DT-29.svg",
+                "image": "assault-sidearms/Weapons_DT-29.svg",
     
                 "damage": "75-42",
                 "range": "20-40",
@@ -319,7 +319,7 @@
             },
             {
                 "name": "SE-14C",
-                "image": "/assault-sidearms/Weapons_SE-14C.svg",
+                "image": "assault-sidearms/Weapons_SE-14C.svg",
     
                 "damage": "20-15",
                 "range": "15-35",
@@ -328,7 +328,7 @@
             },
             {
                 "name": "Bulldog RLR",
-                "image": "/assault-blasters/Weapons_E-5.svg",
+                "image": "assault-blasters/Weapons_E-5.svg",
 
                 "trait": "E-5 Sidearm Exclusive",
     
@@ -344,7 +344,7 @@
         "primary": [
             {
                 "name": "DC-15",
-                "image": "/heavy-blasters/Weapons_DC-15.svg",
+                "image": "heavy-blasters/Weapons_DC-15.svg",
     
                 "damage": "31-28",
                 "range": "30-50",
@@ -364,7 +364,7 @@
             },
             {
                 "name": "DLT-19",
-                "image": "/heavy-blasters/Weapons_DLT-19.svg",
+                "image": "heavy-blasters/Weapons_DLT-19.svg",
     
                 "damage": "17-13",
                 "range": "15-50",
@@ -384,7 +384,7 @@
             },
             {
                 "name": "E-5C",
-                "image": "/heavy-blasters/Weapons_E-5C.svg",
+                "image": "heavy-blasters/Weapons_E-5C.svg",
     
                 "damage": "14-8",
                 "range": "15-40",
@@ -404,7 +404,7 @@
             },
             {
                 "name": "M-45",
-                "image": "/heavy-blasters/Weapons_M-45.svg",
+                "image": "heavy-blasters/Weapons_M-45.svg",
 
                 "trait": "Ionized blaster bolts",
     
@@ -426,7 +426,7 @@
             },
             {
                 "name": "RT-97C",
-                "image": "/heavy-blasters/Weapons_RT-97C.svg",
+                "image": "heavy-blasters/Weapons_RT-97C.svg",
     
                 "damage": "17-14",
                 "range": "25-55",
@@ -446,7 +446,7 @@
             },
             {
                 "name": "Baragwin Repeater",
-                "image": "/heavy-blasters/Weapons_BaragwinRepeater.svg",
+                "image": "heavy-blasters/Weapons_BaragwinRepeater.svg",
 
                 "trait": "Accuracy tightens during burst",
     
@@ -468,7 +468,7 @@
             },
             {
                 "name": "DC-12U",
-                "image": "/heavy-blasters/Weapons_DC-12U.svg",
+                "image": "heavy-blasters/Weapons_DC-12U.svg",
 
                 "trait": "Fires 2 parallel blaster bolts at once",
     
@@ -490,7 +490,7 @@
             },
             {
                 "name": "DP-23",
-                "image": "/heavy-blasters/Weapons_DP-23.svg",
+                "image": "heavy-blasters/Weapons_DP-23.svg",
     
                 "damage": "17-6 x 8",
                 "range": "6-30",
@@ -510,7 +510,7 @@
             },
             {
                 "name": "E-22",
-                "image": "/heavy-blasters/Weapons_E-22.svg",
+                "image": "heavy-blasters/Weapons_E-22.svg",
 
                 "trait": "Fires 2 parallel blaster bolts at once",
     
@@ -532,7 +532,7 @@
             },
             {
                 "name": "G125",
-                "image": "/heavy-blasters/Weapons_G125.svg",
+                "image": "heavy-blasters/Weapons_G125.svg",
     
                 "damage": "40-15",
                 "range": "20-40",
@@ -552,7 +552,7 @@
             },
             {
                 "name": "Sonic Blaster",
-                "image": "/heavy-blasters/Weapons_SonicBlaster.svg",
+                "image": "heavy-blasters/Weapons_SonicBlaster.svg",
     
                 "damage": "49-30 | 20",
                 "range": "20-40 | 1-5",
@@ -572,7 +572,7 @@
             },
             {
                 "name": "T-7 Disruptor Rifle",
-                "image": "/heavy-blasters/Weapons_T-7_DisruptorRifle.svg",
+                "image": "heavy-blasters/Weapons_T-7_DisruptorRifle.svg",
 
                 "trait": "Charges to 3 power levels at 14.275% power per second, increasing blast damage and radius",
     
@@ -594,7 +594,7 @@
             },
             {
                 "name": "V-6D",
-                "image": "/heavy-blasters/Weapons_V-6D.svg",
+                "image": "heavy-blasters/Weapons_V-6D.svg",
 
                 "trait": "Zoom-in charges up projectile launch speed",
     
@@ -618,7 +618,7 @@
         "secondary": [
             {
                 "name": "Blurrg-1120",
-                "image": "/heavy-sidearms/Weapons_Blurrg-1120.svg",
+                "image": "heavy-sidearms/Weapons_Blurrg-1120.svg",
     
                 "damage": "30-12",
                 "range": "15-40",
@@ -627,7 +627,7 @@
             },
             {
                 "name": "DL-44",
-                "image": "/heavy-sidearms/Weapons_DL-44.svg",
+                "image": "heavy-sidearms/Weapons_DL-44.svg",
     
                 "damage": "70-25",
                 "range": "20-40",
@@ -636,7 +636,7 @@
             },
             {
                 "name": "K-16 Bryar Pistol",
-                "image": "/heavy-sidearms/Weapons_K16BryarPistol.svg",
+                "image": "heavy-sidearms/Weapons_K16BryarPistol.svg",
     
                 "damage": "56-12 x 1 | 1.5 | 2",
                 "range": "8-36",
@@ -645,7 +645,7 @@
             },
             {
                 "name": "NN-14",
-                "image": "/heavy-sidearms/Weapons_NN-14.svg",
+                "image": "heavy-sidearms/Weapons_NN-14.svg",
     
                 "damage": "37-18",
                 "range": "25-40",
@@ -659,7 +659,7 @@
         "primary": [
             {
                 "name": "DC-17",
-                "image": "/officer-blasters/Weapons_DC-17.svg",
+                "image": "officer-blasters/Weapons_DC-17.svg",
     
                 "damage": "42-27",
                 "range": "25-40",
@@ -679,7 +679,7 @@
             },
             {
                 "name": "DH-17",
-                "image": "/officer-blasters/Weapons_DH-17.svg",
+                "image": "officer-blasters/Weapons_DH-17.svg",
     
                 "damage": "25-5",
                 "range": "25-40",
@@ -699,7 +699,7 @@
             },
             {
                 "name": "Glie-44",
-                "image": "/officer-blasters/Weapons_Glie-44.svg",
+                "image": "officer-blasters/Weapons_Glie-44.svg",
     
                 "damage": "40-32",
                 "range": "30-45",
@@ -719,7 +719,7 @@
             },
             {
                 "name": "RG-4D",
-                "image": "/officer-blasters/Weapons_RG-4D.svg",
+                "image": "officer-blasters/Weapons_RG-4D.svg",
     
                 "damage": "28-14",
                 "range": "15-45",
@@ -739,7 +739,7 @@
             },
             {
                 "name": "RK-3",
-                "image": "/officer-blasters/Weapons_RK-3.svg",
+                "image": "officer-blasters/Weapons_RK-3.svg",
     
                 "damage": "34-23",
                 "range": "20-40",
@@ -759,7 +759,7 @@
             },
             {
                 "name": "BG-38",
-                "image": "/officer-blasters/Weapons_BG-38.svg",
+                "image": "officer-blasters/Weapons_BG-38.svg",
     
                 "damage": "51-12",
                 "range": "20-40",
@@ -779,7 +779,7 @@
             },
             {
                 "name": "DC-15S",
-                "image": "/officer-blasters/Weapons_DC-15S.svg",
+                "image": "officer-blasters/Weapons_DC-15S.svg",
 
                 "trait": "Rapidly cools with no delay",
     
@@ -801,7 +801,7 @@
             },
             {
                 "name": "DC-17S",
-                "image": "/officer-blasters/Weapons_DC-17S.svg",
+                "image": "officer-blasters/Weapons_DC-17S.svg",
 
                 "trait": "Hides user from radar while active",
     
@@ -823,7 +823,7 @@
             },
             {
                 "name": "Defender Pistol",
-                "image": "/officer-blasters/Weapons_DefenderPistol.svg",
+                "image": "officer-blasters/Weapons_DefenderPistol.svg",
     
                 "damage": "25-20",
                 "range": "10-30",
@@ -843,7 +843,7 @@
             },
             {
                 "name": "DL-44",
-                "image": "/officer-blasters/Weapons_DL-44.svg",
+                "image": "officer-blasters/Weapons_DL-44.svg",
     
                 "damage": "70-25",
                 "range": "20-40",
@@ -863,7 +863,7 @@
             },
             {
                 "name": "DT-12",
-                "image": "/officer-blasters/Weapons_DT-12.svg",
+                "image": "officer-blasters/Weapons_DT-12.svg",
     
                 "damage": "40-16",
                 "range": "25-40",
@@ -883,7 +883,7 @@
             },
             {
                 "name": "DT-29",
-                "image": "/officer-blasters/Weapons_DT-29.svg",
+                "image": "officer-blasters/Weapons_DT-29.svg",
 
                 "trait": "Cannot autocool nor supercool",
     
@@ -905,7 +905,7 @@
             },
             {
                 "name": "EC-17",
-                "image": "/officer-blasters/Weapons_EC-17.svg",
+                "image": "officer-blasters/Weapons_EC-17.svg",
     
                 "damage": "35-11",
                 "range": "10-25",
@@ -925,7 +925,7 @@
             },
             {
                 "name": "HF-94",
-                "image": "/officer-blasters/Weapons_HF-94.svg",
+                "image": "officer-blasters/Weapons_HF-94.svg",
 
                 "trait": "Resets heat upon successful shots",
     
@@ -947,7 +947,7 @@
             },
             {
                 "name": "K-16 Bryar Pistol",
-                "image": "/officer-blasters/Weapons_K16BryarPistol.svg",
+                "image": "officer-blasters/Weapons_K16BryarPistol.svg",
 
                 "trait": "Charges to 3 power levels at 90% power per second, increasing damage",
     
@@ -969,7 +969,7 @@
             },
             {
                 "name": "NN-14",
-                "image": "/officer-blasters/Weapons_NN-14.svg",
+                "image": "officer-blasters/Weapons_NN-14.svg",
     
                 "damage": "37-18",
                 "range": "25-40",
@@ -989,7 +989,7 @@
             },
             {
                 "name": "Relby K-23",
-                "image": "/officer-blasters/Weapons_RelbyK-23.svg",
+                "image": "officer-blasters/Weapons_RelbyK-23.svg",
     
                 "damage": "40-16",
                 "range": "25-40",
@@ -1009,7 +1009,7 @@
             },
             {
                 "name": "SE-14C",
-                "image": "/officer-blasters/Weapons_SE-14C.svg",
+                "image": "officer-blasters/Weapons_SE-14C.svg",
     
                 "damage": "20-15",
                 "range": "15-35",
@@ -1029,7 +1029,7 @@
             },
             {
                 "name": "SE-14r",
-                "image": "/officer-blasters/Weapons_SE-14r.svg",
+                "image": "officer-blasters/Weapons_SE-14r.svg",
     
                 "damage": "34-23",
                 "range": "20-40",
@@ -1049,7 +1049,7 @@
             },
             {
                 "name": "X-8",
-                "image": "/officer-blasters/Weapons_X-8.svg",
+                "image": "officer-blasters/Weapons_X-8.svg",
     
                 "damage": "50-35",
                 "range": "10-40",
@@ -1074,7 +1074,7 @@
         "primary": [
             {
                 "name": "A180",
-                "image": "/specialist-blasters/Weapons_A180.svg",
+                "image": "specialist-blasters/Weapons_A180.svg",
     
                 "damage": "110-70",
                 "range": "5-60",
@@ -1094,7 +1094,7 @@
             },
             {
                 "name": "DLT-19D",
-                "image": "/specialist-blasters/Weapons_DLT-19D.svg",
+                "image": "specialist-blasters/Weapons_DLT-19D.svg",
 
                 "trait": "Built-in night vision scope",
     
@@ -1116,7 +1116,7 @@
             },
             {
                 "name": "DLT-19x",
-                "image": "/specialist-blasters/Weapons_DLT-19X.svg",
+                "image": "specialist-blasters/Weapons_DLT-19X.svg",
     
                 "damage": "150-100",
                 "range": "6-80",
@@ -1136,7 +1136,7 @@
             },
             {
                 "name": "DLT-20A",
-                "image": "/specialist-blasters/Weapons_DLT-20A.svg",
+                "image": "specialist-blasters/Weapons_DLT-20A.svg",
 
                 "trait": "Charges to 3 power levels, reaching 100% power after a second",
     
@@ -1158,7 +1158,7 @@
             },
             {
                 "name": "E-5S",
-                "image": "/specialist-blasters/Weapons_E-5S.svg",
+                "image": "specialist-blasters/Weapons_E-5S.svg",
 
                 "trait": "Built-in thermal scanner scope",
     
@@ -1180,7 +1180,7 @@
             },
             {
                 "name": "Valken-38x",
-                "image": "/specialist-blasters/Weapons_Valken-38x.svg",
+                "image": "specialist-blasters/Weapons_Valken-38x.svg",
 
                 "trait": "Fires 2 parallel blaster bolts at once",
     
@@ -1202,7 +1202,7 @@
             },
             {
                 "name": "DLT-19D",
-                "image": "/specialist-blasters/Weapons_773-Firepuncher.svg",
+                "image": "specialist-blasters/Weapons_773-Firepuncher.svg",
 
                 "trait": "Blaster bolts ricochet off all surfaces",
     
@@ -1224,7 +1224,7 @@
             },
             {
                 "name": "Bowcaster",
-                "image": "/specialist-blasters/Weapons_Bowcaster.svg",
+                "image": "specialist-blasters/Weapons_Bowcaster.svg",
 
                 "trait": "Charges to 3 power levels at 45% power per second, increasing projectile count",
     
@@ -1246,7 +1246,7 @@
             },
             {
                 "name": "CJ-9 Bo-Rifle",
-                "image": "/specialist-blasters/Weapons_CJ-9Bo-Rifle.svg",
+                "image": "specialist-blasters/Weapons_CJ-9Bo-Rifle.svg",
 
                 "trait": "Enhanced melee stuns enemies and does increased damage",
     
@@ -1268,7 +1268,7 @@
             },
             {
                 "name": "DC-17m Sniper",
-                "image": "/specialist-blasters/Weapons_DC-17m-Sniper.svg",
+                "image": "specialist-blasters/Weapons_DC-17m-Sniper.svg",
 
                 "trait": "Requires reloading an energy magazine",
     
@@ -1290,7 +1290,7 @@
             },
             {
                 "name": "Relby V-10",
-                "image": "/specialist-blasters/Weapons_RelbyV-10.svg",
+                "image": "specialist-blasters/Weapons_RelbyV-10.svg",
     
                 "damage": "38-32",
                 "range": "10-60 | 1-5",
@@ -1310,7 +1310,7 @@
             },
             {
                 "name": "DLT-19D",
-                "image": "/specialist-blasters/Weapons_T-21B.svg",
+                "image": "specialist-blasters/Weapons_T-21B.svg",
     
                 "damage": "68-51",
                 "range": "10-50",
@@ -1330,14 +1330,82 @@
             }
         ],
         "secondary": [
+            {
+                "name": "DT-12",
+                "image": "specialist-sidearms/Weapons_DT-12.svg",
+    
+                "damage": "40-16",
+                "range": "25-40",
+                "rof": "250",
+                "heat": "0.07"
+            },
+            {
+                "name": "EC-17",
+                "image": "specialist-sidearms/Weapons_EC-17.svg",
+    
+                "damage": "35-11",
+                "range": "10-25",
+                "rof": "600 x 2 - 200",
+                "heat": "0.0715"
+            },
+            {
+                "name": "S-5",
+                "image": "specialist-sidearms/Weapons_S-5.svg",
+    
+                "damage": "67-45",
+                "range": "15-50",
+                "rof": "140",
+                "heat": "0.1"
+            },
+            {
+                "name": "X-8",
+                "image": "specialist-sidearms/Weapons_X-8.svg",
+    
+                "damage": "50-35",
+                "range": "10-40",
+                "rof": "210",
+                "heat": "0.11"
+            },
+            {
+                "name": "A180 Pistol",
+                "image": "specialist-sidearms/Weapons_A180-Pistol.svg",
 
+                "trait": "A180 Sidearm Exclusive",
+    
+                "damage": "51-12",
+                "range": "20-40",
+                "rof": "280",
+                "heat": "0.05"
+            },
+            {
+                "name": "A180 Rifle",
+                "image": "specialist-sidearms/Weapons_A180-Rifle.svg",
+
+                "trait": "A180 Sidearm Exclusive",
+    
+                "damage": "34-21",
+                "range": "10-60",
+                "rof": "460",
+                "heat": "0.05"
+            },
+            {
+                "name": "Microgrenades",
+                "image": "specialist-blasters/Weapons_RelbyV-10.svg",
+
+                "trait": "Relby V-10 Sidearm Exclusive",
+    
+                "damage": "55",
+                "radius": "1.25-2.5",
+                "rof": "100",
+                "ammo": "3"
+            }
         ]
     },
 
     "universalSidearms": [
         {
             "name": "DC-17",
-            "image": "/universal-sidearms/Weapons_DC-17.svg",
+            "image": "universal-sidearms/Weapons_DC-17.svg",
 
             "damage": "42-27",
             "range": "25-40",
@@ -1346,7 +1414,7 @@
         },
         {
             "name": "DH-17",
-            "image": "/universal-sidearms/Weapons_DH-17.svg",
+            "image": "universal-sidearms/Weapons_DH-17.svg",
 
             "damage": "25-5",
             "range": "25-40",
@@ -1355,7 +1423,7 @@
         },
         {
             "name": "Glie-44",
-            "image": "/universal-sidearms/Weapons_Glie-44.svg",
+            "image": "universal-sidearms/Weapons_Glie-44.svg",
 
             "damage": "40-32",
             "range": "30-45",
@@ -1364,7 +1432,7 @@
         },
         {
             "name": "RG-4D",
-            "image": "/universal-sidearms/Weapons_RG-4D.svg",
+            "image": "universal-sidearms/Weapons_RG-4D.svg",
 
             "damage": "28-14",
             "range": "15-45",
@@ -1373,7 +1441,7 @@
         },
         {
             "name": "SE-14r",
-            "image": "/universal-sidearms/Weapons_SE-14r.svg",
+            "image": "universal-sidearms/Weapons_SE-14r.svg",
 
             "damage": "34-23",
             "range": "20-40",
@@ -1382,7 +1450,7 @@
         },
         {
             "name": "SE-44C",
-            "image": "/universal-sidearms/Weapons_SE-44C.svg",
+            "image": "universal-sidearms/Weapons_SE-44C.svg",
 
             "damage": "31-20",
             "range": "15-30",
