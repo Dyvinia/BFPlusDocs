@@ -616,7 +616,42 @@
             }
         ],
         "secondary": [
-            
+            {
+                "name": "Blurrg-1120",
+                "image": "/heavy-sidearms/Weapons_Blurrg-1120.svg",
+    
+                "damage": "30-12",
+                "range": "15-40",
+                "rof": "600 x 2 - 130",
+                "heat": "0.05"
+            },
+            {
+                "name": "DL-44",
+                "image": "/heavy-sidearms/Weapons_DL-44.svg",
+    
+                "damage": "70-25",
+                "range": "20-40",
+                "rof": "180",
+                "heat": "0.12"
+            },
+            {
+                "name": "K-16 Bryar Pistol",
+                "image": "/heavy-sidearms/Weapons_K16BryarPistol.svg",
+    
+                "damage": "56-12 x 1 | 1.5 | 2",
+                "range": "8-36",
+                "rof": "250",
+                "heat": "0.078"
+            },
+            {
+                "name": "NN-14",
+                "image": "/heavy-sidearms/Weapons_NN-14.svg",
+    
+                "damage": "37-18",
+                "range": "25-40",
+                "rof": "280",
+                "heat": "0.067"
+            }
         ]
     },
 
