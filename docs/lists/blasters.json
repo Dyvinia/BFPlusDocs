@@ -396,7 +396,278 @@
 
     "heavy": {
         "primary": [
+            {
+                "name": "DC-15",
+                "image": "/heavy-blasters/Weapons_DC-15.svg",
+    
+                "damage": "31-28",
+                "range": "30-50",
+                "rof": "315",
+                "heat": "0.04",
+    
+                "attachmentOne": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
+                },
+                "attachmentTwo": {
+                    "name": "Elite Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#eliteblaster"
+                }
+            },
+            {
+                "name": "DLT-19",
+                "image": "/heavy-blasters/Weapons_DLT-19.svg",
+    
+                "damage": "17-13",
+                "range": "15-50",
+                "rof": "700",
+                "heat": "0.025",
+    
+                "attachmentOne": {
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
+                },
+                "attachmentTwo": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                }
+            },
+            {
+                "name": "E-5C",
+                "image": "/heavy-blasters/Weapons_E-5C.svg",
+    
+                "damage": "14-8",
+                "range": "15-40",
+                "rof": "800",
+                "heat": "0.01",
+    
+                "attachmentOne": {
+                    "name": "Heavy Handed",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#heavyhanded"
+                },
+                "attachmentTwo": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
+                }
+            },
+            {
+                "name": "M-45",
+                "image": "/heavy-blasters/Weapons_M-45.svg",
 
+                "trait": "Ionized blaster bolts",
+    
+                "damage": "16-13",
+                "range": "20-40",
+                "rof": "500",
+                "heat": "0.014",
+    
+                "attachmentOne": {
+                    "name": "Heavy Handed",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#heavyhanded"
+                },
+                "attachmentTwo": {
+                    "name": "Stabilizer",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#stabilizer"
+                }
+            },
+            {
+                "name": "RT-97C",
+                "image": "/heavy-blasters/Weapons_RT-97C.svg",
+    
+                "damage": "17-14",
+                "range": "25-55",
+                "rof": "600",
+                "heat": "0.03125",
+    
+                "attachmentOne": {
+                    "name": "Explosive Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#explosive"
+                },
+                "attachmentTwo": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#seeker"
+                }
+            },
+            {
+                "name": "Baragwin Repeater",
+                "image": "/heavy-blasters/Weapons_BaragwinRepeater.svg",
+
+                "trait": "Accuracy tightens during burst",
+    
+                "damage": "9-6",
+                "range": "20-64",
+                "rof": "2700 x 10 - 100",
+                "heat": "0.021",
+    
+                "attachmentOne": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
+                },
+                "attachmentTwo": {
+                    "name": "Stabilizer",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#stabilizer"
+                }
+            },
+            {
+                "name": "DC-12U",
+                "image": "/heavy-blasters/Weapons_DC-12U.svg",
+
+                "trait": "Fires 2 parallel blaster bolts at once",
+    
+                "damage": "10-7 x 2 (+3)",
+                "range": "12-60",
+                "rof": "540",
+                "heat": "0.05",
+    
+                "attachmentOne": {
+                    "name": "Flashlight",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#flashlight"
+                },
+                "attachmentTwo": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
+                }
+            },
+            {
+                "name": "DP-23",
+                "image": "/heavy-blasters/Weapons_DP-23.svg",
+    
+                "damage": "17-6 x 8",
+                "range": "6-30",
+                "rof": "120",
+                "heat": "0.225",
+    
+                "attachmentOne": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
+                },
+                "attachmentTwo": {
+                    "name": "Choke",
+                    "image": "Attach_Choke.svg",
+                    "jumpto": "#dp23-choke"
+                }
+            },
+            {
+                "name": "E-22",
+                "image": "/heavy-blasters/Weapons_E-22.svg",
+
+                "trait": "Fires 2 parallel blaster bolts at once",
+    
+                "damage": "30-22 x 2",
+                "range": "15-40",
+                "rof": "200",
+                "heat": "0.11",
+    
+                "attachmentOne": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#seeker"
+                },
+                "attachmentTwo": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#stabilizer"
+                }
+            },
+            {
+                "name": "G125",
+                "image": "/heavy-blasters/Weapons_G125.svg",
+    
+                "damage": "40-15",
+                "range": "20-40",
+                "rof": "250",
+                "heat": "0.04",
+    
+                "attachmentOne": {
+                    "name": "Secondary Fire",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#altfire"
+                },
+                "attachmentTwo": {
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
+                }
+            },
+            {
+                "name": "Sonic Blaster",
+                "image": "/heavy-blasters/Weapons_SonicBlaster.svg",
+    
+                "damage": "49-30 | 20",
+                "range": "20-40 | 1-5",
+                "rof": "90",
+                "heat": "0.17",
+    
+                "attachmentOne": {
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
+                },
+                "attachmentTwo": {
+                    "name": "Accelerated Sphere",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#sonic-fast"
+                }
+            },
+            {
+                "name": "T-7 Disruptor Rifle",
+                "image": "/heavy-blasters/Weapons_T-7_DisruptorRifle.svg",
+
+                "trait": "Charges to 3 power levels at 14.275% power per second, increasing blast damage and radius",
+    
+                "damage": "115 | 150 | 335",
+                "radius": "1-5 | 1.25 - 7.5 | 1.5 - 9",
+                "rof": "80",
+                "heat": "3.0",
+    
+                "attachmentOne": {
+                    "name": "Heavy Handed",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#heavyhanded"
+                },
+                "attachmentTwo": {
+                    "name": "Charge Hack",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#chargehack"
+                }
+            },
+            {
+                "name": "V-6D",
+                "image": "/heavy-blasters/Weapons_V-6D.svg",
+
+                "trait": "Zoom-in charges up projectile launch speed",
+    
+                "damage": "80",
+                "radius": "0.75-5",
+                "rof": "80",
+                "heat": "0.034",
+    
+                "attachmentOne": {
+                    "name": "Charge Hack",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#chargehack"
+                },
+                "attachmentTwo": {
+                    "name": "Pulse Barrage",
+                    "image": "Attach_ColdWar.svg",
+                    "jumpto": "#v6d-coldwar"
+                }
+            }
         ],
         "secondary": [
 
