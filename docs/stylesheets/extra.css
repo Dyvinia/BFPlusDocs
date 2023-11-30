@@ -438,6 +438,9 @@
 .trooper-blaster > .text > div {
     margin-left: -0.1em;
 }
+.trooper-blaster > .text > a {
+    cursor: default;
+}
 
 .blaster-trait {
     margin-top: 1.5em;

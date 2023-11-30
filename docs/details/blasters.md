@@ -335,12 +335,12 @@ Join the fray with a selection of over a hundred new abilities available to the 
     function createBlaster(element) {
         // heat but human readable
         let heat = element.heat;
-        let shots = 0;
+        let shots = -1;
         if (!isNaN(heat)) {
             shots = Math.floor(1/heat);
             heat = (heat * 100) + '%';
         }
-        else if (heat.includes('|')) {
+        else if (heat.includes(" | ")) {
             let heats = heat.split('|');
             let shotss = heat.split('|');
             for (let i = 0; i < heats.length; i++) {
@@ -368,9 +368,9 @@ Join the fray with a selection of over a hundred new abilities available to the 
                             ${element.radius ? `Radius: ${element.radius}<br>` : ''}
                             Firerate: ${element.rof}<br>
                             <span 
-                            onmouseover="this.innerHTML='Total Shots: ${shots}';"
-                            onmouseout="this.innerHTML='Heat Per Shot: ${heat}';">
-                            Heat Per Shot: ${heat}<br>
+                            onmouseover="this.textContent = 'Total Shots: ${shots}';"
+                            onmouseout="this.textContent = 'Heat Per Shot: ${heat}';">
+                            Heat Per Shot: ${heat}
                             </span>
                         </a>
                         ${element.attachmentOne ? `
