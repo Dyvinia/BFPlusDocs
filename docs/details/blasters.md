@@ -9,41 +9,6 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 #### Primary
 
-<script>
-    fetch("../../lists/blasters.json").then(res => res.json()).then(data => data.assault.primary.forEach(element => {
-        document.getElementById('assault-primary').innerHTML += `
-            <div class="item">
-                <div class="trooper-blaster">
-                    <div>
-                        <h3>
-                            ${element.name}
-                        </h3>
-                        <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters${element.image}">
-                        ${element.trait ? `<div class="blaster-trait">${element.trait}</div>` : ''}
-                    </div>
-                    <div class="text">
-                        <a>
-                            Damage: ${element.damage}<br>
-                            Range: ${element.range}<br>
-                            Firerate: ${element.rof}<br>
-                            Heat Per Shot: ${element.heat}<br>
-                        </a>
-                        <div>
-                            <div class="attachment-item" onclick="window.location='${element.attachmentOne.jumpto}';">
-                                <img class="ability" class="no-lb" src="../../assets/attachments/${element.attachmentOne.image}">
-                                <span class="ability-name">${element.attachmentOne.name}</span>
-                            </div><div class="attachment-item" onclick="window.location='${element.attachmentTwo.jumpto}';">
-                                <img class="ability" class="no-lb" src="../../assets/attachments/${element.attachmentTwo.image}">
-                                <span class="ability-name">${element.attachmentTwo.name}</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        `;
-    }));
-</script>
-
 <div id="assault-primary" class="container"></div>
 
 #### Secondary
@@ -2000,6 +1965,45 @@ Join the fray with a selection of over a hundred new abilities available to the 
     </div>
 
 </div>
+
+<script>
+    function createBlaster(element) {
+        return `
+            <div class="item">
+                <div class="trooper-blaster">
+                    <div>
+                        <h3>
+                            ${element.name}
+                        </h3>
+                        <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters${element.image}">
+                        ${element.trait ? `<div class="blaster-trait">${element.trait}</div>` : ''}
+                    </div>
+                    <div class="text">
+                        <a>
+                            Damage: ${element.damage}<br>
+                            Range: ${element.range}<br>
+                            Firerate: ${element.rof}<br>
+                            Heat Per Shot: ${element.heat}<br>
+                        </a>
+                        <div>
+                            <div class="attachment-item" onclick="window.location='${element.attachmentOne.jumpto}';">
+                                <img class="ability" class="no-lb" src="../../assets/attachments/${element.attachmentOne.image}">
+                                <span class="ability-name">${element.attachmentOne.name}</span>
+                            </div><div class="attachment-item" onclick="window.location='${element.attachmentTwo.jumpto}';">
+                                <img class="ability" class="no-lb" src="../../assets/attachments/${element.attachmentTwo.image}">
+                                <span class="ability-name">${element.attachmentTwo.name}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `;
+    }
+    
+    let json = fetch("../../lists/blasters.json").then(response => response.json());
+
+    json.then(data => data.assault.primary.forEach(element => document.getElementById('assault-primary').innerHTML += createBlaster(element)));
+</script>
 
 
 ## Attachments
