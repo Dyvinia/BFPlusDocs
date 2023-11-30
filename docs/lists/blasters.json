@@ -392,5 +392,29 @@
                 "heat": "0.17"
             }
         ]
+    },
+
+    "heavy": {
+        "primary": [
+
+        ],
+        "secondary": [
+
+        ]
+    },
+
+    "officer": {
+        "primary": [
+
+        ]
+    },
+
+    "specialist": {
+        "primary": [
+
+        ],
+        "secondary": [
+
+        ]
     }
 }
