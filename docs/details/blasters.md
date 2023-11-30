@@ -333,6 +333,24 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 <script>
     function createBlaster(element) {
+        // heat but human readable
+        let heat = element.heat;
+        let shots = 0;
+        if (!isNaN(heat)) {
+            shots = Math.floor(1/heat);
+            heat = (heat * 100) + '%';
+        }
+        else if (heat.includes('|')) {
+            let heats = heat.split('|');
+            let shotss = heat.split('|');
+            for (let i = 0; i < heats.length; i++) {
+                shotss[i] = Math.floor(1/heats[i]);
+                heats[i] = (heats[i] * 100)  + '%';
+            }
+            heat = heats.join(" | ");
+            shots = shotss.join(" | ");
+        }  
+
         return `
             <div class="item">
                 <div class="trooper-blaster">
@@ -349,7 +367,11 @@ Join the fray with a selection of over a hundred new abilities available to the 
                             ${element.range ? `Range: ${element.range}<br>` : ''}
                             ${element.radius ? `Radius: ${element.radius}<br>` : ''}
                             Firerate: ${element.rof}<br>
-                            Heat Per Shot: ${element.heat}<br>
+                            <span 
+                            onmouseover="this.innerHTML='Total Shots: ${shots}';"
+                            onmouseout="this.innerHTML='Heat Per Shot: ${heat}';">
+                            Heat Per Shot: ${heat}<br>
+                            </span>
                         </a>
                         ${element.attachmentOne ? `
                         <div>
