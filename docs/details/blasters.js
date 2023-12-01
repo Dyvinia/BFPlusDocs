@@ -78,14 +78,14 @@ json.then(data => data.specialist.primary.forEach(element => document.getElement
 json.then(data => data.specialist.secondary.forEach(element => document.getElementById('specialist-secondary').innerHTML += createBlaster(element)));
 
 function search(id) {
-    let containerID = id.replace("-search", "");
+    const containerID = id.replace("-search", "");
     const height = document.getElementById(containerID).offsetHeight;
 
     json.then(data => {
         document.getElementById(containerID).innerHTML = null;
 
         let filtered = data[containerID.split('-')[0]][containerID.split('-')[1]]
-                        .filter(element => element.name.toLowerCase().includes(document.getElementById(id).value.toLowerCase()));
+                        .filter(element => element.name.toLowerCase().replace("-", "").replace(" ", "").includes(document.getElementById(id).value.toLowerCase().replace("-", "").replace(" ", "")));
 
         if (filtered.length == 0) {
             document.getElementById(containerID).innerHTML = `<div style="height:${height}px">No Results</div>`;
@@ -96,8 +96,7 @@ function search(id) {
 }
 
 function toggleSearch(id) {
-    let searchID = id.replace("-toggle", "");
-
+    const searchID = id.replace("-toggle", "");
     let searchBox = document.getElementById(searchID);
 
     if (searchBox.style.display == "block") {
