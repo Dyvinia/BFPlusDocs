@@ -58,12 +58,12 @@ function createBlaster(element) {
     `;
 }
 
-let json = fetch("../../lists/blasters.json").then(response => response.json());
+const json = fetch("../../lists/blasters.json").then(response => response.json());
 
 // add universal sidearms
-json.then(data => data.universalSidearms.forEach(element => document.getElementById('assault-secondary').innerHTML += createBlaster(element)));
-json.then(data => data.universalSidearms.forEach(element => document.getElementById('heavy-secondary').innerHTML += createBlaster(element)));
-json.then(data => data.universalSidearms.forEach(element => document.getElementById('spec-secondary').innerHTML += createBlaster(element)));
+json.then(data => data.assault.secondary = data.universalSidearms.concat(data.assault.secondary));
+json.then(data => data.heavy.secondary = data.universalSidearms.concat(data.assault.secondary));
+json.then(data => data.specialist.secondary = data.universalSidearms.concat(data.assault.secondary));
 
 // add blasters
 json.then(data => data.assault.primary.forEach(element => document.getElementById('assault-primary').innerHTML += createBlaster(element)));
@@ -74,5 +74,39 @@ json.then(data => data.heavy.secondary.forEach(element => document.getElementByI
 
 json.then(data => data.officer.primary.forEach(element => document.getElementById('officer-primary').innerHTML += createBlaster(element)));
 
-json.then(data => data.specialist.primary.forEach(element => document.getElementById('spec-primary').innerHTML += createBlaster(element)));
-json.then(data => data.specialist.secondary.forEach(element => document.getElementById('spec-secondary').innerHTML += createBlaster(element)));
+json.then(data => data.specialist.primary.forEach(element => document.getElementById('specialist-primary').innerHTML += createBlaster(element)));
+json.then(data => data.specialist.secondary.forEach(element => document.getElementById('specialist-secondary').innerHTML += createBlaster(element)));
+
+function search(id) {
+    let containerID = id.replace("-search", "");
+    const height = document.getElementById(containerID).offsetHeight;
+
+    json.then(data => {
+        document.getElementById(containerID).innerHTML = null;
+
+        let filtered = data[containerID.split('-')[0]][containerID.split('-')[1]]
+                        .filter(element => element.name.toLowerCase().includes(document.getElementById(id).value.toLowerCase()));
+
+        if (filtered.length == 0) {
+            document.getElementById(containerID).innerHTML = `<div style="height:${height}px">No Results</div>`;
+        }
+        
+        filtered.forEach(element => document.getElementById(containerID).innerHTML += createBlaster(element));
+    });
+}
+
+function toggleSearch(id) {
+    let searchID = id.replace("-toggle", "");
+
+    let searchBox = document.getElementById(searchID);
+
+    if (searchBox.style.display == "block") {
+        searchBox.style.display = "none"
+    }
+    else {
+        searchBox.style.display = "block"
+        searchBox.focus();
+    }
+    searchBox.value = "";
+    search(searchID);
+}

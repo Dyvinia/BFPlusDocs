@@ -643,6 +643,31 @@ p:target {
     background: #555;
 }
 
+.search-box {
+    padding: 0.25em;
+    height: 1rem;
+    width: 8em;
+    position: relative;
+    float: right;
+    outline: none;
+    border: 1px solid #cdcdcd60;
+    background-color: transparent;
+    font-size: 14px;
+    display: none;
+}
+
+.search-box-button {
+    height: 22px;
+    width: 22px;
+    margin-left: 2px;
+    float: right;
+    cursor: pointer;
+}
+
+.search-box-button:hover {
+    opacity: 0.8;
+}
+
 /* Glightbox */
 .glightbox-clean .gdesc-inner {
     padding: 0.5em !important;
