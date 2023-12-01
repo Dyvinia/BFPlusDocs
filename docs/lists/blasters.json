@@ -1201,7 +1201,7 @@
                 }
             },
             {
-                "name": "DLT-19D",
+                "name": "773 Firepuncher",
                 "image": "specialist-blasters/Weapons_773-Firepuncher.svg",
 
                 "trait": "Blaster bolts ricochet off all surfaces",
@@ -1309,7 +1309,7 @@
                 }
             },
             {
-                "name": "DLT-19D",
+                "name": "T-21B",
                 "image": "specialist-blasters/Weapons_T-21B.svg",
     
                 "damage": "68-51",
