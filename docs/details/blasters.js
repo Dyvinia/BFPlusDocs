@@ -96,6 +96,7 @@ function search(id) {
 }
 
 function toggleSearch(id) {
+    console.log(document.activeElement);
     const searchID = id.replace("-toggle", "");
     let searchBox = document.getElementById(searchID);
 
@@ -108,4 +109,10 @@ function toggleSearch(id) {
     }
     searchBox.value = "";
     search(searchID);
+}
+
+function unfocus(id) {
+    let searchBox = document.getElementById(id);
+    if (searchBox.value == "")
+        setTimeout(() => searchBox.style.display = "none", 100);
 }

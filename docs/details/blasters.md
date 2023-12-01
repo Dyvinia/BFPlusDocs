@@ -10,7 +10,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <h4>
     Primary
     <img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="assault-primary-search-toggle" onclick="toggleSearch(this.id)"></img>
-    <input class="search-box" type="text" id="assault-primary-search" onkeyup="search(this.id)" placeholder="Search...">
+    <input class="search-box" type="text" id="assault-primary-search" onkeyup="search(this.id)" onblur="unfocus(this.id)" placeholder="Search...">
 </h4>
 
 <div id="assault-primary" class="container"></div>
@@ -18,7 +18,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <h4>
     Secondary
     <img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="assault-secondary-search-toggle" onclick="toggleSearch(this.id)"></img>
-    <input class="search-box" type="text" id="assault-secondary-search" onkeyup="search(this.id)" placeholder="Search...">
+    <input class="search-box" type="text" id="assault-secondary-search" onkeyup="search(this.id)" onblur="unfocus(this.id)" placeholder="Search...">
 </h4>
 
 <div id="assault-secondary" class="container"></div>
@@ -31,7 +31,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <h4>
     Primary
     <img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="heavy-primary-search-toggle" onclick="toggleSearch(this.id)"></img>
-    <input class="search-box" type="text" id="heavy-primary-search" onkeyup="search(this.id)" placeholder="Search...">
+    <input class="search-box" type="text" id="heavy-primary-search" onkeyup="search(this.id)" onblur="unfocus(this.id)" placeholder="Search...">
 </h4>
 
 <div id="heavy-primary" class="container"></div>
@@ -39,7 +39,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <h4>
     Secondary
     <img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="heavy-secondary-search-toggle" onclick="toggleSearch(this.id)"></img>
-    <input class="search-box" type="text" id="heavy-secondary-search" onkeyup="search(this.id)" placeholder="Search...">
+    <input class="search-box" type="text" id="heavy-secondary-search" onkeyup="search(this.id)" onblur="unfocus(this.id)" placeholder="Search...">
 </h4>
 
 <div id="heavy-secondary" class="container"></div>
@@ -52,7 +52,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <h4>
     Primary
     <img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="officer-primary-search-toggle" onclick="toggleSearch(this.id)"></img>
-    <input class="search-box" type="text" id="officer-primary-search" onkeyup="search(this.id)" placeholder="Search...">
+    <input class="search-box" type="text" id="officer-primary-search" onkeyup="search(this.id)" onblur="unfocus(this.id)" placeholder="Search...">
 </h4>
 
 <div id="officer-primary" class="container"></div>
@@ -105,7 +105,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <h4>
     Primary
     <img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="specialist-primary-search-toggle" onclick="toggleSearch(this.id)"></img>
-    <input class="search-box" type="text" id="specialist-primary-search" onkeyup="search(this.id)" placeholder="Search...">
+    <input class="search-box" type="text" id="specialist-primary-search" onkeyup="search(this.id)" onblur="unfocus(this.id)" placeholder="Search...">
 </h4>
 
 <div id="specialist-primary" class="container"></div>
@@ -113,7 +113,7 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <h4>
     Secondary
     <img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="specialist-secondary-search-toggle" onclick="toggleSearch(this.id)"></img>
-    <input class="search-box" type="text" id="specialist-secondary-search" onkeyup="search(this.id)" placeholder="Search...">
+    <input class="search-box" type="text" id="specialist-secondary-search" onkeyup="search(this.id)" onblur="unfocus(this.id)" placeholder="Search...">
 </h4>
 
 <div id="specialist-secondary" class="container"></div>
