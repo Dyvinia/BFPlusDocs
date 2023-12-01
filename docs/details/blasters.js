@@ -62,8 +62,8 @@ const json = fetch("../../lists/blasters.json").then(response => response.json()
 
 // add universal sidearms
 json.then(data => data.assault.secondary = data.universalSidearms.concat(data.assault.secondary));
-json.then(data => data.heavy.secondary = data.universalSidearms.concat(data.assault.secondary));
-json.then(data => data.specialist.secondary = data.universalSidearms.concat(data.assault.secondary));
+json.then(data => data.heavy.secondary = data.universalSidearms.concat(data.heavy.secondary));
+json.then(data => data.specialist.secondary = data.universalSidearms.concat(data.specialist.secondary));
 
 // add blasters
 json.then(data => data.assault.primary.forEach(element => document.getElementById('assault-primary').innerHTML += createBlaster(element)));
