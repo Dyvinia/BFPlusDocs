@@ -662,10 +662,11 @@ p:target {
     margin-left: 2px;
     float: right;
     cursor: pointer;
+    transition: opacity 125ms !important;
 }
 
 .search-box-button:hover {
-    opacity: 0.8;
+    opacity: 0.69;
 }
 
 /* Glightbox */

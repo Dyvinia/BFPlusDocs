@@ -15,7 +15,7 @@ function createBlaster(element) {
         }
         heat = heats.join(" | ");
         shots = shotss.join(" | ");
-    }  
+    }
 
     return `
         <div class="item">

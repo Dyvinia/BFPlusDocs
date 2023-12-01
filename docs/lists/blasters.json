@@ -244,6 +244,26 @@
                 }
             },
             {
+                "name": "T-39P",
+                "image": "assault-blasters/Weapons_T39P.svg",
+    
+                "damage": "27-21",
+                "range": "11-43",
+                "rof": "550",
+                "heat": "0.03125",
+    
+                "attachmentOne": {
+                    "name": "Ranger Conversion",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#t39p-invertrange"
+                },
+                "attachmentTwo": {
+                    "name": "Stabilizer",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#phasmashot"
+                }
+            },
+            {
                 "name": "VT-33D",
                 "image": "assault-blasters/Weapons_VT-33D_Blaster.svg",
 
