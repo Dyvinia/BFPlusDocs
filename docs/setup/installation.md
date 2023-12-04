@@ -29,7 +29,9 @@
 
 #### Setting up KyberBrowser & the Invisibility Fix
 
-1. Open the `KyberBrowser` application.
+The invisibility fix can either be applied using `KyberBrowser` or through a [Plugin](#betterinitfs).
+
+1. Launch the `KyberBrowser` application.
 
 2. Click on the settings wheel[^3] in the lower right corner.
 
@@ -56,21 +58,9 @@
 
 [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite/releases/latest/download/FrostyModManager.zip){ .md-button }
 [Battlefront Plus - IAO XL](https://www.nexusmods.com/starwarsbattlefront22017/mods/7592?tab=files){ .md-button target="_blank" }
-[Invisibility Fix Initfs](https://www.nexusmods.com/starwarsbattlefront22017/mods/9775){ .md-button target="_blank" }
+[BetterInitfs](https://www.nexusmods.com/starwarsbattlefront22017/mods/9775){ .md-button target="_blank" }
 
 ### Install
-
-#### Installing the Custom Initfs / Invisibility Fix
-
-1. Locate your game’s installation directory.
-
-2. Unzip the downloaded BetterInitfs .zip and copy the initfs_Win32 file from the folder.
-
-3. In your game’s installation directory, paste (and by selecting the “Replace” option replace) the initfs_Win32 file in the following folder(s):
-
-    a. `\Data\`
-
-    b. `\ModData\(modpack name in Frosty, “Default” by default)\Data\`
 
 #### Installing Mods in Frosty
 
@@ -89,7 +79,30 @@
 
 7. Now press `Launch` to start the game. The first time, and after every change to your load order, this process takes a few minutes and can be very CPU intensive for your device.
 
-    a. *Remember the name of the Pack[^2] that you have selected, which is used in step 3 of* ***Installing the Custom Initfs***.
+<div id="betterinitfs"></div>
+
+#### Installing BetterInitfs / Invisibility Fix
+
+1. Download the latest version of [BetterInitfs](https://www.nexusmods.com/starwarsbattlefront22017/mods/9775?tab=files){ target="_blank" }.
+
+2. Unzip the downloaded `.zip` file and copy the `BetterInitfsPlugin.dll` file into the `Plugins` folder.
+
+3. Launch Frosty Mod Manager.
+
+4. Click on the `Tools` menu at the top and select `BetterInitfs`.
+
+4. Select desired options and the ModData folder in the dropdown and click `Save`.
+
+    - **InvisibilityFix** - Fixes invisibility issues with large modpacks, REQUIRED for Battlefront+
+
+    - **Full Resolution Reflections** - Screen space reflections will now be rendered at full resolution instead of half resolution, improving visual quality. 
+
+    - **Full Resolution Depth of Field** - Depth of Field effects (used for the background in No Holograms Remastered) will now be rendered at full resolution instead of half resolution, improving visual quality. 
+
+    - **Disable HDR** - Prevents HDR from being enabled in your game as the ingame setting may not work for some people.
+
+![BetterInitfsImage](https://staticdelivery.nexusmods.com/mods/2229/images/9775/9775-1697418506-48801927.png)
+
 
 [^1]: You do not need to unzip/open downloaded mods
 
