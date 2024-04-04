@@ -512,7 +512,7 @@
                 "name": "DP-23",
                 "image": "heavy-blasters/Weapons_DP-23.svg",
     
-                "damage": "17-6 x 8",
+                "damage": "14-6 x 9",
                 "range": "6-30",
                 "rof": "120",
                 "heat": "0.225",
