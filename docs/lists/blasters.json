@@ -204,6 +204,26 @@
                 }
             },
             {
+                "name": "Neo-Crusader Rifle",
+                "image": "assault-blasters/Weapons_NeoCrusader.svg",
+    
+                "damage": "79-57",
+                "range": "15-40",
+                "rof": "175",
+                "heat": "0.18",
+    
+                "attachmentOne": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#seeker"
+                },
+                "attachmentTwo": {
+                    "name": "Night Vision",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#nightvision"
+                }
+            },
+            {
                 "name": "ST-W48",
                 "image": "assault-blasters/Weapons_ST-W48.svg",
     
@@ -347,6 +367,15 @@
                 "heat": "0.035"
             },
             {
+                "name": "WESTAR-35",
+                "image": "officer-blasters/Weapons_Westar35.svg",
+
+                "damage": "45-26",
+                "range": "12-27",
+                "rof": "360",
+                "heat": "0.11"
+            },
+            {
                 "name": "Bulldog RLR",
                 "image": "assault-blasters/Weapons_E-5.svg",
 
@@ -448,7 +477,7 @@
                 "name": "RT-97C",
                 "image": "heavy-blasters/Weapons_RT-97C.svg",
     
-                "damage": "17-14",
+                "damage": "26-21",
                 "range": "25-55",
                 "rof": "600",
                 "heat": "0.03125",
@@ -506,6 +535,28 @@
                     "name": "Sharpshooter",
                     "image": "Attach_Sharpshooter.svg",
                     "jumpto": "#sharpshooter"
+                }
+            },
+            {
+                "name": "DF-95",
+                "image": "heavy-blasters/Weapons_DF-95.svg",
+
+                "trait": "Slow-firing tri-shot mode from the hip, repeater mode while zoomed in",
+    
+                "damage": "25-14 x 3 | 32-20",
+                "range": "12-24 | 10-40",
+                "rof": "160 | 450",
+                "heat": "0.027",
+    
+                "attachmentOne": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
+                },
+                "attachmentTwo": {
+                    "name": "Choke",
+                    "image": "Attach_Choke.svg",
+                    "jumpto": "#dp23-choke"
                 }
             },
             {
@@ -577,7 +628,7 @@
                 "damage": "49-30 | 20",
                 "range": "20-40 | 1-5",
                 "rof": "90",
-                "heat": "0.17",
+                "heat": "0.136",
     
                 "attachmentOne": {
                     "name": "Light Shot",
@@ -649,7 +700,7 @@
                 "name": "DL-44",
                 "image": "heavy-sidearms/Weapons_DL-44.svg",
     
-                "damage": "70-25",
+                "damage": "70-30",
                 "range": "20-40",
                 "rof": "180",
                 "heat": "0.12"
@@ -671,6 +722,15 @@
                 "range": "25-40",
                 "rof": "280",
                 "heat": "0.067"
+            },
+            {
+                "name": "TG-446",
+                "image": "officer-blasters/Weapons_Turgle.svg",
+
+                "damage": "38-22 x 2",
+                "range": "12-36",
+                "rof": "160",
+                "heat": "0.3"
             }
         ]
     },
@@ -681,7 +741,7 @@
                 "name": "DC-17",
                 "image": "officer-blasters/Weapons_DC-17.svg",
     
-                "damage": "42-27",
+                "damage": "46-27",
                 "range": "25-40",
                 "rof": "270",
                 "heat": "0.08",
@@ -721,10 +781,10 @@
                 "name": "Glie-44",
                 "image": "officer-blasters/Weapons_Glie-44.svg",
     
-                "damage": "40-32",
-                "range": "30-45",
-                "rof": "220",
-                "heat": "0.09",
+                "damage": "60-45",
+                "range": "15-45",
+                "rof": "140",
+                "heat": "0.11",
     
                 "attachmentOne": {
                     "name": "Sharpshooter",
@@ -865,7 +925,7 @@
                 "name": "DL-44",
                 "image": "officer-blasters/Weapons_DL-44.svg",
     
-                "damage": "70-25",
+                "damage": "70-30",
                 "range": "20-40",
                 "rof": "180",
                 "heat": "0.12",
@@ -950,14 +1010,14 @@
                 "trait": "Resets heat upon successful shots",
     
                 "damage": "165-80",
-                "range": "1-15",
+                "range": "3-18",
                 "rof": "360",
                 "heat": "1.0",
     
                 "attachmentOne": {
-                    "name": "Gunslinger",
-                    "image": "Attach_Grip.svg",
-                    "jumpto": "#gunslinger"
+                    "name": "Improved Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#scope"
                 },
                 "attachmentTwo": {
                     "name": "Second Chance",
@@ -1005,6 +1065,26 @@
                     "name": "Secondary Fire",
                     "image": "Attach_SecondaryFire.svg",
                     "jumpto": "#altfire"
+                }
+            },
+            {
+                "name": "Q2",
+                "image": "officer-blasters/Weapons_Q2.svg",
+    
+                "damage": "17-12",
+                "range": "7-12",
+                "rof": "1020",
+                "heat": "0.047",
+    
+                "attachmentOne": {
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
+                },
+                "attachmentTwo": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 }
             },
             {
@@ -1065,6 +1145,48 @@
                     "name": "Explosive Shot",
                     "image": "Attach_BarrelExtension.svg",
                     "jumpto": "#explosiveshot"
+                }
+            },
+            {
+                "name": "TG-446",
+                "image": "officer-blasters/Weapons_Turgle.svg",
+
+                "trait": "Fires 2 parallel blaster bolts at once",
+    
+                "damage": "38-22 x 2",
+                "range": "12-36",
+                "rof": "160",
+                "heat": "0.3",
+    
+                "attachmentOne": {
+                    "name": "Scatter Blast",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#scatterblast"
+                },
+                "attachmentTwo": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
+                }
+            },
+            {
+                "name": "WESTAR-35",
+                "image": "officer-blasters/Weapons_Westar35.svg",
+
+                "damage": "45-26",
+                "range": "12-27",
+                "rof": "360",
+                "heat": "0.11",
+    
+                "attachmentOne": {
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
+                },
+                "attachmentTwo": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
                 }
             },
             {
@@ -1427,7 +1549,7 @@
             "name": "DC-17",
             "image": "universal-sidearms/Weapons_DC-17.svg",
 
-            "damage": "42-27",
+            "damage": "46-27",
             "range": "25-40",
             "rof": "270",
             "heat": "0.08"
@@ -1445,10 +1567,10 @@
             "name": "Glie-44",
             "image": "universal-sidearms/Weapons_Glie-44.svg",
 
-            "damage": "40-32",
-            "range": "30-45",
-            "rof": "220",
-            "heat": "0.09"
+            "damage": "60-45",
+            "range": "15-45",
+            "rof": "140",
+            "heat": "0.11"
         },
         {
             "name": "RG-4D",
