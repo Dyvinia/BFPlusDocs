@@ -539,7 +539,7 @@
             },
             {
                 "name": "DF-95",
-                "image": "heavy-blasters/Weapons_DF-95.svg",
+                "image": "heavy-blasters/Weapons_DF95.svg",
 
                 "trait": "Slow-firing tri-shot mode from the hip, repeater mode while zoomed in",
     
@@ -549,14 +549,14 @@
                 "heat": "0.027",
     
                 "attachmentOne": {
-                    "name": "Ion Shot",
-                    "image": "Attach_Barrel.svg",
-                    "jumpto": "#ionshot"
+                    "name": "Seeker Tactics",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#seeker"
                 },
                 "attachmentTwo": {
-                    "name": "Choke",
-                    "image": "Attach_Choke.svg",
-                    "jumpto": "#dp23-choke"
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
                 }
             },
             {
