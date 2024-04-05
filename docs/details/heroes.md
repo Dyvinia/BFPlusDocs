@@ -156,19 +156,19 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <div class="text">
     <h3 id="merrin">
       <strong>Merrin</strong>
-      <img class="weapon-saber" class="no-lb" style="margin-left: -1.5em; width: 140px; transform: translateY(-2px);" src="../../assets/abilities/heroes/ahsokatano/Weapons_AhsokaLightsabers.svg">
+      <img class="weapon-saber" class="no-lb" style="margin-left: -0.1em; width: 100px; transform: translateY(4px);" src="../../assets/abilities/heroes/merrin/Weapons_MerrinLightsaber.svg">
     </h3>
-    <a>Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3.</a>
+    <a>Nightsister Merrin is one of the very last of her people following the Separatist invasion of Dathomir. Since her initially hostile encounter with Cal Kestis, a Jedi Padawan who had also lost his people, she has since become an explorer and a most dependable ally to Kestis, his crew, and those in need across the galaxy.</a>
     <div>
-    <a class="ability-item" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_SaberThrow.svg">
-      <span class="ability-name">Saber Throw</span>
-    </a><a class="ability-item" data-text="Ahsoka closes the distance with a lunge attack.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_Flurry.svg">
-      <span class="ability-name">Saber Flurry</span>
-    </a><a class="ability-item" data-text="Small and agile, Ahsoka sprints forward at high speeds, greatly improving her recharge times as she does so.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_CombatRush.svg">
-      <span class="ability-name">Moral Spirit</span>
+    <a class="ability-item" data-text="Merrin hurling an explosive fireball of Magick. Upgrades with each level of Merrin's Power Meter and resets it upon use.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/merrin/Merrin_Fireball.svg">
+      <span class="ability-name">Fireball</span>
+    </a><a class="ability-item" data-text="Merrin uses her Magick to root a target in place, along with any enemies in their immediate vicinity.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/merrin/Merrin_Roots.svg">
+      <span class="ability-name">Magick Roots</span>
+    </a><a class="ability-item" data-text="Merrin teleports forward, briefly avoiding every form of attack and disappearing from the radar.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/merrin/Merrin_Teleport.svg">
+      <span class="ability-name">Teleportation</span>
     </a>
     </div>
   </div>
@@ -202,19 +202,19 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <div class="text">
     <h3 id="padme">
       <strong>Padme Amidala</strong>
-      <img class="weapon-blaster" class="no-lb" style="margin-left: -1em;" src="../../assets/abilities/heroes/niennunb/Weapons_NienNunbDH-17.svg">
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.1em;" src="../../assets/abilities/heroes/padme/Weapons_PadmeELG-3A.svg">
     </h3>
-    <a>Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala.</a>
+    <a>Strong-willed and righteous, Padmé Amidala was unyielding in the fight for a better galaxy, be it in the Galactic Senate or on the battlefield. Secretly married to Anakin Skywalker, she was the biological mother of Leia Organa and Luke Skywalker.</a>
     <div>
-    <a class="ability-item" data-text="Nien Nunb deploys a Detonite Charge, wired to blow when enemies enter its proximity.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_ProximityBomb.svg">
-      <span class="ability-name">Proximity Bomb</span>
-    </a><a class="ability-item" data-text="Switch to a modified DLT-20A Pulse Cannon configured for fast charging and high damage.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_PulseCannon.svg">
-      <span class="ability-name">Rapid Pulse Cannon</span>
-    </a><a class="ability-item" data-text="Deploy a blaster turret fitted with upgraded sensors for quicker lock-on time.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_BlasterTurret.svg">
-      <span class="ability-name">Augmented Turret</span>
+    <a class="ability-item" data-text="Padmé temporarily upgrades her ELG-3A's power level. Within a moment of Overcharge's activation, reactivate the ability, up to an additional two times to increase the damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/padme/Padme_Overcharge.svg">
+      <span class="ability-name">Overcharge</span>
+    </a><a class="ability-item" data-text="Padmé grants herself and nearby allies increased recharge speed and unlimited blaster cooling.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/padme/Padme_Command.svg">
+      <span class="ability-name">Royal Resolve</span>
+    </a><a class="ability-item" data-text="Summon R2-D2 to support allies with improved capture point speed, radar scan, smoke grenades, and shock attacks. Padmé interacts with objectives faster while R2-D2 is deployed.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/padme/Padme_R2-D2.svg">
+      <span class="ability-name">R2-D2</span>
     </a>
     </div>
   </div>
@@ -250,19 +250,19 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <div class="text">
     <h3 id="ventress">
       <strong>Asajj Ventress</strong>
-      <img class="weapon-saber" class="no-lb" style="margin-left: -1.5em; width: 140px; transform: translateY(-2px);" src="../../assets/abilities/heroes/ahsokatano/Weapons_AhsokaLightsabers.svg">
+      <img class="weapon-saber" class="no-lb" style="margin-left: -0.69em; width: 120px; transform: translateY(-2px);" src="../../assets/abilities/heroes/asajjventress/Weapons_AsajjVentressLightsaber.svg">
     </h3>
-    <a>Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress.</a>
+    <a>Prior to being betrayed by her master, Count Dooku, Asajj Ventress was a fallen Jedi who served as commander of the Separatist army and the Sith's personal assassin. Throughout much of the Clone Wars, she gained a reputation as a skillful warrior whose power was rivaled by her arrogance.</a>
     <div>
-    <a class="ability-item" data-text="Cardinal's F-11D has increased damage and accuracy. His armor and mobility are reduced">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Damage.svg">
-      <span class="ability-name">Finalizer</span>
-    </a><a class="ability-item" data-text="Cardinal is immune to crowd control abilities, preventing him from being knocked down or stunned. Additionally, his blaster has improved cooling. His damage and mobility are reduced.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Steadfast.svg">
-      <span class="ability-name">Steadfast</span>
-    </a><a class="ability-item" data-text="Cardinal's mobility is increased, as is the rate of fire on the F-11D. His damage and armor are reduced.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Mobility.svg">
-      <span class="ability-name">Absolution</span>
+    <a class="ability-item" data-text="Ventress throws a projectile that damages enemies on impact and will ricochet off surfaces.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/asajjventress/AsajjVentress_StarBlades.svg">
+      <span class="ability-name">Starblades</span>
+    </a><a class="ability-item" data-text="Ventress cloaks herself in Magick Ichor, becoming invisible. Perform a lightsaber attack while cloaked to execute a Vanish Strike, dealing extra damage and revealing Ventress.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/asajjventress/AsajjVentress_Cloak.svg">
+      <span class="ability-name">Vanish</span>
+    </a><a class="ability-item" data-text="Ventress lifts an enemy into the air, leaving them open to attack.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/asajjventress/AsajjVentress_SelectChoke.svg">
+      <span class="ability-name">Force Grasp</span>
     </a>
     </div>
   </div>
@@ -319,19 +319,19 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <div class="text">
     <h3 id="dagan">
       <strong>Dagan Gera</strong>
-      <img class="weapon-saber" class="no-lb" style="margin-left: -1.5em; width: 140px; transform: translateY(-2px);" src="../../assets/abilities/heroes/ahsokatano/Weapons_AhsokaLightsabers.svg">
+      <img class="weapon-saber" class="no-lb" style="margin-left: -0.5em; width: 100px; transform: translateY(3px);" src="../../assets/abilities/heroes/dagangera/Weapons_DaganLightsaber.svg">
     </h3>
-    <a>Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera.</a>
+    <a>A renowned and ambitious Jedi Master of the High Republic, Dagan Gera discovered the hidden planet Tanalorr and set to use it as a bastion for the Jedi Order on the galactic frontier. When the High Council gave the order to abandon Tanalorr to invading marauders, Dagan turned against his fellow Jedi, costing him an arm.</a>
     <div>
-    <a class="ability-item" data-text="Cardinal's F-11D has increased damage and accuracy. His armor and mobility are reduced">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Damage.svg">
-      <span class="ability-name">Finalizer</span>
-    </a><a class="ability-item" data-text="Cardinal is immune to crowd control abilities, preventing him from being knocked down or stunned. Additionally, his blaster has improved cooling. His damage and mobility are reduced.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Steadfast.svg">
-      <span class="ability-name">Steadfast</span>
-    </a><a class="ability-item" data-text="Cardinal's mobility is increased, as is the rate of fire on the F-11D. His damage and armor are reduced.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Mobility.svg">
-      <span class="ability-name">Absolution</span>
+    <a class="ability-item" data-text="Dagan summons a volley of orbs that slowly seek out enemies ahead of them.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dagangera/Dagan_ForceOrbs.svg">
+      <span class="ability-name">Force Orbs</span>
+    </a><a class="ability-item" data-text="Dagan switches to a dual wield saber stance and conjures a powerful Force Illusion to confuse enemies. In this stance, he can deflect blaster bolts and has increased attack stamina, but reduced defense.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dagangera/Dagan_Illusion.svg">
+      <span class="ability-name">Force Illusion</span>
+    </a><a class="ability-item" data-text="Dagan plants an orb of Force energy into the ground, which will unleash devastating damage after a moment.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dagangera/Dagan_ForceBomb.svg">
+      <span class="ability-name">Force Bomb</span>
     </a>
     </div>
   </div>
@@ -368,19 +368,19 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <div class="text">
     <h3 id="thrawn">
       <strong>Grand Admiral Thrawn</strong>
-      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.5em; transform: translateY(4px)" src="../../assets/abilities/heroes/gideonhask/Weapons_HaskRK-3.svg">
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.5em; transform: translateY(4px)" src="../../assets/abilities/heroes/thrawn/Weapons_RK-3.svg">
     </h3>
-    <a>Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn.</a>
+    <a>Mitth'raw'nuruodo, better known as Thrawn, is a Grand Admiral of the Imperial Navy, commanding the 7th Fleet. Despite being non-human, an extreme rarity in the Empire's military, he was promoted by Emperor Palpatine for his brilliance and ruthless efficiency. Thrawn believed that in order to achieve victory in war, one must know their enemy.</a>
     <div>
-    <a class="ability-item" data-text="Hask reveals enemies within his line of sight to his allies. When revealed, they will have all forms of healing blocked.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_DebuffEnemy.svg">
-      <span class="ability-name">Routing Traitors</span>
-    </a><a class="ability-item" data-text="Hask leads the charge with a modified E-11 Blast Cannon, passively boosting nearby allies with dsiruption immunity.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_BuffAlly.svg">
-      <span class="ability-name">Blast Cannon</span>
-    </a><a class="ability-item" data-text="Hask charges up a volatile power blast that ignites a small flame upon impact.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_IncendiaryRounds.svg">
-      <span class="ability-name">Inferno Blast</span>
+    <a class="ability-item" data-text="Thrawn marks his attackers and inflicts them with weakness, an effect which strengthens as he withstands their assault. Enduring enough attacks will inflict greater weakness on all enemies within a large radius and inhibit their abilities.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/thrawn/Thrawn_Ability_Defender.svg">
+      <span class="ability-name">Know The Enemy</span>
+    </a><a class="ability-item" data-text="Thrawn and his nearby allies receive healing and damage resistance. The strength of these effects is increased with the number of players affected.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/thrawn/Thrawn_Ability_UpgradeCommand.svg">
+      <span class="ability-name">Direct Command</span>
+    </a><a class="ability-item" data-text="Equip a pair of macrobinoculars to call in a bombardment from Thrawn's personal Star Destroyer when outdoors. Mark an area indoors that will spot nearby enemies and inhibit their ability to capture zones, with success rewarding Thrawn with a recharge speed bonus.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/thrawn/Thrawn_Ability_Binocs.svg">
+      <span class="ability-name">Chimaera Strike</span>
     </a>
     </div>
   </div>
@@ -486,19 +486,19 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   <div class="text">
     <h3 id="zam">
       <strong>Zam Wesell</strong>
-      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.5em; transform: translateY(4px)" src="../../assets/abilities/heroes/gideonhask/Weapons_HaskRK-3.svg">
+      <img class="weapon-blaster" class="no-lb" style="margin-left: 0em; transform: translateY(4px)" src="../../assets/abilities/heroes/zam/Weapons_KiSteer.svg">
     </h3>
-    <a>Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat.</a>
+    <a>A Clawdite bounty hunter active alongside Jango Fett during the final years of the Galactic Republic, Zam Wesell utilizes her changeling abilities to blend in and catch her opponents off-guard.</a>
     <div>
-    <a class="ability-item" data-text="Hask reveals enemies within his line of sight to his allies. When revealed, they will have all forms of healing blocked.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_DebuffEnemy.svg">
-      <span class="ability-name">Routing Traitors</span>
-    </a><a class="ability-item" data-text="Hask leads the charge with a modified E-11 Blast Cannon, passively boosting nearby allies with dsiruption immunity.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_BuffAlly.svg">
-      <span class="ability-name">Blast Cannon</span>
-    </a><a class="ability-item" data-text="Hask charges up a volatile power blast that ignites a small flame upon impact.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_IncendiaryRounds.svg">
-      <span class="ability-name">Inferno Blast</span>
+    <a class="ability-item" data-text="Zam deploys a proximity mine that pushes back and dazes enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/zam/Ability_FlashGrenade.svg">
+      <span class="ability-name">Concussion Mine</span>
+    </a><a class="ability-item" data-text=" Zam equips her KYD-21 sidearm as she disguises herself as the enemy, disappears from radar, and conceals the health bars of herself and all of those around her.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/zam/Ability_DisguisePistol.svg">
+      <span class="ability-name">Disguise</span>
+    </a><a class="ability-item" data-text="Zam marks an enemy to disrupt their weapons and abilities.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/zam/Ability_Overload_KiSteer.svg">
+      <span class="ability-name">Sabotage</span>
     </a>
     </div>
   </div>
