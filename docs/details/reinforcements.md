@@ -2,7 +2,7 @@
 
 Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian Death Gang's elite enforcers, hunt Jedi with the Inquisition's Purge Troopers, or specialize in any of the other 30 new or reworked Reinforcements featured in Battlefront Plus.
 
-## The Clone Wars
+## **The Clone Wars**
 
 ### Galactic Republic
 
@@ -377,7 +377,7 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
   </div>
 </div>
 
-## Galactic Civil War
+## **Galactic Civil War**
 
 ### Rebel Alliance
 
@@ -756,7 +756,7 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
   </div>
 </div>
 
-## The Cold War
+## **The Cold War**
 
 ### Resistance
 

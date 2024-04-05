@@ -31,8 +31,8 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="332nd Battalion" src="../../assets/new-appearances/troopers/clones/assault/assault-332.png">
-            <h4><b>332nd Battalion</b></h4>
+            <img style="object-position: 55% 0;" data-title="332nd Company" src="../../assets/new-appearances/troopers/clones/assault/assault-332.png">
+            <h4><b>332nd Company</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -83,8 +83,8 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 70% 0;" data-title="332nd Battalion" src="../../assets/new-appearances/troopers/clones/heavy/heavy-332.png">
-            <h4><b>332nd Battalion</b></h4>
+            <img style="object-position: 70% 0;" data-title="332nd Company" src="../../assets/new-appearances/troopers/clones/heavy/heavy-332.png">
+            <h4><b>332nd Company</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -135,8 +135,8 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 60% 0;" data-title="332nd Battalion" src="../../assets/new-appearances/troopers/clones/officer/officer-332.png">
-            <h4><b>332nd Battalion</b></h4>
+            <img style="object-position: 60% 0;" data-title="332nd Company" src="../../assets/new-appearances/troopers/clones/officer/officer-332.png">
+            <h4><b>332nd Company</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -199,8 +199,8 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="332nd Battalion" src="../../assets/new-appearances/troopers/clones/specialist/specialist-332.png">
-            <h4><b>332nd Battalion</b></h4>
+            <img style="object-position: 55% 0;" data-title="332nd Company" src="../../assets/new-appearances/troopers/clones/specialist/specialist-332.png">
+            <h4><b>332nd Company</b></h4>
         </div>
     </div>
     <div class="appearance-item">
