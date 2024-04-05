@@ -158,7 +158,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Merrin</strong>
       <img class="weapon-saber" class="no-lb" style="margin-left: -0.1em; width: 100px; transform: translateY(4px);" src="../../assets/abilities/heroes/merrin/Weapons_MerrinLightsaber.svg">
     </h3>
-    <a>Nightsister Merrin is one of the very last of her people following the Separatist invasion of Dathomir. Since her initially hostile encounter with Cal Kestis, a Jedi Padawan who had also lost his people, she has since become an explorer and a most dependable ally to Kestis, his crew, and those in need across the galaxy.</a>
+    <a>Nightsister Merrin is one of the very last of her people following the Separatist invasion of Dathomir. Since her initially hostile encounter with Cal Kestis, a Jedi Padawan who had also lost his people, she has become an explorer and a most dependable ally to Kestis, his crew, and those in need across the galaxy.</a>
     <div>
     <a class="ability-item" data-text="Merrin hurling an explosive fireball of Magick. Upgrades with each level of Merrin's Power Meter and resets it upon use.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/merrin/Merrin_Fireball.svg">
