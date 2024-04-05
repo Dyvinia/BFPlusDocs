@@ -152,6 +152,29 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 </div>
 
 <div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Merrin.png">
+  <div class="text">
+    <h3 id="merrin">
+      <strong>Merrin</strong>
+      <img class="weapon-saber" class="no-lb" style="margin-left: -1.5em; width: 140px; transform: translateY(-2px);" src="../../assets/abilities/heroes/ahsokatano/Weapons_AhsokaLightsabers.svg">
+    </h3>
+    <a>Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3 Merrin :3.</a>
+    <div>
+    <a class="ability-item" data-text="Ahsoka throws one lightsaber forward while keeping the other to protect herself.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_SaberThrow.svg">
+      <span class="ability-name">Saber Throw</span>
+    </a><a class="ability-item" data-text="Ahsoka closes the distance with a lunge attack.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_Flurry.svg">
+      <span class="ability-name">Saber Flurry</span>
+    </a><a class="ability-item" data-text="Small and agile, Ahsoka sprints forward at high speeds, greatly improving her recharge times as she does so.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/ahsokatano/Ahsoka_CombatRush.svg">
+      <span class="ability-name">Moral Spirit</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_NienNunb.png">
   <div class="text">
     <h3 id="nien">
@@ -159,6 +182,29 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1em;" src="../../assets/abilities/heroes/niennunb/Weapons_NienNunbDH-17.svg">
     </h3>
     <a>The Sullustian pilot Nien Nunb excels in harassing the Empire from afar with his Augmented Turret, Rapid Pulse Cannon and for when things get too close to comfort, his DH-17 is always raring to go.</a>
+    <div>
+    <a class="ability-item" data-text="Nien Nunb deploys a Detonite Charge, wired to blow when enemies enter its proximity.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_ProximityBomb.svg">
+      <span class="ability-name">Proximity Bomb</span>
+    </a><a class="ability-item" data-text="Switch to a modified DLT-20A Pulse Cannon configured for fast charging and high damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_PulseCannon.svg">
+      <span class="ability-name">Rapid Pulse Cannon</span>
+    </a><a class="ability-item" data-text="Deploy a blaster turret fitted with upgraded sensors for quicker lock-on time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_BlasterTurret.svg">
+      <span class="ability-name">Augmented Turret</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Padme.png">
+  <div class="text">
+    <h3 id="padme">
+      <strong>Padme Amidala</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1em;" src="../../assets/abilities/heroes/niennunb/Weapons_NienNunbDH-17.svg">
+    </h3>
+    <a>Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala Padme Amidala.</a>
     <div>
     <a class="ability-item" data-text="Nien Nunb deploys a Detonite Charge, wired to blow when enemies enter its proximity.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/niennunb/NienNunb_ProximityBomb.svg">
@@ -198,6 +244,29 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 </div>
 
 ## Villains
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_AsajjVentress.png">
+  <div class="text">
+    <h3 id="ventress">
+      <strong>Asajj Ventress</strong>
+      <img class="weapon-saber" class="no-lb" style="margin-left: -1.5em; width: 140px; transform: translateY(-2px);" src="../../assets/abilities/heroes/ahsokatano/Weapons_AhsokaLightsabers.svg">
+    </h3>
+    <a>Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress Asajj Ventress.</a>
+    <div>
+    <a class="ability-item" data-text="Cardinal's F-11D has increased damage and accuracy. His armor and mobility are reduced">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Damage.svg">
+      <span class="ability-name">Finalizer</span>
+    </a><a class="ability-item" data-text="Cardinal is immune to crowd control abilities, preventing him from being knocked down or stunned. Additionally, his blaster has improved cooling. His damage and mobility are reduced.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Steadfast.svg">
+      <span class="ability-name">Steadfast</span>
+    </a><a class="ability-item" data-text="Cardinal's mobility is increased, as is the rate of fire on the F-11D. His damage and armor are reduced.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Mobility.svg">
+      <span class="ability-name">Absolution</span>
+    </a>
+    </div>
+  </div>
+</div>
 
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portait_CaptainCardinal.png">
@@ -246,6 +315,29 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 </div>
 
 <div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_DaganGera.png">
+  <div class="text">
+    <h3 id="dagan">
+      <strong>Dagan Gera</strong>
+      <img class="weapon-saber" class="no-lb" style="margin-left: -1.5em; width: 140px; transform: translateY(-2px);" src="../../assets/abilities/heroes/ahsokatano/Weapons_AhsokaLightsabers.svg">
+    </h3>
+    <a>Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera Dagan Gera.</a>
+    <div>
+    <a class="ability-item" data-text="Cardinal's F-11D has increased damage and accuracy. His armor and mobility are reduced">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Damage.svg">
+      <span class="ability-name">Finalizer</span>
+    </a><a class="ability-item" data-text="Cardinal is immune to crowd control abilities, preventing him from being knocked down or stunned. Additionally, his blaster has improved cooling. His damage and mobility are reduced.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Steadfast.svg">
+      <span class="ability-name">Steadfast</span>
+    </a><a class="ability-item" data-text="Cardinal's mobility is increased, as is the rate of fire on the F-11D. His damage and armor are reduced.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captaincardinal/Cardinal_Mobility.svg">
+      <span class="ability-name">Absolution</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Dengar.png">
   <div class="text">
     <h3 id="dengar">
@@ -266,6 +358,29 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </a><a class="ability-item" data-text="Dengar has a special trait that brifly grants damage resistance upon deafeating enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dengar/Dengar_KillDR.svg">
       <span class="ability-name">Tough Fighter</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_GrandAdmiralThrawn.png">
+  <div class="text">
+    <h3 id="thrawn">
+      <strong>Grand Admiral Thrawn</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.5em; transform: translateY(4px)" src="../../assets/abilities/heroes/gideonhask/Weapons_HaskRK-3.svg">
+    </h3>
+    <a>Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn Grand Admiral Thrawn.</a>
+    <div>
+    <a class="ability-item" data-text="Hask reveals enemies within his line of sight to his allies. When revealed, they will have all forms of healing blocked.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_DebuffEnemy.svg">
+      <span class="ability-name">Routing Traitors</span>
+    </a><a class="ability-item" data-text="Hask leads the charge with a modified E-11 Blast Cannon, passively boosting nearby allies with dsiruption immunity.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_BuffAlly.svg">
+      <span class="ability-name">Blast Cannon</span>
+    </a><a class="ability-item" data-text="Hask charges up a volatile power blast that ignites a small flame upon impact.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_IncendiaryRounds.svg">
+      <span class="ability-name">Inferno Blast</span>
     </a>
     </div>
   </div>
@@ -361,6 +476,29 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </a><a class="ability-item" data-text="The Second Sister lunges forward with a deadly slash that knocks enemies onto the ground.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/secondsister/SecondSister_Lunge.svg">
       <span class="ability-name">Cunning Slash</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Zam.png">
+  <div class="text">
+    <h3 id="zam">
+      <strong>Zam Wesell</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.5em; transform: translateY(4px)" src="../../assets/abilities/heroes/gideonhask/Weapons_HaskRK-3.svg">
+    </h3>
+    <a>Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat Zam cat.</a>
+    <div>
+    <a class="ability-item" data-text="Hask reveals enemies within his line of sight to his allies. When revealed, they will have all forms of healing blocked.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_DebuffEnemy.svg">
+      <span class="ability-name">Routing Traitors</span>
+    </a><a class="ability-item" data-text="Hask leads the charge with a modified E-11 Blast Cannon, passively boosting nearby allies with dsiruption immunity.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_BuffAlly.svg">
+      <span class="ability-name">Blast Cannon</span>
+    </a><a class="ability-item" data-text="Hask charges up a volatile power blast that ignites a small flame upon impact.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_IncendiaryRounds.svg">
+      <span class="ability-name">Inferno Blast</span>
     </a>
     </div>
   </div>
