@@ -10,6 +10,7 @@ def on_page_content(html, page, **kwargs):
                     child.children.append(AnchorLink('Captain Rex', 'rex', 1))
                     child.children.append(AnchorLink('Commander Cody', 'cody', 1))
                     child.children.append(AnchorLink('Din Djarin', 'mando', 1))
+                    child.children.append(AnchorLink('Hunter', 'hunter', 1))
                     child.children.append(AnchorLink('Maz Kanata', 'maz', 1))
                     child.children.append(AnchorLink('Merrin', 'merrin', 1))
                     child.children.append(AnchorLink('Nien Nunb', 'nien', 1))

@@ -131,7 +131,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Hunter.png">
   <div class="text">
-    <h3 id="mando">
+    <h3 id="hunter">
       <strong>Hunter</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.3em;" src="../../assets/blasters/officer-blasters/Weapons_DC-17.svg">
     </h3>
