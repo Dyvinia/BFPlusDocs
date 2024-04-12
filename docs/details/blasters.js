@@ -78,21 +78,30 @@ json.then(data => data.specialist.primary.forEach(element => document.getElement
 json.then(data => data.specialist.secondary.forEach(element => document.getElementById('specialist-secondary').innerHTML += createBlaster(element)));
 
 function search(id) {
-    const containerID = id.replace("-search", "");
-    const height = document.getElementById(containerID).offsetHeight;
+    const containerIDs = [
+        'assault-primary', 
+        'assault-secondary',
+        'heavy-primary',
+        'heavy-secondary',
+        'officer-primary',
+        'specialist-primary',
+        'specialist-secondary',
+    ];
 
-    json.then(data => {
-        document.getElementById(containerID).innerHTML = null;
+    for (const containerID of containerIDs) {
+        json.then(data => {
+            document.getElementById(containerID).innerHTML = null;
 
-        let filtered = data[containerID.split('-')[0]][containerID.split('-')[1]]
-                        .filter(element => element.name.toLowerCase().replace("-", "").replace(" ", "").includes(document.getElementById(id).value.toLowerCase().replace("-", "").replace(" ", "")));
+            let filtered = data[containerID.split('-')[0]][containerID.split('-')[1]]
+                            .filter(element => element.name.toLowerCase().replace("-", "").replace(" ", "").includes(document.getElementById(id).value.toLowerCase().replace("-", "").replace(" ", "")));
 
-        if (filtered.length == 0) {
-            document.getElementById(containerID).innerHTML = `<div style="height:${height}px">No Results</div>`;
-        }
-        
-        filtered.forEach(element => document.getElementById(containerID).innerHTML += createBlaster(element));
-    });
+            if (filtered.length == 0) {
+                document.getElementById(containerID).innerHTML = `<div style="color: #aaa;margin-top: -0.4em;"">No Results</div>`;
+            }
+
+            filtered.forEach(element => document.getElementById(containerID).innerHTML += createBlaster(element));
+        });
+    }
 }
 
 function toggleSearch(id) {
