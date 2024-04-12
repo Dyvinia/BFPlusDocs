@@ -111,18 +111,41 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </h3>
     <a>Din Djarin, also known as "The Mandalorian", was a renowned Mandalorian warrior during the era of the New Republic. With his Mandalorian armor, IB-94 blaster pistol, Amban sniper rifle, and beskar helmet, Djarin was both well-equipped and enigmatic.</a>
     <div>
+    <a class="ability-item" data-text="Din Djarin fires his grappling hook at an enemy, rapidly pulling himself to them with an attack that knocks them to the ground.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_ThermalVision.svg">
+      <span class="ability-name">Grapple Strike</span>
     <a class="ability-item" data-text="Equips a high power disruptor sniper rifle for a short time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_AmbanSniper.svg">
       <span class="ability-name">Amban Phase-Pulse Blaster</span>
-    </a><a class="ability-item" data-text="Din Djarin's Helmet displays heat signatures, revealing nearby enemies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_ThermalVision.svg">
-      <span class="ability-name">Thermal Vision</span>
     </a><a class="ability-item" data-text="Din Djarin fires a salvo of guided munitions that seek out nearby enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_WhistlingBirds.svg">
       <span class="ability-name">Whistling Birds</span>
     </a><a class="ability-item" data-text="When performing a melee attack, he will strike down nearby enemies with the Darksaber.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_Darksaber.svg">
       <span class="ability-name">Darksaber</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Hunter.png">
+  <div class="text">
+    <h3 id="mando">
+      <strong>Hunter</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.3em;" src="../../assets/blasters/officer-blasters/Weapons_DC-17.svg">
+    </h3>
+    <a>Hunter was the leader of Clone Force 99, a squad of defective clones with desirable mutations, also known as the "Bad Batch." His enhanced senses granted him heightened awareness and the ability to perceive electromagnetic frequencies, making him an exceptional tracker.</a>
+    <div>
+    <a class="ability-item" data-text="Low-damage stun mode. The first two hits on an enemy will stagger and the third will knock them down, as well as inflict extra damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/hunter/Ability_Hunter_StunBlast.svg">
+      <span class="ability-name">Stun Mode</span>
+    </a><a class="ability-item" data-text="Hunter becomes more resistant in combat, granting him bonus health and preventing him from being stunned or knocked down.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/hunter/Ability_Hunter_SelfBuff.svg">
+      <span class="ability-name">Combat Prowess</span>
+    </a><a class="ability-item" data-text="Chain swift strikes with the VIBRO-KNIFE, performing a powerful knockdown on the third and final swing.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/hunter/Ability_Hunter_Knife.svg">
+      <span class="ability-name">Vibro-Knife</span>
     </a>
     </div>
   </div>
