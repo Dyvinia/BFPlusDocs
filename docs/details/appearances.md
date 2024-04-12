@@ -19,8 +19,8 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     <!-- Item End -->
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="91st Battalion" src="../../assets/new-appearances/troopers/clones/assault/assault-91.png">
-            <h4><b>91st Battalion</b></h4>
+            <img style="object-position: 50% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances/troopers/clones/assault/assault-91.png">
+            <h4><b>91st Recon Corps</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -71,8 +71,8 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 69% 0;" data-title="91st Battalion" src="../../assets/new-appearances/troopers/clones/heavy/heavy-91.png">
-            <h4><b>91st Battalion</b></h4>
+            <img style="object-position: 69% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances/troopers/clones/heavy/heavy-91.png">
+            <h4><b>91st Recon Corps</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -123,8 +123,8 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="91st Battalion" src="../../assets/new-appearances/troopers/clones/officer/officer-91.png">
-            <h4><b>91st Battalion</b></h4>
+            <img style="object-position: 50% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances/troopers/clones/officer/officer-91.png">
+            <h4><b>91st Recon Corps</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -187,8 +187,8 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 65% 0;" data-title="91st Battalion" src="../../assets/new-appearances/troopers/clones/specialist/specialist-91.png">
-            <h4><b>91st Battalion</b></h4>
+            <img style="object-position: 65% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances/troopers/clones/specialist/specialist-91.png">
+            <h4><b>91st Recon Corps</b></h4>
         </div>
     </div>
     <div class="appearance-item">
