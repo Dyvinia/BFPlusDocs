@@ -11,7 +11,7 @@ Battlefront+ is the largest mod project for Star Wars Battlefront II (2017), fea
 <p id="devs"></p>
 
 <script>
-    fetch("../../lists/devs.json").then(res => res.json()).then(data => data.forEach(element => {
+    fetch("../../lists/devs.json").then(res => res.json()).then(data => data.sort((a, b) => a.name.localeCompare(b.name)).forEach(element => {
         document.getElementById('devs').innerHTML +=
             `<a class="devs" href="${element.link}" target="_blank" rel="noopener noreferrer">
             	<img class="no-lb" src="${element.image}"/>${element.name}

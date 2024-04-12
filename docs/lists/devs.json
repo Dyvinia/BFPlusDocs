@@ -208,5 +208,30 @@
         "name": "zatomos",
         "image": "/assets/dev-avatars/zatomos.webp",
         "link": "https://www.nexusmods.com/starwarsbattlefront22017/users/51785036"
-    }    
+    },
+    {
+        "name": "Aurel",
+        "image": "/assets/dev-avatars/!missing.webp",
+        "link": ""
+    },
+    {
+        "name": "BattleDash",
+        "image": "/assets/dev-avatars/battledash.jpg",
+        "link": "https://github.com/BattleDash"
+    },
+    {
+        "name": "captainrex101",
+        "image": "/assets/dev-avatars/!missing.webp",
+        "link": ""
+    },
+    {
+        "name": "Vinh",
+        "image": "/assets/dev-avatars/vinh.png",
+        "link": "https://www.instagram.com/vinhs_workshop/"
+    },
+    {
+        "name": "Tofudriver",
+        "image": "/assets/dev-avatars/tofudriver.webp",
+        "link": "https://www.nexusmods.com/starwarsbattlefront22017/users/62231006"
+    }
 ]
