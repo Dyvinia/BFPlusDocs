@@ -514,13 +514,13 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     <a>A Clawdite bounty hunter active alongside Jango Fett during the final years of the Galactic Republic, Zam Wesell utilizes her changeling abilities to blend in and catch her opponents off-guard.</a>
     <div>
     <a class="ability-item" data-text="Zam deploys a proximity mine that pushes back and dazes enemies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/zam/Ability_FlashGrenade.svg">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/zam/Ability_Mine.svg">
       <span class="ability-name">Concussion Mine</span>
     </a><a class="ability-item" data-text=" Zam equips her KYD-21 sidearm as she disguises herself as the enemy, disappears from radar, and conceals the health bars of herself and all of those around her.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/zam/Ability_DisguisePistol.svg">
       <span class="ability-name">Disguise</span>
     </a><a class="ability-item" data-text="Zam marks an enemy to disrupt their weapons and abilities.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/zam/Ability_Overload_KiSteer.svg">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/zam/Ability_Sabotage.svg">
       <span class="ability-name">Sabotage</span>
     </a>
     </div>
