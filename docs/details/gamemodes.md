@@ -37,7 +37,6 @@ Two teams face off in a skirmish to claim bounties by eliminating the other's ma
 
 ![maptweaks-sup-kam](../assets/gamemodes/map-tweaks/sup-kamino.png){ .round-corners }
 
-- Added the LAAT Gunship.
 - Relocated objectives to place more emphasis on placing the battle across the middle of the map.
 
     - B. Crashed LAAT  
