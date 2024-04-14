@@ -120,7 +120,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </a><a class="ability-item" data-text="Din Djarin fires a salvo of guided munitions that seek out nearby enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_WhistlingBirds.svg">
       <span class="ability-name">Whistling Birds</span>
-    </a><a class="ability-item" data-text="When performing a melee attack, he will strike down nearby enemies with the Darksaber.">
+    </a><a class="ability-item" data-text="When performing a melee attack, Din Djarin will strike down nearby enemies with the Darksaber.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_Darksaber.svg">
       <span class="ability-name">Darksaber</span>
     </a>
@@ -146,6 +146,9 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </a><a class="ability-item" data-text="Chain swift strikes with the VIBRO-KNIFE, performing a powerful knockdown on the third and final swing.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/hunter/Ability_Hunter_Knife.svg">
       <span class="ability-name">Vibro-Knife</span>
+    </a><a class="ability-item" data-text="Hunter's exceptional skills as a tracker enable him to passively view enemy footsteps at all times.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/hunter/Ability_Hunter_Vision.svg">
+      <span class="ability-name">Enhanced Senses</span>
     </a>
     </div>
   </div>
@@ -192,6 +195,9 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </a><a class="ability-item" data-text="Merrin teleports forward, briefly avoiding every form of attack and disappearing from the radar.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/merrin/Merrin_Teleport.svg">
       <span class="ability-name">Teleportation</span>
+    </a><a class="ability-item" data-text="Whenever Merrin strikes an enemy with her spear or inflicts them with Magick Roots, her Power Meter will gradually fill, improving her abilities.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/merrin/Merrin_PowerMeter.svg">
+      <span class="ability-name">Power</span>
     </a>
     </div>
   </div>
