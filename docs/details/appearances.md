@@ -269,8 +269,8 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <div class="container" style="margin-top: -0.8em;">
 <div class="appearance-item">
     <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="Captain" src="../../assets/new-appearances/troopers/empire/heavy/heavy-captain.png">
-            <h4><b>Captain</b></h4>
+            <img style="object-position: 55% 0;" data-title="Sergeant" src="../../assets/new-appearances/troopers/empire/heavy/heavy-captain.png">
+            <h4><b>Sergeant</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -303,8 +303,8 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 45% 0;" data-title="Squad Leader" src="../../assets/new-appearances/troopers/empire/officer/officer-captain.png">
-            <h4><b>Squad Leader</b></h4>
+            <img style="object-position: 45% 0;" data-title="Stormtrooper" src="../../assets/new-appearances/troopers/empire/officer/officer-captain.png">
+            <h4><b>Stormtrooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
@@ -418,8 +418,8 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Squad Leader" src="../../assets/new-appearances/troopers/firstorder/officer/officer-squadleader.png">
-            <h4><b>Squad Leader</b></h4>
+            <img style="object-position: 50% 0;" data-title="Stormtrooper" src="../../assets/new-appearances/troopers/firstorder/officer/officer-squadleader.png">
+            <h4><b>Stormtrooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">

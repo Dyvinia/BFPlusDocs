@@ -8,7 +8,11 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
 
 Battlefront Plus comes packaged with enhancements to the autoplayers, enabling them to play some objectives in Strike and Galactic Assault, spawn as special units, and come equipped with a wider selection of blasters, abilities, and skins as troopers.
 
-To spawn autoplayers while hosting private matches on Kyber, press the 'Insert' key while at the pause menu and navigate to [Show Administration Menu]. Under the AI Settings window that opens, use the "DICE Bot Count" sliders to set the amount of autoplayers per team, with (Team 1) representing the Light Side and (Team 2) representing the Dark Side.
+## Instant Action Expanded
+
+![instant-action](../assets/gamemodes/coop-update.png){ .round-corners }
+
+Offline play sees the addition of gamemodes previously unavailable to Instant Action. Battle against AI players in Heroes vs. Villains, Galactic Assault, Blast, and more. 
 
 ## New Gamemodes
 
@@ -33,7 +37,7 @@ Two teams face off in a skirmish to claim bounties by eliminating the other's ma
 
 ![maptweaks-sup-kam](../assets/gamemodes/map-tweaks/sup-kamino.png){ .round-corners }
 
-- Added usable LAAT Gunship.
+- Added the LAAT Gunship.
 - Relocated objectives to place more emphasis on placing the battle across the middle of the map.
 
     - B. Crashed LAAT  
