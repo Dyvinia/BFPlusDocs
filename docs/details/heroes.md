@@ -135,7 +135,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
       <strong>Hunter</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.3em;" src="../../assets/blasters/officer-blasters/Weapons_DC-17.svg">
     </h3>
-    <a>Hunter was the leader of Clone Force 99, a squad of defective clones with desirable mutations, also known as the "Bad Batch." His enhanced senses granted him heightened awareness and the ability to perceive electromagnetic frequencies, making him an exceptional tracker.</a>
+    <a>Hunter was the leader of Clone Force 99, a squad of defective clones known as the "Bad Batch." His enhanced senses granted him heightened awareness and the ability to perceive electromagnetic frequencies, making him an exceptional tracker.</a>
     <div>
     <a class="ability-item" data-text="Low-damage stun mode. The first two hits on an enemy will stagger and the third will knock them down, as well as inflict extra damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/hunter/Ability_Hunter_StunBlast.svg">
