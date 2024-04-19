@@ -18,11 +18,11 @@
 
 4. Open `MOD COLLECTIONS` and apply **Battlefront Plus** to your `ACTIVE MOD LIST`.
 
-5. Click `Launch`.
+5. Click `LAUNCH`.
 
 ___
 
-#### Using Kyber V2
+### **Using Kyber V2**
 
 ##### To Join a Server:
 

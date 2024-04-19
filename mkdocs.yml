@@ -22,6 +22,7 @@ markdown_extensions:
   - toc:
       toc_depth: 3
 hooks:
+  - 'docs/community-updates/toc.py'
   - 'docs/details/toc.py'
 plugins:
   - glightbox:
@@ -74,6 +75,6 @@ nav:
     - 'setup/installation.md'
     - 'setup/troubleshooting.md'
   - Community Updates:
-    - 'community-updates/v10.md'
+    - Across The Stars: 'community-updates/v10.md'
     - 'community-updates/v9.md'
     - 'community-updates/v8.md'
