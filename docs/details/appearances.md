@@ -12,50 +12,50 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
     <!-- Item Start -->
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="13th Battalion" src="../../assets/new-appearances/troopers/clones/assault/assault-13.png">
+            <img style="object-position: 55% 0;" data-title="13th Battalion" src="../../assets/new-appearances-v2/troopers/clone_assault_13th_battalion.png">
             <h4><b>13th Battalion</b></h4>
         </div>
     </div>
     <!-- Item End -->
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances/troopers/clones/assault/assault-91.png">
+            <img style="object-position: 50% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances-v2/troopers/clone_assault_91st_reconcorps_p2.png">
             <h4><b>91st Recon Corps</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 69% 0;" data-title="187th Battalion" src="../../assets/new-appearances/troopers/clones/assault/assault-187.png">
+            <img style="object-position: 69% 0;" data-title="187th Battalion" src="../../assets/new-appearances-v2/troopers/clone_assault_187th_battalion.png">
             <h4><b>187th Battalion</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="332nd Company" src="../../assets/new-appearances/troopers/clones/assault/assault-332.png">
+            <img style="object-position: 55% 0;" data-title="332nd Company" src="../../assets/new-appearances-v2/troopers/clone_assault_332nd_company.png">
             <h4><b>332nd Company</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 40% 0;" data-title="Lightning Squadron" src="../../assets/new-appearances/troopers/clones/assault/assault-arf.png">
+            <img style="object-position: 40% 0;" data-title="Lightning Squadron" src="../../assets/new-appearances-v2/troopers/clone_assault_lightning_squadron.png">
             <h4><b>Lightning Squadron</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Clone Cadet" src="../../assets/new-appearances/troopers/clones/assault/assault-cadet.png">
+            <img style="object-position: 50% 0;" data-title="Clone Cadet" src="../../assets/new-appearances-v2/troopers/clone_assault_clone_cadet.png">
             <h4><b>Clone Cadet</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Spec Ops Desert" src="../../assets/new-appearances/troopers/clones/assault/assault-specops-desert.png">
+            <img style="object-position: 50% 0;" data-title="Spec Ops Desert" src="../../assets/new-appearances-v2/troopers/clone_assault_specops_desert.png">
             <h4><b>Spec Ops Desert</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 40% 0;" data-title="Spec Ops Stealth" src="../../assets/new-appearances/troopers/clones/assault/assault-specops-stealth.png">
+            <img style="object-position: 40% 0;" data-title="Spec Ops Stealth" src="../../assets/new-appearances-v2/troopers/clone_assault_specops_stealth.png">
             <h4><b>Spec Ops Stealth</b></h4>
         </div>
     </div>
@@ -65,49 +65,50 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 60% 0;" data-title="13th Battalion" src="../../assets/new-appearances/troopers/clones/heavy/heavy-13.png">
+            <img style="object-position: 55% 0;" data-title="13th Battalion" src="../../assets/new-appearances-v2/troopers/clone_heavy_13th_battalion.png">
             <h4><b>13th Battalion</b></h4>
         </div>
     </div>
+    <!-- Item End -->
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 69% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances/troopers/clones/heavy/heavy-91.png">
+            <img style="object-position: 50% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances-v2/troopers/clone_heavy_91st_reconcorps_p2.png">
             <h4><b>91st Recon Corps</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 60% 0;" data-title="187th Battalion" src="../../assets/new-appearances/troopers/clones/heavy/heavy-187.png">
+            <img style="object-position: 69% 0;" data-title="187th Battalion" src="../../assets/new-appearances-v2/troopers/clone_heavy_187th_battalion.png">
             <h4><b>187th Battalion</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 70% 0;" data-title="332nd Company" src="../../assets/new-appearances/troopers/clones/heavy/heavy-332.png">
+            <img style="object-position: 55% 0;" data-title="332nd Company" src="../../assets/new-appearances-v2/troopers/clone_heavy_332nd_company.png">
             <h4><b>332nd Company</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="Lightning Squadron" src="../../assets/new-appearances/troopers/clones/heavy/heavy-arf.png">
+            <img style="object-position: 40% 0;" data-title="Lightning Squadron" src="../../assets/new-appearances-v2/troopers/clone_heavy_lightning_squadron.png">
             <h4><b>Lightning Squadron</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Clone Cadet" src="../../assets/new-appearances/troopers/clones/heavy/heavy-cadet.png">
+            <img style="object-position: 50% 0;" data-title="Clone Cadet" src="../../assets/new-appearances-v2/troopers/clone_heavy_clone_cadet.png">
             <h4><b>Clone Cadet</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 65% 0;" data-title="Spec Ops Desert" src="../../assets/new-appearances/troopers/clones/heavy/heavy-specops-desert.png">
+            <img style="object-position: 50% 0;" data-title="Spec Ops Desert" src="../../assets/new-appearances-v2/troopers/clone_heavy_specops_desert.png">
             <h4><b>Spec Ops Desert</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 70% 0;" data-title="Spec Ops Stealth" src="../../assets/new-appearances/troopers/clones/heavy/heavy-specops-stealth.png">
+            <img style="object-position: 40% 0;" data-title="Spec Ops Stealth" src="../../assets/new-appearances-v2/troopers/clone_heavy_specops_stealth.png">
             <h4><b>Spec Ops Stealth</b></h4>
         </div>
     </div>
@@ -117,62 +118,63 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 45% 0;" data-title="13th Battalion" src="../../assets/new-appearances/troopers/clones/officer/officer-13.png">
+            <img style="object-position: 55% 0;" data-title="13th Battalion" src="../../assets/new-appearances-v2/troopers/clone_officer_13th_battalion.png">
             <h4><b>13th Battalion</b></h4>
         </div>
     </div>
+    <!-- Item End -->
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances/troopers/clones/officer/officer-91.png">
+            <img style="object-position: 50% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances-v2/troopers/clone_officer_91st_reconcorps_p2.png">
             <h4><b>91st Recon Corps</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="187th Battalion" src="../../assets/new-appearances/troopers/clones/officer/officer-187.png">
+            <img style="object-position: 69% 0;" data-title="187th Battalion" src="../../assets/new-appearances-v2/troopers/clone_officer_187th_battalion.png">
             <h4><b>187th Battalion</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 60% 0;" data-title="332nd Company" src="../../assets/new-appearances/troopers/clones/officer/officer-332.png">
+            <img style="object-position: 55% 0;" data-title="332nd Company" src="../../assets/new-appearances-v2/troopers/clone_officer_332nd_company.png">
             <h4><b>332nd Company</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Lightning Squadron" src="../../assets/new-appearances/troopers/clones/officer/officer-arf.png">
+            <img style="object-position: 40% 0;" data-title="Lightning Squadron" src="../../assets/new-appearances-v2/troopers/clone_officer_lightning_squadron.png">
             <h4><b>Lightning Squadron</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Clone Cadet" src="../../assets/new-appearances/troopers/clones/officer/officer-cadet.png">
+            <img style="object-position: 50% 0;" data-title="Clone Cadet" src="../../assets/new-appearances-v2/troopers/clone_officer_clone_cadet.png">
             <h4><b>Clone Cadet</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Pilot Phase I" src="../../assets/new-appearances/troopers/clones/officer/officer-pilot-p1.png">
-            <h4><b>Pilot Phase I</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance">
-            <img style="object-position: 45% 0;" data-title="Pilot Phase II" src="../../assets/new-appearances/troopers/clones/officer/officer-pilot-p2.png">
-            <h4><b>Pilot Phase II</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="Spec Ops Desert" src="../../assets/new-appearances/troopers/clones/officer/officer-specops-desert.png">
+            <img style="object-position: 50% 0;" data-title="Spec Ops Desert" src="../../assets/new-appearances-v2/troopers/clone_officer_specops_desert.png">
             <h4><b>Spec Ops Desert</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="Spec Ops Stealth" src="../../assets/new-appearances/troopers/clones/officer/officer-specops-stealth.png">
+            <img style="object-position: 40% 0;" data-title="Spec Ops Stealth" src="../../assets/new-appearances-v2/troopers/clone_officer_specops_stealth.png">
             <h4><b>Spec Ops Stealth</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Pilot Phase I" src="../../assets/new-appearances-v2/troopers/clone_officer_clone_pilot_p1.png">
+            <h4><b>Pilot Phase I</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 45% 0;" data-title="Pilot Phase II" src="../../assets/new-appearances-v2/troopers/clone_officer_clone_pilot_p2.png">
+            <h4><b>Pilot Phase II</b></h4>
         </div>
     </div>
 </div>
@@ -181,50 +183,257 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="13th Battalion" src="../../assets/new-appearances/troopers/clones/specialist/specialist-13.png">
+            <img style="object-position: 55% 0;" data-title="13th Battalion" src="../../assets/new-appearances-v2/troopers/clone_specialist_13th_battalion.png">
             <h4><b>13th Battalion</b></h4>
         </div>
     </div>
+    <!-- Item End -->
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 65% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances/troopers/clones/specialist/specialist-91.png">
+            <img style="object-position: 50% 0;" data-title="91st Recon Corps" src="../../assets/new-appearances-v2/troopers/clone_specialist_91st_reconcorps_p2.png">
             <h4><b>91st Recon Corps</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="187th Battalion" src="../../assets/new-appearances/troopers/clones/specialist/specialist-187.png">
+            <img style="object-position: 69% 0;" data-title="187th Battalion" src="../../assets/new-appearances-v2/troopers/clone_specialist_187th_battalion.png">
             <h4><b>187th Battalion</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="332nd Company" src="../../assets/new-appearances/troopers/clones/specialist/specialist-332.png">
+            <img style="object-position: 55% 0;" data-title="332nd Company" src="../../assets/new-appearances-v2/troopers/clone_specialist_332nd_company.png">
             <h4><b>332nd Company</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 75% 0;" data-title="Lightning Squadron" src="../../assets/new-appearances/troopers/clones/specialist/specialist-arf.png">
+            <img style="object-position: 40% 0;" data-title="Lightning Squadron" src="../../assets/new-appearances-v2/troopers/clone_specialist_lightning_squadron.png">
             <h4><b>Lightning Squadron</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Clone Cadet" src="../../assets/new-appearances/troopers/clones/specialist/specialist-cadet.png">
+            <img style="object-position: 50% 0;" data-title="Clone Cadet" src="../../assets/new-appearances-v2/troopers/clone_specialist_clone_cadet.png">
             <h4><b>Clone Cadet</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 65% 0;" data-title="Spec Ops Desert" src="../../assets/new-appearances/troopers/clones/specialist/specialist-specops-desert.png">
+            <img style="object-position: 50% 0;" data-title="Spec Ops Desert" src="../../assets/new-appearances-v2/troopers/clone_specialist_specops_desert.png">
             <h4><b>Spec Ops Desert</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 75% 0;" data-title="Spec Ops Stealth" src="../../assets/new-appearances/troopers/clones/specialist/specialist-specops-stealth.png">
+            <img style="object-position: 40% 0;" data-title="Spec Ops Stealth" src="../../assets/new-appearances-v2/troopers/clone_specialist_specops_stealth.png">
             <h4><b>Spec Ops Stealth</b></h4>
+        </div>
+    </div>
+</div>
+
+### Separatist Alliance
+
+<h3 style="font-size: 1.05em; margin-top: -0.5em; "><b>Assault</b></h3>
+<div class="container" style="margin-top: -0.8em;">
+    <!-- Item Start -->
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Factory" src="../../assets/new-appearances-v2/troopers/droid_assault_factory.png">
+            <h4><b>Factory</b></h4>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Bedlam Raider" src="../../assets/new-appearances-v2/troopers/droid_assault_bedlam_raider.png">
+            <h4><b>Bedlam Raider</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Citadel" src="../../assets/new-appearances-v2/troopers/droid_assault_citadel.png">
+            <h4><b>Citadel</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 69% 0;" data-title="Security" src="../../assets/new-appearances-v2/troopers/droid_assault_security.png">
+            <h4><b>Security</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Weapons Factory" src="../../assets/new-appearances-v2/troopers/droid_assault_weapons_factory.png">
+            <h4><b>Weapons Factory</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 40% 0;" data-title="Marine" src="../../assets/new-appearances-v2/troopers/droid_assault_classic_marine.png">
+            <h4><b>Marine</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Shuttle Pilot" src="../../assets/new-appearances-v2/troopers/droid_assault_shuttle_pilot.png">
+            <h4><b>Shuttle Pilot</b></h4>
+        </div>
+    </div>
+</div>
+
+<h3 style="font-size: 1.05em;"><b>Heavy</b></h3>
+<div class="container" style="margin-top: -0.8em;">
+    <!-- Item Start -->
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Factory" src="../../assets/new-appearances-v2/troopers/droid_heavy_factory.png">
+            <h4><b>Factory</b></h4>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Bedlam Raider" src="../../assets/new-appearances-v2/troopers/droid_heavy_bedlam_raider.png">
+            <h4><b>Bedlam Raider</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Citadel" src="../../assets/new-appearances-v2/troopers/droid_heavy_citadel.png">
+            <h4><b>Citadel</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 69% 0;" data-title="Security" src="../../assets/new-appearances-v2/troopers/droid_heavy_security.png">
+            <h4><b>Security</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Weapons Factory" src="../../assets/new-appearances-v2/troopers/droid_heavy_weapons_factory.png">
+            <h4><b>Weapons Factory</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 40% 0;" data-title="Demolitions" src="../../assets/new-appearances-v2/troopers/droid_heavy_classic_demolitions.png">
+            <h4><b>Demolitions</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Rocketeer" src="../../assets/new-appearances-v2/troopers/droid_heavy_classic_rocketeer.png">
+            <h4><b>Rocketeer</b></h4>
+        </div>
+    </div>
+</div>
+
+<h3 style="font-size: 1.05em;"><b>Officer</b></h3>
+<div class="container" style="margin-top: -0.8em;">
+    <!-- Item Start -->
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Factory" src="../../assets/new-appearances-v2/troopers/droid_officer_factory.png">
+            <h4><b>Factory</b></h4>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Bedlam Raider" src="../../assets/new-appearances-v2/troopers/droid_officer_bedlam_raider.png">
+            <h4><b>Bedlam Raider</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Citadel" src="../../assets/new-appearances-v2/troopers/droid_officer_citadel.png">
+            <h4><b>Citadel</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 69% 0;" data-title="Security" src="../../assets/new-appearances-v2/troopers/droid_officer_security.png">
+            <h4><b>Security</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Weapons Factory" src="../../assets/new-appearances-v2/troopers/droid_officer_weapons_factory.png">
+            <h4><b>Weapons Factory</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 40% 0;" data-title="Engineer" src="../../assets/new-appearances-v2/troopers/droid_officer_classic_engineer.png">
+            <h4><b>Engineer</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="AAT Driver" src="../../assets/new-appearances-v2/troopers/droid_officer_aat_driver.png">
+            <h4><b>AAT Driver</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Kaller" src="../../assets/new-appearances-v2/troopers/droid_officer_kaller.png">
+            <h4><b>Kaller</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Field Commander" src="../../assets/new-appearances-v2/troopers/droid_officer_field_commander.png">
+            <h4><b>Field Commander</b></h4>
+        </div>
+    </div>
+</div>
+
+<h3 style="font-size: 1.05em;"><b>Specialist</b></h3>
+<div class="container" style="margin-top: -0.8em;">
+    <!-- Item Start -->
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Factory" src="../../assets/new-appearances-v2/troopers/droid_specialist_factory.png">
+            <h4><b>Factory</b></h4>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Bedlam Raider" src="../../assets/new-appearances-v2/troopers/droid_specialist_bedlam_raider.png">
+            <h4><b>Bedlam Raider</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Citadel" src="../../assets/new-appearances-v2/troopers/droid_specialist_citadel.png">
+            <h4><b>Citadel</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 69% 0;" data-title="Security" src="../../assets/new-appearances-v2/troopers/droid_specialist_security.png">
+            <h4><b>Security</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 55% 0;" data-title="Weapons Factory" src="../../assets/new-appearances-v2/troopers/droid_specialist_weapons_factory.png">
+            <h4><b>Weapons Factory</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 40% 0;" data-title="Assassin" src="../../assets/new-appearances-v2/troopers/droid_specialist_classic_assassin.png">
+            <h4><b>Assassin</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Speeder Pilot" src="../../assets/new-appearances-v2/troopers/droid_specialist_speeder_pilot.png">
+            <h4><b>Speeder Pilot</b></h4>
         </div>
     </div>
 </div>
