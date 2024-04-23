@@ -1,0 +1,1060 @@
+{
+    "clones": {
+        "assault": [
+            {
+                "name": "13th Battalion",
+                "image": "imagelink"
+            },
+            {
+                "name": "91st Recon Corps",
+                "image": "imagelink"
+            },
+            {
+                "name": "187th Battalion",
+                "image": "imagelink"
+            },
+            {
+                "name": "332nd Company",
+                "image": "imagelink"
+            },
+            {
+                "name": "Lightning Squadron",
+                "image": "imagelink"
+            },
+            {
+                "name": "Clone Cadet",
+                "image": "imagelink"
+            },
+            {
+                "name": "Spec Ops - Desert",
+                "image": "imagelink"
+            },
+            {
+                "name": "Spec Ops - Stealth",
+                "image": "imagelink"
+            }
+        ],
+        "heavy": [
+            {
+                "name": "13th Battalion",
+                "image": "imagelink"
+            },
+            {
+                "name": "91st Recon Corps",
+                "image": "imagelink"
+            },
+            {
+                "name": "187th Battalion",
+                "image": "imagelink"
+            },
+            {
+                "name": "332nd Company",
+                "image": "imagelink"
+            },
+            {
+                "name": "Lightning Squadron",
+                "image": "imagelink"
+            },
+            {
+                "name": "Clone Cadet",
+                "image": "imagelink"
+            },
+            {
+                "name": "Spec Ops - Desert",
+                "image": "imagelink"
+            },
+            {
+                "name": "Spec Ops - Stealth",
+                "image": "imagelink"
+            }
+        ],
+        "officer": [
+            {
+                "name": "13th Battalion",
+                "image": "imagelink"
+            },
+            {
+                "name": "91st Recon Corps",
+                "image": "imagelink"
+            },
+            {
+                "name": "187th Battalion",
+                "image": "imagelink"
+            },
+            {
+                "name": "332nd Company",
+                "image": "imagelink"
+            },
+            {
+                "name": "Lightning Squadron",
+                "image": "imagelink"
+            },
+            {
+                "name": "Clone Cadet",
+                "image": "imagelink"
+            },
+            {
+                "name": "Spec Ops - Desert",
+                "image": "imagelink"
+            },
+            {
+                "name": "Spec Ops - Stealth",
+                "image": "imagelink"
+            },
+            {
+                "name": "Pilot",
+                "image": "imagelink"
+            },
+            {
+                "name": "Pilot",
+                "image": "imagelink"
+            }
+        ],
+        "specialist": [
+            {
+                "name": "13th Battalion",
+                "image": "imagelink"
+            },
+            {
+                "name": "91st Recon Corps",
+                "image": "imagelink"
+            },
+            {
+                "name": "187th Battalion",
+                "image": "imagelink"
+            },
+            {
+                "name": "332nd Company",
+                "image": "imagelink"
+            },
+            {
+                "name": "Lightning Squadron",
+                "image": "imagelink"
+            },
+            {
+                "name": "Clone Cadet",
+                "image": "imagelink"
+            },
+            {
+                "name": "Spec Ops - Desert",
+                "image": "imagelink"
+            },
+            {
+                "name": "Spec Ops - Stealth",
+                "image": "imagelink"
+            }
+        ],
+        "clone-jet-trooper": [
+            {
+                "name": "Commander",
+                "image": "imagelink"
+            }
+        ],
+        "combat-engineer": [
+            {
+                "name": "Phase I",
+                "image": "imagelink"
+            },
+            {
+                "name": "Phase II",
+                "image": "imagelink"
+            }
+        ],
+        "clone-commando": [
+            {
+                "name": "Sniper",
+                "image": "imagelink"
+            }
+        ],
+        "clone-flametrooper": [
+            {
+                "name": "Phase I",
+                "image": "imagelink"
+            },
+            {
+                "name": "Phase II",
+                "image": "imagelink"
+            }
+        ],
+        "clone-sharpshooter": [
+            {
+                "name": "Phase I",
+                "image": "imagelink"
+            },
+            {
+                "name": "Phase II",
+                "image": "imagelink"
+            },
+            {
+                "name": "Legacy",
+                "image": "imagelink"
+            },
+            {
+                "name": "Phase I - ARF Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Phase II - ARF Trooper",
+                "image": "imagelink"
+            }
+        ]
+    },
+    "droids": {
+        "assault": [
+            {
+                "name": "Factory",
+                "image": "imagelink"
+            },
+            {
+                "name": "Bedlam Raider",
+                "image": "imagelink"
+            },
+            {
+                "name": "Citadel",
+                "image": "imagelink"
+            },
+            {
+                "name": "Security",
+                "image": "imagelink"
+            },
+            {
+                "name": "Weapons Factory",
+                "image": "imagelink"
+            },
+            {
+                "name": "Marine",
+                "image": "imagelink"
+            },
+            {
+                "name": "Shuttle Pilot",
+                "image": "imagelink"
+            }
+        ],
+        "heavy": [
+            {
+                "name": "Factory",
+                "image": "imagelink"
+            },
+            {
+                "name": "Bedlam Raider",
+                "image": "imagelink"
+            },
+            {
+                "name": "Citadel",
+                "image": "imagelink"
+            },
+            {
+                "name": "Security",
+                "image": "imagelink"
+            },
+            {
+                "name": "Weapons Factory",
+                "image": "imagelink"
+            },
+            {
+                "name": "Demolitions",
+                "image": "imagelink"
+            },
+            {
+                "name": "Rocketeer",
+                "image": "imagelink"
+            }
+        ],
+        "officer": [
+            {
+                "name": "Factory",
+                "image": "imagelink"
+            },
+            {
+                "name": "Bedlam Raider",
+                "image": "imagelink"
+            },
+            {
+                "name": "Citadel",
+                "image": "imagelink"
+            },
+            {
+                "name": "Security",
+                "image": "imagelink"
+            },
+            {
+                "name": "Weapons Factory",
+                "image": "imagelink"
+            },
+            {
+                "name": "Engineer",
+                "image": "imagelink"
+            },
+            {
+                "name": "AAT Driver",
+                "image": "imagelink"
+            },
+            {
+                "name": "Kaller",
+                "image": "imagelink"
+            },
+            {
+                "name": "Field Commander",
+                "image": "imagelink"
+            }
+        ],
+        "specialist": [
+            {
+                "name": "Factory",
+                "image": "imagelink"
+            },
+            {
+                "name": "Bedlam Raider",
+                "image": "imagelink"
+            },
+            {
+                "name": "Citadel",
+                "image": "imagelink"
+            },
+            {
+                "name": "Security",
+                "image": "imagelink"
+            },
+            {
+                "name": "Weapons Factory",
+                "image": "imagelink"
+            },
+            {
+                "name": "Assassin",
+                "image": "imagelink"
+            },
+            {
+                "name": "Speeder Pilot",
+                "image": "imagelink"
+            }
+        ],
+        "b2": [
+            {
+                "name": "Gold",
+                "image": "imagelink"
+            }
+        ],
+        "combat-magnaguard": [
+            {
+                "name": "Holowan",
+                "image": "imagelink"
+            },
+            {
+                "name": "Holowan Elite",
+                "image": "imagelink"
+            }
+        ],
+        "tactical-droid": [
+            {
+                "name": "Tactical Droid",
+                "image": "imagelink"
+            }
+        ]
+    },
+    "rebels": {
+        "rebel-commando": [
+            {
+                "name": "Leader",
+                "image": "imagelink"
+            },
+            {
+                "name": "Grenadier",
+                "image": "imagelink"
+            },
+            {
+                "name": "Spy",
+                "image": "imagelink"
+            }
+        ],
+        "rebel-pilot": [
+            {
+                "name": "X-Wing Pilot",
+                "image": "imagelink"
+            },
+            {
+                "name": "Blue Squadron",
+                "image": "imagelink"
+            },
+            {
+                "name": "Y-Wing Pilot",
+                "image": "imagelink"
+            }
+        ],
+        "rebel-saboteur": [
+            {
+                "name": "Twi'lek",
+                "image": "imagelink"
+            }
+        ]
+    },
+    "empire": {
+        "assault": [
+            {
+                "name": "Army Security",
+                "image": "imagelink"
+            },
+            {
+                "name": "Mudtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Patrol Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Tank Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "TK Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Commander",
+                "image": "imagelink"
+            },
+            {
+                "name": "Shadow Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Sandtrooper",
+                "image": "imagelink"
+            }
+        ],
+        "heavy": [
+            {
+                "name": "Army Security",
+                "image": "imagelink"
+            },
+            {
+                "name": "Mudtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Patrol Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Tank Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "TK Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Commander",
+                "image": "imagelink"
+            },
+            {
+                "name": "Shadow Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Sergeant",
+                "image": "imagelink"
+            }
+        ],
+        "officer": [
+            {
+                "name": "Army Security",
+                "image": "imagelink"
+            },
+            {
+                "name": "Mudtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Patrol Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Tank Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "TK Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Commander",
+                "image": "imagelink"
+            },
+            {
+                "name": "Shadow Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Stormtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Navy Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "TIE Pilot",
+                "image": "imagelink"
+            }
+        ],
+        "specialist": [
+            {
+                "name": "Army Security",
+                "image": "imagelink"
+            },
+            {
+                "name": "Mudtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Patrol Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Tank Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "TK Trooper",
+                "image": "imagelink"
+            }
+        ],
+        "imperial-jumptrooper": [
+            {
+                "name": "Star Tours",
+                "image": "imagelink"
+            }
+        ],
+        "royal-guard": [
+            {
+                "name": "Royal Guard",
+                "image": "imagelink"
+            }
+        ],
+        "purge-trooper-commander": [
+            {
+                "name": "Commander",
+                "image": "imagelink"
+            }
+        ],
+        "viper-probe-droid": [
+            {
+                "name": "Arakyd Probot",
+                "image": "imagelink"
+            },
+            {
+                "name": "Aratech 11-3K",
+                "image": "imagelink"
+            }
+        ]
+    },
+    "resistance": {
+        "combat-medic": [
+            {
+                "name": "Leader",
+                "image": "imagelink"
+            }
+        ],
+        "nikto-smuggler": [
+            {
+                "name": "X-Wing Pilot",
+                "image": "imagelink"
+            }
+        ]
+    },
+    "first-order": {
+        "assault": [
+            {
+                "name": "Executioner",
+                "image": "imagelink"
+            },
+            {
+                "name": "Snowtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Tech Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Elite Trooper",
+                "image": "imagelink"
+            }
+        ],
+        "heavy": [
+            {
+                "name": "Executioner",
+                "image": "imagelink"
+            },
+            {
+                "name": "Snowtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Tech Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Patrol Leader",
+                "image": "imagelink"
+            }
+        ],
+        "officer": [
+            {
+                "name": "Executioner",
+                "image": "imagelink"
+            },
+            {
+                "name": "Snowtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Tech Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Stormtrooper",
+                "image": "imagelink"
+            }
+        ],
+        "specialist": [
+            {
+                "name": "Executioner",
+                "image": "imagelink"
+            },
+            {
+                "name": "Snowtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Tech Trooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Elite Trooper",
+                "image": "imagelink"
+            }
+        ],
+        "first-order-jet-trooper": [
+            {
+                "name": "Final Order",
+                "image": "imagelink"
+            }
+        ],
+        "guavian-security": [
+            {
+                "name": "Enforcer",
+                "image": "imagelink"
+            }
+        ],
+        "riot-control-trooper": [
+            {
+                "name": "Stormtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Executioner",
+                "image": "imagelink"
+            }
+        ],
+        "stormtrooper-commander": [
+            {
+                "name": "Stormtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Snowtrooper",
+                "image": "imagelink"
+            }
+        ]
+    },
+    "heroes": {
+        "ahsoka": [
+            {
+                "name": "Padawan",
+                "image": "imagelink"
+            },
+            {
+                "name": "Siege of Mandalore",
+                "image": "imagelink"
+            }
+        ],
+        "anakin": [
+            {
+                "name": "Pilot Headset",
+                "image": "imagelink"
+            }
+        ],
+        "cal-kestis": [
+            {
+                "name": "Scrapper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Poncho",
+                "image": "imagelink"
+            },
+            {
+                "name": "Survivor",
+                "image": "imagelink"
+            },
+            {
+                "name": "Slayer of Oggdo",
+                "image": "imagelink"
+            },
+            {
+                "name": "Inquisitor",
+                "image": "imagelink"
+            }
+        ],
+        "captain-rex": [
+            {
+                "name": "Phase I",
+                "image": "imagelink"
+            },
+            {
+                "name": "Phase II",
+                "image": "imagelink"
+            },
+            {
+                "name": "Phase I - Flashlights",
+                "image": "imagelink"
+            },
+            {
+                "name": "Phase II - Visor",
+                "image": "imagelink"
+            }
+        ],
+        "chewbacca": [
+            {
+                "name": "C-3PO",
+                "image": "imagelink"
+            },
+            {
+                "name": "Life Day",
+                "image": "imagelink"
+            },
+            {
+                "name": "Stormtrooper Helmet",
+                "image": "imagelink"
+            }
+        ],
+        "commander-cody": [
+            {
+                "name": "Phase I",
+                "image": "imagelink"
+            },
+            {
+                "name": "Phase II",
+                "image": "imagelink"
+            },
+            {
+                "name": "Phase I - Flashlights",
+                "image": "imagelink"
+            },
+            {
+                "name": "Imperial",
+                "image": "imagelink"
+            },
+            {
+                "name": "Legacy",
+                "image": "imagelink"
+            }
+        ],
+        "din-djarin": [
+            {
+                "name": "The Mandalorian",
+                "image": "imagelink"
+            }
+        ],
+        "finn": [
+            {
+                "name": "Crait",
+                "image": "imagelink"
+            }
+        ],
+        "han-solo": [
+            {
+                "name": "General",
+                "image": "imagelink"
+            },
+            {
+                "name": "Mudtrooper",
+                "image": "imagelink"
+            },
+            {
+                "name": "Stormtrooper Disguise",
+                "image": "imagelink"
+            }
+        ],
+        "hunter": [
+            {
+                "name": "Bad Batch",
+                "image": "imagelink"
+            }
+        ],
+        "leia": [
+            {
+                "name": "Bespin Escape",
+                "image": "imagelink"
+            }
+        ],
+        "luke": [
+            {
+                "name": "Bespin",
+                "image": "imagelink"
+            },
+            {
+                "name": "Duel",
+                "image": "imagelink"
+            },
+            {
+                "name": "Endor",
+                "image": "imagelink"
+            },
+            {
+                "name": "Stormtrooper Disguise",
+                "image": "imagelink"
+            },
+            {
+                "name": "Training Helmet",
+                "image": "imagelink"
+            }
+        ],
+        "maz": [
+            {
+                "name": "Pirate Queen",
+                "image": "imagelink"
+            }
+        ],
+        "merrin": [
+            {
+                "name": "Survivor",
+                "image": "imagelink"
+            },
+            {
+                "name": "Nightsister",
+                "image": "imagelink"
+            },
+            {
+                "name": "Witch",
+                "image": "imagelink"
+            }
+        ],
+        "nien-nunb": [
+            {
+                "name": "Rebel Hero",
+                "image": "imagelink"
+            }
+        ],
+        "obi-wan": [
+            {
+                "name": "Jedi Knight",
+                "image": "imagelink"
+            },
+            {
+                "name": "Mandalore",
+                "image": "imagelink"
+            },
+            {
+                "name": "Supercommando",
+                "image": "imagelink"
+            },
+            {
+                "name": "Pilot Headset",
+                "image": "imagelink"
+            },
+            {
+                "name": "Hidden Path",
+                "image": "imagelink"
+            },
+            {
+                "name": "Mythos",
+                "image": "imagelink"
+            },
+            {
+                "name": "Tibidon Station",
+                "image": "imagelink"
+            }
+        ],
+        "padme": [
+            {
+                "name": "Arena",
+                "image": "imagelink"
+            },
+            {
+                "name": "Padme",
+                "image": "imagelink"
+            }
+        ],
+        "shriv": [
+            {
+                "name": "Danger Leader",
+                "image": "imagelink"
+            },
+            {
+                "name": "Veteran",
+                "image": "imagelink"
+            }
+        ]
+    },
+    "villains": {
+        "asajj-ventress": [
+            {
+                "name": "Assassin",
+                "image": "imagelink"
+            },
+            {
+                "name": "Legacy",
+                "image": "imagelink"
+            }
+        ],
+        "boba": [
+            {
+                "name": "Pursuit",
+                "image": "imagelink"
+            },
+            {
+                "name": "Rebirth",
+                "image": "imagelink"
+            },
+            {
+                "name": "Prototype",
+                "image": "imagelink"
+            }
+        ],
+        "bossk": [
+            {
+                "name": "Fancy",
+                "image": "imagelink"
+            },
+            {
+                "name": "Lothal Disguise",
+                "image": "imagelink"
+            }
+        ],
+        "captain-cardinal": [
+            {
+                "name": "Captain",
+                "image": "imagelink"
+            }
+        ],
+        "commander-pyre": [
+            {
+                "name": "Commander",
+                "image": "imagelink"
+            }
+        ],
+        "count-dooku": [
+            {
+                "name": "Duelist",
+                "image": "imagelink"
+            }
+        ],
+        "dagan": [
+            {
+                "name": "Fallen Knight",
+                "image": "imagelink"
+            },
+            {
+                "name": "Awakening",
+                "image": "imagelink"
+            },
+            {
+                "name": "Obsession",
+                "image": "imagelink"
+            },
+            {
+                "name": "Return",
+                "image": "imagelink"
+            }
+        ],
+        "darth-maul": [
+            {
+                "name": "Crimson Dawn",
+                "image": "imagelink"
+            },
+            {
+                "name": "Mandalore",
+                "image": "imagelink"
+            },
+            {
+                "name": "Twin Suns",
+                "image": "imagelink"
+            }
+        ],
+        "darth-vader": [
+            {
+                "name": "Archive",
+                "image": "imagelink"
+            },
+            {
+                "name": "Battle Damaged",
+                "image": "imagelink"
+            }
+        ],
+        "dengar": [
+            {
+                "name": "Bounty Hunter",
+                "image": "imagelink"
+            }
+        ],
+        "emperor-palpatine": [
+            {
+                "name": "Sith Lord",
+                "image": "imagelink"
+            }
+        ],
+        "general-grievous": [
+            {
+                "name": "General",
+                "image": "imagelink"
+            }
+        ],
+        "grand-admiral-thrawn": [
+            {
+                "name": "Grand Admiral",
+                "image": "imagelink"
+            },
+            {
+                "name": "Combat Armor",
+                "image": "imagelink"
+            }
+        ],
+        "gideon-hask": [
+            {
+                "name": "First Order Officer",
+                "image": "imagelink"
+            }
+        ],
+        "greedo": [
+            {
+                "name": "Bounty Hunter",
+                "image": "imagelink"
+            }
+        ],
+        "jango": [
+            {
+                "name": "JT-12",
+                "image": "imagelink"
+            },
+            {
+                "name": "Z-6",
+                "image": "imagelink"
+            }
+        ],
+        "second-sister": [
+            {
+                "name": "Inquisitor",
+                "image": "imagelink"
+            }
+        ],
+        "zam": [
+            {
+                "name": "Bounty Hunter",
+                "image": "imagelink"
+            }
+        ]
+    }
+}

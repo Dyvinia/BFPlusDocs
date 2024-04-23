@@ -444,66 +444,103 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 40% 0;" data-title="Patrol Trooper" src="../../assets/new-appearances/troopers/empire/assault/assault-patrol.png">
+            <img style="object-position: 40% 0;" data-title="Army Security" src="../../assets/new-appearances-v2/troopers/empire_assault_army_security.png">
+            <h4><b>Army Security</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 60% 0;" data-title="Mudtrooper" src="../../assets/new-appearances-v2/troopers/empire_assault_mudtrooper.png">
+            <h4><b>Mudtrooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 40% 0;" data-title="Patrol Trooper" src="../../assets/new-appearances-v2/troopers/empire_assault_patrol_trooper.png">
             <h4><b>Patrol Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Sandtrooper" src="../../assets/new-appearances/troopers/empire/assault/assault-sandtrooper.png">
-            <h4><b>Sandtrooper</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Shadow Trooper" src="../../assets/new-appearances/troopers/empire/assault/assault-shadow.png">
-            <h4><b>Shadow Trooper</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance">
-            <img style="object-position: 60% 0;" data-title="Tank Trooper" src="../../assets/new-appearances/troopers/empire/assault/assault-tank.png">
+            <img style="object-position: 60% 0;" data-title="Tank Trooper" src="../../assets/new-appearances-v2/troopers/empire_assault_tank_trooper.png">
             <h4><b>Tank Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="TK Trooper" src="../../assets/new-appearances/troopers/empire/assault/assault-tk.png">
+            <img style="object-position: 55% 0;" data-title="TK Trooper" src="../../assets/new-appearances-v2/troopers/empire_assault_tk_trooper.png">
             <h4><b>TK Trooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Shadow Trooper" src="../../assets/new-appearances-v2/troopers/empire_assault_shadow_trooper.png">
+            <h4><b>Shadow Trooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Commander" src="../../assets/new-appearances-v2/troopers/empire_assault_commander.png">
+            <h4><b>Commander</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Sandtrooper" src="../../assets/new-appearances-v2/troopers/empire_assault_sandtrooper.png">
+            <h4><b>Sandtrooper</b></h4>
         </div>
     </div>
 </div>
 
 <h3 style="font-size: 1.05em;"><b>Heavy</b></h3>
 <div class="container" style="margin-top: -0.8em;">
-<div class="appearance-item">
-    <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="Sergeant" src="../../assets/new-appearances/troopers/empire/heavy/heavy-captain.png">
-            <h4><b>Sergeant</b></h4>
+<div class="container" style="margin-top: -0.8em;">
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 40% 0;" data-title="Army Security" src="../../assets/new-appearances-v2/troopers/empire_heavy_army_security.png">
+            <h4><b>Army Security</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="Patrol Trooper" src="../../assets/new-appearances/troopers/empire/heavy/heavy-patrol.png">
+            <img style="object-position: 60% 0;" data-title="Mudtrooper" src="../../assets/new-appearances-v2/troopers/empire_heavy_mudtrooper.png">
+            <h4><b>Mudtrooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 40% 0;" data-title="Patrol Trooper" src="../../assets/new-appearances-v2/troopers/empire_heavy_patrol_trooper.png">
             <h4><b>Patrol Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 60% 0;" data-title="Shadow Trooper" src="../../assets/new-appearances/troopers/empire/heavy/heavy-shadow.png">
-            <h4><b>Shadow Trooper</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Tank Trooper" src="../../assets/new-appearances/troopers/empire/heavy/heavy-tank.png">
+            <img style="object-position: 60% 0;" data-title="Tank Trooper" src="../../assets/new-appearances-v2/troopers/empire_heavy_tank_trooper.png">
             <h4><b>Tank Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 60% 0;" data-title="TK Trooper" src="../../assets/new-appearances/troopers/empire/heavy/heavy-tk.png">
+            <img style="object-position: 55% 0;" data-title="TK Trooper" src="../../assets/new-appearances-v2/troopers/empire_heavy_tk_trooper.png">
             <h4><b>TK Trooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Shadow Trooper" src="../../assets/new-appearances-v2/troopers/empire_heavy_shadow_trooper.png">
+            <h4><b>Shadow Trooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Commander" src="../../assets/new-appearances-v2/troopers/empire_heavy_commander.png">
+            <h4><b>Commander</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Sergeant" src="../../assets/new-appearances-v2/troopers/empire_heavy_sergeant.png">
+            <h4><b>Sergeant</b></h4>
         </div>
     </div>
 </div>
@@ -512,38 +549,62 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 45% 0;" data-title="Stormtrooper" src="../../assets/new-appearances/troopers/empire/officer/officer-captain.png">
-            <h4><b>Stormtrooper</b></h4>
+            <img style="object-position: 40% 0;" data-title="Army Security" src="../../assets/new-appearances-v2/troopers/empire_officer_army_security.png">
+            <h4><b>Army Security</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="Patrol Trooper" src="../../assets/new-appearances/troopers/empire/officer/officer-patrol.png">
+            <img style="object-position: 60% 0;" data-title="Mudtrooper" src="../../assets/new-appearances-v2/troopers/empire_officer_mudtrooper.png">
+            <h4><b>Mudtrooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 40% 0;" data-title="Patrol Trooper" src="../../assets/new-appearances-v2/troopers/empire_officer_patrol_trooper.png">
             <h4><b>Patrol Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 45% 0;" data-title="Pilot" src="../../assets/new-appearances/troopers/empire/officer/officer-pilot.png">
-            <h4><b>Pilot</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Shadow Trooper" src="../../assets/new-appearances/troopers/empire/officer/officer-shadow.png">
-            <h4><b>Shadow Trooper</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="Tank Trooper" src="../../assets/new-appearances/troopers/empire/officer/officer-tank.png">
+            <img style="object-position: 60% 0;" data-title="Tank Trooper" src="../../assets/new-appearances-v2/troopers/empire_officer_tank_trooper.png">
             <h4><b>Tank Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 50% 0;" data-title="TK Trooper" src="../../assets/new-appearances/troopers/empire/officer/officer-tk.png">
+            <img style="object-position: 55% 0;" data-title="TK Trooper" src="../../assets/new-appearances-v2/troopers/empire_officer_tk_trooper.png">
             <h4><b>TK Trooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Shadow Trooper" src="../../assets/new-appearances-v2/troopers/empire_officer_shadow_trooper.png">
+            <h4><b>Shadow Trooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Commander" src="../../assets/new-appearances-v2/troopers/empire_officer_commander.png">
+            <h4><b>Commander</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Stormtrooper" src="../../assets/new-appearances-v2/troopers/empire_officer_sergeant.png">
+            <h4><b>Stormtrooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="Navy Trooper" src="../../assets/new-appearances-v2/troopers/empire_officer_navy_trooper.png">
+            <h4><b>Navy Trooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 50% 0;" data-title="TIE Pilot" src="../../assets/new-appearances-v2/troopers/empire_officer_tie_pilot.png">
+            <h4><b>TIE Pilot</b></h4>
         </div>
     </div>
 </div>
@@ -552,24 +613,35 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 65% 0;" data-title="Patrol Trooper" src="../../assets/new-appearances/troopers/empire/specialist/specialist-patrol.png">
+            <img style="object-position: 40% 0;" data-title="Army Security" src="../../assets/new-appearances-v2/troopers/empire_specialist_army_security.png">
+            <h4><b>Army Security</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 60% 0;" data-title="Mudtrooper" src="../../assets/new-appearances-v2/troopers/empire_specialist_mudtrooper.png">
+            <h4><b>Mudtrooper</b></h4>
+        </div>
+    </div>
+    <div class="appearance-item">
+        <div class="appearance">
+            <img style="object-position: 40% 0;" data-title="Patrol Trooper" src="../../assets/new-appearances-v2/troopers/empire_specialist_patrol_trooper.png">
             <h4><b>Patrol Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="Tank Trooper" src="../../assets/new-appearances/troopers/empire/specialist/specialist-tank.png">
+            <img style="object-position: 60% 0;" data-title="Tank Trooper" src="../../assets/new-appearances-v2/troopers/empire_specialist_tank_trooper.png">
             <h4><b>Tank Trooper</b></h4>
         </div>
     </div>
     <div class="appearance-item">
         <div class="appearance">
-            <img style="object-position: 55% 0;" data-title="TK Trooper" src="../../assets/new-appearances/troopers/empire/specialist/specialist-tk.png">
+            <img style="object-position: 55% 0;" data-title="TK Trooper" src="../../assets/new-appearances-v2/troopers/empire_specialist_tk_trooper.png">
             <h4><b>TK Trooper</b></h4>
         </div>
     </div>
 </div>
-
 
 ### First Order
 
