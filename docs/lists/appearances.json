@@ -3,11 +3,11 @@
         "assault": [
             {
                 "name": "13th Battalion",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_13th_battalion.png"
             },
             {
                 "name": "91st Recon Corps",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_91st_reconcorps_p2.png"
             },
             {
                 "name": "187th Battalion",
@@ -144,13 +144,13 @@
                 "image": "imagelink"
             }
         ],
-        "clone-jet-trooper": [
+        "clonejettrooper": [
             {
                 "name": "Commander",
                 "image": "imagelink"
             }
         ],
-        "combat-engineer": [
+        "combatengineer": [
             {
                 "name": "Phase I",
                 "image": "imagelink"
@@ -160,13 +160,13 @@
                 "image": "imagelink"
             }
         ],
-        "clone-commando": [
+        "clonecommando": [
             {
                 "name": "Sniper",
                 "image": "imagelink"
             }
         ],
-        "clone-flametrooper": [
+        "cloneflametrooper": [
             {
                 "name": "Phase I",
                 "image": "imagelink"
@@ -176,7 +176,7 @@
                 "image": "imagelink"
             }
         ],
-        "clone-sharpshooter": [
+        "clonesharpshooter": [
             {
                 "name": "Phase I",
                 "image": "imagelink"
@@ -190,11 +190,11 @@
                 "image": "imagelink"
             },
             {
-                "name": "Phase I - ARF Trooper",
+                "name": "Phase I - ARF",
                 "image": "imagelink"
             },
             {
-                "name": "Phase II - ARF Trooper",
+                "name": "Phase II - ARF",
                 "image": "imagelink"
             }
         ]
@@ -334,7 +334,7 @@
                 "image": "imagelink"
             }
         ],
-        "combat-magnaguard": [
+        "combatmagnaguard": [
             {
                 "name": "Holowan",
                 "image": "imagelink"
@@ -344,7 +344,7 @@
                 "image": "imagelink"
             }
         ],
-        "tactical-droid": [
+        "tacticaldroid": [
             {
                 "name": "Tactical Droid",
                 "image": "imagelink"
@@ -352,7 +352,7 @@
         ]
     },
     "rebels": {
-        "rebel-commando": [
+        "rebelcommando": [
             {
                 "name": "Leader",
                 "image": "imagelink"
@@ -366,7 +366,7 @@
                 "image": "imagelink"
             }
         ],
-        "rebel-pilot": [
+        "rebelpilot": [
             {
                 "name": "X-Wing Pilot",
                 "image": "imagelink"
@@ -380,7 +380,7 @@
                 "image": "imagelink"
             }
         ],
-        "rebel-saboteur": [
+        "rebelsaboteur": [
             {
                 "name": "Twi'lek",
                 "image": "imagelink"
@@ -520,25 +520,25 @@
                 "image": "imagelink"
             }
         ],
-        "imperial-jumptrooper": [
+        "imperialjumptrooper": [
             {
                 "name": "Star Tours",
                 "image": "imagelink"
             }
         ],
-        "royal-guard": [
+        "royalguard": [
             {
                 "name": "Royal Guard",
                 "image": "imagelink"
             }
         ],
-        "purge-trooper-commander": [
+        "purgetroopercommander": [
             {
                 "name": "Commander",
                 "image": "imagelink"
             }
         ],
-        "viper-probe-droid": [
+        "viperprobedroid": [
             {
                 "name": "Arakyd Probot",
                 "image": "imagelink"
@@ -550,20 +550,20 @@
         ]
     },
     "resistance": {
-        "combat-medic": [
+        "combatmedic": [
             {
                 "name": "Leader",
                 "image": "imagelink"
             }
         ],
-        "nikto-smuggler": [
+        "niktosmuggler": [
             {
                 "name": "X-Wing Pilot",
                 "image": "imagelink"
             }
         ]
     },
-    "first-order": {
+    "firstorder": {
         "assault": [
             {
                 "name": "Executioner",
@@ -636,19 +636,19 @@
                 "image": "imagelink"
             }
         ],
-        "first-order-jet-trooper": [
+        "firstorderjettrooper": [
             {
                 "name": "Final Order",
                 "image": "imagelink"
             }
         ],
-        "guavian-security": [
+        "guaviansecurity": [
             {
                 "name": "Enforcer",
                 "image": "imagelink"
             }
         ],
-        "riot-control-trooper": [
+        "riotcontroltrooper": [
             {
                 "name": "Stormtrooper",
                 "image": "imagelink"
@@ -658,7 +658,7 @@
                 "image": "imagelink"
             }
         ],
-        "stormtrooper-commander": [
+        "stormtroopercommander": [
             {
                 "name": "Stormtrooper",
                 "image": "imagelink"
