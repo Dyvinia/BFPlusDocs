@@ -60,22 +60,22 @@ function createBlaster(element) {
 
 const json = fetch("../../lists/blasters.json").then(response => response.json());
 
-// add universal sidearms
-json.then(data => data.assault.secondary = data.universalSidearms.concat(data.assault.secondary));
-json.then(data => data.heavy.secondary = data.universalSidearms.concat(data.heavy.secondary));
-json.then(data => data.specialist.secondary = data.universalSidearms.concat(data.specialist.secondary));
+json.then(data => {
+    data.assault.secondary = data.universalSidearms.concat(data.assault.secondary);
+    data.heavy.secondary = data.universalSidearms.concat(data.heavy.secondary);
+    data.specialist.secondary = data.universalSidearms.concat(data.specialist.secondary)
 
-// add blasters
-json.then(data => data.assault.primary.forEach(element => document.getElementById('assault-primary').innerHTML += createBlaster(element)));
-json.then(data => data.assault.secondary.forEach(element => document.getElementById('assault-secondary').innerHTML += createBlaster(element)));
+    data.assault.primary.forEach(element => document.getElementById('assault-primary').innerHTML += createBlaster(element));
+    data.assault.secondary.forEach(element => document.getElementById('assault-secondary').innerHTML += createBlaster(element));
 
-json.then(data => data.heavy.primary.forEach(element => document.getElementById('heavy-primary').innerHTML += createBlaster(element)));
-json.then(data => data.heavy.secondary.forEach(element => document.getElementById('heavy-secondary').innerHTML += createBlaster(element)));
+    data.heavy.primary.forEach(element => document.getElementById('heavy-primary').innerHTML += createBlaster(element));
+    data.heavy.secondary.forEach(element => document.getElementById('heavy-secondary').innerHTML += createBlaster(element));
 
-json.then(data => data.officer.primary.forEach(element => document.getElementById('officer-primary').innerHTML += createBlaster(element)));
+    data.officer.primary.forEach(element => document.getElementById('officer-primary').innerHTML += createBlaster(element));
 
-json.then(data => data.specialist.primary.forEach(element => document.getElementById('specialist-primary').innerHTML += createBlaster(element)));
-json.then(data => data.specialist.secondary.forEach(element => document.getElementById('specialist-secondary').innerHTML += createBlaster(element)));
+    data.specialist.primary.forEach(element => document.getElementById('specialist-primary').innerHTML += createBlaster(element));
+    data.specialist.primary.forEach(element => document.getElementById('specialist-secondary').innerHTML += createBlaster(element));
+});
 
 function search(id) {
     const containerIDs = [

@@ -542,16 +542,23 @@
     width: 135px !important;
 }
 
-.appearance img {
+.appearance .appearance-box img {
+    margin: -22% 0px 0px -15%;
+    max-width: 130% !important;
+    overflow-clip-margin: unset;
+}
+
+.appearance .appearance-box {
     height: 220px;
     width: 135px;
     max-width: 135px !important;
     margin-top: 0.1em;
-    margin-bottom: -0.69em;
+    margin-bottom: -0.25em;
     border-radius: 0.725em;
     background-color: #080808;
     border: 2px solid var(--md-primary-fg-color);
     object-fit: cover;
+    overflow: hidden;
 }
 
 .appearance h4 {
@@ -568,16 +575,23 @@
     width: 170px !important;
 }
 
-.appearance-hero img {
+.appearance-hero .appearance-box img {
+    margin: -22% 0px 0px -15%;
+    max-width: 130% !important;
+    overflow-clip-margin: unset;
+}
+
+.appearance-hero .appearance-box {
     height: 280px;
     width: 170px;
     max-width: 170px !important;
     margin-top: 0.1em;
-    margin-bottom: -0.69em;
+    margin-bottom: -0.25em;
     border-radius: 0.95em;
     background-color: #080808;
     border: 2px solid var(--md-primary-fg-color);
     object-fit: cover;
+    overflow: hidden;
 }
 
 .appearance-hero h4 {
