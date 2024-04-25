@@ -673,11 +673,11 @@
         "ahsoka": [
             {
                 "name": "Padawan",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/ahsoka_padawan.png"
             },
             {
                 "name": "Siege of Mandalore",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/ahsoka_siege_of_mandalore.png"
             }
         ],
         "anakin": [

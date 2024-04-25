@@ -135,6 +135,9 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 
 ## Heroes
 
+### **Ahsoka**
+<div class="container" style="margin-top: -0.8em;" id="heroes-ahsoka"></div>
+
 ### **Anakin**
 <div class="container" style="margin-top: -0.8em;">
     <div class="appearance-item">
