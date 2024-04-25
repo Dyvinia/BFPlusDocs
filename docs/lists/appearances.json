@@ -900,7 +900,7 @@
         ]
     },
     "villains": {
-        "asajj-ventress": [
+        "asajjventress": [
             {
                 "name": "Assassin",
                 "image": "imagelink"
@@ -934,19 +934,19 @@
                 "image": "imagelink"
             }
         ],
-        "captain-cardinal": [
+        "captaincardinal": [
             {
                 "name": "Captain",
                 "image": "imagelink"
             }
         ],
-        "commander-pyre": [
+        "commanderpyre": [
             {
                 "name": "Commander",
                 "image": "imagelink"
             }
         ],
-        "count-dooku": [
+        "countdooku": [
             {
                 "name": "Duelist",
                 "image": "imagelink"
@@ -970,7 +970,7 @@
                 "image": "imagelink"
             }
         ],
-        "darth-maul": [
+        "darthmaul": [
             {
                 "name": "Crimson Dawn",
                 "image": "imagelink"
@@ -984,7 +984,7 @@
                 "image": "imagelink"
             }
         ],
-        "darth-vader": [
+        "darthvader": [
             {
                 "name": "Archive",
                 "image": "imagelink"
@@ -1000,19 +1000,19 @@
                 "image": "imagelink"
             }
         ],
-        "emperor-palpatine": [
+        "emperorpalpatine": [
             {
                 "name": "Sith Lord",
                 "image": "imagelink"
             }
         ],
-        "general-grievous": [
+        "generalgrievous": [
             {
                 "name": "General",
                 "image": "imagelink"
             }
         ],
-        "grand-admiral-thrawn": [
+        "grandadmiralthrawn": [
             {
                 "name": "Grand Admiral",
                 "image": "imagelink"
@@ -1022,7 +1022,7 @@
                 "image": "imagelink"
             }
         ],
-        "gideon-hask": [
+        "gideonhask": [
             {
                 "name": "First Order Officer",
                 "image": "imagelink"
@@ -1044,7 +1044,7 @@
                 "image": "imagelink"
             }
         ],
-        "second-sister": [
+        "secondsister": [
             {
                 "name": "Inquisitor",
                 "image": "imagelink"

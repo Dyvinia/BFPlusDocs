@@ -99,6 +99,24 @@ fetch("../../lists/appearances.json").then(response => response.json()).then(dat
         'heroes-obiwan',
         'heroes-padme',
         'heroes-shriv',
+
+        'villains-asajjventress',
+        'villains-boba',
+        'villains-bossk',
+        'villains-captaincardinal',
+        'villains-commanderpyre',
+        'villains-countdooku',
+        'villains-dagan',
+        'villains-darthmaul',
+        'villains-darthvader',
+        'villains-emperorpalpatine',
+        'villains-generalgrievous',
+        'villains-grandadmiralthrawn',
+        'villains-gideonhask',
+        'villains-greedo',
+        'villains-jango',
+        'villains-secondsister',
+        'villains-zam',
     ];
     
     for (const heroID of heroIDs) {

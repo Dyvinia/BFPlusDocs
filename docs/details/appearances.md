@@ -189,4 +189,58 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 ### **Shriv**
 <div class="container" style="margin-top: -0.8em;" id="heroes-shriv"></div>
 
+
+## Villains
+
+### **Asajj Ventress**
+<div class="container" style="margin-top: -0.8em;" id="villains-asajjventress"></div>
+
+### **Boba Fett**
+<div class="container" style="margin-top: -0.8em;" id="villains-boba"></div>
+
+### **Bossk**
+<div class="container" style="margin-top: -0.8em;" id="villains-bossk"></div>
+
+### **Captain Cardinal**
+<div class="container" style="margin-top: -0.8em;" id="villains-captaincardinal"></div>
+
+### **Commander Pyre**
+<div class="container" style="margin-top: -0.8em;" id="villains-commanderpyre"></div>
+
+### **Count Dooku**
+<div class="container" style="margin-top: -0.8em;" id="villains-countdooku"></div>
+
+### **Dagan**
+<div class="container" style="margin-top: -0.8em;" id="villains-dagan"></div>
+
+### **Darth Maul**
+<div class="container" style="margin-top: -0.8em;" id="villains-darthmaul"></div>
+
+### **Darth Vader**
+<div class="container" style="margin-top: -0.8em;" id="villains-darthvader"></div>
+
+### **Emperor Palpatine**
+<div class="container" style="margin-top: -0.8em;" id="villains-emperorpalpatine"></div>
+
+### **General Grievous**
+<div class="container" style="margin-top: -0.8em;" id="villains-generalgrievous"></div>
+
+### **Grand Admiral Thrawn**
+<div class="container" style="margin-top: -0.8em;" id="villains-grandadmiralthrawn"></div>
+
+### **Gideon Hask**
+<div class="container" style="margin-top: -0.8em;" id="villains-gideonhask"></div>
+
+### **Greedo**
+<div class="container" style="margin-top: -0.8em;" id="villains-greedo"></div>
+
+### **Jango Fett**
+<div class="container" style="margin-top: -0.8em;" id="villains-jango"></div>
+
+### **Second Sister**
+<div class="container" style="margin-top: -0.8em;" id="villains-secondsister"></div>
+
+### **Zam**
+<div class="container" style="margin-top: -0.8em;" id="villains-zam"></div>
+
 <p style="font-size: 12px; text-align: center; margin-top: 2em; margin-bottom: -1em;">Hint: Click on images to zoom</p>
