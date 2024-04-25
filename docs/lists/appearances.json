@@ -686,7 +686,7 @@
                 "image": "imagelink"
             }
         ],
-        "cal-kestis": [
+        "calkestis": [
             {
                 "name": "Scrapper",
                 "image": "imagelink"
@@ -708,7 +708,7 @@
                 "image": "imagelink"
             }
         ],
-        "captain-rex": [
+        "captainrex": [
             {
                 "name": "Phase I",
                 "image": "imagelink"
@@ -740,7 +740,7 @@
                 "image": "imagelink"
             }
         ],
-        "commander-cody": [
+        "commandercody": [
             {
                 "name": "Phase I",
                 "image": "imagelink"
@@ -762,7 +762,7 @@
                 "image": "imagelink"
             }
         ],
-        "din-djarin": [
+        "dindjarin": [
             {
                 "name": "The Mandalorian",
                 "image": "imagelink"
@@ -774,7 +774,7 @@
                 "image": "imagelink"
             }
         ],
-        "han-solo": [
+        "hansolo": [
             {
                 "name": "General",
                 "image": "imagelink"
@@ -842,13 +842,13 @@
                 "image": "imagelink"
             }
         ],
-        "nien-nunb": [
+        "niennunb": [
             {
                 "name": "Rebel Hero",
                 "image": "imagelink"
             }
         ],
-        "obi-wan": [
+        "obiwan": [
             {
                 "name": "Jedi Knight",
                 "image": "imagelink"

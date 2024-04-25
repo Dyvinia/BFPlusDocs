@@ -82,6 +82,23 @@ fetch("../../lists/appearances.json").then(response => response.json()).then(dat
 
     const heroIDs = [
         'heroes-ahsoka',
+        'heroes-anakin',
+        'heroes-calkestis',
+        'heroes-captainrex',
+        'heroes-chewbacca',
+        'heroes-commandercody',
+        'heroes-dindjarin',
+        'heroes-finn',
+        'heroes-hansolo',
+        'heroes-hunter',
+        'heroes-leia',
+        'heroes-luke',
+        'heroes-maz',
+        'heroes-merrin',
+        'heroes-niennunb',
+        'heroes-obiwan',
+        'heroes-padme',
+        'heroes-shriv',
     ];
     
     for (const heroID of heroIDs) {

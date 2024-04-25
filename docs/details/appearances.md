@@ -139,155 +139,54 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <div class="container" style="margin-top: -0.8em;" id="heroes-ahsoka"></div>
 
 ### **Anakin**
-<div class="container" style="margin-top: -0.8em;">
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 50% 0;" data-title="Pilot" src="../../assets/new-appearances/heroes/anakin/anakin-4-pilot.png">
-            <h4><b>Pilot</b></h4>
-        </div>
-    </div>
-</div>
+<div class="container" style="margin-top: -0.8em;" id="heroes-anakin"></div>
 
-### **Boba Fett**
-<div class="container" style="margin-top: -0.8em;">
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 50% 0;" data-title="Rebirth" src="../../assets/new-appearances/heroes/boba/boba-2-rebirth.png">
-            <h4><b>Rebirth</b></h4>
-        </div>
-    </div>
-</div>
+### **Cal Kestis**
+<div class="container" style="margin-top: -0.8em;" id="heroes-calkestis"></div>
 
-### **Bossk**
-<div class="container" style="margin-top: -0.8em;">
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 50% 0;" data-title="Fancy" src="../../assets/new-appearances/heroes/bossk/bossk-2-james.png">
-            <h4><b>Fancy</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 35% 0;" data-title="Lothal" src="../../assets/new-appearances/heroes/bossk/bossk-3-lothal.png">
-            <h4><b>Lothal</b></h4>
-        </div>
-    </div>
-</div>
+### **Captain Rex**
+<div class="container" style="margin-top: -0.8em;" id="heroes-captainrex"></div>
 
 ### **Chewbacca**
-<div class="container" style="margin-top: -0.8em;">
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 25% 0;" data-title="Stormtrooper Helmet" data-description="Tampa's Favorite" src="../../assets/new-appearances/heroes/chewbacca/chewbacca-4-stormtrooper.png">
-            <h4><b>Stormtrooper Helmet</b></h4>
-        </div>
-    </div>
-</div>
+<div class="container" style="margin-top: -0.8em;" id="heroes-chewbacca"></div>
 
-### **Count Dooku**
-<div class="container" style="margin-top: -0.8em;">
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 35% 0;" data-title="Duelist" src="../../assets/new-appearances/heroes/count-dooku/count-dooku-4-duelist.png">
-            <h4><b>Duelist</b></h4>
-        </div>
-    </div>
-</div>
+### **Commander Cody**
+<div class="container" style="margin-top: -0.8em;" id="heroes-commandercody"></div>
 
-### **Darth Maul**
-<div class="container" style="margin-top: -0.8em;">
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 65% 0;" data-title="Crimson Dawn" src="../../assets/new-appearances/heroes/darth-maul/darth-maul-3-crimsondawn.png">
-            <h4><b>Crimson Dawn</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 50% 0;" data-title="Twin Suns" src="../../assets/new-appearances/heroes/darth-maul/darth-maul-4-twinsuns.png">
-            <h4><b>Twin Suns</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 30% 0;" data-title="Mandalore" src="../../assets/new-appearances/heroes/darth-maul/darth-maul-5-mandalore.png">
-            <h4><b>Mandalore</b></h4>
-        </div>
-    </div>
-</div>
+### **Din Djarin**
+<div class="container" style="margin-top: -0.8em;" id="heroes-dindjarin"></div>
 
-### **Darth Vader**
-<div class="container" style="margin-top: -0.8em;">
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 100% 0;" data-title="Battle Damaged" src="../../assets/new-appearances/heroes/darth-vader/darth-vader-2-damaged.png">
-            <h4><b>Battle Damaged</b></h4>
-        </div>
-    </div>
-</div>
-
-### **General Grievous**
-<div class="container" style="margin-top: -0.8em;">
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 50% 0;" data-title="General" src="../../assets/new-appearances/heroes/grievous/grievous-4-general.png">
-            <h4><b>General</b></h4>
-        </div>
-    </div>
-</div>
+### **Finn**
+<div class="container" style="margin-top: -0.8em;" id="heroes-finn"></div>
 
 ### **Han Solo**
-<div class="container" style="margin-top: -0.8em;">
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 70% 0;" data-title="Stormtrooper Disguise" src="../../assets/new-appearances/heroes/han/han-8-stormtrooper.png">
-            <h4><b>Stormtrooper Disguise</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 50% 0;" data-title="General" src="../../assets/new-appearances/heroes/han/han-9-general.png">
-            <h4><b>General</b></h4>
-        </div>
-    </div>
-</div>
+<div class="container" style="margin-top: -0.8em;" id="heroes-hansolo"></div>
+
+### **Hunter**
+<div class="container" style="margin-top: -0.8em;" id="heroes-hunter"></div>
+
+### **Princess Leia**
+<div class="container" style="margin-top: -0.8em;" id="heroes-leia"></div>
 
 ### **Luke Skywalker**
-<div class="container" style="margin-top: -0.8em;">
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 60% 0;" data-title="Stormtrooper Disguise" src="../../assets/new-appearances/heroes/luke/luke-5-stormtrooper.png">
-            <h4><b>Stormtrooper Disguise</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 55% 0;" data-title="Endor" src="../../assets/new-appearances/heroes/luke/luke-6-endor.png">
-            <h4><b>Endor</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 40% 0;" data-title="Duel" src="../../assets/new-appearances/heroes/luke/luke-7-duel.png">
-            <h4><b>Duel</b></h4>
-        </div>
-    </div>
-</div>
+<div class="container" style="margin-top: -0.8em;" id="heroes-luke"></div>
+
+### **Maz Kanata**
+<div class="container" style="margin-top: -0.8em;" id="heroes-maz"></div>
+
+### **Merrin**
+<div class="container" style="margin-top: -0.8em;" id="heroes-merrin"></div>
+
+### **Nien Nunb**
+<div class="container" style="margin-top: -0.8em;" id="heroes-niennunb"></div>
 
 ### **Obi-Wan Kenobi**
-<div class="container" style="margin-top: -0.8em;">
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 60% 0;" data-title="Pilot" src="../../assets/new-appearances/heroes/obi-wan/obi-wan-4-pilot.png">
-            <h4><b>Pilot</b></h4>
-        </div>
-    </div>
-    <div class="appearance-item">
-        <div class="appearance-hero">
-            <img style="object-position: 55% 0;" data-title="Jedi Knight" src="../../assets/new-appearances/heroes/obi-wan/obi-wan-5-knight.png">
-            <h4><b>Jedi Knight</b></h4>
-        </div>
-    </div>
-</div>
+<div class="container" style="margin-top: -0.8em;" id="heroes-obiwan"></div>
+
+### **Padme Amidala**
+<div class="container" style="margin-top: -0.8em;" id="heroes-padme"></div>
+
+### **Shriv**
+<div class="container" style="margin-top: -0.8em;" id="heroes-shriv"></div>
 
 <p style="font-size: 12px; text-align: center; margin-top: 2em; margin-bottom: -1em;">Hint: Click on images to zoom</p>
