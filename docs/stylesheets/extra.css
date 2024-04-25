@@ -552,6 +552,7 @@
     background-color: #080808;
     border: 2px solid var(--md-primary-fg-color);
     object-fit: cover;
+    overflow-clip-margin: unset;
 }
 
 .appearance h4 {

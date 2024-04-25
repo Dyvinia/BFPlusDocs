@@ -1,10 +1,14 @@
 function createAppearanceInfantry(element, index) {
-    lightbox.insertSlide({'href': element.image}, index);
+    lightbox.insertSlide({
+        'title': element.name,
+        'href': element.image,
+        'type': 'image',
+    }, index);
     return `
         <div class="appearance-item">
             <div class="appearance">
-                <a onclick="lightbox.openAt(${index}); event.returnValue = false; return false;" href="${element.image}" data-type="image" data-width="100%" data-height="auto" data-title="Pilot" data-desc-position="bottom">
-                    <img style="object-position: 50% 0;" data-title="${element.name}" src="${element.image}">
+                <a onclick="lightbox.openAt(${index}); event.returnValue = false; return false;" href="${element.image}">
+                    <img style="object-position: 50% 0;" src="${element.image}">
                 </a>
                 <h4><b>${element.name}</b></h4>
             </div>
@@ -12,12 +16,16 @@ function createAppearanceInfantry(element, index) {
     `;
 }
 function createAppearanceHero(element, index) {
-    lightbox.insertSlide({'href': element.image}, index);
+    lightbox.insertSlide({
+        'title': element.name,
+        'href': element.image,
+        'type': 'image',
+    }, index);
     return `
         <div class="appearance-item">
             <div class="appearance-hero">
-                <a onclick="lightbox.openAt(${index}); event.returnValue = false; return false;" href="${element.image}" data-type="image" data-width="100%" data-height="auto" data-title="Pilot" data-desc-position="bottom">
-                    <img style="object-position: 50% 0;" data-title="${element.name}" src="${element.image}">
+                <a onclick="lightbox.openAt(${index}); event.returnValue = false; return false;" href="${element.image}">
+                    <img style="object-position: 50% 0;" src="${element.image}">
                 </a>
                 <h4><b>${element.name}</b></h4>
             </div>
