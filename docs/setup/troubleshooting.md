@@ -9,6 +9,7 @@
 - Battlefront 2022[^1]
 - Battlefront Expanded[^1]
 - Ortho's 4k Clone Legions
+- Improved Battle Droids
 - Classic Battlefront Clones
 - Classic Battlefront Imperials
 - Rebel Alliance Overhaul
