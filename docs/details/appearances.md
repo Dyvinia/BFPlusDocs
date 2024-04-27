@@ -20,19 +20,19 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <h3 style="font-size: 1.05em;"><b>Specialist</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="clones-specialist"></div>
 
-<h3 style="font-size: 1.05em;"><b>clonejettrooper</b></h3>
+<h3 style="font-size: 1.05em;"><b>Clone Jet Trooper</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="clones-clonejettrooper"></div>
 
-<h3 style="font-size: 1.05em;"><b>clonejettrooper</b></h3>
+<h3 style="font-size: 1.05em;"><b>Combat Engineer</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="clones-combatengineer"></div>
 
-<h3 style="font-size: 1.05em;"><b>clonecommando</b></h3>
+<h3 style="font-size: 1.05em;"><b>Clone Commando</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="clones-clonecommando"></div>
 
-<h3 style="font-size: 1.05em;"><b>cloneflametrooper</b></h3>
+<h3 style="font-size: 1.05em;"><b>Clone Flametrooper</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="clones-cloneflametrooper"></div>
 
-<h3 style="font-size: 1.05em;"><b>clonesharpshooter</b></h3>
+<h3 style="font-size: 1.05em;"><b>Clone Sharpshooter</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="clones-clonesharpshooter"></div>
 
 
@@ -50,24 +50,24 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <h3 style="font-size: 1.05em;"><b>Specialist</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="droids-specialist"></div>
 
-<h3 style="font-size: 1.05em;"><b>b2</b></h3>
+<h3 style="font-size: 1.05em;"><b>B2 Super Battle Droid</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="droids-b2"></div>
 
-<h3 style="font-size: 1.05em;"><b>combatmagnaguard</b></h3>
+<h3 style="font-size: 1.05em;"><b>Combat Magnaguard</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="droids-combatmagnaguard"></div>
 
-<h3 style="font-size: 1.05em;"><b>tacticaldroid</b></h3>
+<h3 style="font-size: 1.05em;"><b>Tactical Droid</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="droids-tacticaldroid"></div>
 
 ### Rebels
 
-<h3 style="font-size: 1.05em; margin-top: -0.5em;"><b>rebel-commando</b></h3>
+<h3 style="font-size: 1.05em; margin-top: -0.5em;"><b>Rebel Commando</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="rebels-rebelcommando"></div>
 
-<h3 style="font-size: 1.05em;"><b>rebel-pilot</b></h3>
+<h3 style="font-size: 1.05em;"><b>Rebel Pilot</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="rebels-rebelpilot"></div>
 
-<h3 style="font-size: 1.05em;"><b>rebel-saboteur</b></h3>
+<h3 style="font-size: 1.05em;"><b>Rebel Saboteur</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="rebels-rebelsaboteur"></div>
 
 ### Galactic Empire
@@ -84,25 +84,25 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <h3 style="font-size: 1.05em;"><b>Specialist</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="empire-specialist"></div>
 
-<h3 style="font-size: 1.05em;"><b>imperialjumptrooper</b></h3>
+<h3 style="font-size: 1.05em;"><b>Imperial Jumptrooper</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="empire-imperialjumptrooper"></div>
 
-<h3 style="font-size: 1.05em;"><b>royalguard</b></h3>
+<h3 style="font-size: 1.05em;"><b>Royal Guard</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="empire-royalguard"></div>
 
-<h3 style="font-size: 1.05em;"><b>purgetroopercommander</b></h3>
+<h3 style="font-size: 1.05em;"><b>Purge Trooper Commander</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="empire-purgetroopercommander"></div>
 
-<h3 style="font-size: 1.05em;"><b>viperprobedroid</b></h3>
+<h3 style="font-size: 1.05em;"><b>Viper Probe Droid</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="empire-viperprobedroid"></div>
 
 
 ### Resistance
 
-<h3 style="font-size: 1.05em; margin-top: -0.5em;"><b>combatmedic</b></h3>
+<h3 style="font-size: 1.05em; margin-top: -0.5em;"><b>Combat Medic</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="resistance-combatmedic"></div>
 
-<h3 style="font-size: 1.05em;"><b>niktosmuggler</b></h3>
+<h3 style="font-size: 1.05em;"><b>Nikto Smuggler</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="resistance-niktosmuggler"></div>
 
 
@@ -120,16 +120,16 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 <h3 style="font-size: 1.05em;"><b>Specialist</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="firstorder-specialist"></div>
 
-<h3 style="font-size: 1.05em;"><b>firstorderjettrooper</b></h3>
+<h3 style="font-size: 1.05em;"><b>First Order Jet Trooper</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="firstorder-firstorderjettrooper"></div>
 
-<h3 style="font-size: 1.05em;"><b>guaviansecurity</b></h3>
+<h3 style="font-size: 1.05em;"><b>Guavian Security</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="firstorder-guaviansecurity"></div>
 
-<h3 style="font-size: 1.05em;"><b>riotcontroltrooper</b></h3>
+<h3 style="font-size: 1.05em;"><b>Riot Control Trooper</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="firstorder-riotcontroltrooper"></div>
 
-<h3 style="font-size: 1.05em;"><b>stormtroopercommander</b></h3>
+<h3 style="font-size: 1.05em;"><b>Stormtrooper Commander</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="firstorder-stormtroopercommander"></div>
 
 

@@ -11,191 +11,191 @@
             },
             {
                 "name": "187th Battalion",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_187th_battalion.png"
             },
             {
                 "name": "332nd Company",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_332nd_company.png"
             },
             {
                 "name": "Lightning Squadron",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_lightning_squadron.png"
             },
             {
                 "name": "Clone Cadet",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_clone_cadet.png"
             },
             {
                 "name": "Spec Ops - Desert",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_specops_desert.png"
             },
             {
                 "name": "Spec Ops - Stealth",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_specops_stealth.png"
             }
         ],
         "heavy": [
             {
                 "name": "13th Battalion",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_13th_battalion.png"
             },
             {
                 "name": "91st Recon Corps",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_91st_reconcorps_p2.png"
             },
             {
                 "name": "187th Battalion",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_187th_battalion.png"
             },
             {
                 "name": "332nd Company",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_332nd_company.png"
             },
             {
                 "name": "Lightning Squadron",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_lightning_squadron.png"
             },
             {
                 "name": "Clone Cadet",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_clone_cadet.png"
             },
             {
                 "name": "Spec Ops - Desert",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_specops_desert.png"
             },
             {
                 "name": "Spec Ops - Stealth",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_specops_stealth.png"
             }
         ],
         "officer": [
             {
                 "name": "13th Battalion",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_13th_battalion.png"
             },
             {
                 "name": "91st Recon Corps",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_91st_reconcorps_p2.png"
             },
             {
                 "name": "187th Battalion",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_187th_battalion.png"
             },
             {
                 "name": "332nd Company",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_332nd_company.png"
             },
             {
                 "name": "Lightning Squadron",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_lightning_squadron.png"
             },
             {
                 "name": "Clone Cadet",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_clone_cadet.png"
             },
             {
                 "name": "Spec Ops - Desert",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_specops_desert.png"
             },
             {
                 "name": "Spec Ops - Stealth",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_specops_stealth.png"
             },
             {
                 "name": "Pilot",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_clone_pilot_p1.png"
             },
             {
                 "name": "Pilot",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_clone_pilot_p2.png"
             }
         ],
         "specialist": [
             {
                 "name": "13th Battalion",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_13th_battalion.png"
             },
             {
                 "name": "91st Recon Corps",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_91st_reconcorps_p2.png"
             },
             {
                 "name": "187th Battalion",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_187th_battalion.png"
             },
             {
                 "name": "332nd Company",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_332nd_company.png"
             },
             {
                 "name": "Lightning Squadron",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_lightning_squadron.png"
             },
             {
                 "name": "Clone Cadet",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_clone_cadet.png"
             },
             {
                 "name": "Spec Ops - Desert",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_specops_desert.png"
             },
             {
                 "name": "Spec Ops - Stealth",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_specops_stealth.png"
             }
         ],
         "clonejettrooper": [
             {
                 "name": "Commander",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_aerial_jet_commander.png"
             }
         ],
         "combatengineer": [
             {
                 "name": "Phase I",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_combatengineer_p1.png"
             },
             {
                 "name": "Phase II",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_combatengineer_p2.png"
             }
         ],
         "clonecommando": [
             {
                 "name": "Sniper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_commando_sniper.png"
             }
         ],
         "cloneflametrooper": [
             {
-                "name": "Phase I",
-                "image": "imagelink"
+                "name": "Geonosis",
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_flametrooper_geonosis.png"
             },
             {
-                "name": "Phase II",
-                "image": "imagelink"
+                "name": "Shiny",
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_flametrooper_shiny.png"
             }
         ],
         "clonesharpshooter": [
             {
                 "name": "Phase I",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_infiltrator_sharpshooter_p1.png"
             },
             {
                 "name": "Phase II",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_infiltrator_sharpshooter_p2.png"
             },
             {
                 "name": "Legacy",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_infiltrator_sharpshooter_legacy.png"
             },
             {
                 "name": "Phase I - ARF",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_infiltrator_sharpshooter_arf_p1.png"
             },
             {
                 "name": "Phase II - ARF",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_infiltrator_sharpshooter_arf_p2.png"
             }
         ]
     },
@@ -203,151 +203,151 @@
         "assault": [
             {
                 "name": "Factory",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_assault_factory.png"
             },
             {
                 "name": "Bedlam Raider",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_assault_bedlam_raider.png"
             },
             {
                 "name": "Citadel",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_assault_citadel.png"
             },
             {
                 "name": "Security",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_assault_security.png"
             },
             {
                 "name": "Weapons Factory",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_assault_weapons_factory.png"
             },
             {
                 "name": "Marine",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_assault_classic_marine.png"
             },
             {
                 "name": "Shuttle Pilot",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_assault_shuttle_pilot.png"
             }
         ],
         "heavy": [
             {
                 "name": "Factory",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_heavy_factory.png"
             },
             {
                 "name": "Bedlam Raider",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_heavy_bedlam_raider.png"
             },
             {
                 "name": "Citadel",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_heavy_citadel.png"
             },
             {
                 "name": "Security",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_heavy_security.png"
             },
             {
                 "name": "Weapons Factory",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_heavy_weapons_factory.png"
             },
             {
                 "name": "Demolitions",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_heavy_classic_demolitions.png"
             },
             {
                 "name": "Rocketeer",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_heavy_classic_rocketeer.png"
             }
         ],
         "officer": [
             {
                 "name": "Factory",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_officer_factory.png"
             },
             {
                 "name": "Bedlam Raider",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_officer_bedlam_raider.png"
             },
             {
                 "name": "Citadel",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_officer_citadel.png"
             },
             {
                 "name": "Security",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_officer_security.png"
             },
             {
                 "name": "Weapons Factory",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_officer_weapons_factory.png"
             },
             {
                 "name": "Engineer",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_officer_classic_engineer.png"
             },
             {
                 "name": "AAT Driver",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_officer_aat_driver.png"
             },
             {
                 "name": "Kaller",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_officer_kaller.png"
             },
             {
                 "name": "Field Commander",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_officer_field_commander.png"
             }
         ],
         "specialist": [
             {
                 "name": "Factory",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_specialist_factory.png"
             },
             {
                 "name": "Bedlam Raider",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_specialist_bedlam_raider.png"
             },
             {
                 "name": "Citadel",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_specialist_citadel.png"
             },
             {
                 "name": "Security",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_specialist_security.png"
             },
             {
                 "name": "Weapons Factory",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_specialist_weapons_factory.png"
             },
             {
                 "name": "Assassin",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_specialist_classic_assassin.png"
             },
             {
                 "name": "Speeder Pilot",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/droid_specialist_speeder_pilot.png"
             }
         ],
         "b2": [
             {
                 "name": "Gold",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/droid_enforcer_b2_gold.png"
             }
         ],
         "combatmagnaguard": [
             {
                 "name": "Holowan",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/droid_enforcer_combatmagna_holowan.png"
             },
             {
                 "name": "Holowan Elite",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/droid_enforcer_combatmagna_holowan_elite.png"
             }
         ],
         "tacticaldroid": [
             {
                 "name": "Tactical Droid",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/droid_enforcer_tacticaldroid.png"
             }
         ]
     },
@@ -355,35 +355,35 @@
         "rebelcommando": [
             {
                 "name": "Leader",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/rebel_enforcer_commando_leader.png"
             },
             {
                 "name": "Grenadier",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/rebel_enforcer_commando_grenadier.png"
             },
             {
                 "name": "Spy",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/rebel_enforcer_commando_spy.png"
             }
         ],
         "rebelpilot": [
             {
                 "name": "X-Wing Pilot",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/rebel_enforcer_pilot_xwing.png"
             },
             {
                 "name": "Blue Squadron",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/rebel_enforcer_pilot_bluesquadron.png"
             },
             {
                 "name": "Y-Wing Pilot",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/rebel_enforcer_pilot_ywing.png"
             }
         ],
         "rebelsaboteur": [
             {
                 "name": "Twi'lek",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/rebel_infiltrator_saboteur.png"
             }
         ]
     },
@@ -391,175 +391,175 @@
         "assault": [
             {
                 "name": "Army Security",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_assault_army_security.png"
             },
             {
                 "name": "Mudtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_assault_mudtrooper.png"
             },
             {
                 "name": "Patrol Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_assault_patrol_trooper.png"
             },
             {
                 "name": "Tank Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_assault_tank_trooper.png"
             },
             {
                 "name": "TK Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_assault_tk_trooper.png"
             },
             {
                 "name": "Commander",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_assault_commander.png"
             },
             {
                 "name": "Shadow Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_assault_shadow_trooper.png"
             },
             {
                 "name": "Sandtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_assault_sandtrooper.png"
             }
         ],
         "heavy": [
             {
                 "name": "Army Security",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_heavy_army_security.png"
             },
             {
                 "name": "Mudtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_heavy_mudtrooper.png"
             },
             {
                 "name": "Patrol Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_heavy_patrol_trooper.png"
             },
             {
                 "name": "Tank Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_heavy_tank_trooper.png"
             },
             {
                 "name": "TK Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_heavy_tk_trooper.png"
             },
             {
                 "name": "Commander",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_heavy_commander.png"
             },
             {
                 "name": "Shadow Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_heavy_shadow_trooper.png"
             },
             {
                 "name": "Sergeant",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_heavy_sergeant.png"
             }
         ],
         "officer": [
             {
                 "name": "Army Security",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_officer_army_security.png"
             },
             {
                 "name": "Mudtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_officer_mudtrooper.png"
             },
             {
                 "name": "Patrol Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_officer_patrol_trooper.png"
             },
             {
                 "name": "Tank Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_officer_tank_trooper.png"
             },
             {
                 "name": "TK Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_officer_tk_trooper.png"
             },
             {
                 "name": "Commander",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_officer_commander.png"
             },
             {
                 "name": "Shadow Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_officer_shadow_trooper.png"
             },
             {
                 "name": "Stormtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_officer_sergeant.png"
             },
             {
                 "name": "Navy Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_officer_navy_trooper.png"
             },
             {
                 "name": "TIE Pilot",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_officer_tie_pilot.png"
             }
         ],
         "specialist": [
             {
                 "name": "Army Security",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_specialist_army_security.png"
             },
             {
                 "name": "Mudtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_specialist_mudtrooper.png"
             },
             {
                 "name": "Patrol Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_specialist_patrol_trooper.png"
             },
             {
                 "name": "Tank Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_specialist_tank_trooper.png"
             },
             {
                 "name": "TK Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/empire_specialist_tk_trooper.png"
             }
         ],
         "imperialjumptrooper": [
             {
                 "name": "Star Tours",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_aerial_imperialjumptrooper_startours.png"
             }
         ],
         "royalguard": [
             {
                 "name": "Royal Guard",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_enforcer_royalguard.png"
             }
         ],
         "purgetroopercommander": [
             {
                 "name": "Commander",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_infiltrator_purgetroopercommander.png"
             }
         ],
         "viperprobedroid": [
             {
                 "name": "Arakyd Probot",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_infiltrator_viperprobedroid_arakyd_probot.png"
             },
             {
                 "name": "Aratech 11-3K",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_infiltrator_viperprobedroid_aratech_113k.png"
             }
         ]
     },
     "resistance": {
         "combatmedic": [
             {
-                "name": "Leader",
-                "image": "imagelink"
+                "name": "Lilian",
+                "image": "../../assets/new-appearances-v2/reinforcements/resistance_enforcer_combatmedic.png"
             }
         ],
         "niktosmuggler": [
             {
-                "name": "X-Wing Pilot",
-                "image": "imagelink"
+                "name": "Nikto",
+                "image": "../../assets/new-appearances-v2/reinforcements/resistance_infiltrator_niktosmuggler.png"
             }
         ]
     },
@@ -567,105 +567,105 @@
         "assault": [
             {
                 "name": "Executioner",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_assault_executioner.png"
             },
             {
                 "name": "Snowtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_assault_snowtrooper.png"
             },
             {
                 "name": "Tech Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_assault_tech_trooper.png"
             },
             {
                 "name": "Elite Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_assault_elite_trooper.png"
             }
         ],
         "heavy": [
             {
                 "name": "Executioner",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_heavy_executioner.png"
             },
             {
                 "name": "Snowtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_heavy_snowtrooper.png"
             },
             {
                 "name": "Tech Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_heavy_tech_trooper.png"
             },
             {
                 "name": "Patrol Leader",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_heavy_patrol_leader.png"
             }
         ],
         "officer": [
             {
                 "name": "Executioner",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_officer_executioner.png"
             },
             {
                 "name": "Snowtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_officer_snowtrooper.png"
             },
             {
                 "name": "Tech Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_officer_tech_trooper.png"
             },
             {
                 "name": "Stormtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_officer_stormtrooper.png"
             }
         ],
         "specialist": [
             {
                 "name": "Executioner",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_specialist_executioner.png"
             },
             {
                 "name": "Snowtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_specialist_snowtrooper.png"
             },
             {
                 "name": "Tech Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_specialist_tech_trooper.png"
             },
             {
                 "name": "Elite Trooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/troopers/firstorder_specialist_elite_trooper.png"
             }
         ],
         "firstorderjettrooper": [
             {
                 "name": "Final Order",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_aerial_jet_final_order.png"
             }
         ],
         "guaviansecurity": [
             {
                 "name": "Enforcer",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_enforcer_guaviansecurity.png"
             }
         ],
         "riotcontroltrooper": [
             {
                 "name": "Stormtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_enforcer_riotcontrol_stormtrooper.png"
             },
             {
                 "name": "Executioner",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_enforcer_riotcontrol_executioner.png"
             }
         ],
         "stormtroopercommander": [
             {
                 "name": "Stormtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_enforcer_commander_stormtrooper.png"
             },
             {
                 "name": "Snowtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_enforcer_commander_snowtrooper.png"
             }
         ]
     },
@@ -683,219 +683,219 @@
         "anakin": [
             {
                 "name": "Pilot Headset",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/anakin_pilot_headset.png"
             }
         ],
         "calkestis": [
             {
                 "name": "Scrapper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/cal_scrapper.png"
             },
             {
                 "name": "Poncho",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/cal_poncho.png"
             },
             {
                 "name": "Survivor",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/cal_survivor.png"
             },
             {
                 "name": "Slayer of Oggdo",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/cal_slayer_of_oggdo.png"
             },
             {
                 "name": "Inquisitor",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/cal_inquisitor.png"
             }
         ],
         "captainrex": [
             {
                 "name": "Phase I",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/rex_phase_i.png"
             },
             {
                 "name": "Phase II",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/rex_phase_ii.png"
             },
             {
                 "name": "Phase I - Flashlights",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/rex_phase_i_flashlights.png"
             },
             {
                 "name": "Phase II - Visor",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/rex_phase_ii_visor.png"
             }
         ],
         "chewbacca": [
             {
                 "name": "C-3PO",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/chewie_c3po.png"
             },
             {
                 "name": "Life Day",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/chewie_life_day.png"
             },
             {
                 "name": "Stormtrooper Helmet",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/chewie_stormtrooper_helmet.png"
             }
         ],
         "commandercody": [
             {
                 "name": "Phase I",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/cody_phase_i.png"
             },
             {
                 "name": "Phase II",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/cody_phase_ii.png"
             },
             {
                 "name": "Phase I - Flashlights",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/cody_phase_i_flashlights.png"
             },
             {
                 "name": "Imperial",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/cody_imperial.png"
             },
             {
                 "name": "Legacy",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/cody_legacy.png"
             }
         ],
         "dindjarin": [
             {
                 "name": "The Mandalorian",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/dindjarin_mandalorian.png"
             }
         ],
         "finn": [
             {
                 "name": "Crait",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/finn_crait.png"
             }
         ],
         "hansolo": [
             {
                 "name": "General",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/han_general.png"
             },
             {
                 "name": "Mudtrooper",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/han_mudtrooper.png"
             },
             {
                 "name": "Stormtrooper Disguise",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/han_stormtrooper_disguise.png"
             }
         ],
         "hunter": [
             {
                 "name": "Bad Batch",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/hunter_bad_batch.png"
             }
         ],
         "leia": [
             {
                 "name": "Bespin Escape",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/leia_bespin_escape.png"
             }
         ],
         "luke": [
             {
                 "name": "Bespin",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/luke_bespin.png"
             },
             {
                 "name": "Duel",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/luke_duel.png"
             },
             {
                 "name": "Endor",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/luke_endor.png"
             },
             {
                 "name": "Stormtrooper Disguise",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/luke_stormtrooper_disguise.png"
             },
             {
                 "name": "Training Helmet",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/luke_training_helmet.png"
             }
         ],
         "maz": [
             {
                 "name": "Pirate Queen",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/maz_pirate_queen.png"
             }
         ],
         "merrin": [
             {
                 "name": "Survivor",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/merrin_survivor.png"
             },
             {
                 "name": "Nightsister",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/merrin_nightsister.png"
             },
             {
                 "name": "Witch",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/merrin_witch.png"
             }
         ],
         "niennunb": [
             {
                 "name": "Rebel Hero",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/niennunb_rebel_hero.png"
             }
         ],
         "obiwan": [
             {
                 "name": "Jedi Knight",
-                "image": "imagelink"
-            },
-            {
-                "name": "Mandalore",
-                "image": "imagelink"
-            },
-            {
-                "name": "Supercommando",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/obi_jedi_knight.png"
             },
             {
                 "name": "Pilot Headset",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/obi_pilot_headset.png"
+            },
+            {
+                "name": "Mandalore",
+                "image": "../../assets/new-appearances-v2/heroes/obi_mandalore.png"
+            },
+            {
+                "name": "Supercommando",
+                "image": "../../assets/new-appearances-v2/heroes/obi_supercommando.png"
             },
             {
                 "name": "Hidden Path",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/obi_ben_hidden_path.png"
             },
             {
                 "name": "Mythos",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/obi_ben_mythos.png"
             },
             {
                 "name": "Tibidon Station",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/obi_ben_tibidon_station.png"
             }
         ],
         "padme": [
             {
                 "name": "Arena",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/padme_arena.png"
             },
             {
-                "name": "Padme",
-                "image": "imagelink"
+                "name": "Ripped",
+                "image": "../../assets/new-appearances-v2/heroes/padme_ripped.png"
             }
         ],
         "shriv": [
             {
                 "name": "Danger Leader",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/shriv_danger_leader.png"
             },
             {
                 "name": "Veteran",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/shriv_veteran.png"
             }
         ]
     },
@@ -903,157 +903,161 @@
         "asajjventress": [
             {
                 "name": "Assassin",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/ventress_assassin.png"
             },
             {
                 "name": "Legacy",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/ventress_legacy.png"
             }
         ],
         "boba": [
             {
                 "name": "Pursuit",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/boba_pursuit.png"
             },
             {
                 "name": "Rebirth",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/boba_rebirth.png"
             },
             {
                 "name": "Prototype",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/boba_prototype.png"
             }
         ],
         "bossk": [
             {
                 "name": "Fancy",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/bossk_fancy.png"
             },
             {
                 "name": "Lothal Disguise",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/bossk_lothal.png"
             }
         ],
         "captaincardinal": [
             {
                 "name": "Captain",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/cardinal_captain.png"
             }
         ],
         "commanderpyre": [
             {
                 "name": "Commander",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/pyre_commander.png"
             }
         ],
         "countdooku": [
             {
                 "name": "Duelist",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/dooku_duelist.png"
             }
         ],
         "dagan": [
             {
                 "name": "Fallen Knight",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/dagan_fallen_knight.png"
             },
             {
                 "name": "Awakening",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/dagan_awakening.png"
             },
             {
                 "name": "Obsession",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/dagan_obsession.png"
             },
             {
                 "name": "Return",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/dagan_return.png"
             }
         ],
         "darthmaul": [
             {
                 "name": "Crimson Dawn",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/maul_crimson_dawn.png"
             },
             {
                 "name": "Mandalore",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/maul_mandalore.png"
             },
             {
                 "name": "Twin Suns",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/maul_twin_suns.png"
             }
         ],
         "darthvader": [
             {
                 "name": "Archive",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/vader_archive.png"
             },
             {
                 "name": "Battle Damaged",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/vader_battle_damaged.png"
             }
         ],
         "dengar": [
             {
                 "name": "Bounty Hunter",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/dengar_bountyhunter.png"
             }
         ],
         "emperorpalpatine": [
             {
                 "name": "Sith Lord",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/palpatine_sith_lord.png"
             }
         ],
         "generalgrievous": [
             {
                 "name": "General",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/grievous_general.png"
+            },
+            {
+                "name": "Ruthless",
+                "image": "../../assets/new-appearances-v2/heroes/grievous_mirrormatch.png"
             }
         ],
         "grandadmiralthrawn": [
             {
                 "name": "Grand Admiral",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/thrawn_grand_admiral.png"
             },
             {
                 "name": "Combat Armor",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/thrawn_combat_armor.png"
             }
         ],
         "gideonhask": [
             {
                 "name": "First Order Officer",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/hask_first_order_officer.png"
             }
         ],
         "greedo": [
             {
                 "name": "Bounty Hunter",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/greedo_bountyhunter.png"
             }
         ],
         "jango": [
             {
                 "name": "JT-12",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/jango_jt-12.png"
             },
             {
                 "name": "Z-6",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/jango_z-6.png"
             }
         ],
         "secondsister": [
             {
                 "name": "Inquisitor",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/secondsister_inquisitor.png"
             }
         ],
         "zam": [
             {
                 "name": "Bounty Hunter",
-                "image": "imagelink"
+                "image": "../../assets/new-appearances-v2/heroes/zam_bountyhunter.png"
             }
         ]
     }
