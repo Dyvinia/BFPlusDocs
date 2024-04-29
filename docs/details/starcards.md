@@ -933,8 +933,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
                 <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_1_Mid.png">
             </div>
             <div class="text">
-                <h4><b>Power Efficiency</b></h4>
-                <a>R2-D2 has a shorter recharge time.</a>
+                <h4><b>Sith Assassin</b></h4>
+                <a>When Ventress attacks an enemy from behind with her lightsabers, her abilities receive bonus recharge speed for a short period.</a>
             </div>
         </div>
     </div>
@@ -945,8 +945,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
                 <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_2_Mid.png">
             </div>
             <div class="text">
-                <h4><b>Inspirational</b></h4>
-                <a>Increases the radius of ROYAL RESOLVE.</a>
+                <h4><b>Sister of the Night</b></h4>
+                <a>Performing a VANISH STRIKE will inflict even more damage and reveal the positions of nearby enemies upon defeating an opponent.</a>
             </div>
         </div>
     </div>
@@ -956,8 +956,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
                 <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_3_Mid.png">
             </div>
             <div class="text">
-                <h4><b>Unwavering</b></h4>
-                <a>Padmé has increased maximum health regeneration.</a>
+                <h4><b>Talzin's Protection</b></h4>
+                <a>Asajj Ventress has increased maximum health regeneration.</a>
             </div>
         </div>
     </div>
@@ -967,8 +967,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
                 <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_4_Mid.png">
             </div>
             <div class="text">
-                <h4><b>Aggressive Negotiations</b></h4>
-                <a>When defeating enemies with OVERCHARGE, Padmé temporarily takes reduced damage based on her blaster's power level.</a>
+                <h4><b>Suspenseful Grip</b></h4>
+                <a>FORCE GRASP has one extra use.</a>
             </div>
         </div>
     </div>
@@ -978,8 +978,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
                 <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_5_Mid.png">
             </div>
             <div class="text">
-                <h4><b>A Path to Follow</b></h4>
-                <a>If Padmé is within 20 meters of three friendly units, her nearby allies will receive a small amount of health regeneration.</a>
+                <h4><b>Extra Starblades</b></h4>
+                <a>Ventress throws three projectiles at once when using her STARBLADES, but the ability can only be used once before needing to recharge.</a>
             </div>
         </div>
     </div>
@@ -1109,6 +1109,68 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+### Dagan Gera
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/dagan/Card_Dagan_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Can't Hide From Me</b></h4>
+                <a>The radius of ILLUSION will not decay for a short delay.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/dagan/Card_Dagan_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Forsaken</b></h4>
+                <a>For every enemy damaged by FORCE ORBS, Dagan replenishes health.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/dagan/Card_Dagan_3_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Beckoning</b></h4>
+                <a>FORCE BOMB will be more powerful if it is used while ILLUSION is active.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/dagan/Card_Dagan_4_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Meager</b></h4>
+                <a>Dagan Gera has increased maximum health, but the delay before health regeneration is also increased.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/dagan/Card_Dagan_5_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Sever the Past</b></h4>
+                <a>For a brief duration after any of his abilities end, Dagan Gera will deal extra damage with his lightsaber attacks, but will also take more damage himself.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
 ### Dengar
 
 <div class="container" style="margin-top: -0.69em;">
@@ -1228,6 +1290,68 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
             <div class="text">
                 <h4><b>Returned Favor</b></h4>
                 <a>Hask regains slightly more health when defeating an enemy, but his ability cooldowns are slightly longer.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Grand Admiral Thrawn
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/thrawn/Card_Thrawn_01_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Piece by Piece</b></h4>
+                <a>The minimum time between attacks to charge up KNOW THE ENEMY is reduced.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/thrawn/Card_Thrawn_02_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Strategic Mastery</b></h4>
+                <a>The radius of DIRECT COMMAND increases while the ability is active.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/thrawn/Card_Thrawn_03_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Test Their Mettle</b></h4>
+                <a>CHIMAERA STRIKE recharges faster.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/thrawn/Card_Thrawn_04_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Momentary Setback</b></h4>
+                <a>Thrawn's health regeneration is faster and begins sooner.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/thrawn/Card_Thrawn_05_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Ascendant</b></h4>
+                <a>Thrawn captures objectives twice as fast and has increased maximum health.</a>
             </div>
         </div>
     </div>
