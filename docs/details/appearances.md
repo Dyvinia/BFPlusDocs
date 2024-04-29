@@ -1,5 +1,11 @@
 # Appearances
 
+<div style="text-align: center">
+  <video class="round-corners" autoplay muted loop playsinline>
+    <source src="../../assets/videos/commup_appearances_preview.mp4" type="video/mp4">
+  </video>
+</div>
+
 With Battlefront Plus, cosmetics have been greatly expanded across the board with more Clone units, Imperial armor options, and First Order gear, along with unrestricted head and gender options for the Rebels and Resistance. Heroes also receive many new skin options, such as Maul's iconic Mandalore appearance, Battle Damaged Vader, Luke's Endor outfit, and even Bossk in a tuxedo, just to name a few.  
 <p style="font-size: 14px; margin-top: -1em; margin-bottom: -1em; opacity: 0.69;">Hint: Click on images to zoom</p>
 <script src="../appearances.js"></script>
