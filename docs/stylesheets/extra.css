@@ -9,6 +9,10 @@
     scrollbar-color: #808080 #000;
 }
 
+.md-grid {
+    max-width: 85%;
+}
+
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
