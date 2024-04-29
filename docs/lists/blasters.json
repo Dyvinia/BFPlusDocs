@@ -575,7 +575,7 @@
                 },
                 "attachmentTwo": {
                     "name": "Choke",
-                    "image": "Attach_Choke.svg",
+                    "image": "Attach_BarrelExtension.svg",
                     "jumpto": "#dp23-choke"
                 }
             },

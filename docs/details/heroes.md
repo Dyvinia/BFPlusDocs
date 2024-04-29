@@ -272,6 +272,8 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
+___
+
 ## Villains
 
 <div class="hero">

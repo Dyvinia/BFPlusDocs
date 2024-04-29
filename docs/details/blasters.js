@@ -74,7 +74,7 @@ json.then(data => {
     data.officer.primary.forEach(element => document.getElementById('officer-primary').innerHTML += createBlaster(element));
 
     data.specialist.primary.forEach(element => document.getElementById('specialist-primary').innerHTML += createBlaster(element));
-    data.specialist.primary.forEach(element => document.getElementById('specialist-secondary').innerHTML += createBlaster(element));
+    data.specialist.secondary.forEach(element => document.getElementById('specialist-secondary').innerHTML += createBlaster(element));
 });
 
 function search(id) {
