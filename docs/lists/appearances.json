@@ -202,7 +202,7 @@
     "droids": {
         "assault": [
             {
-                "name": "Factory",
+                "name": "Infantry",
                 "image": "../../assets/new-appearances-v2/troopers/droid_assault_factory.png"
             },
             {
@@ -232,7 +232,7 @@
         ],
         "heavy": [
             {
-                "name": "Factory",
+                "name": "Infantry",
                 "image": "../../assets/new-appearances-v2/troopers/droid_heavy_factory.png"
             },
             {
@@ -262,7 +262,7 @@
         ],
         "officer": [
             {
-                "name": "Factory",
+                "name": "Infantry",
                 "image": "../../assets/new-appearances-v2/troopers/droid_officer_factory.png"
             },
             {
@@ -300,7 +300,7 @@
         ],
         "specialist": [
             {
-                "name": "Factory",
+                "name": "Infantry",
                 "image": "../../assets/new-appearances-v2/troopers/droid_specialist_factory.png"
             },
             {
