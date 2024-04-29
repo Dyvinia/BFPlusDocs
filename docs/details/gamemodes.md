@@ -8,11 +8,15 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
 
 Battlefront Plus comes packaged with enhancements to the autoplayers, enabling them to play some objectives in Strike and Galactic Assault, spawn as special units, and come equipped with a wider selection of blasters, abilities, and skins as troopers.
 
+___
+
 ## Instant Action Expanded
 
 ![instant-action](../assets/gamemodes/coop-update.png){ .round-corners }
 
-Offline play sees the addition of gamemodes previously unavailable to Instant Action. Battle against AI players in Heroes vs. Villains, Galactic Assault, Blast, and more. 
+Offline play sees the addition of gamemodes previously unavailable to Instant Action. Battle against AI players in Heroes vs. Villains, Galactic Assault, Blast, and more.
+
+___
 
 ## New Gamemodes
 
@@ -24,6 +28,8 @@ Offline play sees the addition of gamemodes previously unavailable to Instant Ac
 
 Two teams face off in a skirmish to claim bounties by eliminating the other's mark. The first team to claim 10 bounties wins the match.  
 (Replaces Hero Showdown)
+
+___
 
 ## Map Tweaks
 
@@ -51,3 +57,7 @@ Two teams face off in a skirmish to claim bounties by eliminating the other's ma
     - A. Security Center  
     - D. Scavenger Outpost  
     - E. Pillaged Hideout
+
+___
+
+![main](../assets/gallery/maincover_v2.png){ .round-corners } 
