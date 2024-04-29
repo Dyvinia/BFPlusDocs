@@ -515,8 +515,8 @@ ___
                 <img class="no-lb" src="../../assets/star-cards/hero/mando/Card_Mando_3_Mid.png">
             </div>
             <div class="text">
-                <h4><b>Evasion</b></h4>
-                <a>Din Djarin gains an extra Dodge ability charge, but the recharge time of his abilities is increased.</a>
+                <h4><b>Extension Cord</b></h4>
+                <a>Din Djarin can target enemies further away with GRAPPLE STRIKE.</a>
             </div>
         </div>
     </div>

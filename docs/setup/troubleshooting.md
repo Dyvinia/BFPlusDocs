@@ -2,7 +2,7 @@
 
 ## FAQ
 
-#### Frosty Mod Manager is crashing.
+#### I'm having issues with Frosty Mod Manager.
 - Frosty Mod Manager is no longer supported. Please download Kyber V2 instead.
 
 ## Incompatible Mods
