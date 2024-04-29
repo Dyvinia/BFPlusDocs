@@ -549,6 +549,68 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+### Hunter
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/hunter/Card_Hunter_01_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Predator</b></h4>
+                <a>In addition to his VIBRO-KNIFE dealing more damage, Hunter will disappear from enemy radar whenever he defeats an enemy in melee combat.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/hunter/Card_Hunter_02_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Nothing but Trouble</b></h4>
+                <a>While evading, Hunter has increased damage resistance.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/hunter/Card_Hunter_03_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Rush Them Head On</b></h4>
+                <a>COMBAT PROWESS grants additional bonus health and lasts slightly longer.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/hunter/Card_Hunter_04_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Wasn't Gonna Hurt Ya</b></h4>
+                <a>Hunter's STUN MODE builds less heat when fired.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/hunter/Card_Hunter_05_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>We Do What We Do</b></h4>
+                <a>Hunter's health regeneration is faster and starts sooner.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
 ### Maz Kanata
 
 <div class="container" style="margin-top: -0.69em;">
@@ -611,6 +673,68 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+### Merrin
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/merrin/Card_Merrin_01_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>From the Shadows</b></h4>
+                <a>Merrin has one extra TELEPORTATION, but each use decrements her Power Meter.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/merrin/Card_Merrin_02_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Survivors, We Adapt</b></h4>
+                <a>While Merrin's Power Meter is at max level, her spear does significantly increased damage.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/merrin/Card_Merrin_03_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Might of Dathomir</b></h4>
+                <a>The initial targeting range of MAGICK ROOTS is increased.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/merrin/Card_Merrin_04_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Strike Now</b></h4>
+                <a>Merrin's FIREBALL has improved recharge time and staggers enemies on direct impact.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/merrin/Card_Merrin_05_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Lend Me Strength</b></h4>
+                <a>Merrin's health regeneration is faster and starts sooner.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
 ### Nien Nunb
 
 <div class="container" style="margin-top: -0.69em;">
@@ -668,6 +792,68 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
             <div class="text">
                 <h4><b>Buddy Turret</b></h4>
                 <a>Nien Nunb will receive damage reduction when attacking enemies with his DH-17 while the AUGMENTED TURRET is deployed, but the recharge time of the ability is twice as long.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+### Padmé Amidala
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/padme/Card_Padme_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Power Efficiency</b></h4>
+                <a>R2-D2 has a shorter recharge time.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/padme/Card_Padme_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Inspirational</b></h4>
+                <a>Increases the radius of ROYAL RESOLVE.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/padme/Card_Padme_3_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Unwavering</b></h4>
+                <a>Padmé has increased maximum health regeneration.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/padme/Card_Padme_4_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Aggressive Negotiations</b></h4>
+                <a>When defeating enemies with OVERCHARGE, Padmé temporarily takes reduced damage based on her blaster's power level.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/padme/Card_Padme_5_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>A Path to Follow</b></h4>
+                <a>If Padmé is within 20 meters of three friendly units, her nearby allies will receive a small amount of health regeneration.</a>
             </div>
         </div>
     </div>
@@ -736,6 +922,68 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
 </div>
 
 ## **Villains**
+
+### Asajj Ventress
+
+<div class="container" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_1_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Power Efficiency</b></h4>
+                <a>R2-D2 has a shorter recharge time.</a>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_2_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Inspirational</b></h4>
+                <a>Increases the radius of ROYAL RESOLVE.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_3_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Unwavering</b></h4>
+                <a>Padmé has increased maximum health regeneration.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_4_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>Aggressive Negotiations</b></h4>
+                <a>When defeating enemies with OVERCHARGE, Padmé temporarily takes reduced damage based on her blaster's power level.</a>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_5_Mid.png">
+            </div>
+            <div class="text">
+                <h4><b>A Path to Follow</b></h4>
+                <a>If Padmé is within 20 meters of three friendly units, her nearby allies will receive a small amount of health regeneration.</a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ### Captain Cardinal
 
@@ -806,7 +1054,7 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     <div class="item">
         <div class="star-card">
             <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_2_Mid.png">
+                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_1_Mid.png">
             </div>
             <div class="text">
                 <h4><b>All Your Efforts</b></h4>
@@ -818,7 +1066,7 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     <div class="item">
         <div class="star-card">
             <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_1_Mid.png">
+                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_2_Mid.png">
             </div>
             <div class="text">
                 <h4><b>Commanding Shine</b></h4>
@@ -840,7 +1088,7 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     <div class="item">
         <div class="star-card">
             <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_6_Mid.png">
+                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_4_Mid.png">
             </div>
             <div class="text">
                 <h4><b>Complementary</b></h4>
@@ -851,7 +1099,7 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     <div class="item">
         <div class="star-card">
             <div>
-                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_8_Mid.png">
+                <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_5_Mid.png">
             </div>
             <div class="text">
                 <h4><b>None of Your Concern</b></h4>
