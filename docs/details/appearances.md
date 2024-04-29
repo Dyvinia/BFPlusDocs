@@ -246,7 +246,11 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 ### **Second Sister**
 <div class="container" style="margin-top: -0.8em;" id="villains-secondsister"></div>
 
-### **Zam**
+### **Zam Wesell**
 <div class="container" style="margin-top: -0.8em;" id="villains-zam"></div>
+
+___
+
+![main](../assets/gallery/maincover_v2.png){ .round-corners } 
 
 <p style="font-size: 12px; text-align: center; margin-top: 2em; margin-bottom: -1em;">Hint: Click on images to zoom</p>

@@ -22,6 +22,8 @@ Join the fray with a selection of over a hundred new abilities available to the 
 
 <div id="assault-secondary" class="container"></div>
 
+___
+
 <h2 id="heavy" style="margin-bottom: -0.25em;">
     <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Heavy_01.svg">
     Heavy
@@ -38,6 +40,8 @@ Join the fray with a selection of over a hundred new abilities available to the 
 </h4>
 
 <div id="heavy-secondary" class="container"></div>
+
+___
 
 <h2 id="officer" style="margin-bottom: -0.25em;">
     <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Officer_01.svg">
@@ -90,6 +94,8 @@ Join the fray with a selection of over a hundred new abilities available to the 
     </div>
 </div>
 
+___
+
 <h2 id="specialist" style="margin-bottom: -0.25em;">
     <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Specialist_01.svg">
     Specialist
@@ -108,6 +114,8 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <div id="specialist-secondary" class="container"></div>
 
 <script src="../blasters.js"></script>
+
+___
 
 ## Attachments
 <p id="berserker"><strong>Berserker:</strong> <span style="opacity: 0.69;">Increases damage while hip-firing, but decreases damage while aiming.</span></p>
@@ -132,6 +140,8 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <p id="sharpshooter"><strong>Sharpshooter:</strong> <span style="opacity: 0.69;">Increases damage while aiming, but decreases damage while hip-firing.</span></p>
 <p id="phasmashot"><strong>Stabilizer:</strong> <span style="opacity: 0.69;">The blaster has terrible accuracy when first fired, but quickly settles into a tight firing pattern.</span></p>
 
+___
+
 ### Unique Attachments
 
 <p id="ca87-crouchcontrol"><strong>Crouch Control:</strong> <span style="opacity: 0.69;">Modifies the CA-87 to condense all its blaster bolts while crouched, but decreases its rate of fire.</span></p>
@@ -150,8 +160,14 @@ Join the fray with a selection of over a hundred new abilities available to the 
 <p id="valken-apex"><strong>Triple Take:</strong> <span style="opacity: 0.69;">Further modifies the Valken-38x to fire a third blaster bolt, but reduces its cooling power.</span></p>
 <p id="valken-verticalshot"><strong>Reconfiguration Scope:</strong> <span style="opacity: 0.69;">While aiming down sights, the Valken-38x will reconfigure to fire its blaster bolts vertically parallel. Additionally, the scope magnification is increased.</span></p>
 
+___
+
 ### Sidearm Replacers
 <p id="a180-pistol"><strong>A180 Pistol:</strong> <span style="opacity: 0.69;">Pistol configuration of the A180 suited for close range.</span></p>
 <p id="a180-rifle"><strong>A180 Rifle:</strong> <span style="opacity: 0.69;">Rifle configuration of the A180 suited for medium range.</span></p>
 <p id="e5-rocket"><strong>Bulldog RLR:</strong> <span style="opacity: 0.69;">Anti-personnel rocket launcher utilizing the frame assembly of the E-5 blaster rifle.</span></p>
 <p id="relbyv10-grenade"><strong>Microgrenades:</strong> <span style="opacity: 0.69;">Equips the Relby V-10 with a microgrenade launcher.</span></p>
+
+___
+
+![main](../assets/gallery/maincover_v2.png){ .round-corners } 

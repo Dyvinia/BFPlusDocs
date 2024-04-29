@@ -33,6 +33,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Assault
 
 <div class="container" style="margin-top: -0.69em;">
@@ -83,6 +85,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ### Heavy
 
@@ -135,6 +139,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Officer
 
 <div class="container" style="margin-top: -0.69em;">
@@ -186,6 +192,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Specialist
 
 <div class="container" style="margin-top: -0.69em;">
@@ -236,6 +244,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ## **Heroes**
 
@@ -301,6 +311,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Cal Kestis
 
 <div class="container" style="margin-top: -0.69em;">
@@ -362,6 +374,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ### Captain Rex
 
@@ -425,6 +439,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Commander Cody
 
 <div class="container" style="margin-top: -0.69em;">
@@ -486,6 +502,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ### Din Djarin
 
@@ -549,6 +567,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Hunter
 
 <div class="container" style="margin-top: -0.69em;">
@@ -610,6 +630,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ### Maz Kanata
 
@@ -673,6 +695,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Merrin
 
 <div class="container" style="margin-top: -0.69em;">
@@ -734,6 +758,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ### Nien Nunb
 
@@ -797,6 +823,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Padmé Amidala
 
 <div class="container" style="margin-top: -0.69em;">
@@ -859,6 +887,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Shriv Suurgav
 
 <div class="container" style="margin-top: -0.69em;">
@@ -920,6 +950,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ## **Villains**
 
@@ -985,6 +1017,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Captain Cardinal
 
 <div class="container" style="margin-top: -0.69em;">
@@ -1046,6 +1080,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ### Commander Pyre
 
@@ -1109,6 +1145,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Dagan Gera
 
 <div class="container" style="margin-top: -0.69em;">
@@ -1170,6 +1208,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ### Dengar
 
@@ -1233,6 +1273,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Gideon Hask
 
 <div class="container" style="margin-top: -0.69em;">
@@ -1294,6 +1336,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ### Grand Admiral Thrawn
 
@@ -1357,6 +1401,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Greedo
 
 <div class="container" style="margin-top: -0.69em;">
@@ -1418,6 +1464,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ### Jango Fett
 
@@ -1481,6 +1529,8 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
     </div>
 </div>
 
+___
+
 ### Second Sister
 
 <div class="container" style="margin-top: -0.69em;">
@@ -1542,5 +1592,7 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         </div>
     </div>
 </div>
+
+___
 
 ![cardhand](../assets/star-cards/StarCards_Hand.png)

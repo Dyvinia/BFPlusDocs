@@ -202,6 +202,8 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
   </div>
 </div>
 
+___
+
 ### Separatists
 
 <div class="reinforcement">
@@ -377,6 +379,8 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
   </div>
 </div>
 
+___
+
 ## **Galactic Civil War**
 
 ### Rebel Alliance
@@ -551,6 +555,8 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </div>
   </div>
 </div>
+
+___
 
 ### Galactic Empire
 
@@ -756,6 +762,8 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
   </div>
 </div>
 
+___
+
 ## **The Cold War**
 
 ### Resistance
@@ -843,6 +851,8 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </div>
   </div>
 </div>
+
+___
 
 ### First Order
 
@@ -960,3 +970,7 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </div>
   </div>
 </div>
+
+___
+
+![main](../assets/gallery/maincover_v2.png){ .round-corners } 

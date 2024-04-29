@@ -532,3 +532,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </div>
   </div>
 </div>
+
+___
+
+![main](../assets/gallery/maincover_v2.png){ .round-corners } 
