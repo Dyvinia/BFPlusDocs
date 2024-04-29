@@ -9,10 +9,6 @@
     scrollbar-color: #808080 #000;
 }
 
-.md-grid {
-    max-width: 85%;
-}
-
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
@@ -82,6 +78,11 @@
 }
 .md-header__button.md-logo img, .md-header__button.md-logo svg {
     height: 1.5rem;
+}
+
+/* Center Pane Width */
+.md-grid {
+    max-width: 85%;
 }
 
 /* Footer */
