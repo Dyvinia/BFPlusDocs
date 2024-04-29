@@ -9,10 +9,6 @@
     scrollbar-color: #808080 #000;
 }
 
-.md-grid {
-    max-width: 85%;
-}
-
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
@@ -32,7 +28,7 @@
 
 /* Page Background Color */
 [data-md-color-scheme="slate"] {
-    --md-default-bg-color: #0e0e0e;
+    --md-default-bg-color: #090807;
 }
 
 /* Hover Color */
@@ -82,6 +78,11 @@
 }
 .md-header__button.md-logo img, .md-header__button.md-logo svg {
     height: 1.5rem;
+}
+
+/* Center Pane Width */
+.md-grid {
+    max-width: 85%;
 }
 
 /* Footer */
