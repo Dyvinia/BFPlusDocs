@@ -632,6 +632,10 @@
 p:target {
     color: var(--md-primary-fg-color);
 }
+p:target img {
+    /* Apply a filter to the SVG to change it to --md-primary-fg-color */
+    filter: brightness(0) saturate(100%) invert(63%) sepia(90%) saturate(826%) hue-rotate(357deg) brightness(99%) contrast(101%);
+}
 
 /* Line between items */
 .container > .item + .item {
