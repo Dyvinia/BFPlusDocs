@@ -544,27 +544,39 @@
     display: none;
     opacity: 0;
     position: absolute;
-    width: 175px;
+    width: 160px;
+    text-wrap: wrap;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-shadow: #00000055 1px 0 10px;
     transition: opacity 125ms !important;
 }
-.star-card:hover .text {
+.star-card:hover .text,
+.star-card:focus .text,
+.star-card:active .text {
     display: block;
     opacity: 1;
     transition: opacity 125ms !important;
 }
-.star-card:hover img {
+.star-card:hover img,
+.star-card:focus img ,
+.star-card:active img {
     display: block;
     filter: brightness(25%) saturate(69%) blur(5px);
     border: 2px solid var(--md-primary-fg-color);
     transition: 125ms;
 }
 
+.star-card .text > h4 {
+    line-height: 90%;
+    text-wrap: wrap;
+    white-space: pre-wrap;
+}
+
 .star-card .text > a {
-    margin-top: -1em;
+    line-height: 110%;
+    margin-top: -0.25em;
     font-size: small;
     text-wrap: wrap;
     white-space: pre-wrap;
