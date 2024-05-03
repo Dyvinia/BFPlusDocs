@@ -6,16 +6,16 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
 
 ### All Classes
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/trooper/all-toughfighter.png">
-            </div>
-            <div class="text">
-                <h4><b>Tough Fighter</b></h4>
-                <a>Defeating enemies will briefly grant damage resistance.</a>
+                <div class="text">
+                    <h4><b>Tough Fighter</b></h4>
+                    <a>Defeating enemies will briefly grant damage resistance.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -24,10 +24,10 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/trooper/all-radio.png">
-            </div>
-            <div class="text">
-                <h4><b>Radio</b></h4>
-                <a>Deploys a radio to play some nice tunes.</a>
+                <div class="text">
+                    <h4><b>Radio</b></h4>
+                    <a>Deploys a radio to play some nice tunes.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -37,7 +37,7 @@ ___
 
 ### Assault
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -90,7 +90,7 @@ ___
 
 ### Heavy
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -143,7 +143,7 @@ ___
 
 ### Officer
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -196,7 +196,7 @@ ___
 
 ### Specialist
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -251,7 +251,7 @@ ___
 
 ### Ahsoka
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -315,7 +315,7 @@ ___
 
 ### Cal Kestis
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -379,7 +379,7 @@ ___
 
 ### Captain Rex
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -443,7 +443,7 @@ ___
 
 ### Commander Cody
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -507,7 +507,7 @@ ___
 
 ### Din Djarin
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -571,7 +571,7 @@ ___
 
 ### Hunter
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -635,7 +635,7 @@ ___
 
 ### Maz Kanata
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -699,7 +699,7 @@ ___
 
 ### Merrin
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -763,7 +763,7 @@ ___
 
 ### Nien Nunb
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -827,7 +827,7 @@ ___
 
 ### Padmé Amidala
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -891,7 +891,7 @@ ___
 
 ### Shriv Suurgav
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -957,7 +957,7 @@ ___
 
 ### Asajj Ventress
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -1021,7 +1021,7 @@ ___
 
 ### Captain Cardinal
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -1085,7 +1085,7 @@ ___
 
 ### Commander Pyre
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -1149,7 +1149,7 @@ ___
 
 ### Dagan Gera
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -1213,7 +1213,7 @@ ___
 
 ### Dengar
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -1277,7 +1277,7 @@ ___
 
 ### Gideon Hask
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -1341,7 +1341,7 @@ ___
 
 ### Grand Admiral Thrawn
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -1405,7 +1405,7 @@ ___
 
 ### Greedo
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -1469,7 +1469,7 @@ ___
 
 ### Jango Fett
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
@@ -1533,7 +1533,7 @@ ___
 
 ### Second Sister
 
-<div class="container" style="margin-top: -0.69em;">
+<div class="container2" style="margin-top: -0.69em;">
     <!-- Item Start -->
     <div class="item">
         <div class="star-card">
