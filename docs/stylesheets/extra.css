@@ -1,9 +1,10 @@
 /* Accent Color */
 :root {
-    --md-primary-fg-color:        #fca503;
+    --md-primary-fg-color: #fca503;
+    --md-primary-fg-color-filter: brightness(0) saturate(100%) invert(63%) sepia(90%) saturate(826%) hue-rotate(357deg) brightness(99%) contrast(101%);
     --md-default-fg-color--light: #cecece;
-    --md-primary-fg-color--dark:  #e78b00;
-    --md-primary-fg-color--extradark:  #e08600;
+    --md-primary-fg-color--dark: #e78b00;
+    --md-primary-fg-color--extradark: #e08600;
 
     scrollbar-width: thin;
     scrollbar-color: #808080 #000;
@@ -350,8 +351,7 @@
 }
 .reinforcement-class:hover span,
 .reinforcement-class:hover img {
-    /* Apply a filter to the SVG to change it to --md-primary-fg-color */
-    filter: brightness(0) saturate(100%) invert(63%) sepia(90%) saturate(826%) hue-rotate(357deg) brightness(99%) contrast(101%);
+    filter: var(--md-primary-fg-color-filter);
 }
 
 .reinforcement-class::before {
@@ -633,8 +633,7 @@ p:target {
     color: var(--md-primary-fg-color);
 }
 p:target img {
-    /* Apply a filter to the SVG to change it to --md-primary-fg-color */
-    filter: brightness(0) saturate(100%) invert(63%) sepia(90%) saturate(826%) hue-rotate(357deg) brightness(99%) contrast(101%);
+    filter: var(--md-primary-fg-color-filter);
 }
 
 /* Line between items */
