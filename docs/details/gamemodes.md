@@ -1,7 +1,7 @@
 # Maps and Gamemodes
 
 <div style="text-align: center">
-  <video class="round-corners" autoplay muted loop playsinline>
+  <video class="round-corners" autoplay muted loop playsinline disablePictureInPicture>
     <source src="../../assets/videos/commup_zaddmospheric_preview_wide.mp4" type="video/mp4">
   </video>
 </div>
