@@ -375,7 +375,7 @@ ___
                 <img class="no-lb" src="../../assets/star-cards/hero/rex/Card_7_Mid.png">
                 <div class="text">
                     <h4><b>Blaster Inspection</b></h4>
-                    <a>Every time he kills an enemy, Captain Rex and friendly troopers around him gain a permanent 3% decrease to their blaster overheat per bolt to a maximum. This effect resets when Captain Rex is defeated.</a>
+                    <a>Every time he kills an enemy, Captain Rex and friendly troopers around him gain a permanent 3% decrease to their blaster overheat per bolt to a maximum.</a>
                 </div>
             </div>
         </div>
@@ -1518,7 +1518,7 @@ ___
                 <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_6_Mid.png">
                 <div class="text">
                     <h4><b>Perfected Technique</b></h4>
-                    <a>SINGLE-BLADED lightsaber attacks deal more damage if they immediately follow successful attacks with the DOUBLE-BLADED lightsaber. This  effect cannot be applied to the same enemy for a short duration.</a>
+                    <a>SINGLE-BLADED lightsaber attacks deal more damage if they immediately follow successful attacks with the DOUBLE-BLADED lightsaber. This effect cannot be applied to the same enemy for a short duration.</a>
                 </div>
             </div>
         </div>
