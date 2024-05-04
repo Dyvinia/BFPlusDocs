@@ -1,6 +1,62 @@
 # Maps and Gamemodes
 
+<div style="text-align: center">
+  <video class="round-corners" autoplay muted loop playsinline>
+    <source src="../../assets/videos/commup_zaddmospheric_preview_wide.mp4" type="video/mp4">
+  </video>
+</div>
+
 With Battlefront Plus, various tweaks, backend improvements, and a new gamemode result in a more diverse gameplay environment on some of the most fundamental levels. Experience a bit of old and new to shake things up and play in new ways.
+
+## New Weather and Daytime Variants
+
+![night-felucia](../assets/community-updates/v10/night-felucia.png){ .round-corners }
+
+Experience the glowing ambience of a night on Felucia or one of Jakku's brutal sandstorms. Battlefront Plus adds many new daytime and weather variants, bringing a fresh feel when revisiting maps.
+
+<h3><strong>Ajan Kloss</strong></h3>
+
+- Foggy
+
+<h3><strong>Crait</strong></h3> 
+
+- Sunset
+- Snow
+
+<h3><strong>Felucia</strong></h3>
+
+- Night
+
+<h3><strong>Kamino</strong></h3> 
+
+- Day
+- Night
+
+<h3><strong>Kashyyyk</strong></h3> 
+
+- Cloudy
+- Night (added to Supremacy)
+
+<h3><strong>Hoth</strong></h3> 
+
+- Added Night variant.
+
+<h3><strong>Jakku</strong></h3>  
+
+- Sunset (added to Supremacy)
+- Sandstorm
+
+<h3><strong>Naboo</strong></h3> 
+
+- Day (added to Supremacy)
+- Sunset (added to Supremacy)
+- Night (added to Supremacy)
+
+<h3><strong>Starkiller Base</strong></h3>
+
+- Night
+
+___
 
 ## AI Enhanced
 
