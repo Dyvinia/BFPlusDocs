@@ -563,7 +563,7 @@
 .star-card:focus img ,
 .star-card:active img {
     display: block;
-    filter: brightness(25%) saturate(69%) blur(5px);
+    filter: brightness(20%) saturate(120%) blur(4px);
     border: 2px solid var(--md-primary-fg-color);
     transition: 125ms;
 }
