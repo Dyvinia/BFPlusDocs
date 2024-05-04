@@ -505,7 +505,7 @@
     border: 2px solid var(--md-primary-fg-color);
     margin-top: 0em;
     margin-bottom: -0.5em;
-    border-radius: 0.5em;
+    border-radius: 0.75em;
     object-fit: cover;
     overflow: hidden;
 }
