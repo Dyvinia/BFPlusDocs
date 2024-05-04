@@ -750,3 +750,6 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     font-weight: 300;
     font-family: "Poppins", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
 }
+.gslide-image img {
+    background: black !important;
+}
