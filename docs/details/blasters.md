@@ -2,8 +2,8 @@
 
 Join the fray with a selection of over a hundred new abilities available to the Assault, Heavy, Officer, and Specialist. Each class has greatly expanded its arsenal of blasters and Star Cards, along with the addition of a sidearm menu to select your secondary weapon, as well as a Ping button to mark points of interest for your team.
 
-<img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="search-toggle" onclick="toggleSearch(this.id)"></img>
-<input class="search-box" type="text" id="search" onkeyup="search(this.id)" onblur="unfocus(this.id)" placeholder="Search...">
+<img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="search-toggle"></img>
+<input class="search-box" type="text" id="search" onkeyup="search(this.id)" placeholder="Search...">
 
 <h2 id="assault" style="margin-bottom: -0.25em;">
     <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Assault_01.svg">
