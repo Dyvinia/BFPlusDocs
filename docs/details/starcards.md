@@ -1550,3 +1550,7 @@ ___
 ___
 
 ![cardhand](../assets/star-cards/StarCards_Hand.png)
+
+___
+
+![main](../assets/gallery/maincover_v2_banner.png){ .round-corners } 
