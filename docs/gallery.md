@@ -1,5 +1,7 @@
 # Gallery
 ![v10cover](assets/community-updates\v10\temp_cover_v10.webp){ .round-corners }
+![thrawn](assets/gallery/promo_thrawn.jpg){ .gallery-images  }
+![padme](assets/gallery/padme.png){ .gallery-images  }
 ![hunter-surrounded](assets/gallery/hunter-surrounded.png){ .gallery-images  }
 ![merrin-fireball](assets/gallery/merrin-fireball.png){ .gallery-images  }
 ![bf+v9](assets/gallery/bf+v9.png){ .gallery-images  }
