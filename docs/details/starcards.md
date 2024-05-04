@@ -935,10 +935,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_1_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Sith Assassin</b></h4>
-                <a>When Ventress attacks an enemy from behind with her lightsabers, her abilities receive bonus recharge speed for a short period.</a>
+                <div class="text">
+                    <h4><b>Sith Assassin</b></h4>
+                    <a>When Ventress attacks an enemy from behind with her lightsabers, her abilities receive bonus recharge speed for a short period.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -947,10 +947,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_2_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Sister of the Night</b></h4>
-                <a>Performing a VANISH STRIKE will inflict even more damage and reveal the positions of nearby enemies upon defeating an opponent.</a>
+                <div class="text">
+                    <h4><b>Sister of the Night</b></h4>
+                    <a>Performing a VANISH STRIKE will inflict even more damage and reveal the positions of nearby enemies upon defeating an opponent.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -958,10 +958,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_3_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Talzin's Protection</b></h4>
-                <a>Asajj Ventress has increased maximum health regeneration.</a>
+                <div class="text">
+                    <h4><b>Talzin's Protection</b></h4>
+                    <a>Asajj Ventress has increased maximum health regeneration.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -969,10 +969,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_4_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Suspenseful Grip</b></h4>
-                <a>FORCE GRASP has one extra use.</a>
+                <div class="text">
+                    <h4><b>Suspenseful Grip</b></h4>
+                    <a>FORCE GRASP has one extra use.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -980,16 +980,14 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_5_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Extra Starblades</b></h4>
-                <a>Ventress throws three projectiles at once when using her STARBLADES, but the ability can only be used once before needing to recharge.</a>
+                <div class="text">
+                    <h4><b>Extra Starblades</b></h4>
+                    <a>Ventress throws three projectiles at once when using her STARBLADES, but the ability can only be used once before needing to recharge.</a>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-___
 
 ### Captain Cardinal
 
@@ -999,10 +997,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/cardinal/Card_Cardinal_5_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Color of Power</b></h4>
-                <a>All of Captain Cardinal's abilities have a slightly extended duration.</a>
+                <div class="text">
+                    <h4><b>Color of Power</b></h4>
+                    <a>All of Captain Cardinal's abilities have a slightly extended duration.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1011,10 +1009,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/cardinal/Card_Cardinal_4_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Still Standing</b></h4>
-                <a>Captain Cardinal takes reduced damage while STEADFAST is active.</a>
+                <div class="text">
+                    <h4><b>Still Standing</b></h4>
+                    <a>Captain Cardinal takes reduced damage while STEADFAST is active.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1022,10 +1020,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/cardinal/Card_Cardinal_2_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Finalized</b></h4>
-                <a>Captain Cardinal deals more melee damage while FINALIZER is active.</a>
+                <div class="text">
+                    <h4><b>Finalized</b></h4>
+                    <a>Captain Cardinal deals more melee damage while FINALIZER is active.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1033,10 +1031,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/cardinal/Card_Cardinal_3_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Ensuring Progress</b></h4>
-                <a>Lessens the vulnerability penalty from ABSOLUTION.</a>
+                <div class="text">
+                    <h4><b>Ensuring Progress</b></h4>
+                    <a>Lessens the vulnerability penalty from ABSOLUTION.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1044,16 +1042,14 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/cardinal/Card_Cardinal_1_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Effecting Change</b></h4>
-                <a>Whenever Captain Cardinal defeats an enemy with the F-11D, his abilities recharge faster for a very brief moment.</a>
+                <div class="text">
+                    <h4><b>Effecting Change</b></h4>
+                    <a>Whenever Captain Cardinal defeats an enemy with the F-11D, his abilities recharge faster for a very brief moment.</a>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-___
 
 ### Commander Pyre
 
@@ -1063,10 +1059,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_1_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>All Your Efforts</b></h4>
-                <a>Defeating enemies with THUNDERER LEGION will restore its active time.</a>
+                <div class="text">
+                    <h4><b>All Your Efforts</b></h4>
+                    <a>Defeating enemies with THUNDERER LEGION will restore its active time.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1075,10 +1071,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_2_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Commanding Shine</b></h4>
-                <a>The bonus health awarded by GOLD ZONE is increased.</a>
+                <div class="text">
+                    <h4><b>Commanding Shine</b></h4>
+                    <a>The bonus health awarded by GOLD ZONE is increased.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1086,10 +1082,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_3_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Maintaining Order</b></h4>
-                <a>The recharge time of SEIZE THIS MOMENT is reduced.</a>
+                <div class="text">
+                    <h4><b>Maintaining Order</b></h4>
+                    <a>The recharge time of SEIZE THIS MOMENT is reduced.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1097,10 +1093,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_4_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Complementary</b></h4>
-                <a>When Commander Pyre defeats an enemy, he will gain a small amount of damage resistance for a short duration. Maintaining quick killstreaks will stack this value.</a>
+                <div class="text">
+                    <h4><b>Complementary</b></h4>
+                    <a>When Commander Pyre defeats an enemy, he will gain a small amount of damage resistance for a short duration. Maintaining quick killstreaks will stack this value.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1108,16 +1104,14 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/pyre/Card_Pyre_5_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>None of Your Concern</b></h4>
-                <a>Commander Pyre's health regeneration is faster and starts sooner.</a>
+                <div class="text">
+                    <h4><b>None of Your Concern</b></h4>
+                    <a>Commander Pyre's health regeneration is faster and starts sooner.</a>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-___
 
 ### Dagan Gera
 
@@ -1127,10 +1121,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/dagan/Card_Dagan_1_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Can't Hide From Me</b></h4>
-                <a>The radius of ILLUSION will not decay for a short delay.</a>
+                <div class="text">
+                    <h4><b>Can't Hide From Me</b></h4>
+                    <a>The radius of ILLUSION will not decay for a short delay.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1139,10 +1133,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/dagan/Card_Dagan_2_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Forsaken</b></h4>
-                <a>For every enemy damaged by FORCE ORBS, Dagan replenishes health.</a>
+                <div class="text">
+                    <h4><b>Forsaken</b></h4>
+                    <a>For every enemy damaged by FORCE ORBS, Dagan replenishes health.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1150,10 +1144,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/dagan/Card_Dagan_3_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Beckoning</b></h4>
-                <a>FORCE BOMB will be more powerful if it is used while ILLUSION is active.</a>
+                <div class="text">
+                    <h4><b>Beckoning</b></h4>
+                    <a>FORCE BOMB will be more powerful if it is used while ILLUSION is active.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1161,10 +1155,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/dagan/Card_Dagan_4_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Meager</b></h4>
-                <a>Dagan Gera has increased maximum health, but the delay before health regeneration is also increased.</a>
+                <div class="text">
+                    <h4><b>Meager</b></h4>
+                    <a>Dagan Gera has increased maximum health, but the delay before health regeneration is also increased.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1172,16 +1166,14 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/dagan/Card_Dagan_5_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Sever the Past</b></h4>
-                <a>For a brief duration after any of his abilities end, Dagan Gera will deal extra damage with his lightsaber attacks, but will also take more damage himself.</a>
+                <div class="text">
+                    <h4><b>Sever the Past</b></h4>
+                    <a>For a brief duration after any of his abilities end, Dagan Gera will deal extra damage with his lightsaber attacks, but will also take more damage himself.</a>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-___
 
 ### Dengar
 
@@ -1191,10 +1183,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/dengar/Card_Dengar_9_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>More Toys</b></h4>
-                <a>Dengar throws an additional, lighter grenade with EXPLOSIVE ARRAY, but the ability has a slightly longer recharge time.</a>
+                <div class="text">
+                    <h4><b>More Toys</b></h4>
+                    <a>Dengar throws an additional, lighter grenade with EXPLOSIVE ARRAY, but the ability has a slightly longer recharge time.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1203,10 +1195,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/dengar/Card_Dengar_8_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Job Ready</b></h4>
-                <a>Dengar has increased maximum health.</a>
+                <div class="text">
+                    <h4><b>Job Ready</b></h4>
+                    <a>Dengar has increased maximum health.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1214,10 +1206,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/dengar/Card_Dengar_6_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Take a Dirt Nap</b></h4>
-                <a>BASHING SKULLS deals more damage, but has increased recharge time.</a>
+                <div class="text">
+                    <h4><b>Take a Dirt Nap</b></h4>
+                    <a>BASHING SKULLS deals more damage, but has increased recharge time.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1225,10 +1217,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/dengar/Card_Dengar_5_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Spraying Bolts</b></h4>
-                <a>Extends the duration of FRENZIED BLAST.</a>
+                <div class="text">
+                    <h4><b>Spraying Bolts</b></h4>
+                    <a>Extends the duration of FRENZIED BLAST.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1236,16 +1228,14 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/dengar/Card_Dengar_7_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>You're Next</b></h4>
-                <a>The damage resistance Dengar gains from defeating an enemy is increased.</a>
+                <div class="text">
+                    <h4><b>You're Next</b></h4>
+                    <a>The damage resistance Dengar gains from defeating an enemy is increased.</a>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-___
 
 ### Gideon Hask
 
@@ -1255,10 +1245,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/hask/Card_Hask_6_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Lingering Embers</b></h4>
-                <a>Enemies damaged by the flames of INFERNO BLAST will be afflicted with lingering damage for several seconds.</a>
+                <div class="text">
+                    <h4><b>Lingering Embers</b></h4>
+                    <a>Enemies damaged by the flames of INFERNO BLAST will be afflicted with lingering damage for several seconds.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1267,10 +1257,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/hask/Card_Hask_4_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Imperial Valor</b></h4>
-                <a>While Hask is using BLAST CANNON, his nearby allies will receive damage reduction, which increases in strength with every 5 troopers defeated or 500 damage dealt to heroes to a maximum. This bonus stays for the next use of the ability but resets when Hask is defeated.</a>
+                <div class="text">
+                    <h4><b>Imperial Valor</b></h4>
+                    <a>While Hask is using BLAST CANNON, his nearby allies will receive damage reduction, which increases in strength with every 5 troopers defeated or 500 damage dealt to heroes to a maximum.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1278,10 +1268,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/hask/Card_Hask_2_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Crimson Star</b></h4>
-                <a>The duration of ROUTING TRAITORS is extended, as is its range.</a>
+                <div class="text">
+                    <h4><b>Crimson Star</b></h4>
+                    <a>The duration of ROUTING TRAITORS is extended, as is its range.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1289,10 +1279,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/hask/Card_Hask_7_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Special Forces</b></h4>
-                <a>If he is within 15 meters of two friendly units, Hask and his close allies will take reduced damage.</a>
+                <div class="text">
+                    <h4><b>Special Forces</b></h4>
+                    <a>If he is within 15 meters of two friendly units, Hask and his close allies will take reduced damage.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1300,16 +1290,14 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/hask/Card_Hask_8_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Returned Favor</b></h4>
-                <a>Hask regains slightly more health when defeating an enemy, but his ability cooldowns are slightly longer.</a>
+                <div class="text">
+                    <h4><b>Returned Favor</b></h4>
+                    <a>Hask regains slightly more health when defeating an enemy, but his ability cooldowns are slightly longer.</a>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-___
 
 ### Grand Admiral Thrawn
 
@@ -1319,10 +1307,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/thrawn/Card_Thrawn_01_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Piece by Piece</b></h4>
-                <a>The minimum time between attacks to charge up KNOW THE ENEMY is reduced.</a>
+                <div class="text">
+                    <h4><b>Piece by Piece</b></h4>
+                    <a>The minimum time between attacks to charge up KNOW THE ENEMY is reduced.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1331,10 +1319,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/thrawn/Card_Thrawn_02_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Strategic Mastery</b></h4>
-                <a>The radius of DIRECT COMMAND increases while the ability is active.</a>
+                <div class="text">
+                    <h4><b>Strategic Mastery</b></h4>
+                    <a>The radius of DIRECT COMMAND increases while the ability is active.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1342,10 +1330,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/thrawn/Card_Thrawn_03_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Test Their Mettle</b></h4>
-                <a>CHIMAERA STRIKE recharges faster.</a>
+                <div class="text">
+                    <h4><b>Test Their Mettle</b></h4>
+                    <a>CHIMAERA STRIKE recharges faster.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1353,10 +1341,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/thrawn/Card_Thrawn_04_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Momentary Setback</b></h4>
-                <a>Thrawn's health regeneration is faster and begins sooner.</a>
+                <div class="text">
+                    <h4><b>Momentary Setback</b></h4>
+                    <a>Thrawn's health regeneration is faster and begins sooner.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1364,16 +1352,14 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/thrawn/Card_Thrawn_05_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Ascendant</b></h4>
-                <a>Thrawn captures objectives twice as fast and has increased maximum health.</a>
+                <div class="text">
+                    <h4><b>Ascendant</b></h4>
+                    <a>Thrawn captures objectives twice as fast and has increased maximum health.</a>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-___
 
 ### Greedo
 
@@ -1383,10 +1369,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/greedo/Card_Greedo_5_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Who Shot First</b></h4>
-                <a>The fire rate of the DT-12 is faster than normal while Greedo is above 90% health, but slower when he falls below that percentage.</a>
+                <div class="text">
+                    <h4><b>Who Shot First</b></h4>
+                    <a>The fire rate of the DT-12 is faster than normal while Greedo is above 90% health, but slower when he falls below that percentage.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1395,10 +1381,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/greedo/Card_Greedo_7_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Koon T'chuta</b></h4>
-                <a>The THERMAL DETONATOR from Greedo's BRASH BLAST deals increased damage.</a>
+                <div class="text">
+                    <h4><b>Koon T'chuta</b></h4>
+                    <a>The THERMAL DETONATOR from Greedo's BRASH BLAST deals increased damage.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1406,10 +1392,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/greedo/Card_Greedo_8_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Lucky I Found You</b></h4>
-                <a>Enemies revealed by Greedo's HIGH SENSES will restore extra health to him upon being defeated.</a>
+                <div class="text">
+                    <h4><b>Lucky I Found You</b></h4>
+                    <a>Enemies revealed by Greedo's HIGH SENSES will restore extra health to him upon being defeated.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1417,10 +1403,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/greedo/Card_Greedo_2_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Measured Confidence</b></h4>
-                <a>Greedo's CONFIDENCE BOOST has a shorter duration and recharge time.</a>
+                <div class="text">
+                    <h4><b>Measured Confidence</b></h4>
+                    <a>Greedo's CONFIDENCE BOOST has a shorter duration and recharge time.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1428,16 +1414,14 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/greedo/Card_Greedo_1_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Ma Klounkee</b></h4>
-                <a>Greedo's DT-12 builds less heat when firing.</a>
+                <div class="text">
+                    <h4><b>Ma Klounkee</b></h4>
+                    <a>Greedo's DT-12 builds less heat when firing.</a>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-___
 
 ### Jango Fett
 
@@ -1447,10 +1431,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_3_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>No Mistakes This Time</b></h4>
-                <a>When Jango Fett defeats an enemy with a SABERDART, his abilities get an extensive recharge bonus.</a>
+                <div class="text">
+                    <h4><b>No Mistakes This Time</b></h4>
+                    <a>When Jango Fett defeats an enemy with a SABERDART, his abilities get an extensive recharge bonus.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1459,10 +1443,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_9_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Always a Pleasure</b></h4>
-                <a>Whenever enemy Heroes are nearby, Jango Fett receives damage reduction. This effect is amplified if Jedi are present.</a>
+                <div class="text">
+                    <h4><b>Always a Pleasure</b></h4>
+                    <a>Whenever enemy Heroes are nearby, Jango Fett receives damage reduction. This effect is amplified if Jedi are present.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1470,10 +1454,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_8_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Discretion is My Specialty</b></h4>
-                <a>Damaging enemies with the WRIST FLAMETHROWER will restore a portion of Jango Fett's health, but its recharge time is doubled.</a>
+                <div class="text">
+                    <h4><b>Discretion is My Specialty</b></h4>
+                    <a>Damaging enemies with the WRIST FLAMETHROWER will restore a portion of Jango Fett's health, but its recharge time is doubled.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1481,10 +1465,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_7_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Evasion</b></h4>
-                <a>Jango Fett has +1 Evade, but slower Evade recharge time.</a>
+                <div class="text">
+                    <h4><b>Evasion</b></h4>
+                    <a>Jango Fett has +1 Evade, but slower Evade recharge time.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1492,16 +1476,14 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_2_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Just a Simple Man</b></h4>
-                <a>COLLECTING BOUNTIES has an extended duration.</a>
+                <div class="text">
+                    <h4><b>Just a Simple Man</b></h4>
+                    <a>COLLECTING BOUNTIES has an extended duration.</a>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
-___
 
 ### Second Sister
 
@@ -1511,10 +1493,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_1_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Like All the Others</b></h4>
-                <a>The Second Sister replenishes even more health from FORCE DRAIN.</a>
+                <div class="text">
+                    <h4><b>Like All the Others</b></h4>
+                    <a>The Second Sister replenishes even more health from FORCE DRAIN.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1523,10 +1505,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_10_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Enduring the Pain</b></h4>
-                <a>Trilla's torturous transformation into the Second Sister has taught her to embrace the pain. She will briefly gain increased damage resistance upon taking any hits.</a>
+                <div class="text">
+                    <h4><b>Enduring the Pain</b></h4>
+                    <a>Trilla's torturous transformation into the Second Sister has taught her to embrace the pain. She will briefly gain increased damage  resistance upon taking any hits.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1534,10 +1516,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_6_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Perfected Technique</b></h4>
-                <a>SINGLE-BLADED lightsaber attacks deal more damage if they immediately follow successful attacks with the DOUBLE-BLADED lightsaber. This effect cannot be applied to the same enemy for a short duration.</a>
+                <div class="text">
+                    <h4><b>Perfected Technique</b></h4>
+                    <a>SINGLE-BLADED lightsaber attacks deal more damage if they immediately follow successful attacks with the DOUBLE-BLADED lightsaber. This  effect cannot be applied to the same enemy for a short duration.</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1545,10 +1527,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_9_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>Let's Finish This</b></h4>
-                <a>After one enemy has been struck by CUNNING SLASH, the attack will inflict weakness on follow-up hits..</a>
+                <div class="text">
+                    <h4><b>Let's Finish This</b></h4>
+                    <a>After one enemy has been struck by CUNNING SLASH, the attack will inflict weakness on follow-up hits..</a>
+                </div>
             </div>
         </div>
     </div>
@@ -1556,10 +1538,10 @@ ___
         <div class="star-card">
             <div>
                 <img class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_4_Mid.png">
-            </div>
-            <div class="text">
-                <h4><b>I Expected More</b></h4>
-                <a>The Second Sister's maximum health is increased.</a>
+                <div class="text">
+                    <h4><b>I Expected More</b></h4>
+                    <a>The Second Sister's maximum health is increased.</a>
+                </div>
             </div>
         </div>
     </div>
