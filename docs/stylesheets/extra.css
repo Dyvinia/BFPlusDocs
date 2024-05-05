@@ -747,3 +747,95 @@ body[data-md-color-scheme="slate"] .gslide-desc {
 .gslide-image img {
     background: black !important;
 }
+
+/* Cards */
+.container-cards {
+    width: 100%;
+    height: calc(20vw + 50px);
+    display: flex;
+    gap: 4px;
+}
+
+.card {
+    min-width: calc(3vw + 25px);
+    height: 100%;
+    border-radius: 1em;
+    overflow: hidden;
+    display: flex;
+    align-items: flex-end;
+    flex-grow: 0.75;
+    cursor: pointer;
+    position: relative;
+    transition: flex-grow 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+  
+    --transition-timing: 0.25s;
+}
+.card.active {
+    flex-grow: 8;
+}
+.card:hover:not(.active) {
+    flex-grow: 2.5;
+}
+
+.card > .card-background {
+    position: absolute;
+    inset: 0;
+    object-fit: cover;
+    object-position: center;
+    z-index: -1;
+    transition: var(--transition-timing) ease;
+    filter: brightness(25%) saturate(169%) blur(3px);
+}
+.card:hover > .card-background, 
+.card.active > .card-background {
+    filter: brightness(100%) saturate(100%) blur(0px);
+}
+
+.card > .card-content {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    bottom: 0px;
+    overflow: hidden;
+    transition: var(--transition-timing);
+    z-index: 10;
+}
+.card:hover > .card-content {
+    inset: 0px 0px 0px 15px; 
+    top: auto;
+}
+  
+.card-content > * {
+    transition: var(--transition-timing);
+}
+
+.card-content > .card-title {
+    text-wrap: nowrap;
+    margin-left: 10px;
+    translate: 0 100%;
+    opacity: 0;
+}
+.card:hover .card-title, 
+.card.active .card-title {
+    opacity: 1;
+    translate: 0 0;
+    user-select: none;
+}
+
+.card > .card-backdrop {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: calc(20% + 25px);
+    z-index: 0;
+    background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.7));
+}
+
+.card img {
+    width: 100%;
+    height: 100%;
+    display: block;
+}

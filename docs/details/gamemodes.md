@@ -10,7 +10,46 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
 
 ## New Weather and Daytime Variants
 
-![night-felucia](../assets/community-updates/v10/night-felucia.png){ .round-corners }
+<div class="container-cards">
+  <div class="card active" >
+    <img class="card-background" class="no-lb" src="../../assets/community-updates/v10/night-felucia.png">
+    <div class="card-content">
+      <h3 class="card-title">Night Felucia</h3>
+    </div>
+    <div class="card-backdrop"></div>
+  </div>
+  <div class="card">
+    <img class="card-background" class="no-lb" src="../../assets/community-updates/v10/night-felucia.png">
+    <div class="card-content">
+      <h3 class="card-title">idk</h3>
+    </div>
+    <div class="card-backdrop"></div>
+  </div>
+  <div class="card">
+    <img class="card-background" class="no-lb" src="../../assets/community-updates/v10/night-felucia.png">
+    <div class="card-content">
+      <h3 class="card-title">idk but again</h3>
+    </div>
+    <div class="card-backdrop"></div>
+  </div>
+</div>
+
+
+<script>
+  const container = document.querySelector(".container-cards");
+
+  container.addEventListener("click", (e) => {
+    const target = e.target.closest(".card");
+
+    if (!target) return;
+
+    container.querySelectorAll(".card").forEach((card) => {
+      card.classList.remove("active");
+    });
+
+    target.classList.add("active");
+  });
+</script>
 
 Experience the glowing ambience of a night on Felucia or one of Jakku's brutal sandstorms. Battlefront Plus adds many new daytime and weather variants, bringing a fresh feel when revisiting maps.
 
