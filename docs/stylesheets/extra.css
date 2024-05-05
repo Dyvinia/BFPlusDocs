@@ -753,13 +753,15 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     width: 100%;
     height: calc(20vw + 50px);
     display: flex;
-    gap: 4px;
+    gap: 0px;
 }
 
 .card {
     min-width: calc(3vw + 25px);
     height: 100%;
     border-radius: 1em;
+    border: 2px solid;
+    border-color: var( --md-default-bg-color);
     overflow: hidden;
     display: flex;
     align-items: flex-end;
