@@ -9,7 +9,7 @@ function createAppearanceInfantry(element, index) {
             <div class="appearance">
                 <a onclick="lightbox.openAt(${index}); event.returnValue = false; return false;" href="${element.image}">
                     <div class='appearance-box'>
-                        <img src="${element.image}" loading="lazy">
+                        <img src="${element.image}">
                     </div>
                 </a>
                 <h4><b>${element.name}</b></h4>
@@ -28,7 +28,7 @@ function createAppearanceHero(element, index) {
             <div class="appearance-hero">
                 <a onclick="lightbox.openAt(${index}); event.returnValue = false; return false;" href="${element.image}">
                     <div class='appearance-box'>
-                        <img src="${element.image}" loading="lazy">
+                        <img src="${element.image}">
                     </div>
                 </a>
                 <h4><b>${element.name}</b></h4>
