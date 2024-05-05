@@ -765,7 +765,7 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     overflow: hidden;
     display: flex;
     align-items: flex-end;
-    flex-grow: 0.75;
+    flex-grow: 0.85;
     cursor: pointer;
     position: relative;
     transition: flex-grow 0.5s cubic-bezier(0.16, 1, 0.3, 1);
