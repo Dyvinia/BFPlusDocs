@@ -800,13 +800,13 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     position: absolute;
     left: 10px;
     right: 10px;
-    bottom: 0px;
+    bottom: -2.5px;
     overflow: hidden;
     transition: var(--transition-timing);
     z-index: 10;
 }
 .card:hover > .card-content {
-    inset: 0px 0px 0px 15px; 
+    inset: 0px 0px 0px 10px; 
     top: auto;
 }
   
