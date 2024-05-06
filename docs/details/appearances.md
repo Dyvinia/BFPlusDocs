@@ -225,6 +225,9 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 ### **Darth Vader**
 <div class="container" style="margin-top: -0.8em;" id="villains-darthvader"></div>
 
+### **Dengar**
+<div class="container" style="margin-top: -0.8em;" id="villains-dengar"></div>
+
 ### **Emperor Palpatine**
 <div class="container" style="margin-top: -0.8em;" id="villains-emperorpalpatine"></div>
 
