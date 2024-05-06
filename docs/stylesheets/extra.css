@@ -786,7 +786,7 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     object-position: center;
     z-index: -1;
     transition: var(--transition-timing) ease;
-    filter: brightness(25%) saturate(169%) blur(3px);
+    filter: brightness(30%) saturate(169%) blur(2px);
 }
 .card:hover > .card-background, 
 .card.active > .card-background {
