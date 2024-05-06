@@ -9,7 +9,7 @@ function createAppearanceInfantry(element, index) {
             <div class="appearance">
                 <a onclick="lightbox.openAt(${index}); event.returnValue = false; return false;" href="${element.image}">
                     <div class='appearance-box'>
-                        <img src="${element.image}" style="margin: -${element.up ?? "22%"} 0px 0px -${element.left ?? "15%"}; max-width: ${element.zoom ?? "130%"} !important;">
+                        <img src="${element.image}" style="margin: ${parseFloat(element.up ?? "22") * -1}% 0px 0px ${parseFloat(element.left ?? "15") * -1}%; max-width: ${element.zoom ?? "130"} !important;">
                     </div>
                 </a>
                 <h4><b>${element.name}</b></h4>
@@ -28,7 +28,7 @@ function createAppearanceHero(element, index) {
             <div class="appearance-hero">
                 <a onclick="lightbox.openAt(${index}); event.returnValue = false; return false;" href="${element.image}">
                     <div class='appearance-box'>
-                        <img src="${element.image}" style="margin: -${element.up ?? "22%"} 0px 0px -${element.left ?? "15%"}; max-width: ${element.zoom ?? "130%"} !important;">
+                        <img src="${element.image}" style="margin: ${parseFloat(element.up ?? "22") * -1}% 0px 0px ${parseFloat(element.left ?? "15") * -1}%; max-width: ${element.zoom ?? "130"} !important;">
                     </div>
                 </a>
                 <h4><b>${element.name}</b></h4>
