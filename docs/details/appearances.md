@@ -251,6 +251,6 @@ With Battlefront Plus, cosmetics have been greatly expanded across the board wit
 
 ___
 
-![main](../assets/gallery/maincover_v2.png){ .round-corners } 
+![main](../assets/gallery/maincover_v2_wide.png){ .round-corners } 
 
 <p style="font-size: 12px; text-align: center; margin-top: 2em; margin-bottom: -1em;">Hint: Click on images to zoom</p>
