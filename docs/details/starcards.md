@@ -1550,8 +1550,6 @@ ___
 
 ___
 
-![cardhand](../assets/star-cards/starcards_hand.png)
-
 ![main](../assets/gallery/maincover_v2_wide.png){ .round-corners }
 
 <p style="font-size: 12px; text-align: center; margin-top: 2em; margin-bottom: -1em;">Hint: Hover over images to reveal names and descriptions</p>
