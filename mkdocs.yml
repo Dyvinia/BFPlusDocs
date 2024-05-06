@@ -55,6 +55,8 @@ extra_css:
   - stylesheets/extra.css?v=10
 extra_javascript:
   - js/extra.js
+  - js/cards.js
+  - js/swiped-events.min.js
 
 repo_url: https://www.nexusmods.com/starwarsbattlefront22017/mods/7592 
 repo_name: Download on NexusMods

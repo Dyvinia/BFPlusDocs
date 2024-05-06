@@ -41,16 +41,6 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     </div>
     <div class="card-backdrop"></div>
   </div>
-  <!--<div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-kashyyyk.png">
-    <div class="card-content">
-      <div class="card-title">
-        <h3><strong>Kashyyyk</strong></h3>
-        <p>Night</p>
-      </div>
-    </div>
-    <div class="card-backdrop"></div>
-  </div>-->
   <div class="card">
     <img class="card-background" class="no-lb" src="../../assets/map-variants/cloudy-kashyyyk.png">
     <div class="card-content">
@@ -61,16 +51,6 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     </div>
     <div class="card-backdrop"></div>
   </div>
-  <!--<div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/day-naboo.png">
-    <div class="card-content">
-      <div class="card-title">
-        <h3><strong>Naboo</strong></h3>
-        <p>Day</p>
-      </div>
-    </div>
-    <div class="card-backdrop"></div>
-  </div>-->
   <div class="card">
     <img class="card-background" class="no-lb" src="../../assets/map-variants/night-hoth.png">
     <div class="card-content">
@@ -112,73 +92,6 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <div class="card-backdrop"></div>
   </div>
 </div>
-
-<script type="text/javascript" src="../../js/swiped-events.min.js"></script>
-
-<script>
-  const container = document.querySelector(".container-cards");
-
-  container.addEventListener("click", (e) => {
-    const target = e.target.closest(".card");
-
-    if (!target) return;
-
-    container.querySelectorAll(".card").forEach((card) => {
-      card.classList.remove("active");
-    });
-
-    target.classList.add("active");
-  });
-
-
-  document.addEventListener('swiped-left', function(e) {
-    let index = -1;
-
-    let i = 0;
-    let cards = container.querySelectorAll(".card")
-    
-    cards.forEach((card) => {
-      if (card.classList.contains("active"))
-        index = i;
-      i++;
-    });
-
-    if (index < (cards.length - 1)) {
-      i = 0;
-      cards.forEach((card) => {
-        if (index == i)
-          card.classList.remove("active");
-        if ((index + 1) == i)
-          card.classList.add("active");
-        i++;
-      });
-    }
-  });
-
-  document.addEventListener('swiped-right', function(e) {
-    let index = -1;
-
-    let i = 0;
-    let cards = container.querySelectorAll(".card")
-    
-    cards.forEach((card) => {
-      if (card.classList.contains("active"))
-        index = i;
-      i++;
-    });
-
-    if (index > 0) {
-      i = 0;
-      cards.forEach((card) => {
-        if (index == i)
-          card.classList.remove("active");
-        if ((index - 1) == i)
-          card.classList.add("active");
-        i++;
-      });
-    }
-  });
-</script>
 
 Experience the glowing ambience of a night on Felucia or one of Jakku's brutal sandstorms. Battlefront Plus adds many new daytime and weather variants, bringing a fresh feel when revisiting maps.
 
