@@ -25,14 +25,8 @@ if (container) {
         });
     
         if (currentIndex < (cards.length - 1)) {
-            i = 0;
-            cards.forEach((card) => {
-                if (currentIndex == i)
-                    card.classList.remove("active");
-                if ((currentIndex + 1) == i)
-                    card.classList.add("active");
-                i++;
-            });
+            cards[currentIndex].classList.remove("active");
+            cards[currentIndex + 1].classList.add("active");
         }
     });
     
@@ -48,14 +42,8 @@ if (container) {
         });
     
         if (currentIndex > 0) {
-            i = 0;
-            cards.forEach((card) => {
-                if (currentIndex == i)
-                    card.classList.remove("active");
-                if ((currentIndex - 1) == i)
-                    card.classList.add("active");
-                i++;
-            });
+            cards[currentIndex].classList.remove("active");
+            cards[currentIndex - 1].classList.add("active");
         }
     });
 }
