@@ -12,23 +12,102 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
 
 <div class="container-cards">
   <div class="card active" >
-    <img class="card-background" class="no-lb" src="../../assets/community-updates/v10/night-felucia.png">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-felucia.png">
     <div class="card-content">
-      <h3 class="card-title">Night Felucia</h3>
+      <div class="card-title">
+        <h3><strong>Felucia</strong></h3>
+        <p>Night</p>
+      </div>
     </div>
     <div class="card-backdrop"></div>
   </div>
   <div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/community-updates/v10/night-felucia.png">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/day-kamino.png">
     <div class="card-content">
-      <h3 class="card-title">idk</h3>
+      <div class="card-title">
+        <h3><strong>Kamino</strong></h3>
+        <p>Day</p>
+      </div>
     </div>
     <div class="card-backdrop"></div>
   </div>
   <div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/community-updates/v10/night-felucia.png">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-kamino.png">
     <div class="card-content">
-      <h3 class="card-title">idk but again</h3>
+      <div class="card-title">
+        <h3><strong>Kamino</strong></h3>
+        <p>Night</p>
+      </div>
+    </div>
+    <div class="card-backdrop"></div>
+  </div>
+  <!--<div class="card">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-kashyyyk.png">
+    <div class="card-content">
+      <div class="card-title">
+        <h3><strong>Kashyyyk</strong></h3>
+        <p>Night</p>
+      </div>
+    </div>
+    <div class="card-backdrop"></div>
+  </div>-->
+  <div class="card">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/cloudy-kashyyyk.png">
+    <div class="card-content">
+      <div class="card-title">
+        <h3><strong>Kashyyyk</strong></h3>
+        <p>Cloudy</p>
+      </div>
+    </div>
+    <div class="card-backdrop"></div>
+  </div>
+  <!--<div class="card">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/day-naboo.png">
+    <div class="card-content">
+      <div class="card-title">
+        <h3><strong>Naboo</strong></h3>
+        <p>Day</p>
+      </div>
+    </div>
+    <div class="card-backdrop"></div>
+  </div>-->
+  <div class="card">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-hoth.png">
+    <div class="card-content">
+      <div class="card-title">
+        <h3><strong>Hoth</strong></h3>
+        <p>Night</p>
+      </div>
+    </div>
+    <div class="card-backdrop"></div>
+  </div>
+  <div class="card">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-starkiller.png">
+    <div class="card-content">
+      <div class="card-title">
+        <h3><strong>Starkiller</strong></h3>
+        <p>Night</p>
+      </div>
+    </div>
+    <div class="card-backdrop"></div>
+  </div>
+  <div class="card">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/foggy-ajan.png">
+    <div class="card-content">
+      <div class="card-title">
+        <h3><strong>Ajan Kloss</strong></h3>
+        <p>Foggy</p>
+      </div>
+    </div>
+    <div class="card-backdrop"></div>
+  </div>
+  <div class="card">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/sandstorm-jakku.png">
+    <div class="card-content">
+      <div class="card-title">
+        <h3><strong>Jakku</strong></h3>
+        <p>Sandstorm</p>
+      </div>
     </div>
     <div class="card-backdrop"></div>
   </div>
