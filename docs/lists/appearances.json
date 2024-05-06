@@ -532,7 +532,10 @@
         "imperialjumptrooper": [
             {
                 "name": "Star Tours",
-                "image": "../../assets/new-appearances-v2/reinforcements/empire_aerial_imperialjumptrooper_startours.png"
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_aerial_imperialjumptrooper_startours.png",
+                "zoom": "130%",
+                "up": "23%",
+                "left": "6%"
             }
         ],
         "royalguard": [
