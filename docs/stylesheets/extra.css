@@ -768,11 +768,14 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     flex-grow: 0.64;
     cursor: pointer;
     position: relative;
-    transition: flex-grow 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+    transition: flex-grow 0.4s cubic-bezier(0.16, 1, 0.3, 1);
   
     --transition-timing: 0.25s;
 }
 .card.active {
+    flex-grow: 9.85; /* increase this for hover size */
+}
+.card.active:not(:hover) {
     flex-grow: 8;
 }
 .card:hover:not(.active) {
@@ -800,13 +803,13 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     position: absolute;
     left: 10px;
     right: 10px;
-    bottom: 0px;
+    bottom: -2.5px;
     overflow: hidden;
     transition: var(--transition-timing);
     z-index: 10;
 }
 .card:hover > .card-content {
-    inset: 0px 0px 0px 15px; 
+    inset: 0px 0px 0px 10px; 
     top: auto;
 }
   

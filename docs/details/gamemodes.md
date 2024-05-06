@@ -41,16 +41,6 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     </div>
     <div class="card-backdrop"></div>
   </div>
-  <!--<div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-kashyyyk.png">
-    <div class="card-content">
-      <div class="card-title">
-        <h3><strong>Kashyyyk</strong></h3>
-        <p>Night</p>
-      </div>
-    </div>
-    <div class="card-backdrop"></div>
-  </div>-->
   <div class="card">
     <img class="card-background" class="no-lb" src="../../assets/map-variants/cloudy-kashyyyk.png">
     <div class="card-content">
@@ -61,16 +51,6 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     </div>
     <div class="card-backdrop"></div>
   </div>
-  <!--<div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/day-naboo.png">
-    <div class="card-content">
-      <div class="card-title">
-        <h3><strong>Naboo</strong></h3>
-        <p>Day</p>
-      </div>
-    </div>
-    <div class="card-backdrop"></div>
-  </div>-->
   <div class="card">
     <img class="card-background" class="no-lb" src="../../assets/map-variants/night-hoth.png">
     <div class="card-content">
@@ -112,23 +92,6 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <div class="card-backdrop"></div>
   </div>
 </div>
-
-
-<script>
-  const container = document.querySelector(".container-cards");
-
-  container.addEventListener("click", (e) => {
-    const target = e.target.closest(".card");
-
-    if (!target) return;
-
-    container.querySelectorAll(".card").forEach((card) => {
-      card.classList.remove("active");
-    });
-
-    target.classList.add("active");
-  });
-</script>
 
 Experience the glowing ambience of a night on Felucia or one of Jakku's brutal sandstorms. Battlefront Plus adds many new daytime and weather variants, bringing a fresh feel when revisiting maps.
 
