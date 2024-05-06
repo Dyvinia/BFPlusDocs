@@ -819,7 +819,7 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     margin-left: 10px;
     translate: 0 100%;
     opacity: 0;
-    text-shadow: #000000cc 2px 0 16px;
+    text-shadow: #000000cc 2px 0 12px;
 }
 .card:hover .card-title, 
 .card.active .card-title {
@@ -833,7 +833,7 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     font-size: 1.25em;
 }
 .card-content > .card-title > p {
-    font-size: 0.8em;
+    font-size: 0.85em;
 }
 
 .card > .card-backdrop {
