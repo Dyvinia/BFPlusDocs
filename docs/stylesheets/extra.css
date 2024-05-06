@@ -819,7 +819,7 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     margin-left: 10px;
     translate: 0 100%;
     opacity: 0;
-    text-shadow: #000000cc 2px 0 12px;
+    text-shadow: #000000 2px 0 8px;
 }
 .card:hover .card-title, 
 .card.active .card-title {
