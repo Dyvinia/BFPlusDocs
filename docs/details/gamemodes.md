@@ -113,6 +113,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
   </div>
 </div>
 
+<script type="text/javascript" src="../../js/swiped-events.min.js"></script>
 
 <script>
   const container = document.querySelector(".container-cards");
@@ -129,68 +130,53 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     target.classList.add("active");
   });
 
-  let touchstartX = 0;
-  let touchendX = 0;
 
-  function swiped() {
-    // left swipe
-    if (touchendX < touchstartX) {
-      let index = -1;
+  document.addEventListener('swiped-left', function(e) {
+    let index = -1;
 
-      let i = 0;
-      let cards = container.querySelectorAll(".card")
-      
+    let i = 0;
+    let cards = container.querySelectorAll(".card")
+    
+    cards.forEach((card) => {
+      if (card.classList.contains("active"))
+        index = i;
+      i++;
+    });
+
+    if (index < (cards.length - 1)) {
+      i = 0;
       cards.forEach((card) => {
-        if (card.classList.contains("active"))
-          index = i;
+        if (index == i)
+          card.classList.remove("active");
+        if ((index + 1) == i)
+          card.classList.add("active");
         i++;
       });
-
-      if (index < (cards.length - 1)) {
-        i = 0;
-        cards.forEach((card) => {
-          if (index == i)
-            card.classList.remove("active");
-          if ((index + 1) == i)
-            card.classList.add("active");
-          i++;
-        });
-      }
     }
-
-    // right swipe
-    if (touchendX > touchstartX) {
-      let index = -1;
-
-      let i = 0;
-      let cards = container.querySelectorAll(".card")
-      
-      cards.forEach((card) => {
-        if (card.classList.contains("active"))
-          index = i;
-        i++;
-      });
-
-      if (index > 0) {
-        i = 0;
-        cards.forEach((card) => {
-          if (index == i)
-            card.classList.remove("active");
-          if ((index - 1) == i)
-            card.classList.add("active");
-          i++;
-        });
-      }
-    }
-  }
-
-  container.addEventListener('touchstart', e => {
-    touchstartX = e.changedTouches[0].screenX;
   });
 
-  container.addEventListener('touchend', e => {
-    touchendX = e.changedTouches[0].screenX;
-    swiped();
+  document.addEventListener('swiped-right', function(e) {
+    let index = -1;
+
+    let i = 0;
+    let cards = container.querySelectorAll(".card")
+    
+    cards.forEach((card) => {
+      if (card.classList.contains("active"))
+        index = i;
+      i++;
+    });
+
+    if (index > 0) {
+      i = 0;
+      cards.forEach((card) => {
+        if (index == i)
+          card.classList.remove("active");
+        if ((index - 1) == i)
+          card.classList.add("active");
+        i++;
+      });
+    }
   });
 </script>
 
