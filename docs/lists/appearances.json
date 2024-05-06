@@ -172,11 +172,17 @@
         "cloneflametrooper": [
             {
                 "name": "Geonosis",
-                "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_flametrooper_geonosis.png"
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_flametrooper_geonosis.png",
+                "zoom": "130%",
+                "up": "22%",
+                "left": "0%"
             },
             {
                 "name": "Shiny",
-                "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_flametrooper_shiny.png"
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_flametrooper_shiny.png",
+                "zoom": "130%",
+                "up": "22%",
+                "left": "0%"
             }
         ],
         "clonesharpshooter": [
@@ -642,7 +648,10 @@
         "firstorderjettrooper": [
             {
                 "name": "Final Order",
-                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_aerial_jet_final_order.png"
+                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_aerial_jet_final_order.png",
+                "zoom": "130%",
+                "up": "22%",
+                "left": "4%"
             }
         ],
         "guaviansecurity": [
@@ -654,11 +663,17 @@
         "riotcontroltrooper": [
             {
                 "name": "Stormtrooper",
-                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_enforcer_riotcontrol_stormtrooper.png"
+                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_enforcer_riotcontrol_stormtrooper.png",
+                "zoom": "130%",
+                "up": "22%",
+                "left": "22%"
             },
             {
                 "name": "Executioner",
-                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_enforcer_riotcontrol_executioner.png"
+                "image": "../../assets/new-appearances-v2/reinforcements/firstorder_enforcer_riotcontrol_executioner.png",
+                "zoom": "130%",
+                "up": "22%",
+                "left": "22%"
             }
         ],
         "stormtroopercommander": [
