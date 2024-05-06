@@ -128,6 +128,76 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
 
     target.classList.add("active");
   });
+
+  let touchstartX = 0;
+  let touchendX = 0;
+
+  function swiped() {
+    // left swipe
+    if (touchendX < touchstartX) {
+      let index = -1;
+
+      let i = 0;
+      let cards = container.querySelectorAll(".card")
+      
+      cards.forEach((card) => {
+        if (card.classList.contains("active"))
+          index = i;
+        i++;
+      });
+
+      console.log(index);
+      console.log(cards.length);
+
+      if (index < (cards.length - 1)) {
+        i = 0;
+        cards.forEach((card) => {
+          if (index == i)
+            card.classList.remove("active");
+          if ((index + 1) == i)
+            card.classList.add("active");
+          i++;
+        });
+      }
+    }
+
+    // right swipe
+    if (touchendX > touchstartX) {
+      let index = -1;
+
+      let i = 0;
+      let cards = container.querySelectorAll(".card")
+      
+      cards.forEach((card) => {
+        if (card.classList.contains("active"))
+          index = i;
+        i++;
+      });
+
+      console.log(index);
+      console.log(cards.length);
+
+      if (index > 0) {
+        i = 0;
+        cards.forEach((card) => {
+          if (index == i)
+            card.classList.remove("active");
+          if ((index - 1) == i)
+            card.classList.add("active");
+          i++;
+        });
+      }
+    }
+  }
+
+  container.addEventListener('touchstart', e => {
+    touchstartX = e.changedTouches[0].screenX;
+  });
+
+  container.addEventListener('touchend', e => {
+    touchendX = e.changedTouches[0].screenX;
+    swiped();
+  });
 </script>
 
 Experience the glowing ambience of a night on Felucia or one of Jakku's brutal sandstorms. Battlefront Plus adds many new daytime and weather variants, bringing a fresh feel when revisiting maps.
