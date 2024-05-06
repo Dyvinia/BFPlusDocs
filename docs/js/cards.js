@@ -14,15 +14,8 @@ if (container) {
     
     
     container.addEventListener('swiped-left', () => {
-        let currentIndex = -1;
-        let cards = container.querySelectorAll(".card");
-        
-        let i = 0;
-        cards.forEach((card) => {
-            if (card.classList.contains("active"))
-                currentIndex = i;
-            i++;
-        });
+        let cards = [...container.querySelectorAll(".card")];
+        let currentIndex = cards.findIndex(c => c.classList.contains("active"));
     
         if (currentIndex < (cards.length - 1)) {
             cards[currentIndex].classList.remove("active");
@@ -31,15 +24,8 @@ if (container) {
     });
     
     container.addEventListener('swiped-right', () => {
-        let currentIndex = -1;
-        let cards = container.querySelectorAll(".card");
-
-        let i = 0;
-        cards.forEach((card) => {
-            if (card.classList.contains("active"))
-                currentIndex = i;
-            i++;
-        });
+        let cards = [...container.querySelectorAll(".card")];
+        let currentIndex = cards.findIndex(c => c.classList.contains("active"));
     
         if (currentIndex > 0) {
             cards[currentIndex].classList.remove("active");
