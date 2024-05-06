@@ -146,9 +146,6 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
         i++;
       });
 
-      console.log(index);
-      console.log(cards.length);
-
       if (index < (cards.length - 1)) {
         i = 0;
         cards.forEach((card) => {
@@ -173,9 +170,6 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
           index = i;
         i++;
       });
-
-      console.log(index);
-      console.log(cards.length);
 
       if (index > 0) {
         i = 0;
