@@ -14,23 +14,22 @@ if (container) {
     
     
     document.addEventListener('swiped-left', function(e) {
-        let index = -1;
-    
-        let i = 0;
+        let currentIndex = -1;
         let cards = container.querySelectorAll(".card");
         
+        let i = 0;
         cards.forEach((card) => {
             if (card.classList.contains("active"))
-                index = i;
+                currentIndex = i;
             i++;
         });
     
-        if (index < (cards.length - 1)) {
+        if (currentIndex < (cards.length - 1)) {
             i = 0;
             cards.forEach((card) => {
-                if (index == i)
+                if (currentIndex == i)
                     card.classList.remove("active");
-                if ((index + 1) == i)
+                if ((currentIndex + 1) == i)
                     card.classList.add("active");
                 i++;
             });
@@ -38,23 +37,22 @@ if (container) {
     });
     
     document.addEventListener('swiped-right', function(e) {
-        let index = -1;
-    
-        let i = 0;
+        let currentIndex = -1;
         let cards = container.querySelectorAll(".card");
-        
+
+        let i = 0;
         cards.forEach((card) => {
             if (card.classList.contains("active"))
-                index = i;
+                currentIndex = i;
             i++;
         });
     
-        if (index > 0) {
+        if (currentIndex > 0) {
             i = 0;
             cards.forEach((card) => {
-                if (index == i)
+                if (currentIndex == i)
                     card.classList.remove("active");
-                if ((index - 1) == i)
+                if ((currentIndex - 1) == i)
                     card.classList.add("active");
                 i++;
             });
