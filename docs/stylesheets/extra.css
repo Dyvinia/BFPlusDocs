@@ -759,7 +759,7 @@ body[data-md-color-scheme="slate"] .gslide-desc {
 .card {
     min-width: calc(3vw + 25px);
     height: 100%;
-    border-radius: 1em;
+    border-radius: 1.5em;
     border: 2px solid;
     border-color: var( --md-default-bg-color);
     overflow: hidden;
