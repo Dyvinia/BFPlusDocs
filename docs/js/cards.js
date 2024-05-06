@@ -13,7 +13,7 @@ if (container) {
     });
     
     
-    document.addEventListener('swiped-left', function(e) {
+    container.addEventListener('swiped-left', function(e) {
         let currentIndex = -1;
         let cards = container.querySelectorAll(".card");
         
@@ -36,7 +36,7 @@ if (container) {
         }
     });
     
-    document.addEventListener('swiped-right', function(e) {
+    container.addEventListener('swiped-right', function(e) {
         let currentIndex = -1;
         let cards = container.querySelectorAll(".card");
 
