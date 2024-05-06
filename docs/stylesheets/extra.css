@@ -751,7 +751,7 @@ body[data-md-color-scheme="slate"] .gslide-desc {
 /* Cards */
 .container-cards {
     width: 100%;
-    height: calc(20vw + 50px);
+    height: calc(22vw + 75px);
     display: flex;
     gap: 0px;
 }
