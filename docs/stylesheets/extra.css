@@ -773,7 +773,7 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     --transition-timing: 0.25s;
 }
 .card.active {
-    flex-grow: 8; /* increase this for hover size */
+    flex-grow: 9.85; /* increase this for hover size */
 }
 .card.active:not(:hover) {
     flex-grow: 8;
