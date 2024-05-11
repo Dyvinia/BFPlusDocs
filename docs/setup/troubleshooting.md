@@ -8,6 +8,8 @@
 ## Incompatible Mods
 - Battlefront 2022[^1]
 - Battlefront Expanded[^1]
+- Instant Action Overhaul
+- Instant Action Overhaul XL Alpha
 - Ortho's 4k Clone Legions
 - Improved Battle Droids
 - Classic Battlefront Clones
