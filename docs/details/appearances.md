@@ -6,7 +6,8 @@
   </video>
 </div>
 
-With Battlefront Plus, cosmetics have been greatly expanded across the board with more Clone units, Imperial armor options, and First Order gear, along with unrestricted head and gender options for the Rebels and Resistance. Heroes also receive many new skin options, such as Maul's iconic Mandalore appearance, Battle Damaged Vader, Luke's Endor outfit, and even Bossk in a tuxedo, just to name a few.  
+Customize your characters with dozens of new appearances added to Troopers, Reinforcements, and Heroes across all factions. From Ahsoka Tano's 332nd Company to Imperial Army troopers, a battle damaged Darth Vader to Luke's Endor outfit, and even Bossk in a tuxedo, Battlefront Plus provides a wide selection of iconic cosmetic options to simulate battles across the stars.
+
 <p style="font-size: 14px; margin-top: -1em; margin-bottom: -1em; opacity: 0.69;">Hint: Click on images to zoom</p>
 <script src="../appearances.js"></script>
 

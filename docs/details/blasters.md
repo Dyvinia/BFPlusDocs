@@ -1,6 +1,6 @@
 # Blasters
 
-Join the fray with a selection of over a hundred new abilities available to the Assault, Heavy, Officer, and Specialist. Each class has greatly expanded its arsenal of blasters and Star Cards, along with the addition of a sidearm menu to select your secondary weapon, as well as a Ping button to mark points of interest for your team.
+Join the fray with more than a hundred new abilities available to the Assault, Heavy, Officer, and Specialist. Wield the famous DL-44 heavy blaster pistol, score ricochets around corners with unique weapons like the 773-Firepuncher, support allies with the Medical Droid Star Card, and switch to your sidearm - it's faster than venting! Whatever your choose, Battlefront Plus offers the opportunity to tailor Trooper loadouts to your liking.
 
 <img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="search-toggle"></img>
 <input class="search-box" type="text" id="search" onkeyup="search(this.id)" placeholder="Search...">
