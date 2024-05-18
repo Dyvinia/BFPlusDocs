@@ -165,6 +165,10 @@
         ],
         "clonecommando": [
             {
+                "name": "Royal Guard",
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_commando_royalguard.png"
+            },
+            {
                 "name": "Sniper",
                 "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_commando_sniper.png"
             }

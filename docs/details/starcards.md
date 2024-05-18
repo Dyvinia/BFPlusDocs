@@ -197,7 +197,7 @@ Each of the four base classes boasts an array of new Star Cards, from the dreadf
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/specialist-quickdraw.png">
                 <div class="text">
                     <h4><b>Quickdraw</b></h4>
-                    <a>Upon successful shots with your primary weapon, your secondary blaster will become momentarily empowered, causing it to deal more damage to enemies. This effect cannot be applied to the same enemy for a short duration.</a>
+                    <a>Upon successful shots with your primary weapon, your secondary blaster will become momentarily empowered, causing it to deal more damage to enemies.</a>
                 </div>
             </div>
         </div>
@@ -286,7 +286,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/ahsoka/Card_Ahsoka_2_Mid.png">
                 <div class="text">
                     <h4><b>I'm No Jedi</b></h4>
-                    <a>Ahsoka's basic lightsaber attacks, after being used to defeat an enemy, will deal bonus damage for a brief period. This effect cannot be applied to the same enemy for a short duration. Her maximum health is also decreased.</a>
+                    <a>Ahsoka's basic lightsaber attacks, after being used to defeat an enemy, will deal bonus damage for a brief period. Her maximum health is also decreased.</a>
                 </div>
             </div>
         </div>
@@ -326,7 +326,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cal/Card_Cal_11_Mid.png">
                 <div class="text">
                     <h4><b>Reforged</b></h4>
-                    <a>SINGLE-BLADED lightsaber attacks deal more damage if they immediately follow successful attacks with the DOUBLE-BLADED lightsaber. This  effect cannot be applied to the same enemy for a short duration.</a>
+                    <a>SINGLE-BLADED lightsaber attacks deal more damage if they immediately follow successful attacks with the DOUBLE-BLADED lightsaber.</a>
                 </div>
             </div>
         </div>
@@ -1519,7 +1519,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_6_Mid.png">
                 <div class="text">
                     <h4><b>Perfected Technique</b></h4>
-                    <a>SINGLE-BLADED lightsaber attacks deal more damage if they immediately follow successful attacks with the DOUBLE-BLADED lightsaber. This effect cannot be applied to the same enemy for a short duration.</a>
+                    <a>SINGLE-BLADED lightsaber attacks deal more damage if they immediately follow successful attacks with the DOUBLE-BLADED lightsaber.</a>
                 </div>
             </div>
         </div>
@@ -1530,7 +1530,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/secondsister/Card_Trilla_9_Mid.png">
                 <div class="text">
                     <h4><b>Let's Finish This</b></h4>
-                    <a>After one enemy has been struck by CUNNING SLASH, the attack will inflict weakness on follow-up hits..</a>
+                    <a>After one enemy has been struck by CUNNING SLASH, the attack will inflict weakness on follow-up hits.</a>
                 </div>
             </div>
         </div>
