@@ -15,7 +15,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <img class="card-background" class="no-lb" src="../../assets/map-variants/night-felucia.png">
     <div class="card-content">
       <div class="card-title">
-        <h3><strong>Felucia</strong></h3>
+        <h3><strong><img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Felucia</strong></h3>
         <p>Night</p>
       </div>
     </div>
@@ -25,7 +25,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <img class="card-background" class="no-lb" src="../../assets/map-variants/day-kamino.png">
     <div class="card-content">
       <div class="card-title">
-        <h3><strong>Kamino</strong></h3>
+        <h3><strong><img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Sunny.svg"> Kamino</strong></h3>
         <p>Day</p>
       </div>
     </div>
@@ -35,7 +35,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <img class="card-background" class="no-lb" src="../../assets/map-variants/night-kamino.png">
     <div class="card-content">
       <div class="card-title">
-        <h3><strong>Kamino</strong></h3>
+        <h3><strong><img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Kamino</strong></h3>
         <p>Night</p>
       </div>
     </div>
@@ -45,7 +45,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <img class="card-background" class="no-lb" src="../../assets/map-variants/cloudy-kashyyyk.png">
     <div class="card-content">
       <div class="card-title">
-        <h3><strong>Kashyyyk</strong></h3>
+        <h3><strong><img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Weather.svg"> Kashyyyk</strong></h3>
         <p>Cloudy</p>
       </div>
     </div>
@@ -55,7 +55,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <img class="card-background" class="no-lb" src="../../assets/map-variants/night-hoth.png">
     <div class="card-content">
       <div class="card-title">
-        <h3><strong>Hoth</strong></h3>
+        <h3><strong><img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Hoth</strong></h3>
         <p>Night</p>
       </div>
     </div>
@@ -65,7 +65,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <img class="card-background" class="no-lb" src="../../assets/map-variants/night-starkiller.png">
     <div class="card-content">
       <div class="card-title">
-        <h3><strong>Starkiller</strong></h3>
+        <h3><strong><img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Starkiller</strong></h3>
         <p>Night</p>
       </div>
     </div>
@@ -75,7 +75,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <img class="card-background" class="no-lb" src="../../assets/map-variants/foggy-ajan.png">
     <div class="card-content">
       <div class="card-title">
-        <h3><strong>Ajan Kloss</strong></h3>
+        <h3><strong><img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Weather.svg"> Ajan Kloss</strong></h3>
         <p>Foggy</p>
       </div>
     </div>
@@ -85,7 +85,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <img class="card-background" class="no-lb" src="../../assets/map-variants/sandstorm-jakku.png">
     <div class="card-content">
       <div class="card-title">
-        <h3><strong>Jakku</strong></h3>
+        <h3><strong><img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Weather.svg"> Jakku</strong></h3>
         <p>Sandstorm</p>
       </div>
     </div>
@@ -97,45 +97,51 @@ Experience the glowing ambience of a night on Felucia or one of Jakku's brutal s
 
 <h3><strong>Ajan Kloss</strong></h3>
 
-- Foggy
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Weather.svg"> Foggy
 
 <h3><strong>Crait</strong></h3> 
 
-- Sunset
-- Snow
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Sunset.svg"> Sunset
+
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Weather.svg"> Snow
 
 <h3><strong>Felucia</strong></h3>
 
-- Night
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Night
 
 <h3><strong>Kamino</strong></h3> 
 
-- Day
-- Night
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Sunny.svg"> Day
+
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Night
 
 <h3><strong>Kashyyyk</strong></h3> 
 
-- Cloudy
-- Night (added to Supremacy)
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Weather.svg"> Cloudy
+
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Night (added to Supremacy)
 
 <h3><strong>Hoth</strong></h3> 
 
-- Added Night variant.
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Night
 
 <h3><strong>Jakku</strong></h3>  
 
-- Sunset (added to Supremacy)
-- Sandstorm
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Sunset.svg"> Sunset (added to Supremacy)
+
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Weather.svg"> Sandstorm
 
 <h3><strong>Naboo</strong></h3> 
 
-- Day (added to Supremacy)
-- Sunset (added to Supremacy)
-- Night (added to Supremacy)
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Sunny.svg"> Day (added to Supremacy)
+
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Sunset.svg"> Sunset (added to Supremacy)
+
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Night (added to Supremacy)
 
 <h3><strong>Starkiller Base</strong></h3>
 
-- Night
+<img class="ability" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Night
 
 ___
 

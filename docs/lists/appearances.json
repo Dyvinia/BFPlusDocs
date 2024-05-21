@@ -21,12 +21,24 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_assault_332nd_company.png"
             },
             {
-                "name": "Lightning Squadron",
-                "image": "../../assets/new-appearances-v2/troopers/clone_assault_lightning_squadron.png"
+                "name": "Captain",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_rank_captain.png"
             },
             {
-                "name": "Clone Cadet",
-                "image": "../../assets/new-appearances-v2/troopers/clone_assault_clone_cadet.png"
+                "name": "Commander",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_rank_commander.png"
+            },
+            {
+                "name": "Lieutenant",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_rank_lieutenant.png"
+            },
+            {
+                "name": "Sergeant",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_rank_sergeant.png"
+            },
+            {
+                "name": "Lightning Squadron",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_lightning_squadron.png"
             },
             {
                 "name": "Spec Ops - Desert",
@@ -35,6 +47,10 @@
             {
                 "name": "Spec Ops - Stealth",
                 "image": "../../assets/new-appearances-v2/troopers/clone_assault_specops_stealth.png"
+            },
+            {
+                "name": "Clone Cadet",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_clone_cadet.png"
             }
         ],
         "heavy": [
@@ -55,12 +71,24 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_heavy_332nd_company.png"
             },
             {
-                "name": "Lightning Squadron",
-                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_lightning_squadron.png"
+                "name": "Captain",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_rank_captain.png"
             },
             {
-                "name": "Clone Cadet",
-                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_clone_cadet.png"
+                "name": "Commander",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_rank_commander.png"
+            },
+            {
+                "name": "Lieutenant",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_rank_lieutenant.png"
+            },
+            {
+                "name": "Sergeant",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_rank_sergeant.png"
+            },
+            {
+                "name": "Lightning Squadron",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_lightning_squadron.png"
             },
             {
                 "name": "Spec Ops - Desert",
@@ -69,6 +97,10 @@
             {
                 "name": "Spec Ops - Stealth",
                 "image": "../../assets/new-appearances-v2/troopers/clone_heavy_specops_stealth.png"
+            },
+            {
+                "name": "Clone Cadet",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_clone_cadet.png"
             }
         ],
         "officer": [
@@ -89,12 +121,24 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_officer_332nd_company.png"
             },
             {
-                "name": "Lightning Squadron",
-                "image": "../../assets/new-appearances-v2/troopers/clone_officer_lightning_squadron.png"
+                "name": "Captain",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_rank_captain.png"
             },
             {
-                "name": "Clone Cadet",
-                "image": "../../assets/new-appearances-v2/troopers/clone_officer_clone_cadet.png"
+                "name": "Commander",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_rank_commander.png"
+            },
+            {
+                "name": "Lieutenant",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_rank_lieutenant.png"
+            },
+            {
+                "name": "Sergeant",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_rank_sergeant.png"
+            },
+            {
+                "name": "Lightning Squadron",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_lightning_squadron.png"
             },
             {
                 "name": "Spec Ops - Desert",
@@ -103,6 +147,10 @@
             {
                 "name": "Spec Ops - Stealth",
                 "image": "../../assets/new-appearances-v2/troopers/clone_officer_specops_stealth.png"
+            },
+            {
+                "name": "Clone Cadet",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_clone_cadet.png"
             },
             {
                 "name": "Pilot",
@@ -131,12 +179,24 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_specialist_332nd_company.png"
             },
             {
-                "name": "Lightning Squadron",
-                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_lightning_squadron.png"
+                "name": "Captain",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_rank_captain.png"
             },
             {
-                "name": "Clone Cadet",
-                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_clone_cadet.png"
+                "name": "Commander",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_rank_commander.png"
+            },
+            {
+                "name": "Lieutenant",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_rank_lieutenant.png"
+            },
+            {
+                "name": "Sergeant",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_rank_sergeant.png"
+            },
+            {
+                "name": "Lightning Squadron",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_lightning_squadron.png"
             },
             {
                 "name": "Spec Ops - Desert",
@@ -145,6 +205,10 @@
             {
                 "name": "Spec Ops - Stealth",
                 "image": "../../assets/new-appearances-v2/troopers/clone_specialist_specops_stealth.png"
+            },
+            {
+                "name": "Clone Cadet",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_clone_cadet.png"
             }
         ],
         "clonejettrooper": [

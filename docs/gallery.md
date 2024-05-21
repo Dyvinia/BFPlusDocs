@@ -1,5 +1,7 @@
 # Gallery
 ![v10cover](assets/community-updates\v10\temp_cover_v10.webp){ .round-corners }
+![felucia-night](assets/map-variants/night-felucia.png){ .gallery-images  }
+![jakku-sandstorm](assets/map-variants/sandstorm-jakku.png){ .gallery-images  }
 ![thrawn](assets/gallery/promo_thrawn.jpg){ .gallery-images  }
 ![padme](assets/gallery/padme.png){ .gallery-images  }
 ![hunter-surrounded](assets/gallery/hunter-surrounded.png){ .gallery-images  }
