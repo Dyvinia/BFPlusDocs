@@ -395,10 +395,10 @@
                 "name": "DC-15",
                 "image": "heavy-blasters/Weapons_DC-15.svg",
     
-                "damage": "31-28",
+                "damage": "40-34",
                 "range": "30-50",
                 "rof": "315",
-                "heat": "0.04",
+                "heat": "0.0635",
     
                 "attachmentOne": {
                     "name": "Berserker",
