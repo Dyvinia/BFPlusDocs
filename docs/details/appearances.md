@@ -2,7 +2,7 @@
 
 <div style="text-align: center">
   <video class="round-corners" autoplay muted loop playsinline disablePictureInPicture>
-    <source src="../../assets/videos/commup_appearances_preview_wide.mp4" type="video/mp4">
+    <source src="../../assets/videos/newappearances_banner.mp4" type="video/mp4">
   </video>
 </div>
 
