@@ -1,5 +1,11 @@
 # Blasters
 
+<div style="text-align: center">
+  <video class="round-corners" autoplay muted loop playsinline disablePictureInPicture>
+    <source src="../../assets/videos/blasters_banner.mp4" type="video/mp4">
+  </video>
+</div>
+
 Join the fray with more than a hundred new abilities available to the Assault, Heavy, Officer, and Specialist. Wield the famous DL-44 heavy blaster pistol, score ricochets around corners with unique weapons like the 773-Firepuncher, support allies with the Medical Droid Star Card, and switch to your sidearm - it's faster than venting! Whatever your choose, Battlefront Plus offers the opportunity to tailor Trooper loadouts to your liking.
 
 <img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="search-toggle"></img>
