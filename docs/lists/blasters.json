@@ -1159,9 +1159,9 @@
                 "heat": "0.3",
     
                 "attachmentOne": {
-                    "name": "Scatter Blast",
-                    "image": "Attach_BarrelExtension.svg",
-                    "jumpto": "#scatterblast"
+                    "name": "Improved Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#scope"
                 },
                 "attachmentTwo": {
                     "name": "Gunslinger",

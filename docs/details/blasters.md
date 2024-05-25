@@ -150,7 +150,7 @@ ___
 
 ### Unique Attachments
 
-<p id="ca87-crouchcontrol"><strong>Crouch Control:</strong> <span style="opacity: 0.69;">Modifies the CA-87 to condense all its blaster bolts while crouched, but decreases its rate of fire.</span></p>
+<p id="ca87-crouchcontrol"><strong><strong><img class="ability" class="no-lb" src="../../assets/attachments/Attach_RangeFinder.svg"> Crouch Control:</strong> <span style="opacity: 0.69;">Modifies the CA-87 to condense all its blaster bolts while crouched, but decreases its rate of fire.</span></p>
 <p id="dc15s-powercell"><strong><img class="ability" class="no-lb" src="../../assets/attachments/Attach_HeavyHanded.svg"> Power Cell:</strong> <span style="opacity: 0.69;">Reduces the blaster's cooling speed to upgrade its damage.</span></p>
 <p id="dp23-choke"><strong><img class="ability" class="no-lb" src="../../assets/attachments/Attach_BarrelExtension.svg"> Choke:</strong> <span style="opacity: 0.69;">Tightens the shock blaster's spread, but worsens recoil.</span></p>
 <p id="dt29-cooling"><strong><img class="ability" class="no-lb" src="../../assets/attachments/Attach_CoolingCell.svg"> Cooling Cell:</strong> <span style="opacity: 0.69;">Enables supercooling of the blaster at the cost of heat build-up.</span></p>
