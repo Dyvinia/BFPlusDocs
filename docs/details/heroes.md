@@ -1,5 +1,11 @@
 # Heroes & Villains
 
+<div style="text-align: center">
+  <video class="round-corners" autoplay muted loop playsinline disablePictureInPicture>
+    <source src="../../assets/videos/heroes_banner.mp4" type="video/mp4">
+  </video>
+</div>
+
 Battlefront Plus adds 22 new heroes across all factions, each with their own unique abilities, Star Cards, and appearances. From iconic, fan favorite characters to more obscure ones, new heroes come from every corner of the Star Wars canon.
 
 ## Heroes
