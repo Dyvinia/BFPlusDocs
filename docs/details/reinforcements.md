@@ -1,5 +1,11 @@
 # Reinforcements
 
+<div style="text-align: center">
+  <video class="round-corners" autoplay muted loop playsinline disablePictureInPicture>
+    <source src="../../assets/videos/reinforcements_banner.mp4" type="video/mp4">
+  </video>
+</div>
+
 Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian Death Gang's elite enforcers, hunt Jedi with the Inquisition's Purge Troopers, or specialize in any of the other 30 new or reworked Reinforcements featured in Battlefront Plus.
 
 ## **The Clone Wars**
