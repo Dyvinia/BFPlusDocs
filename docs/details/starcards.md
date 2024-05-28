@@ -708,7 +708,7 @@ ___
             <div>
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/merrin/Card_Merrin_03_Mid.png">
                 <div class="text">
-                    <h4><b>Might of Dathomir</b></h4>
+                    <h4><b>Strike Now</b></h4>
                     <a>The initial targeting range of MAGICK ROOTS is increased.</a>
                 </div>
             </div>
@@ -719,7 +719,7 @@ ___
             <div>
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/merrin/Card_Merrin_04_Mid.png">
                 <div class="text">
-                    <h4><b>Strike Now</b></h4>
+                    <h4><b>Might of Dathomir</b></h4>
                     <a>Merrin's FIREBALL has improved recharge time and staggers enemies on direct impact.</a>
                 </div>
             </div>
