@@ -481,9 +481,9 @@ ___
     <a class="ability-item" data-text="Back mounted jetpack that utilizes burst thrusters to allow Jango to jet over large distances. It is well suited for traversing obstructions and evading danger.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/jangofett/Jango_JumpPack.svg">
       <span class="ability-name">Jet Boost</span>
-    </a><a class="ability-item" data-text="When dealing damage, Jango Fett gains bonus health. Upon getting kills, he is awarded extra Battle Points.">
+    </a><a class="ability-item" data-text="Jango Fett boosts his health, up to a maximum, based on the number of enemies nearby when the ability was activated.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/jangofett/Jango_Collecting.svg">
-      <span class="ability-name">Collecting Bounties</span>
+      <span class="ability-name">Adaptive Armor</span>
     </a><a class="ability-item" data-text="Jango briefly activates the flamethrower mounted in his gauntlet, incinerating enemies in front of him.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/jangofett/Jango_WristFlamethrower.svg">
       <span class="ability-name">Wrist Flamethower</span>

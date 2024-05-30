@@ -1479,7 +1479,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_2_Mid.png">
                 <div class="text">
                     <h4><b>Just a Simple Man</b></h4>
-                    <a>COLLECTING BOUNTIES has an extended duration.</a>
+                    <a>ADAPTIVE ARMOR has an increased detection radius.</a>
                 </div>
             </div>
         </div>
