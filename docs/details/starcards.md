@@ -388,7 +388,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/rex/Card_1_Mid.png">
                 <div class="text">
                     <h4><b>Still Holds Up</b></h4>
-                    <a>The bonus health Captain Rex gains from GENERATION ONE is increased and has a slightly longer duration.</a>
+                    <a>The damage resistance gained from GENERATION ONE lasts longer.</a>
                 </div>
             </div>
         </div>

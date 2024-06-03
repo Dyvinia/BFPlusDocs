@@ -71,10 +71,10 @@ Battlefront Plus adds 22 new heroes across all factions, each with their own uni
     <a class="ability-item" data-text="Rex can throw up to three EMP grenades that will explode after a short time, stunning enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captainrex/Rex_Grenade.svg">
       <span class="ability-name">Droid Poppers</span>
-    </a><a class="ability-item" data-text="While active, enemies nearby to Rex will have all forms of healing blocked. Rex will additionally have increased sprint speed.">
+    </a><a class="ability-item" data-text="While active, enemies nearby to Rex will have all forms of healing blocked.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captainrex/Rex_HealBlockAura.svg">
       <span class="ability-name">Unconventional Tactics</span>
-    </a><a class="ability-item" data-text="Generation one armor holds up, boosting Rex's health.">
+    </a><a class="ability-item" data-text="Generation one armor holds up, boosting Captain Rex's resistance to incoming damage. As his health decreases, this effect is strengthened, ensuring his ability to stay in the fight.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captainrex/Rex_Fortify.svg">
       <span class="ability-name">Generation One</span>
     </a>
