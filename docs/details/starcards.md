@@ -855,7 +855,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/padme/Card_Padme_5_Mid.png">
                 <div class="text">
                     <h4><b>A Path to Follow</b></h4>
-                    <a>If Padmé is within 20 meters of three friendly units, her nearby allies will receive a small amount of health regeneration.</a>
+                    <a>The duration of ROYAL RESOLVE is increased, but it has a longer recharge time.</a>
                 </div>
             </div>
         </div>

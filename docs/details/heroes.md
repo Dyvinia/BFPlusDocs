@@ -244,7 +244,7 @@ Battlefront Plus adds 22 new heroes across all factions, each with their own uni
     <a class="ability-item" data-text="Padmé temporarily upgrades her ELG-3A's power level. Within a moment of Overcharge's activation, reactivate the ability, up to an additional two times to increase the damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/padme/Padme_Overcharge.svg">
       <span class="ability-name">Overcharge</span>
-    </a><a class="ability-item" data-text="Padmé grants herself and nearby allies increased recharge speed and unlimited blaster cooling.">
+    </a><a class="ability-item" data-text="Padmé inspires her allies to rally together, granting herself and those nearby a small healing aura.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/padme/Padme_Command.svg">
       <span class="ability-name">Royal Resolve</span>
     </a><a class="ability-item" data-text="Summon R2-D2 to support allies with improved capture point speed, radar scan, smoke grenades, and shock attacks. Padmé interacts with objectives faster while R2-D2 is deployed.">
