@@ -913,7 +913,7 @@ ___
     </a><a class="ability-item" data-text="Passively regenerates a small amount of health while active. Retrigger to deactivate ability.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/guaviansecurity/GuavianSecurity_Healing.svg">
       <span class="ability-name">Regeneration</span>
-    </a><a class="ability-item" data-text="Cybernetic reservoir containing a serum that enhances the Guavian Security's attributes. Using abilities will drain this reservoir, which will need to fully replenish itself before it can be used again.">
+    </a><a class="ability-item" data-text="Cybernetic reservoir containing a serum that enhances the Guavian Security's attributes. Using abilities will drain this reservoir, which will deactivate them if emptied.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/guaviansecurity/GuavianSecurity_Supply.svg">
       <span class="ability-name">Reservoir</span>
     </a>
