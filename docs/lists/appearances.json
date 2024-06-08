@@ -21,6 +21,10 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_assault_332nd_company.png"
             },
             {
+                "name": "Kamino Security",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_kaminosecurity.png"
+            },
+            {
                 "name": "Captain",
                 "image": "../../assets/new-appearances-v2/troopers/clone_assault_rank_captain.png"
             },
@@ -37,8 +41,20 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_assault_rank_sergeant.png"
             },
             {
+                "name": "Horn Company",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_horncompany.png"
+            },
+            {
+                "name": "Outer Rim Garrison",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_outerrimgarrison.png"
+            },
+            {
                 "name": "Lightning Squadron",
                 "image": "../../assets/new-appearances-v2/troopers/clone_assault_lightning_squadron.png"
+            },
+            {
+                "name": "Rancor Battalion",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_rancorbattalion.png"
             },
             {
                 "name": "Spec Ops - Desert",
@@ -71,6 +87,10 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_heavy_332nd_company.png"
             },
             {
+                "name": "Kamino Security",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_kaminosecurity.png"
+            },
+            {
                 "name": "Captain",
                 "image": "../../assets/new-appearances-v2/troopers/clone_heavy_rank_captain.png"
             },
@@ -87,8 +107,20 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_heavy_rank_sergeant.png"
             },
             {
+                "name": "Horn Company",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_horncompany.png"
+            },
+            {
+                "name": "Outer Rim Garrison",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_outerrimgarrison.png"
+            },
+            {
                 "name": "Lightning Squadron",
                 "image": "../../assets/new-appearances-v2/troopers/clone_heavy_lightning_squadron.png"
+            },
+            {
+                "name": "Rancor Battalion",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_rancorbattalion.png"
             },
             {
                 "name": "Spec Ops - Desert",
@@ -121,6 +153,10 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_officer_332nd_company.png"
             },
             {
+                "name": "Kamino Security",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_kaminosecurity.png"
+            },
+            {
                 "name": "Captain",
                 "image": "../../assets/new-appearances-v2/troopers/clone_officer_rank_captain.png"
             },
@@ -137,8 +173,20 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_officer_rank_sergeant.png"
             },
             {
+                "name": "Horn Company",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_horncompany.png"
+            },
+            {
+                "name": "Outer Rim Garrison",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_outerrimgarrison.png"
+            },
+            {
                 "name": "Lightning Squadron",
                 "image": "../../assets/new-appearances-v2/troopers/clone_officer_lightning_squadron.png"
+            },
+            {
+                "name": "Rancor Battalion",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_rancorbattalion.png"
             },
             {
                 "name": "Spec Ops - Desert",
@@ -179,6 +227,10 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_specialist_332nd_company.png"
             },
             {
+                "name": "Kamino Security",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_kaminosecurity.png"
+            },
+            {
                 "name": "Captain",
                 "image": "../../assets/new-appearances-v2/troopers/clone_specialist_rank_captain.png"
             },
@@ -195,8 +247,20 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_specialist_rank_sergeant.png"
             },
             {
+                "name": "Horn Company",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_horncompany.png"
+            },
+            {
+                "name": "Outer Rim Garrison",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_outerrimgarrison.png"
+            },
+            {
                 "name": "Lightning Squadron",
                 "image": "../../assets/new-appearances-v2/troopers/clone_specialist_lightning_squadron.png"
+            },
+            {
+                "name": "Rancor Battalion",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_rancorbattalion.png"
             },
             {
                 "name": "Spec Ops - Desert",
