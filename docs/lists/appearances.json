@@ -9,6 +9,10 @@
                 "left": "15%"
             },
             {
+                "name": "41st Elite Corps",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_41st_elitecorps_p2.png"
+            },
+            {
                 "name": "91st Recon Corps",
                 "image": "../../assets/new-appearances-v2/troopers/clone_assault_91st_reconcorps_p2.png"
             },
@@ -23,6 +27,10 @@
             {
                 "name": "Kamino Security",
                 "image": "../../assets/new-appearances-v2/troopers/clone_assault_kaminosecurity.png"
+            },
+            {
+                "name": "Scout Trooper",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_scout.png"
             },
             {
                 "name": "Captain",
@@ -75,6 +83,10 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_heavy_13th_battalion.png"
             },
             {
+                "name": "41st Elite Corps",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_41st_elitecorps_p2.png"
+            },
+            {
                 "name": "91st Recon Corps",
                 "image": "../../assets/new-appearances-v2/troopers/clone_heavy_91st_reconcorps_p2.png"
             },
@@ -89,6 +101,10 @@
             {
                 "name": "Kamino Security",
                 "image": "../../assets/new-appearances-v2/troopers/clone_heavy_kaminosecurity.png"
+            },
+            {
+                "name": "Scout Trooper",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_scout.png"
             },
             {
                 "name": "Captain",
@@ -141,6 +157,10 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_officer_13th_battalion.png"
             },
             {
+                "name": "41st Elite Corps",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_41st_elitecorps_p2.png"
+            },
+            {
                 "name": "91st Recon Corps",
                 "image": "../../assets/new-appearances-v2/troopers/clone_officer_91st_reconcorps_p2.png"
             },
@@ -155,6 +175,10 @@
             {
                 "name": "Kamino Security",
                 "image": "../../assets/new-appearances-v2/troopers/clone_officer_kaminosecurity.png"
+            },
+            {
+                "name": "Scout Trooper",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_scout.png"
             },
             {
                 "name": "Captain",
@@ -215,6 +239,10 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_specialist_13th_battalion.png"
             },
             {
+                "name": "41st Elite Corps",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_41st_elitecorps_p2.png"
+            },
+            {
                 "name": "91st Recon Corps",
                 "image": "../../assets/new-appearances-v2/troopers/clone_specialist_91st_reconcorps_p2.png"
             },
@@ -229,6 +257,10 @@
             {
                 "name": "Kamino Security",
                 "image": "../../assets/new-appearances-v2/troopers/clone_specialist_kaminosecurity.png"
+            },
+            {
+                "name": "Scout Trooper",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_scout.png"
             },
             {
                 "name": "Captain",
@@ -279,6 +311,10 @@
             {
                 "name": "Commander",
                 "image": "../../assets/new-appearances-v2/reinforcements/clone_aerial_jet_commander.png"
+            },
+            {
+                "name": "332nd Company",
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_aerial_jet_332nd_company.png"
             }
         ],
         "combatengineer": [
@@ -292,6 +328,10 @@
             }
         ],
         "clonecommando": [
+            {
+                "name": "Night Ops",
+                "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_commando_night.png"
+            },
             {
                 "name": "Royal Guard",
                 "image": "../../assets/new-appearances-v2/reinforcements/clone_enforcer_commando_royalguard.png"
