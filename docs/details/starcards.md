@@ -1434,7 +1434,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/jangofett/Card_Jango_3_Mid.png">
                 <div class="text">
                     <h4><b>No Mistakes This Time</b></h4>
-                    <a>When Jango Fett defeats an enemy with a SABERDART, his abilities get an extensive recharge bonus.</a>
+                    <a>Eliminating an enemy affected by SABERDART will grant Jango an extensive recharge bonus.</a>
                 </div>
             </div>
         </div>

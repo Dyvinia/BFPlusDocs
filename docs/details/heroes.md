@@ -435,7 +435,7 @@ ___
     <a class="ability-item" data-text="Hask reveals enemies within his line of sight to his allies. When revealed, they will have all forms of healing blocked.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_DebuffEnemy.svg">
       <span class="ability-name">Routing Traitors</span>
-    </a><a class="ability-item" data-text="Hask leads the charge with a modified E-11 Blast Cannon, passively boosting nearby allies with dsiruption immunity.">
+    </a><a class="ability-item" data-text="Hask leads the charge with a modified E-11 Blast Cannon, passively boosting nearby allies with disruption immunity.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_BuffAlly.svg">
       <span class="ability-name">Blast Cannon</span>
     </a><a class="ability-item" data-text="Hask charges up a volatile power blast that ignites a small flame upon impact.">
