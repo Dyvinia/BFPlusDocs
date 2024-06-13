@@ -368,7 +368,7 @@ ___
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -1.75em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/tacticaldroid/Weapons_TacticalDroidE-5.svg">
-      <span class="ability-name">E-5</span>
+      <span class="ability-name">E-5 ACP</span>
     </a>
     <div>
     <a class="ability-item" data-text="Fires a grenade that inflicts lingering damage to those caught in its blast radius.">
