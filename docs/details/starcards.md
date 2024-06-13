@@ -1,6 +1,6 @@
 # Star Cards
 
-Each of the four base classes boasts an array of new Star Cards, from the dreadful Dead Man's Switch to a heavy Flamethrower, creating new ways to play as the Troopers. Every hero featured in Battlefront Plus also has their own set of Star Cards, allowing players to enhance their playstyles with improved stats and ability combos.
+Each of the four base classes boasts an array of new Star Cards, creating new ways to play as the Troopers. Instill your enemies with dread with Dead Man's Switch, torch the halls with the heavy Flamethrower, or support your allies with the Medical Droid and Gonk Droid. Tailor each of the new heroes featured in Battlefront Plus to your liking, with each of them packing their own set of custom Star Cards to allow players to enhance their playstyles with improved stats and ability combos.
 <p style="font-size: 14px; margin-top: -1em; margin-bottom: -1em; opacity: 0.69;">Hint: Hover over images to reveal Star Card descriptions</p>
 
 ## **Troopers**
