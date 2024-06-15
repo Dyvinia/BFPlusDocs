@@ -1,4 +1,4 @@
-for (id of ["","1","2"]) {
+for (id of ["","1","2","3","4","5","6","7"]) {
     let container = document.querySelector(".container-cards");
     if (id != "")
         container = document.getElementById("cards-" + id);

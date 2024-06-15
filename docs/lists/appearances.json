@@ -746,6 +746,14 @@
             {
                 "name": "Royal Guard",
                 "image": "../../assets/new-appearances-v2/reinforcements/empire_enforcer_royalguard.png"
+            },
+            {
+                "name": "Shadow Guard",
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_enforcer_royalguard_shadow.png"
+            },
+            {
+                "name": "Light Armor",
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_enforcer_armor.png"
             }
         ],
         "purgetroopercommander": [
