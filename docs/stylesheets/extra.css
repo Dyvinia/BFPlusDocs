@@ -281,6 +281,16 @@
     margin-right: -1px;
 }
 
+
+.h3-icon {
+    height: 32px;
+    width: 32px;
+    max-width: 32px !important;
+    vertical-align: middle;
+    transform: translateY(-2px);
+    margin-right: -1px;
+}
+
 .ability {
     height: 32px;
     width: 32px;
