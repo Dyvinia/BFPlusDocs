@@ -1358,13 +1358,6 @@
         ],
         "darthvader": [
             {
-                "name": "Archive",
-                "image": "../../assets/new-appearances-v2/heroes/vader_archive.png",
-                "zoom": "127%",
-                "up": "18%",
-                "left": "10%"
-            },
-            {
                 "name": "Battle Damaged",
                 "image": "../../assets/new-appearances-v2/heroes/vader_battle_damaged.png",
                 "zoom": "127%",
@@ -1388,22 +1381,6 @@
                 "zoom": "136%",
                 "up": "32%",
                 "left": "18%"
-            }
-        ],
-        "generalgrievous": [
-            {
-                "name": "General",
-                "image": "../../assets/new-appearances-v2/heroes/grievous_general.png",
-                "zoom": "120%",
-                "up": "10%",
-                "left": "15%"
-            },
-            {
-                "name": "Ruthless",
-                "image": "../../assets/new-appearances-v2/heroes/grievous_mirrormatch.png",
-                "zoom": "120%",
-                "up": "10%",
-                "left": "15%"
             }
         ],
         "grandadmiralthrawn": [
