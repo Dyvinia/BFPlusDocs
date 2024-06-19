@@ -931,8 +931,8 @@ ___
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -0.75em; transform: translateY(-5px);" src="../../assets/abilities/reinfocements/riotcontrol/Weapons_RiotControlSE-44C_and_Z6RiotControlBaton.svg">
-      <span class="ability-name">SE-44C + Z6 Riot Control Baton</span>
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -0.75em; transform: translateY(-5px);" src="../../assets/abilities/reinfocements/riotcontrol/Weapons_Z6RiotControlBaton.svg">
+      <span class="ability-name">Z6 Riot Control Baton</span>
     </a>
     <div>
     <a class="ability-item" data-text="Non-lethal grenade that drastically blinds enemies for a short duration.">
@@ -944,6 +944,9 @@ ___
     </a><a class="ability-item" data-text="Temporarily boosts the Enforcer's health.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/riotcontrol/RiotControl_Fortify.svg">
       <span class="ability-name">Fortify</span>
+    </a><a class="ability-item" data-text="Fully automatic sidearm that can be fired at any time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/riotcontrol/RiotControl_SE-44C.svg">
+      <span class="ability-name">SE-44C</span>
     </a>
     </div>
   </div>
