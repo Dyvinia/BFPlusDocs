@@ -123,7 +123,6 @@ fetch("../../lists/appearances.json").then(response => response.json()).then(dat
         'villains-darthvader',
         'villains-dengar',
         'villains-emperorpalpatine',
-        'villains-generalgrievous',
         'villains-grandadmiralthrawn',
         'villains-gideonhask',
         'villains-greedo',

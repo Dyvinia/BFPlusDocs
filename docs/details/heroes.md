@@ -169,12 +169,15 @@ Battlefront Plus adds 22 new heroes across all factions, each with their own uni
     </h3>
     <a>Maz Kanata had resided at her castle for over a thousand years, witnessing the Dark Side take many forms, when the First Order emerged from hiding. The destruction of the Hosnian System and subsequent subjugation of the galaxy prompted the "Pirate Queen" to take a stand against this new threat.</a>
     <div>
-    <a class="ability-item" data-text="Maz creates an extra volatile reaction to dash forward with her jetpack, causing burn damage to nearby enemies while it is active.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_BurnDash.svg">
-      <span class="ability-name">Burn Dash</span>
+    <a class="ability-item" data-text="Advanced jetpack that enables flight while spending fuel. Its hover mode is activated by aiming down the sight of the blaster while in air.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_Jetpack.svg">
+      <span class="ability-name">Jetpack</span>
     </a><a class="ability-item" data-text="Enemies dealing damage to Maz will recieve a small amount of damage in return.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_Reflect.svg">
       <span class="ability-name">Change in Fortune</span>
+    <a class="ability-item" data-text="Maz creates an extra volatile reaction to dash forward with her jetpack, causing burn damage to nearby enemies while it is active.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_BurnDash.svg">
+      <span class="ability-name">Burn Dash</span>
     </a><a class="ability-item" data-text="Maz equips an MPL-57 grenade launcher that will increase the projectile's fuse time, blast, and launch speed when the trigger is held.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_MPL.svg">
       <span class="ability-name">Adjustable Fuse</span>
