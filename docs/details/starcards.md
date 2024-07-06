@@ -53,21 +53,10 @@ Each of the four base classes boasts an array of new Star Cards, creating new wa
     <div class="item">
         <div class="star-card">
             <div>
-                <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/assault-demodroid.png">
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/assault-mortar.png">
                 <div class="text">
-                    <h4><b>Demolition Droid</b></h4>
-                    <a>Deploys a heavily modified LIN demolitionmech to launch timed explosives into the air.</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="item">
-        <div class="star-card">
-            <div>
-                <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/assault-instigator.png">
-                    <div class="text">
-                    <h4><b>Instigator</b></h4>
-                    <a>The first blaster shot on an enemy deals extra damage. This effect can be applied again to the same enemy after a short duration.</a>
+                    <h4><b>Smart Mortar</b></h4>
+                    <a>Deploys an automated mortar which detects enemies at medium range to fire explosive munitions at.</a>
                 </div>
             </div>
         </div>
@@ -79,6 +68,17 @@ Each of the four base classes boasts an array of new Star Cards, creating new wa
                 <div class="text">
                     <h4><b>Thermal Imploder</b></h4>
                     <a>The THERMAL IMPLODER's compressed heat wave creates a massive implosion, dealing damage in a large radius.</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/assault-instigator.png">
+                    <div class="text">
+                    <h4><b>Instigator</b></h4>
+                    <a>The first blaster shot on an enemy deals extra damage. This effect can be applied again to the same enemy after a short duration.</a>
                 </div>
             </div>
         </div>
@@ -115,10 +115,10 @@ Each of the four base classes boasts an array of new Star Cards, creating new wa
     <div class="item">
         <div class="star-card">
             <div>
-                <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/heavy-flamethrower.png">
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/heavy-rocketlauncher.png">
                 <div class="text">
-                    <h4><b>Flamethrower</b></h4>
-                    <a>Burn out the enemy with the BT X-42 Heavy Flame Projector. While deployed, you passively regenerate health and take reduced damage.</a>
+                    <h4><b>Rocket Launcher</b></h4>
+                    <a>The ROCKET LAUNCHER fires an explosive projectile.</a>
                 </div>
             </div>
         </div>
@@ -126,10 +126,10 @@ Each of the four base classes boasts an array of new Star Cards, creating new wa
     <div class="item">
         <div class="star-card">
             <div>
-                <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/heavy-rocketlauncher.png">
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/heavy-flamethrower.png">
                 <div class="text">
-                    <h4><b>Rocket Launcher</b></h4>
-                    <a>The ROCKET LAUNCHER fires an explosive projectile.</a>
+                    <h4><b>Flamethrower</b></h4>
+                    <a>Burn out the enemy with the BT X-42 Heavy Flame Projector. While deployed, you passively regenerate health and take reduced damage.</a>
                 </div>
             </div>
         </div>
@@ -209,7 +209,7 @@ Each of the four base classes boasts an array of new Star Cards, creating new wa
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/specialist-ionneutralizer.png">
                 <div class="text">
                     <h4><b>Ion Neutralizer</b></h4>
-                    <a>Finely tuned variant of the T-7 Disruptor Rifle that is capable of delivering heavy ion damage to vehicles at long range, but is ineffective against infantry. Must be fully charged and aiming down sights in order to fire.</a>
+                    <a>Finely tuned variant of the T-7 Disruptor Rifle that is capable of delivering heavy ion damage to vehicles at long range, but is ineffective against infantry.</a>
                 </div>
             </div>
         </div>
