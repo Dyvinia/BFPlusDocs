@@ -1,8 +1,4 @@
-for (id of ["","1","2","3","4","5","6","7"]) {
-    let container = document.querySelector(".container-cards");
-    if (id != "")
-        container = document.getElementById("cards-" + id);
-
+for (const container of document.querySelectorAll(".container-cards")) {
     if (container) {
         container.addEventListener("click", (e) => {
             const target = e.target.closest(".card");
