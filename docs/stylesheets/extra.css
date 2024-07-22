@@ -707,7 +707,7 @@ p:target img {
 .search-box {
     padding: 0.25em;
     height: 1rem;
-    width: calc(100% - 26px);
+    width: calc(100% - 24px);
     position: relative;
     float: right;
     outline: none;
@@ -719,8 +719,7 @@ p:target img {
 .search-box-button {
     height: 22px;
     width: 22px;
-    margin-right: 2px;
-    float: right;
+    float: left;
     transition: opacity 125ms !important;
 }
 
