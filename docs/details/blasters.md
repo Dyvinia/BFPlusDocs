@@ -8,8 +8,8 @@
 
 Join the fray with dozens of new blasters available to the Assault, Heavy, Officer, and Specialist. Wield the famous DL-44 heavy blaster pistol, score ricochets around corners with unique weapons like the 773-Firepuncher, sport legendary weapons of old with the DF-95, or select one of the many iconic default blasters, each independent of your faction with unique stats. Don't forget to switch to your sidearm of choice when overheated - it's faster than venting! Whatever your choose, Battlefront Plus offers the opportunity to tailor Trooper loadouts to your liking.
 
-<img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="search-toggle"></img>
 <input class="search-box" type="text" id="search" onkeyup="search(this.id)" placeholder="Search...">
+<img src="../../assets/search.svg" class="search-box-button" class="no-lb" id="search-toggle"></img>
 
 <h2 id="assault" style="margin-bottom: -0.25em;">
     <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Assault_01.svg">
