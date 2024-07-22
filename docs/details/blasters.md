@@ -62,7 +62,8 @@ ___
 
 #### Secondary
 
-<div class="container">
+<div id="officer-secondary-fakeresults" style="color: #aaa; margin-top: -0.4em; display: none;">No Results</div>
+<div id="officer-secondary" class="container">
     <!-- Item Start -->
     <div class="item">
         <div class="trooper-blaster">

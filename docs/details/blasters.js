@@ -96,10 +96,19 @@ function search(id) {
                             .filter(element => element.name.toLowerCase().replace("-", "").replace(" ", "").includes(document.getElementById(id).value.toLowerCase().replace("-", "").replace(" ", "")));
 
             if (filtered.length == 0) {
-                document.getElementById(containerID).innerHTML = `<div style="color: #aaa;margin-top: -0.4em;"">No Results</div>`;
+                document.getElementById(containerID).innerHTML = `<div style="color: #aaa; margin-top: -0.4em;">No Results</div>`;
             }
 
             filtered.forEach(element => document.getElementById(containerID).innerHTML += createBlaster(element));
         });
+    }
+
+    if (document.getElementById(id).value != "") {
+        document.getElementById("officer-secondary").style.display = "none";
+        document.getElementById("officer-secondary-fakeresults").style.display = "block";
+    }
+    else {
+        document.getElementById("officer-secondary").style.display = "block";
+        document.getElementById("officer-secondary-fakeresults").style.display = "none";
     }
 }
