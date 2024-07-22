@@ -184,7 +184,7 @@
     border-radius: 10%;
     margin-right: 10px;
     display: block;
-    background-color: #080808;
+    background-color: #050505;
     border: 2px solid var(--md-primary-fg-color);
 }
   
@@ -232,7 +232,7 @@
     border-radius: 10%;
     margin-right: 10px;
     display: block;
-    background-color: #080808;
+    background-color: #050505;
     border: 2px solid var(--md-primary-fg-color);
 }
 
@@ -419,17 +419,6 @@
 /* Space between heroes */
 .trooper-blaster + .trooper-blaster {
     margin-top: 1em;
-}
-
-.trooper-blaster .portrait {
-    height: 150px;
-    width: 150px;
-    min-width: 150px;
-    border-radius: 10%;
-    margin-right: 10px;
-    display: block;
-    background-color: #080808;
-    border: 2px solid var(--md-primary-fg-color);
 }
   
 .trooper-blaster h3,
