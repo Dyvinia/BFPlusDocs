@@ -523,7 +523,7 @@ ___
     <a class="ability-item" data-text="Deploy a highly explosive device set yo detonate after a short time. While active, your sprint speed is also increased.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_TimeBomb.svg">
       <span class="ability-name">Time Bomb</span>
-    </a><a class="ability-item" data-text="Rebel Intelligence reveals nearby hostiles.">
+    </a><a class="ability-item" data-text="Intelligence gathered from the field reveals nearby hostiles. Defeating enemies with the TRUNCHEON ATTACK will increase the number of scan pulses.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_Scanner.svg">
       <span class="ability-name">Rebel Intel</span>
     </a><a class="ability-item" data-text="Blunt force melee strikes that can be chained into a powerful third strike, that knocks the enemy to the ground.">
@@ -667,7 +667,7 @@ ___
     <a class="ability-item" data-text="Shock grenade that stuns enemies in place.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/purgetroopercommander/PurgeTrooperCommander_StunGrenade.svg">
       <span class="ability-name">Pacification Grenade</span>
-    </a><a class="ability-item" data-text="Scans the vicinity to reveal nearby enemies.">
+    </a><a class="ability-item" data-text="Scans the vicinity to reveal nearby enemies for a short duration. If Jedi are present, the duration is doubled.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/purgetroopercommander/PurgeTrooperCommander_Scanner.svg">
       <span class="ability-name">Inquisition</span>
     </a><a class="ability-item" data-text="Charges up a powerful explosive shot at the cost of additional heat build-up.">
@@ -806,7 +806,7 @@ ___
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_NiktoSmuggler.png">
   <div class="text">
     <h3>
-      <strong>Nikto Smuggler</strong>
+      <strong>Smuggler</strong>
       <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Infiltrator">
         <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
       </a>
