@@ -7,6 +7,7 @@ def on_page_content(html, page, **kwargs):
             link.children.append(AnchorLink('Weather Variants', 'weather', 0))
             link.children.append(AnchorLink('Blasters', 'blasters', 0))
             link.children.append(AnchorLink('Appearances', 'appearances', 0))
+            link.children.append(AnchorLink('Reinforcements', 'reinforcements', 0))
             link.children.append(AnchorLink('Heroes', 'heroes', 0))
             link.children.append(AnchorLink('Release And The Future', 'future', 0))
 
