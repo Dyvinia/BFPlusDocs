@@ -595,7 +595,7 @@
         ],
         "rebelsaboteur": [
             {
-                "name": "Twi'lek",
+                "name": "Namara",
                 "image": "../../assets/new-appearances-v2/reinforcements/rebel_infiltrator_saboteur.png"
             }
         ]
@@ -782,7 +782,7 @@
         ],
         "niktosmuggler": [
             {
-                "name": "Nikto",
+                "name": "Klatooinian",
                 "image": "../../assets/new-appearances-v2/reinforcements/resistance_infiltrator_niktosmuggler.png"
             }
         ]
@@ -1448,12 +1448,6 @@
                 "zoom": "135%",
                 "up": "29%",
                 "left": "14%"
-            }
-        ],
-        "zam": [
-            {
-                "name": "Bounty Hunter",
-                "image": "../../assets/new-appearances-v2/heroes/zam_bountyhunter.png"
             }
         ]
     }

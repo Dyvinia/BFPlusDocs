@@ -109,7 +109,7 @@ Customize your characters with dozens of new appearances added to Troopers, Rein
 <h3 style="font-size: 1.05em; margin-top: -0.5em;"><b>Combat Medic</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="resistance-combatmedic"></div>
 
-<h3 style="font-size: 1.05em;"><b>Nikto Smuggler</b></h3>
+<h3 style="font-size: 1.05em;"><b>Smuggler</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="resistance-niktosmuggler"></div>
 
 
@@ -249,9 +249,6 @@ Customize your characters with dozens of new appearances added to Troopers, Rein
 
 ### **Second Sister**
 <div class="container" style="margin-top: -0.8em;" id="villains-secondsister"></div>
-
-### **Zam Wesell**
-<div class="container" style="margin-top: -0.8em;" id="villains-zam"></div>
 
 ___
 

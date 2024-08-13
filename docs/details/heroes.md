@@ -521,29 +521,6 @@ ___
   </div>
 </div>
 
-<div class="hero">
-  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Zam.png">
-  <div class="text">
-    <h3 id="zam">
-      <strong>Zam Wesell</strong>
-      <img class="weapon-blaster" class="no-lb" style="margin-left: 0em; transform: translateY(4px)" src="../../assets/abilities/heroes/zam/Weapons_KiSteer.svg">
-    </h3>
-    <a>A Clawdite bounty hunter active alongside Jango Fett during the final years of the Galactic Republic, Zam Wesell utilizes her changeling abilities to blend in and catch her opponents off-guard.</a>
-    <div>
-    <a class="ability-item" data-text="Zam deploys a proximity mine that pushes back and dazes enemies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/zam/Ability_Mine.svg">
-      <span class="ability-name">Concussion Mine</span>
-    </a><a class="ability-item" data-text=" Zam equips her KYD-21 sidearm as she disguises herself as the enemy, disappears from radar, and conceals the health bars of herself and all of those around her.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/zam/Ability_DisguisePistol.svg">
-      <span class="ability-name">Disguise</span>
-    </a><a class="ability-item" data-text="Zam marks an enemy to disrupt their weapons and abilities.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/zam/Ability_Sabotage.svg">
-      <span class="ability-name">Sabotage</span>
-    </a>
-    </div>
-  </div>
-</div>
-
 ___
 
 ![main](../assets/gallery/maincover_v2_wide.png){ .round-corners } 

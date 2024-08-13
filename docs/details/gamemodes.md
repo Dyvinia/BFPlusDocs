@@ -153,14 +153,6 @@ Battlefront Plus comes packaged with enhancements to the autoplayers, enabling t
 
 ___
 
-## Instant Action Expanded
-
-![instant-action](../assets/gamemodes/coop-update.png){ .round-corners }
-
-Offline play sees the addition of gamemodes previously unavailable to Instant Action. Battle against AI players in Heroes vs. Villains, Galactic Assault, Blast, and more.
-
-___
-
 ## New Gamemodes
 
 #### Bounty Hunt

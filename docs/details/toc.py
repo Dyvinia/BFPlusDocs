@@ -28,7 +28,6 @@ def on_page_content(html, page, **kwargs):
                     child.children.append(AnchorLink('Greedo', 'greedo', 1))
                     child.children.append(AnchorLink('Jango Fett', 'jango', 1))
                     child.children.append(AnchorLink('Second Sister', 'trilla', 1))
-                    child.children.append(AnchorLink('Zam Wesell', 'zam', 1))
 
     if page.file.src_uri == "details/blasters.md":
         for link in page.toc:
