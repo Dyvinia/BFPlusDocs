@@ -753,7 +753,11 @@
             },
             {
                 "name": "Light Armor",
-                "image": "../../assets/new-appearances-v2/reinforcements/empire_enforcer_armor.png"
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_enforcer_royalguard_armor.png"
+            },
+            {
+                "name": "Praetorian",
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_enforcer_royalguard_praetorian.png"
             }
         ],
         "purgetroopercommander": [

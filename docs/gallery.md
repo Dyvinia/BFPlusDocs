@@ -1,5 +1,6 @@
 # Gallery
 ![v10cover](assets/community-updates\v10\temp_cover_v10.webp){ .round-corners }
+![deathtrooper-flare](assets/gallery/deathtrooper_flare.jpg){ .gallery-images  }
 ![felucia-night](assets/map-variants/night-felucia.png){ .gallery-images  }
 ![jakku-sandstorm](assets/map-variants/sandstorm-jakku.png){ .gallery-images  }
 ![thrawn](assets/gallery/promo_thrawn.jpg){ .gallery-images  }

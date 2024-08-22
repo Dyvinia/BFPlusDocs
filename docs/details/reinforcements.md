@@ -583,12 +583,12 @@ ___
     <a class="ability-item" data-text="The Sonic Imploder uses light and sound to subdue targets, overloading enemies' senses without inflicting very much damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_SonicImploder.svg">
       <span class="ability-name">Sonic Imploder</span>
-    </a><a class="ability-item" data-text="Activates the Death Trooper's advanced helmet sensors, highlighting enemies and revealing their locations on radar.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_MotionScan.svg">
-      <span class="ability-name">Advanced Sensors</span>
-    </a><a class="ability-item" data-text="For a limited time, equip a DLT-19D sniper rifle. Extra time is gained with kills.">
+    </a><a class="ability-item" data-text="Activates an aura that increases headshot damage for the Death Trooper and nearby allies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_FiringSquad.svg">
+      <span class="ability-name">Firing Squad</span>
+    </a><a class="ability-item" data-text="Go behind enemy lines by becoming undetectable to enemy scanners, scrambling their radars, and equipping a powerful DLT-19D sniper rifle. Defeating enemies will extend the active time of OPERATIVE.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_MarksmanRush.svg">
-      <span class="ability-name">Marksman Rush</span>
+      <span class="ability-name">Operative</span>
     </a>
     </div>
   </div>
@@ -692,15 +692,15 @@ ___
       <span class="ability-name">T-21</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Temporarily overcharge the T-21 into a triple burst firing mode.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_BurstMode.svg">
-      <span class="ability-name">Burst Fire</span>
-    </a><a class="ability-item" data-text="Those caught in the Royal Guard's gaze will recieve increased damage.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_RoyalPresence.svg">
-      <span class="ability-name">Royal Presence</span>
     </a><a class="ability-item" data-text="The Royal Guard receives a large damage reduction and bonus health, but only for a short time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_EmperorsWill.svg">
       <span class="ability-name">Emperor's Will</span>
+    </a><a class="ability-item" data-text="Those caught in the Royal Guard's gaze will recieve increased damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_RoyalPresence.svg">
+      <span class="ability-name">Royal Presence</span>
+    <a class="ability-item" data-text="Chain swift melee attacks with SINISTER STRIKES, performing a powerful knockdown on the third and final swing.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_ForcePike.svg">
+      <span class="ability-name">Sinister Strikes</span>
     </a><a class="ability-item" data-text="When near another villain, the Royal Guard will passively gain a small health increase.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_Inspiration.svg">
       <span class="ability-name">Inspiration</span>
@@ -719,13 +719,13 @@ ___
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2.25em; margin-left: -2.1em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/shocktrooper/Weapons_ShockTrooper_SE-14C.svg">
-      <span class="ability-name">SE-14C</span>
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.3em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/shocktrooper/Weapons_ShockTrooper_T-21.svg">
+      <span class="ability-name">T-21</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Kickstarts health regeneration of every allied player within its vicinity.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_BactaGrenade.svg">
-      <span class="ability-name">Bacta Grenade</span>
+    </a><a class="ability-item" data-text="The SE-14C is a blaster pistol that fires 5-round bursts, making it ideal for close-quarter combat.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_SE14C.svg">
+      <span class="ability-name">SE-14C</span>
     </a><a class="ability-item" data-text="Fires canisters that administer a continuous electric shock that deals damage and greatly hinders enemies' vision.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_ShockLauncher.svg">
       <span class="ability-name">Shock Launcher</span>
@@ -757,12 +757,12 @@ ___
     <a class="ability-item" data-text="Deployable decoy that relays enemy locations and disrupt their scanners to display a false enemy. If deployed outdoors, it can be used to call in an orbital strike.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_ScannerBeacon.svg">
       <span class="ability-name">Scanner Beacon</span>
-    </a><a class="ability-item" data-text="The droid provides itself and nearby allies a cooling bonus.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_Support.svg">
-      <span class="ability-name">Mechanical Companion</span>
-    </a><a class="ability-item" data-text="Primes the droid for self-destruct when activated. When fired, it detonates and immediately kills the droid while damaging nearby enemies.">
+    </a><a class="ability-item" data-text="Primes the droid to self-destruct. After 6 seconds, or upon death, it will create an explosion which damages nearby enemies. RETRIGGER ACTION: Cancel self-destruct.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_SelfDestruct.svg">
       <span class="ability-name">Self Destruct</span>
+    </a><a class="ability-item" data-text="Fire two grenades that each deploy a cloud of smoke, obscuring vision in their areas.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_Support.svg">
+      <span class="ability-name">Smoke Grenade</span>
     </a>
     </div>
   </div>
@@ -882,9 +882,9 @@ ___
     </a><a class="ability-item" data-text="Reconfigures the D-93 to spew lingering flames that stick to surfaces.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/flametrooper/Flametrooper_Berserker.svg">
       <span class="ability-name">Blazing Inferno</span>
-    </a><a class="ability-item" data-text="When retriggered, splits into multiple smaller incendiary grenades that deal a small amount of damage to enemies passing through.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/flametrooper/Flametrooper_SplitterFire.svg">
-      <span class="ability-name">Incendiary Splitter</span>
+    </a><a class="ability-item" data-text="Regenerate health while the ability is active. Each enemy defeated prior to activation will increase the duration of the next use up to a maximum.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/flametrooper/Flametrooper_Regen.svg">
+      <span class="ability-name">Infernal Restoration</span>
     </a>
     </div>
   </div>
