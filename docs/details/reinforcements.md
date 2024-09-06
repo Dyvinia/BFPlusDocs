@@ -157,8 +157,8 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
   <div class="text">
     <h3>
       <strong>Gungan Warrior</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Protector">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Protector.svg">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
@@ -332,8 +332,8 @@ ___
   <div class="text">
     <h3>
       <strong>MagnaGuard Protector</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Protector">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Protector.svg">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
@@ -396,8 +396,8 @@ ___
   <div class="text">
     <h3>
       <strong>Honor Guard</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
@@ -405,18 +405,18 @@ ___
       <span class="ability-name">DH-17</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Kickstarts health regeneration of every allied player within the vicinity.">
+    <a class="ability-item" data-text="Projectile canister of bacta mist which immediately disperses on contact, kickstarting the health regeneration of every allied player within its vicinity.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Bacta.svg">
       <span class="ability-name">Bacta Grenade</span>
-    </a><a class="ability-item" data-text="Switches to a modified A280-CFE, equipped with a triple burst mode and ion shots that can more easily take down Imperial Walkers.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_A280CFE.svg">
-      <span class="ability-name">A280-CFE</span>
     </a><a class="ability-item" data-text="The Honor Guard boosts his health and discharges the surrounding area, neutralising all explosive devices.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Defuser.svg">
       <span class="ability-name">Honorable Discharge</span>
+    </a><a class="ability-item" data-text="Deployable proximity mine that will push back and daze enemies. Up to three can be active at a time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_TripMine.svg">
+      <span class="ability-name">Concussion Mine</span>
     </a><a class="ability-item" data-text="Stick close to Heroes to gain bonus health regeneration and boost the radius of Honorable Discharge.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
-      <span class="ability-name">Sentinel</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Bodyguard.svg">
+      <span class="ability-name">Bodyguard</span>
     </a>
     </div>
   </div>
@@ -544,7 +544,7 @@ ___
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.25em; margin-left: -0.75em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/wookieewarrior/Weapons_WookieeWarriorBowcaster.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: 0.15em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/wookieewarrior/Weapons_WookieeWarriorBowcaster.svg">
       <span class="ability-name">Bowcaster</span>
     </a>
     <div>
@@ -688,8 +688,8 @@ ___
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.3em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/royalguard/Weapons_RoyalGuardT21.svg">
-      <span class="ability-name">T-21</span>
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -2.5em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/royalguard/Weapons_RoyalGuardT21.svg">
+      <span class="ability-name">S-195</span>
     </a>
     <div>
     </a><a class="ability-item" data-text="The Royal Guard receives a large damage reduction and bonus health, but only for a short time.">
@@ -714,8 +714,8 @@ ___
   <div class="text">
     <h3>
       <strong>Shock Trooper</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
@@ -733,8 +733,8 @@ ___
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_Disruption.svg">
       <span class="ability-name">Disruption</span>
     </a><a class="ability-item" data-text="Stick close to Heroes to gain bonus health regeneration and an extra bonus upon activating Disruption.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
-      <span class="ability-name">Sentinel</span>
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_Bodyguard.svg">
+      <span class="ability-name">Bodyguard</span>
     </a>
     </div>
   </div>
@@ -926,8 +926,8 @@ ___
   <div class="text">
     <h3>
       <strong>Riot Control Trooper</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">

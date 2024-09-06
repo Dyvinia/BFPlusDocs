@@ -240,6 +240,72 @@ Each of the four base classes boasts an array of new Star Cards, creating new wa
 
 ___
 
+## **Reinforcements** ##
+
+### Sentinel
+
+<div class="container2" style="margin-top: -0.69em;">
+    <!-- Item Start -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/reinforcement/sentinel-04.png">
+                <div class="text">
+                    <h4><b>Sentinel Defense Master</b></h4>
+                    <a>The Sentinel's defensive ability is stronger.</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Item End -->
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/reinforcement/sentinel-02.png">
+                <div class="text">
+                    <h4><b>Evasion</b></h4>
+                    <a>You have +1 Evade and faster Evade recharge times.</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/reinforcement/sentinel-05.png">
+                <div class="text">
+                    <h4><b>Guardian</b></h4>
+                    <a>Regain health when defeating an enemy while you are near allies. The amount of health regained increases, to a maximum of 100, with the number of allies present.</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/reinforcement/sentinel-01.png">
+                <div class="text">
+                    <h4><b>Reckless Protection</b></h4>
+                    <a>For every ability in recharge, you momentarily gain increased resistance to incoming damage.</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <div class="star-card">
+            <div>
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/reinforcement/sentinel-03.png">
+                <div class="text">
+                    <h4><b>Sustained Aggression</b></h4>
+                    <a>Performing 5 successful melee attacks without taking damage will temporarily increase your melee damage.</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+___
+
 ## **Heroes**
 
 ### Ahsoka

@@ -53,6 +53,10 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_assault_104mar.png"
             },
             {
+                "name": "Bomb Squad",
+                "image": "../../assets/new-appearances-v2/troopers/clone_assault_bombsquad.png"
+            },
+            {
                 "name": "Horn Company",
                 "image": "../../assets/new-appearances-v2/troopers/clone_assault_horncompany.png"
             },
@@ -135,6 +139,10 @@
                 "image": "../../assets/new-appearances-v2/troopers/clone_heavy_104mar.png"
             },
             {
+                "name": "Bomb Squad",
+                "image": "../../assets/new-appearances-v2/troopers/clone_heavy_bombsquad.png"
+            },
+            {
                 "name": "Horn Company",
                 "image": "../../assets/new-appearances-v2/troopers/clone_heavy_horncompany.png"
             },
@@ -215,6 +223,10 @@
             {
                 "name": "104th Battalion",
                 "image": "../../assets/new-appearances-v2/troopers/clone_officer_104mar.png"
+            },
+            {
+                "name": "Bomb Squad",
+                "image": "../../assets/new-appearances-v2/troopers/clone_officer_bombsquad.png"
             },
             {
                 "name": "Horn Company",
@@ -305,6 +317,10 @@
             {
                 "name": "104th Battalion",
                 "image": "../../assets/new-appearances-v2/troopers/clone_specialist_104mar.png"
+            },
+            {
+                "name": "Bomb Squad",
+                "image": "../../assets/new-appearances-v2/troopers/clone_specialist_bombsquad.png"
             },
             {
                 "name": "Horn Company",
