@@ -252,6 +252,6 @@ Customize your characters with dozens of new appearances added to Troopers, Rein
 
 ___
 
-![main](../assets/gallery/maincover_v2_wide.png){ .round-corners } 
+![main](../assets/gallery/maincover_v2_wide.webp){ .round-corners } 
 
 <p style="font-size: 12px; text-align: center; margin-top: 2em; margin-bottom: -1em;">Hint: Click on images to zoom</p>

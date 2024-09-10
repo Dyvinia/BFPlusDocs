@@ -12,7 +12,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
 
 <div class="container-cards">
   <div class="card active" >
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-felucia.png">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-felucia.webp">
     <div class="card-content">
       <div class="card-title">
         <h3><strong><img class="h3-icon" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Felucia</strong></h3>
@@ -22,7 +22,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <div class="card-backdrop"></div>
   </div>
   <div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/day-kamino.png">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/day-kamino.webp">
     <div class="card-content">
       <div class="card-title">
         <h3><strong><img class="h3-icon" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Sunny.svg"> Kamino</strong></h3>
@@ -32,7 +32,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <div class="card-backdrop"></div>
   </div>
   <div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-kamino.png">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-kamino.webp">
     <div class="card-content">
       <div class="card-title">
         <h3><strong><img class="h3-icon" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Kamino</strong></h3>
@@ -42,7 +42,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <div class="card-backdrop"></div>
   </div>
   <div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/cloudy-kashyyyk.png">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/cloudy-kashyyyk.webp">
     <div class="card-content">
       <div class="card-title">
         <h3><strong><img class="h3-icon" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Weather.svg"> Kashyyyk</strong></h3>
@@ -52,7 +52,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <div class="card-backdrop"></div>
   </div>
   <div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-hoth.png">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-hoth.webp">
     <div class="card-content">
       <div class="card-title">
         <h3><strong><img class="h3-icon" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Hoth</strong></h3>
@@ -62,7 +62,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <div class="card-backdrop"></div>
   </div>
   <div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-starkiller.png">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/night-starkiller.webp">
     <div class="card-content">
       <div class="card-title">
         <h3><strong><img class="h3-icon" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Night.svg"> Starkiller</strong></h3>
@@ -72,7 +72,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <div class="card-backdrop"></div>
   </div>
   <div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/foggy-ajan.png">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/foggy-ajan.webp">
     <div class="card-content">
       <div class="card-title">
         <h3><strong><img class="h3-icon" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Weather.svg"> Ajan Kloss</strong></h3>
@@ -82,7 +82,7 @@ With Battlefront Plus, various tweaks, backend improvements, and a new gamemode 
     <div class="card-backdrop"></div>
   </div>
   <div class="card">
-    <img class="card-background" class="no-lb" src="../../assets/map-variants/sandstorm-jakku.png">
+    <img class="card-background" class="no-lb" src="../../assets/map-variants/sandstorm-jakku.webp">
     <div class="card-content">
       <div class="card-title">
         <h3><strong><img class="h3-icon" class="no-lb" src="../../assets/map-variants/icons/Daytimes_Weather.svg"> Jakku</strong></h3>
@@ -147,7 +147,7 @@ ___
 
 ## AI Enhanced
 
-![ai-enhanced](../assets/gamemodes/ai-enhanced/autoplayers-kyberv1.png){ .round-corners }
+![ai-enhanced](../assets/gamemodes/ai-enhanced/autoplayers-kyberv1.webp){ .round-corners }
 
 Battlefront Plus comes packaged with enhancements to the autoplayers, enabling them to play some objectives in Strike and Galactic Assault, spawn as special units, and come equipped with a wider selection of blasters, abilities, and skins as troopers.
 
@@ -159,7 +159,7 @@ ___
 
 <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Assault_01.svg"> <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Heavy_01.svg"> <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Officer_01.svg"> <img class="blaster-class" class="no-lb" src="../../assets/classes/Class_Troopers_Specialist_01.svg">
 
-![bountyhunt](../assets/gamemodes/bounty-hunt/bountyhunt-cover.png){ .round-corners }
+![bountyhunt](../assets/gamemodes/bounty-hunt/bountyhunt-cover.webp){ .round-corners }
 
 Two teams face off in a skirmish to claim bounties by eliminating the other's mark. The first team to claim 10 bounties wins the match.  
 (Replaces Hero Showdown)
@@ -170,13 +170,13 @@ ___
 
 #### Yavin IV - Heroes vs Villains
 
-![maptweaks-hvv-yavin](../assets/gamemodes/map-tweaks/hvv-yavin.png){ .round-corners }
+![maptweaks-hvv-yavin](../assets/gamemodes/map-tweaks/hvv-yavin.webp){ .round-corners }
 
 - Relocated from the Great Temple to the ruins.
 
 #### Kamino - Supremacy
 
-![maptweaks-sup-kam](../assets/gamemodes/map-tweaks/sup-kamino.png){ .round-corners }
+![maptweaks-sup-kam](../assets/gamemodes/map-tweaks/sup-kamino.webp){ .round-corners }
 
 - Relocated objectives to place more emphasis on placing the battle across the middle of the map.
 
@@ -185,7 +185,7 @@ ___
 
 #### Jakku - Supremacy
 
-![maptweaks-sup-jakku](../assets/gamemodes/map-tweaks/sup-jakku.png){ .round-corners }
+![maptweaks-sup-jakku](../assets/gamemodes/map-tweaks/sup-jakku.webp){ .round-corners }
 
 - Near total overhaul to shift the battle to the open section of the downed Star Destroyer.
 
@@ -195,4 +195,4 @@ ___
 
 ___
 
-![main](../assets/gallery/maincover_v2_wide.png){ .round-corners } 
+![main](../assets/gallery/maincover_v2_wide.webp){ .round-corners } 

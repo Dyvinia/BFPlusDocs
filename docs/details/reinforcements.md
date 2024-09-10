@@ -982,4 +982,4 @@ ___
 
 ___
 
-![main](../assets/gallery/maincover_v2_wide.png){ .round-corners } 
+![main](../assets/gallery/maincover_v2_wide.webp){ .round-corners } 
