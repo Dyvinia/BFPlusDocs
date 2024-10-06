@@ -70,6 +70,7 @@ fetch("../../lists/appearances.json").then(response => response.json()).then(dat
         'empire-specialist',
         'empire-imperialjumptrooper',
         'empire-royalguard',
+        'empire-shocktrooper',
         'empire-purgetroopercommander',
         'empire-viperprobedroid',
 

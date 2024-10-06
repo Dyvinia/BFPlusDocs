@@ -94,11 +94,11 @@ ___
         <div class="trooper-blaster">
             <div>
                 <h3>
-                    Scrambler Binoculars
+                    Airstrike Binoculars
                 </h3>
                 <img class="trooper-blaster-weapon" class="no-lb" style="margin-right: 0.1em; margin-left: 0; transform: translateY(-1px);" src="../../assets/blasters/officer-sidearms/Binocs_DroidBinocs.svg">
             </div>
-            <div class="blaster-trait">Ping a location that will scramble radars and negate the effects of Gonk Droids and Medical Droids in close proximity to the marker. These macrobinoculars pair well with an officer seeking to throw off the enemy.</div>
+            <div class="blaster-trait">Ping a location that will be bombarded by a proton torpedo. These macrobinoculars will serve an officer who intends to obliterate the enemy. Requires waiting 60 seconds or defeating 5 enemies after spawning to be used. Can only be triggered outdoors.</div>
         </div>
     </div>
 </div>

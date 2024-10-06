@@ -95,7 +95,7 @@ Each of the four base classes boasts an array of new Star Cards, creating new wa
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/heavy-withstanding.png">
                 <div class="text">
                     <h4><b>Withstanding</b></h4>
-                    <a>You have increased maximum health, but your health regeneration is slower.</a>
+                    <a>Gain bonus health when your MIDDLE ABILITY is activated.</a>
                 </div>
             </div>
         </div>
@@ -145,8 +145,8 @@ Each of the four base classes boasts an array of new Star Cards, creating new wa
             <div>
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/trooper/officer-revenge.png">
                 <div class="text">
-                    <h4><b>Revenge</b></h4>
-                    <a>Enemies who have defeated you will be temporarily revealed to you and your team for retaliation.</a>
+                    <h4><b>Mechanical Companion</b></h4>
+                    <a>While your RIGHT ABILITY is active, you will slowly regenerate health.</a>
                 </div>
             </div>
         </div>
@@ -549,7 +549,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cody/Card_5_Mid.png">
                 <div class="text">
                     <h4><b>Armored Up</b></h4>
-                    <a>Commander Cody spawns with extra bonus health.</a>
+                    <a>Commander Cody spawns with extra bonus health and replenishes some whenever he defeats an enemy.</a>
                 </div>
             </div>
         </div>
@@ -1326,7 +1326,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/hask/Card_Hask_4_Mid.png">
                 <div class="text">
                     <h4><b>Imperial Valor</b></h4>
-                    <a>While Hask is using BLAST CANNON, his nearby allies will receive damage reduction, which increases in strength with every 5 troopers defeated or 500 damage dealt to heroes to a maximum.</a>
+                    <a>While Hask is using BLAST CANNON, his nearby allies will receive damage reduction, which increases in strength with every 3 enemies defeated to a maximum.</a>
                 </div>
             </div>
         </div>

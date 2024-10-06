@@ -166,32 +166,45 @@ Two teams face off in a skirmish to claim bounties by eliminating the other's ma
 
 ___
 
+## Arcade Upgrades
+
+![arcade](../assets/gamemodes/arcade/arcadeimprovements-cover.webp){ .round-corners }
+
+Arcade has received substantial improvements to its gameplay and stability, creating more interesting ways to play fully offline and in split-screen coop.
+
+#### Autoplayers
+
+Arcade's BattleAI have been replaced with Autoplayers, greatly improving the capabilities of the bots. They now have the ability to spawn as Reinforcements and Heroes as time progresses in Team Blast and Onslaught.
+
+#### Onslaught Survival
+
+- Survive as long as you can against increasingly strong enemy forces in this overhaul to the Onslaught gamemode. As time goes on, the enemy will continuously bolster their forces with greater numbers and stronger units.
+- In this mode, Troopers have increased health.
+- Use the INTENSITY setting to adjust the speed at which the enemy gains extra units. 
+
+#### Heroes Versus Villains
+
+Whether it's Team Blast or the newly reworked Onslaught, select the "Play As: Heroes Versus Villains" option to clash with iconic characters across the history of the galaxy.
+
+___
+
 ## Map Tweaks
 
 #### Yavin IV - Heroes vs Villains
 
 ![maptweaks-hvv-yavin](../assets/gamemodes/map-tweaks/hvv-yavin.webp){ .round-corners }
 
-- Relocated from the Great Temple to the ruins.
-
-#### Kamino - Supremacy
-
-![maptweaks-sup-kam](../assets/gamemodes/map-tweaks/sup-kamino.webp){ .round-corners }
-
-- Relocated objectives to place more emphasis on placing the battle across the middle of the map.
-
-    - B. Crashed LAAT  
-    - D. Bridges  
+Relocated from the Great Temple to the ruins.
 
 #### Jakku - Supremacy
 
 ![maptweaks-sup-jakku](../assets/gamemodes/map-tweaks/sup-jakku.webp){ .round-corners }
 
-- Near total overhaul to shift the battle to the open section of the downed Star Destroyer.
+Near total overhaul to shift the battle to the open section of the downed Star Destroyer.
 
-    - A. Security Center  
-    - D. Scavenger Outpost  
-    - E. Pillaged Hideout
+ - A. Security Center  
+ - D. Scavenger Outpost  
+ - E. Pillaged Hideout
 
 ___
 

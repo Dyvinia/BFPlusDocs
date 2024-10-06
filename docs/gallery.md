@@ -1,5 +1,6 @@
 # Gallery
 ![v10cover](assets/community-updates\v10\temp_cover_v10.webp){ .round-corners }
+![royalguard_praetorian](assets/gallery/royalguard_praetorian.webp){ .gallery-images  }
 ![deathtrooper-flare](assets/gallery/deathtrooper_flare.webp){ .gallery-images  }
 ![felucia-night](assets/map-variants/night-felucia.webp){ .gallery-images  }
 ![jakku-sandstorm](assets/map-variants/sandstorm-jakku.webp){ .gallery-images  }
@@ -27,9 +28,9 @@
 ![sandtroopersentry](assets/gallery/sandtroopersentry.webp){ .gallery-images  }
 ![jangokamino](assets/gallery/jangokamino.webp){ .gallery-images  }
 ![rebelrocketjump](assets/gallery/rebelrocketjump.webp){ .gallery-images  }
-![grievious](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1649279330-769874065.webp){ .gallery-images }
+![grievious](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1649279330-769874065.png){ .gallery-images }
 ![maincover_v2](assets/gallery/maincover_v2.webp){ .round-corners }  
-![maincover_v1.5](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1674924853-1190615040.webp){ .round-corners }
+![maincover_v1.5](https://staticdelivery.nexusmods.com/mods/2229/images/7592/7592-1674924853-1190615040.png){ .round-corners }
 ![maincover_v1](assets/gallery/maincover_v1.webp){ .round-corners }  
 
 <p style="font-size: 12px; text-align: center; margin-top: 2em; margin-bottom: -1em;">Hint: Click on images to zoom</p>

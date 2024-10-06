@@ -350,9 +350,6 @@ ___
     </a><a class="ability-item" data-text="Each hit with the Electropike becomes more powerful and damaging to any opponent for a brief period.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/magnaguardprotector/MagnaGuardProtector_DamageBuff.svg">
       <span class="ability-name">Droid Rage</span>
-    </a><a class="ability-item" data-text="Temporarily boost the IG-100's health to a surplus. Encountering damage during the process will cancel the effect.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/magnaguardprotector/MagnaGuardProtector_ShieldBuff.svg">
-      <span class="ability-name">Shield</span>
     </div>
   </div>
 </div>
@@ -408,15 +405,12 @@ ___
     <a class="ability-item" data-text="Projectile canister of bacta mist which immediately disperses on contact, kickstarting the health regeneration of every allied player within its vicinity.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Bacta.svg">
       <span class="ability-name">Bacta Grenade</span>
-    </a><a class="ability-item" data-text="The Honor Guard boosts his health and discharges the surrounding area, neutralising all explosive devices.">
+    </a><a class="ability-item" data-text="The Honor Guard discharges the surrounding area, neutralising all explosive devices. It will additionally grant the user bonus health if at least two allies are nearby.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Defuser.svg">
       <span class="ability-name">Honorable Discharge</span>
     </a><a class="ability-item" data-text="Deployable proximity mine that will push back and daze enemies. Up to three can be active at a time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_TripMine.svg">
       <span class="ability-name">Concussion Mine</span>
-    </a><a class="ability-item" data-text="Stick close to Heroes to gain bonus health regeneration and boost the radius of Honorable Discharge.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Bodyguard.svg">
-      <span class="ability-name">Bodyguard</span>
     </a>
     </div>
   </div>
@@ -432,17 +426,17 @@ ___
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0em; margin-left: -0.25em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/rebelcommando/Weapons_RebelCommandoRelbyV10.svg">
-      <span class="ability-name">Relby-V10</span>
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0em; margin-left: -0.25em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/rebelcommando/Weapons_RebelCommando_T39P.svg">
+      <span class="ability-name">T-39P</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Switches the Relby-V10 into a grenade firing mode. Limited ammo, but can be resupplied by Officers using recharge command.">
+    </a><a class="ability-item" data-text="Deploy a flare for resupply, recharging the abilities of nearby allies. Instantly refreshes STIM PACKS and MICROGRENADE LAUNCHER ammunition.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelcommando/RebelCommando_Flare.svg">
+      <span class="ability-name">Resupply Flare</span>
+    <a class="ability-item" data-text="Equip a rapid-fire microgrenade launcher. Ammo is limited, but has a chance of being replenished from defeated foes.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelcommando/RebelCommando_Barrage.svg">
-      <span class="ability-name">Grenadier</span>
-    </a><a class="ability-item" data-text="Switches the Relby-V10 into an automatic firing mode allowing for faster firing with less accuracy.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelcommando/RebelCommando_Repeater.svg">
-      <span class="ability-name">Repeater Mode</span>
-    </a><a class="ability-item" data-text="Injects the Commando with stimulants that boosts movement speed and starts health regen instantly. Limited uses.">
+      <span class="ability-name">Microgrenade Launcher</span>
+    </a><a class="ability-item" data-text="Bacta canisters which boost movement speed and initiate health regeneration. Limited in supply, but have a chance to be scavenged from defeated foes.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelcommando/RebelCommando_StimPacks.svg">
       <span class="ability-name">Stim Packs</span>
     </a>
@@ -554,7 +548,7 @@ ___
     </a><a class="ability-item" data-text="Modifies the primary fire mode and supercools the barrel to prevent heat buildup.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/wookieewarrior/WookieeWarrior_Overload.svg">
       <span class="ability-name">Overload</span>
-    </a><a class="ability-item" data-text="The Wookiee Warrior smals his fists into the ground, dealing damage and knocking enemies off their feet. When successfully hitting an enemy, the warrior replenishes a portion of his base health. Sustaining damage will build the Wookiee's rage, increasing the radius of the ability.">
+    </a><a class="ability-item" data-text="Ground pound attack which deals heavy damage and knocks enemies off their feet, restoring health for each successful hit. Sustaining damage will increase the radius of the ability.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/wookieewarrior/WookieeWarrior_Slam.svg">
       <span class="ability-name">Slam</span>
     </a>
@@ -701,9 +695,6 @@ ___
     <a class="ability-item" data-text="Chain swift melee attacks with SINISTER STRIKES, performing a powerful knockdown on the third and final swing.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_ForcePike.svg">
       <span class="ability-name">Sinister Strikes</span>
-    </a><a class="ability-item" data-text="When near another villain, the Royal Guard will passively gain a small health increase.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_Inspiration.svg">
-      <span class="ability-name">Inspiration</span>
     </a>
     </div>
   </div>
@@ -729,12 +720,9 @@ ___
     </a><a class="ability-item" data-text="Fires canisters that administer a continuous electric shock that deals damage and greatly hinders enemies' vision.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_ShockLauncher.svg">
       <span class="ability-name">Shock Launcher</span>
-    </a><a class="ability-item" data-text="A modified defusion device which creates a burst of ionized energy that overheats enemy weapons, defuses explosives, and temporarily disables turrets.">
+    </a><a class="ability-item" data-text="A modified defusion device which creates a burst of ionized energy that overheats enemy weapons, defuses explosives, and temporarily disables turrets. If used while at least 2 allies are nearby, the Shock Trooper gains brief supercooling.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_Disruption.svg">
       <span class="ability-name">Disruption</span>
-    </a><a class="ability-item" data-text="Stick close to Heroes to gain bonus health regeneration and an extra bonus upon activating Disruption.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_Bodyguard.svg">
-      <span class="ability-name">Bodyguard</span>
     </a>
     </div>
   </div>

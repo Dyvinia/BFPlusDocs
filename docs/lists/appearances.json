@@ -639,6 +639,10 @@
                 "image": "../../assets/new-appearances-v2/troopers/empire_assault_tk_trooper.webp"
             },
             {
+                "name": "Weapons Technician",
+                "image": "../../assets/new-appearances-v2/troopers/empire_assault_gunner.webp"
+            },
+            {
                 "name": "Commander",
                 "image": "../../assets/new-appearances-v2/troopers/empire_assault_commander.webp"
             },
@@ -673,6 +677,10 @@
                 "image": "../../assets/new-appearances-v2/troopers/empire_heavy_tk_trooper.webp"
             },
             {
+                "name": "Weapons Technician",
+                "image": "../../assets/new-appearances-v2/troopers/empire_heavy_gunner.webp"
+            },
+            {
                 "name": "Commander",
                 "image": "../../assets/new-appearances-v2/troopers/empire_heavy_commander.webp"
             },
@@ -705,6 +713,10 @@
             {
                 "name": "TK Trooper",
                 "image": "../../assets/new-appearances-v2/troopers/empire_officer_tk_trooper.webp"
+            },
+            {
+                "name": "Weapons Technician",
+                "image": "../../assets/new-appearances-v2/troopers/empire_officer_gunner.webp"
             },
             {
                 "name": "Commander",
@@ -747,6 +759,10 @@
             {
                 "name": "TK Trooper",
                 "image": "../../assets/new-appearances-v2/troopers/empire_specialist_tk_trooper.webp"
+            },
+            {
+                "name": "Weapons Technician",
+                "image": "../../assets/new-appearances-v2/troopers/empire_specialist_gunner.webp"
             }
         ],
         "imperialjumptrooper": [
@@ -774,6 +790,16 @@
             {
                 "name": "Praetorian",
                 "image": "../../assets/new-appearances-v2/reinforcements/empire_enforcer_royalguard_praetorian.webp"
+            }
+        ],
+        "shocktrooper": [
+            {
+                "name": "Shock Trooper",
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_enforcer_shocktrooper.webp"
+            },
+            {
+                "name": "Shock Trooper Heavy",
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_enforcer_shocktrooper_heavy.webp"
             }
         ],
         "purgetroopercommander": [

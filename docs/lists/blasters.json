@@ -2,10 +2,10 @@
     "assault": {
         "primary": [
             {
-                "name": "A280C",
+                "name": "A295",
                 "image": "assault-blasters/Weapons_A280C.svg",
     
-                "damage": "25-12",
+                "damage": "31-16",
                 "range": "10-60",
                 "rof": "400",
                 "heat": "0.038",
@@ -87,10 +87,10 @@
                 "name": "F-11D",
                 "image": "assault-blasters/Weapons_F-11D.svg",
     
-                "damage": "60-50",
-                "range": "30-40",
-                "rof": "200",
-                "heat": "0.1",
+                "damage": "40-22",
+                "range": "30-60",
+                "rof": "270",
+                "heat": "0.06",
     
                 "attachmentOne": {
                     "name": "Sharpshooter",

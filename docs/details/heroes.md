@@ -45,7 +45,7 @@ Battlefront Plus adds 22 new heroes across all factions, each with their own uni
     <a class="ability-item" data-text="Cal uses the Force to freeze enemies in front of him. By charging up this ability, he can extend the reach of this ability.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/calkestis/Cal_Freeze.svg">
       <span class="ability-name">Force Stasis</span>
-    </a><a class="ability-item" data-text="Cal switches forms to attack with a Double-Bladed lightsaber, increasing his stamina but reducing damage.">
+    </a><a class="ability-item" data-text="Cal switches forms to attack with a Double-Bladed lightsaber, increasing his stamina but reducing damage and deflection accuracy.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/calkestis/Cal_DoubleLightsaber.svg">
       <span class="ability-name">Double-Bladed</span>
     </a><a class="ability-item" data-text="Cal injects himself with a Stim Canister, instantly replenishing a large portion of his health.">
@@ -510,10 +510,10 @@ ___
     <a class="ability-item" data-text="The Second Sister saps the life force from enemies in front of her to heal herself. This effect is amplified with a higher number of victims.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/secondsister/SecondSister_ForceDrain.svg">
       <span class="ability-name">Force Drain</span>
-    </a><a class="ability-item" data-text="The Second Sister switches forms to attack with a Double-Bladed lightsaber, increasing her stamina but reducing damage.">
+    </a><a class="ability-item" data-text="The Second Sister switches forms to attack with a Double-Bladed lightsaber, increasing her stamina but reducing damage and deflection accuracy.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/secondsister/SecondSister_DoubleLightsaber.svg">
       <span class="ability-name">Double-Bladed</span>
-    </a><a class="ability-item" data-text="The Second Sister lunges forward with a deadly slash that knocks enemies onto the ground.">
+    </a><a class="ability-item" data-text="The Second Sister lunges forward with a deadly slash that knocks enemies onto the ground. While the DOUBLE-BLADED stance is active, the radius of the attack is increased but its damage is reduced.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/secondsister/SecondSister_Lunge.svg">
       <span class="ability-name">Cunning Slash</span>
     </a>
