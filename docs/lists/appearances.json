@@ -1124,6 +1124,15 @@
                 "left": "16%"
             }
         ],
+        "lando": [
+            {
+                "name": "High Roller",
+                "image": "../../assets/new-appearances-v2/heroes/lando_highroller.webp",
+                "zoom": "130%",
+                "up": "22%",
+                "left": "22%"
+            }
+        ],
         "leia": [
             {
                 "name": "Bespin Escape",

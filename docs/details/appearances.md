@@ -175,6 +175,9 @@ Customize your characters with dozens of new appearances added to Troopers, Rein
 ### **Hunter**
 <div class="container" style="margin-top: -0.8em;" id="heroes-hunter"></div>
 
+### **Lando Calrissian**
+<div class="container" style="margin-top: -0.8em;" id="heroes-lando"></div>
+
 ### **Princess Leia**
 <div class="container" style="margin-top: -0.8em;" id="heroes-leia"></div>
 

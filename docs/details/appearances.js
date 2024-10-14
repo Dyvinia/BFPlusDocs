@@ -104,6 +104,7 @@ fetch("../../lists/appearances.json").then(response => response.json()).then(dat
         'heroes-finn',
         'heroes-hansolo',
         'heroes-hunter',
+        'heroes-lando',
         'heroes-leia',
         'heroes-luke',
         'heroes-maz',

@@ -19,6 +19,11 @@
                     "name": "Escape Artist",
                     "image": "Attach_EscapeArtist.svg",
                     "jumpto": "#escapeartist"
+                },
+                "attachmentThree": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
                 }
             },
             {
@@ -39,6 +44,11 @@
                     "name": "Focused Fire",
                     "image": "Attach_Stock.svg",
                     "jumpto": "#focusedfire"
+                },
+                "attachmentThree": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
                 }
             },
             {
@@ -51,14 +61,19 @@
                 "heat": "0.055",
     
                 "attachmentOne": {
-                    "name": "Berserker",
-                    "image": "Attach_Berserker.svg",
-                    "jumpto": "#berserker"
+                    "name": "Flashlight",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#flashlight"
                 },
                 "attachmentTwo": {
                     "name": "Elite Blaster",
                     "image": "Attach_Elite.svg",
                     "jumpto": "#eliteblaster"
+                },
+                "attachmentThree": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 }
             },
             {
@@ -81,6 +96,11 @@
                     "name": "Bulldog RLR",
                     "image": "Attach_Trigger.svg",
                     "jumpto": "#e5-rocket"
+                },
+                "attachmentThree": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
                 }
             },
             {
@@ -93,14 +113,19 @@
                 "heat": "0.06",
     
                 "attachmentOne": {
-                    "name": "Sharpshooter",
+                    "name": "Critical Shot",
                     "image": "Attach_Sharpshooter.svg",
-                    "jumpto": "#sharpshooter"
+                    "jumpto": "#critical"
                 },
                 "attachmentTwo": {
                     "name": "Explosive Shot",
                     "image": "Attach_BarrelExtension.svg",
                     "jumpto": "#explosive"
+                },
+                "attachmentThree": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
                 }
             },
             {
@@ -121,6 +146,11 @@
                     "name": "Crouch Control",
                     "image": "Attach_RangeFinder.svg",
                     "jumpto": "#ca87-crouchcontrol"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -133,14 +163,19 @@
                 "heat": "0.062",
     
                 "attachmentOne": {
-                    "name": "Explosive Shot",
-                    "image": "Attach_BarrelExtension.svg",
-                    "jumpto": "#explosive"
+                    "name": "Seeker Tactics",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#seeker"
                 },
                 "attachmentTwo": {
                     "name": "Elite Blaster",
                     "image": "Attach_Elite.svg",
                     "jumpto": "#eliteblaster"
+                },
+                "attachmentThree": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 }
             },
             {
@@ -154,13 +189,18 @@
     
                 "attachmentOne": {
                     "name": "Seeker Tactics",
-                    "image": "Attach_Stock.svg",
+                    "image": "Attach_RangeFinder.svg",
                     "jumpto": "#seeker"
                 },
                 "attachmentTwo": {
                     "name": "Sugi",
                     "image": "Attach_Elite.svg",
                     "jumpto": "#ee3-sugi"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -173,14 +213,19 @@
                 "heat": "0.08",
     
                 "attachmentOne": {
-                    "name": "Light Shot",
-                    "image": "Attach_CoolingCell.svg",
-                    "jumpto": "#lightshot"
+                    "name": "Seeker Tactics",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#seeker"
                 },
                 "attachmentTwo": {
                     "name": "Ion Shot",
                     "image": "Attach_Barrel.svg",
                     "jumpto": "#ionshot"
+                },
+                "attachmentThree": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
                 }
             },
             {
@@ -193,14 +238,19 @@
                 "heat": "0.1",
     
                 "attachmentOne": {
-                    "name": "Berserker",
-                    "image": "Attach_Berserker.svg",
-                    "jumpto": "#berserker"
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
                 },
                 "attachmentTwo": {
-                    "name": "Light Shot",
-                    "image": "Attach_CoolingCell.svg",
-                    "jumpto": "#lightshot"
+                    "name": "Precision Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#precisionblaster"
+                },
+                "attachmentThree": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
                 }
             },
             {
@@ -214,13 +264,18 @@
     
                 "attachmentOne": {
                     "name": "Seeker Tactics",
-                    "image": "Attach_Stock.svg",
+                    "image": "Attach_RangeFinder.svg",
                     "jumpto": "#seeker"
                 },
                 "attachmentTwo": {
                     "name": "Night Vision",
                     "image": "Attach_Scope.svg",
                     "jumpto": "#nightvision"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -239,8 +294,13 @@
                 },
                 "attachmentTwo": {
                     "name": "Seeker Tactics",
-                    "image": "Attach_Stock.svg",
+                    "image": "Attach_RangeFinder.svg",
                     "jumpto": "#seeker"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -253,14 +313,19 @@
                 "heat": "0.66",
     
                 "attachmentOne": {
-                    "name": "Slug",
-                    "image": "Attach_RangeFinder.svg",
-                    "jumpto": "#t12-slug"
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
                 },
                 "attachmentTwo": {
                     "name": "Both Barrels",
                     "image": "Attach_Trigger.svg",
                     "jumpto": "#t12-oneshot"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -273,14 +338,19 @@
                 "heat": "0.03125",
     
                 "attachmentOne": {
-                    "name": "Ranger Conversion",
-                    "image": "Attach_RangeFinder.svg",
-                    "jumpto": "#t39p-invertrange"
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
                 },
                 "attachmentTwo": {
                     "name": "Stabilizer",
                     "image": "Attach_Barrel.svg",
                     "jumpto": "#phasmashot"
+                },
+                "attachmentThree": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
                 }
             },
             {
@@ -303,6 +373,11 @@
                     "name": "Escape Artist",
                     "image": "Attach_EscapeArtist.svg",
                     "jumpto": "#escapeartist"
+                },
+                "attachmentThree": {
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
                 }
             },
             {
@@ -325,6 +400,11 @@
                     "name": "Escape Artist",
                     "image": "Attach_EscapeArtist.svg",
                     "jumpto": "#escapeartist"
+                },
+                "attachmentThree": {
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
                 }
             }
         ],
@@ -401,14 +481,19 @@
                 "heat": "0.0635",
     
                 "attachmentOne": {
-                    "name": "Berserker",
-                    "image": "Attach_Berserker.svg",
-                    "jumpto": "#berserker"
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 },
                 "attachmentTwo": {
                     "name": "Elite Blaster",
                     "image": "Attach_Elite.svg",
                     "jumpto": "#eliteblaster"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -429,6 +514,11 @@
                     "name": "Escape Artist",
                     "image": "Attach_EscapeArtist.svg",
                     "jumpto": "#escapeartist"
+                },
+                "attachmentThree": {
+                    "name": "Flashlight",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#flashlight"
                 }
             },
             {
@@ -449,13 +539,16 @@
                     "name": "Focused Fire",
                     "image": "Attach_Stock.svg",
                     "jumpto": "#focusedfire"
+                },
+                "attachmentThree": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
                 }
             },
             {
                 "name": "M-45",
                 "image": "heavy-blasters/Weapons_M-45.svg",
-
-                "trait": "Ionized blaster bolts",
     
                 "damage": "16-13",
                 "range": "20-40",
@@ -471,6 +564,11 @@
                     "name": "Stabilizer",
                     "image": "Attach_RangeFinder.svg",
                     "jumpto": "#stabilizer"
+                },
+                "attachmentThree": {
+                    "name": "Ion Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#ionshot"
                 }
             },
             {
@@ -489,8 +587,13 @@
                 },
                 "attachmentTwo": {
                     "name": "Seeker Tactics",
-                    "image": "Attach_Stock.svg",
+                    "image": "Attach_RangeFinder.svg",
                     "jumpto": "#seeker"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -511,6 +614,11 @@
                     "name": "Critical Shot",
                     "image": "Attach_Sharpshooter.svg",
                     "jumpto": "#critical"
+                },
+                "attachmentThree": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#seeker"
                 }
             },
             {
@@ -530,9 +638,14 @@
                     "jumpto": "#ionshot"
                 },
                 "attachmentTwo": {
-                    "name": "Stabilizer",
-                    "image": "Attach_RangeFinder.svg",
-                    "jumpto": "#stabilizer"
+                    "name": "Night Vision",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#nightvision"
+                },
+                "attachmentThree": {
+                    "name": "Improved Burst",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#improvedburst"
                 }
             },
             {
@@ -555,6 +668,11 @@
                     "name": "Sharpshooter",
                     "image": "Attach_Sharpshooter.svg",
                     "jumpto": "#sharpshooter"
+                },
+                "attachmentThree": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 }
             },
             {
@@ -570,13 +688,18 @@
     
                 "attachmentOne": {
                     "name": "Seeker Tactics",
-                    "image": "Attach_Stock.svg",
+                    "image": "Attach_RangeFinder.svg",
                     "jumpto": "#seeker"
                 },
                 "attachmentTwo": {
-                    "name": "Escape Artist",
-                    "image": "Attach_EscapeArtist.svg",
-                    "jumpto": "#escapeartist"
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
+                },
+                "attachmentThree": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
                 }
             },
             {
@@ -594,9 +717,14 @@
                     "jumpto": "#ionshot"
                 },
                 "attachmentTwo": {
-                    "name": "Choke",
-                    "image": "Attach_BarrelExtension.svg",
-                    "jumpto": "#dp23-choke"
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                },
+                "attachmentThree": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
                 }
             },
             {
@@ -612,13 +740,18 @@
     
                 "attachmentOne": {
                     "name": "Seeker Tactics",
-                    "image": "Attach_Stock.svg",
+                    "image": "Attach_RangeFinder.svg",
                     "jumpto": "#seeker"
                 },
                 "attachmentTwo": {
                     "name": "Gunslinger",
                     "image": "Attach_Grip.svg",
                     "jumpto": "#stabilizer"
+                },
+                "attachmentThree": {
+                    "name": "Flashlight",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#flashlight"
                 }
             },
             {
@@ -639,6 +772,11 @@
                     "name": "Burst Mode",
                     "image": "Attach_Trigger.svg",
                     "jumpto": "#burstmode"
+                },
+                "attachmentThree": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
                 }
             },
             {
@@ -651,14 +789,19 @@
                 "heat": "0.136",
     
                 "attachmentOne": {
-                    "name": "Light Shot",
-                    "image": "Attach_CoolingCell.svg",
-                    "jumpto": "#lightshot"
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 },
                 "attachmentTwo": {
                     "name": "Accelerated Sphere",
                     "image": "Attach_BarrelExtension.svg",
                     "jumpto": "#sonic-fast"
+                },
+                "attachmentThree": {
+                    "name": "Improved Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#scope"
                 }
             },
             {
@@ -681,6 +824,11 @@
                     "name": "Charge Hack",
                     "image": "Attach_SecondaryFire.svg",
                     "jumpto": "#chargehack"
+                },
+                "attachmentThree": {
+                    "name": "Bolt Speed",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#boltspeed"
                 }
             },
             {
@@ -695,14 +843,19 @@
                 "heat": "0.034",
     
                 "attachmentOne": {
-                    "name": "Charge Hack",
-                    "image": "Attach_SecondaryFire.svg",
-                    "jumpto": "#chargehack"
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 },
                 "attachmentTwo": {
                     "name": "Pulse Barrage",
                     "image": "Attach_ColdWar.svg",
                     "jumpto": "#v6d-coldwar"
+                },
+                "attachmentThree": {
+                    "name": "Improved Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#scope"
                 }
             }
         ],
@@ -775,6 +928,11 @@
                     "name": "Escape Artist",
                     "image": "Attach_EscapeArtist.svg",
                     "jumpto": "#escapeartist"
+                },
+                "attachmentThree": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
                 }
             },
             {
@@ -793,8 +951,13 @@
                 },
                 "attachmentTwo": {
                     "name": "Seeker Tactics",
-                    "image": "Attach_Stock.svg",
+                    "image": "Attach_RangeFinder.svg",
                     "jumpto": "#seeker"
+                },
+                "attachmentThree": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 }
             },
             {
@@ -807,14 +970,19 @@
                 "heat": "0.11",
     
                 "attachmentOne": {
-                    "name": "Sharpshooter",
-                    "image": "Attach_Sharpshooter.svg",
-                    "jumpto": "#sharpshooter"
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
                 },
                 "attachmentTwo": {
                     "name": "Multi-Shot Reconfiguration",
                     "image": "Attach_SecondaryFire.svg",
                     "jumpto": "#multishot"
+                },
+                "attachmentThree": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
                 }
             },
             {
@@ -827,14 +995,19 @@
                 "heat": "0.05",
     
                 "attachmentOne": {
-                    "name": "Berserker",
-                    "image": "Attach_Berserker.svg",
-                    "jumpto": "#berserker"
+                    "name": "Precision Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#precisionblaster"
                 },
                 "attachmentTwo": {
                     "name": "Sharpshooter",
                     "image": "Attach_Sharpshooter.svg",
                     "jumpto": "#sharpshooter"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -855,6 +1028,11 @@
                     "name": "Precision Blaster",
                     "image": "Attach_Elite.svg",
                     "jumpto": "#precisionblaster"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -867,14 +1045,19 @@
                 "heat": "0.05",
     
                 "attachmentOne": {
-                    "name": "Light Shot",
-                    "image": "Attach_CoolingCell.svg",
-                    "jumpto": "#lightshot"
+                    "name": "Multi-Shot Reconfiguration",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#multishot"
                 },
                 "attachmentTwo": {
                     "name": "Focused Fire",
                     "image": "Attach_Stock.svg",
                     "jumpto": "#focusedfire"
+                },
+                "attachmentThree": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
                 }
             },
             {
@@ -894,9 +1077,14 @@
                     "jumpto": "#dc15s-powercell"
                 },
                 "attachmentTwo": {
-                    "name": "Multi-Shot",
-                    "image": "Attach_SecondaryFire.svg",
-                    "jumpto": "#multishot"
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -919,26 +1107,11 @@
                     "name": "Elite Blaster",
                     "image": "Attach_Elite.svg",
                     "jumpto": "#eliteblaster"
-                }
-            },
-            {
-                "name": "Defender Pistol",
-                "image": "officer-blasters/Weapons_DefenderPistol.svg",
-    
-                "damage": "25-20",
-                "range": "10-30",
-                "rof": "700 x 3 - 145",
-                "heat": "0.03",
-    
-                "attachmentOne": {
-                    "name": "Sharpshooter",
-                    "image": "Attach_Sharpshooter.svg",
-                    "jumpto": "#sharpshooter"
                 },
-                "attachmentTwo": {
-                    "name": "Precision Blaster",
-                    "image": "Attach_Elite.svg",
-                    "jumpto": "#precisionblaster"
+                "attachmentThree": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#seeker"
                 }
             },
             {
@@ -959,6 +1132,11 @@
                     "name": "Escape Artist",
                     "image": "Attach_EscapeArtist.svg",
                     "jumpto": "#escapeartist"
+                },
+                "attachmentThree": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
                 }
             },
             {
@@ -972,13 +1150,18 @@
     
                 "attachmentOne": {
                     "name": "Seeker Tactics",
-                    "image": "Attach_Stock.svg",
+                    "image": "Attach_RangeFinder.svg",
                     "jumpto": "#seeker"
                 },
                 "attachmentTwo": {
-                    "name": "Multi-Shot",
-                    "image": "Attach_SecondaryFire.svg",
-                    "jumpto": "#multishot"
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
+                },
+                "attachmentThree": {
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
                 }
             },
             {
@@ -993,14 +1176,19 @@
                 "heat": "0.17",
     
                 "attachmentOne": {
-                    "name": "Cooling Cell",
-                    "image": "Attach_CoolingCell.svg",
-                    "jumpto": "#dt29-cooling"
+                    "name": "Improved Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#scope"
                 },
                 "attachmentTwo": {
                     "name": "Gunslinger",
                     "image": "Attach_Grip.svg",
                     "jumpto": "#gunslinger"
+                },
+                "attachmentThree": {
+                    "name": "Cylinder Shot",
+                    "image": "Attach_TripleTake.svg",
+                    "jumpto": "#dt29-6shot"
                 }
             },
             {
@@ -1021,6 +1209,11 @@
                     "name": "Night Vision",
                     "image": "Attach_Scope.svg",
                     "jumpto": "#nightvision"
+                },
+                "attachmentThree": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
                 }
             },
             {
@@ -1043,6 +1236,11 @@
                     "name": "Second Chance",
                     "image": "Attach_CoolingCell.svg",
                     "jumpto": "#hf94-vanthrefrigeration"
+                },
+                "attachmentThree": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 }
             },
             {
@@ -1065,6 +1263,11 @@
                     "name": "Explosive Shot",
                     "image": "Attach_BarrelExtension.svg",
                     "jumpto": "#explosive"
+                },
+                "attachmentThree": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
                 }
             },
             {
@@ -1085,6 +1288,11 @@
                     "name": "Secondary Fire",
                     "image": "Attach_SecondaryFire.svg",
                     "jumpto": "#altfire"
+                },
+                "attachmentThree": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
                 }
             },
             {
@@ -1105,26 +1313,11 @@
                     "name": "Focused Fire",
                     "image": "Attach_Stock.svg",
                     "jumpto": "#focusedfire"
-                }
-            },
-            {
-                "name": "Relby K-23",
-                "image": "officer-blasters/Weapons_RelbyK-23.svg",
-    
-                "damage": "40-16",
-                "range": "25-40",
-                "rof": "250",
-                "heat": "0.07",
-    
-                "attachmentOne": {
+                },
+                "attachmentThree": {
                     "name": "Escape Artist",
                     "image": "Attach_EscapeArtist.svg",
                     "jumpto": "#escapeartist"
-                },
-                "attachmentTwo": {
-                    "name": "Burst Mode",
-                    "image": "Attach_Trigger.svg",
-                    "jumpto": "#burstmode"
                 }
             },
             {
@@ -1145,6 +1338,11 @@
                     "name": "Focused Fire",
                     "image": "Attach_Stock.svg",
                     "jumpto": "#focusedfire"
+                },
+                "attachmentThree": {
+                    "name": "Precision Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#precisionblaster"
                 }
             },
             {
@@ -1157,14 +1355,19 @@
                 "heat": "0.05",
     
                 "attachmentOne": {
-                    "name": "Escape Artist",
-                    "image": "Attach_EscapeArtist.svg",
-                    "jumpto": "#escapeartist"
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
                 },
                 "attachmentTwo": {
                     "name": "Explosive Shot",
                     "image": "Attach_BarrelExtension.svg",
                     "jumpto": "#explosiveshot"
+                },
+                "attachmentThree": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
                 }
             },
             {
@@ -1187,6 +1390,11 @@
                     "name": "Gunslinger",
                     "image": "Attach_Grip.svg",
                     "jumpto": "#gunslinger"
+                },
+                "attachmentThree": {
+                    "name": "Light Shot",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#lightshot"
                 }
             },
             {
@@ -1207,6 +1415,11 @@
                     "name": "Ion Shot",
                     "image": "Attach_Barrel.svg",
                     "jumpto": "#ionshot"
+                },
+                "attachmentThree": {
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
                 }
             },
             {
@@ -1227,6 +1440,11 @@
                     "name": "Night Vision",
                     "image": "Attach_Scope.svg",
                     "jumpto": "#nightvision"
+                },
+                "attachmentThree": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
                 }
             }
         ]
@@ -1252,13 +1470,16 @@
                     "name": "A180 Rifle",
                     "image": "Attach_RifleA180.svg",
                     "jumpto": "#a180-rifle"
+                },
+                "attachmentThree": {
+                    "name": "",
+                    "image": "",
+                    "jumpto": ""
                 }
             },
             {
                 "name": "DLT-19D",
                 "image": "specialist-blasters/Weapons_DLT-19D.svg",
-
-                "trait": "Built-in night vision scope",
     
                 "damage": "49-45",
                 "range": "40-100",
@@ -1271,9 +1492,14 @@
                     "jumpto": "#focusedfire"
                 },
                 "attachmentTwo": {
-                    "name": "Elite Blaster",
-                    "image": "Attach_Elite.svg",
-                    "jumpto": "#eliteblaster"
+                    "name": "Sharpshooter",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#sharpshooter"
+                },
+                "attachmentThree": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
                 }
             },
             {
@@ -1294,6 +1520,11 @@
                     "name": "Escape Artist",
                     "image": "Attach_EscapeArtist.svg",
                     "jumpto": "#escapeartist"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -1316,6 +1547,11 @@
                     "name": "Heavy Handed",
                     "image": "Attach_HeavyHanded.svg",
                     "jumpto": "#heavyhanded"
+                },
+                "attachmentThree": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 }
             },
             {
@@ -1338,6 +1574,11 @@
                     "name": "Precision Blaster",
                     "image": "Attach_Elite.svg",
                     "jumpto": "#precisionblaster"
+                },
+                "attachmentThree": {
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 }
             },
             {
@@ -1357,9 +1598,14 @@
                     "jumpto": "#valken-apex"
                 },
                 "attachmentTwo": {
-                    "name": "Reconfiguration Scope",
+                    "name": "Dual Zoom",
                     "image": "Attach_Scope.svg",
-                    "jumpto": "#valken-verticalshot"
+                    "jumpto": "#dualzoom"
+                },
+                "attachmentThree": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
                 }
             },
             {
@@ -1379,9 +1625,14 @@
                     "jumpto": "#firepuncher-fuze"
                 },
                 "attachmentTwo": {
-                    "name": "Extended Life",
-                    "image": "Attach_Barrel.svg",
-                    "jumpto": "#firepuncher-longlife"
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
+                },
+                "attachmentThree": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
                 }
             },
             {
@@ -1404,6 +1655,11 @@
                     "name": "Berserker",
                     "image": "Attach_Berserker.svg",
                     "jumpto": "#berserker"
+                },
+                "attachmentThree": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 }
             },
             {
@@ -1426,6 +1682,11 @@
                     "name": "Sharpshooter",
                     "image": "Attach_Sharpshooter.svg",
                     "jumpto": "#sharpshooter"
+                },
+                "attachmentThree": {
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
                 }
             },
             {
@@ -1440,14 +1701,19 @@
                 "heat": "0.2",
     
                 "attachmentOne": {
-                    "name": "Light Shot",
-                    "image": "Attach_CoolingCell.svg",
-                    "jumpto": "#lightshot"
+                    "name": "Critical Shot",
+                    "image": "Attach_Sharpshooter.svg",
+                    "jumpto": "#critical"
                 },
                 "attachmentTwo": {
                     "name": "Burst Mode",
                     "image": "Attach_Trigger.svg",
                     "jumpto": "#burstmode"
+                },
+                "attachmentThree": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
                 }
             },
             {
@@ -1468,6 +1734,11 @@
                     "name": "Critical Shot",
                     "image": "Attach_Sharpshooter.svg",
                     "jumpto": "#critical"
+                },
+                "attachmentThree": {
+                    "name": "Escape Artist",
+                    "image": "Attach_EscapeArtist.svg",
+                    "jumpto": "#escapeartist"
                 }
             },
             {
@@ -1488,6 +1759,11 @@
                     "name": "Elite Blaster",
                     "image": "Attach_Elite.svg",
                     "jumpto": "#relbyv10-grenade"
+                },
+                "attachmentThree": {
+                    "name": "Seeker Tactics",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#seeker"
                 }
             },
             {
@@ -1508,6 +1784,11 @@
                     "name": "Escape Artist",
                     "image": "Attach_EscapeArtist.svg",
                     "jumpto": "#escapeartist"
+                },
+                "attachmentThree": {
+                    "name": "Gunslinger",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#gunslinger"
                 }
             }
         ],

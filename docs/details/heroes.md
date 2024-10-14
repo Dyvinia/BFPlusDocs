@@ -340,13 +340,13 @@ ___
     </h3>
     <a>Clad in a unique, gold-plated set of stormtrooper armor and a military leader at heart, Commander Pyre showed determination to serve the First Order at all costs and made sure to distinguish himself on the field. </a>
     <div>
-    <a class="ability-item" data-text="Commander Pyre plants a device that boosts the health of nearby allies.">
+    <a class="ability-item" data-text="Commander Pyre marks a rally point for his team, boosting the health of any ally standing in its radius.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commanderpyre/Pyre_DeployBoost.svg">
       <span class="ability-name">Gold Zone</span>
     </a><a class="ability-item" data-text="Commander Pyre commands nearby allies to withstand all attacks, granting those around him a very high damage reduction for a short time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commanderpyre/Pyre_Might.svg">
       <span class="ability-name">Seize This Moment</span>
-    </a><a class="ability-item" data-text="Commander Pyre increases his damage and passively heals nearby allies.">
+    </a><a class="ability-item" data-text="Commander Pyre increases his damage and passively heals nearby allies. Defeating troopers or damaging heroes increases the healing effect up to a maximum.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commanderpyre/Pyre_Laxus.svg">
       <span class="ability-name">Thunderer Legion</span>
     </a>

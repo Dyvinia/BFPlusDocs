@@ -49,6 +49,9 @@ function createBlaster(element) {
                         </div><div class="attachment-item" onclick="window.location='${element.attachmentTwo.jumpto}';">
                             <img class="ability" class="no-lb" src="../../assets/attachments/${element.attachmentTwo.image}">
                             <span class="ability-name">${element.attachmentTwo.name}</span>
+                        </div><div class="attachment-item" onclick="window.location='${element.attachmentThree.jumpto}';">
+                            <img class="ability" class="no-lb" src="../../assets/attachments/${element.attachmentThree.image}">
+                            <span class="ability-name">${element.attachmentThree.name}</span>
                         </div>
                     </div>
                     ` : ''}
