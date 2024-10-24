@@ -144,9 +144,9 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a><a class="ability-item" data-text="Unleash a blast of electricity, dealing immense damage to targeted enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_BoltCaster.svg">
       <span class="ability-name">Bolt Caster</span>
-    </a><a class="ability-item" data-text="Drop a grenade that supercools the blasters of nearby allies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_CoolingGrenade.svg">
-      <span class="ability-name">Supercooling Grenade</span>
+    </a><a class="ability-item" data-text="Deployable field kit which, when stepped on, supplies an ally with instant healing and takes their abilities out of recharge.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_HAADS.svg">
+      <span class="ability-name">Field Kit</span>
     </a>
     </div>
   </div>
@@ -374,9 +374,9 @@ ___
     </a><a class="ability-item" data-text="Command an ally to fight harder, temporarily granting them unlimited blaster cooling and immunity to crowd control abilities.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_ChainBoost.svg">
       <span class="ability-name">Tactical Prowess</span>
-    </a><a class="ability-item" data-text="Enhanced energy shield that protects users from incoming projectiles while allowing outward projectiles to pass through, but has a limited power supply that hinders its deployment time.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_BubbleShield.svg">
-      <span class="ability-name">Enhanced Squad Shield</span>
+    </a><a class="ability-item" data-text="Deployable field kit which, when stepped on, boosts an ally with bonus damage output..">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_HAADS.svg">
+      <span class="ability-name">Field Booster</span>
     </a>
     </div>
   </div>
@@ -686,12 +686,12 @@ ___
       <span class="ability-name">S-195</span>
     </a>
     <div>
+    </a><a class="ability-item" data-text="Those caught in the Royal Guard's gaze will recieve increased damage. Extend the ability's duration by defeating enemies with SINISTER STRIKES.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_RoyalPresence.svg">
+      <span class="ability-name">Royal Presence</span>
     </a><a class="ability-item" data-text="The Royal Guard receives a large damage reduction and bonus health, but only for a short time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_EmperorsWill.svg">
       <span class="ability-name">Emperor's Will</span>
-    </a><a class="ability-item" data-text="Those caught in the Royal Guard's gaze will recieve increased damage.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_RoyalPresence.svg">
-      <span class="ability-name">Royal Presence</span>
     <a class="ability-item" data-text="Chain swift melee attacks with SINISTER STRIKES, performing a powerful knockdown on the third and final swing.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_ForcePike.svg">
       <span class="ability-name">Sinister Strikes</span>
@@ -710,8 +710,8 @@ ___
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.3em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/shocktrooper/Weapons_ShockTrooper_T-21.svg">
-      <span class="ability-name">T-21</span>
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.3em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/shocktrooper/Weapons_ShockTrooper_E-22.svg">
+      <span class="ability-name">E-22</span>
     </a>
     <div>
     </a><a class="ability-item" data-text="The SE-14C is a blaster pistol that fires 5-round bursts, making it ideal for close-quarter combat.">
@@ -807,12 +807,12 @@ ___
     <a class="ability-item" data-text="The Jetpack's burst thrusters are used to boost the Aerial upwards. Well suited for traversing obstructions and evading danger.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_Jetpack.svg">
       <span class="ability-name">Jump Pack</span>
-    </a><a class="ability-item" data-text="Designed to fire solid projectiles, this crude but reliable rifle is excellent at hitting targets at extreme ranges.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_CyclerRifle.svg">
-      <span class="ability-name">Cycler Rifle</span>
-    </a><a class="ability-item" data-text="Fires a concussion projectile that knocks down enemies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_ConcussionDart.svg">
-      <span class="ability-name">Concussion Dart</span>
+    </a><a class="ability-item" data-text="Extended barrel and stock for a single, precise, high-power blaster bolt. Defeating enemies with a headshot while this configuration is active will instantly refresh the ability.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_Sniper.svg">
+      <span class="ability-name">Sniper Mode</span>
+    </a><a class="ability-item" data-text="Charge-up muzzle device for firing a single ion explosive. Effective against shields, vehicles, and groups of enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_Launcher.svg">
+      <span class="ability-name">Ion Launcher Mode</span>
     </a>
     </div>
   </div>

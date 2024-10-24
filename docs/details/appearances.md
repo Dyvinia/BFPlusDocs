@@ -94,6 +94,9 @@ Customize your characters with dozens of new appearances added to Troopers, Rein
 <h3 style="font-size: 1.05em;"><b>Imperial Jumptrooper</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="empire-imperialjumptrooper"></div>
 
+<h3 style="font-size: 1.05em;"><b>Death Trooper</b></h3>
+<div class="container" style="margin-top: -0.8em;" id="empire-deathtrooper"></div>
+
 <h3 style="font-size: 1.05em;"><b>Royal Guard</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="empire-royalguard"></div>
 

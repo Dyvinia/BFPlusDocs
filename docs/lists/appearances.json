@@ -774,6 +774,12 @@
                 "left": "6%"
             }
         ],
+        "deathtrooper": [
+            {
+                "name": "Light Equipment",
+                "image": "../../assets/new-appearances-v2/reinforcements/empire_enforcer_deathtrooper_default.webp"
+            }
+        ],
         "royalguard": [
             {
                 "name": "Royal Guard",
