@@ -1,6 +1,8 @@
 # Gallery
 ![v10cover](assets/community-updates\v10\temp_cover_v10.webp){ .round-corners }
+![pyre-phasma](assets/gallery/pyre-phasma.webp){ .gallery-images  }
 ![royalguard_praetorian](assets/gallery/royalguard_praetorian.webp){ .gallery-images  }
+![royalguard_lightarmor](assets/gallery/royalguard_lightarmor.webp){ .gallery-images  }
 ![deathtrooper-flare](assets/gallery/deathtrooper_flare.webp){ .gallery-images  }
 ![felucia-night](assets/map-variants/night-felucia.webp){ .gallery-images  }
 ![jakku-sandstorm](assets/map-variants/sandstorm-jakku.webp){ .gallery-images  }
@@ -23,7 +25,6 @@
 ![rebelcommando](assets/gallery/rebelcommando.webp){ .gallery-images  }
 ![bf+v3](assets/gallery/bf+v3.webp){ .gallery-images  }
 ![shadowtrooper](assets/gallery/shadowtrooper.webp){ .gallery-images  }
-![rebelsaboteur](assets/gallery/rebelsaboteur.webp){ .gallery-images  }
 ![shocktrooper](assets/gallery/shocktrooper.webp){ .gallery-images  }
 ![sandtroopersentry](assets/gallery/sandtroopersentry.webp){ .gallery-images  }
 ![jangokamino](assets/gallery/jangokamino.webp){ .gallery-images  }

@@ -1003,8 +1003,8 @@ ___
             <div>
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_1_Mid.png">
                 <div class="text">
-                    <h4><b>Sith Assassin</b></h4>
-                    <a>When Ventress attacks an enemy from behind with her lightsabers, her abilities receive bonus recharge speed for a short period.</a>
+                    <h4><b>Sister of the Night</b></h4>
+                    <a>The duration of VANISH is increased, allowing Ventress to remain invisible even longer.</a>
                 </div>
             </div>
         </div>
@@ -1015,7 +1015,7 @@ ___
             <div>
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_2_Mid.png">
                 <div class="text">
-                    <h4><b>Sister of the Night</b></h4>
+                    <h4><b>Sith Assassin</b></h4>
                     <a>Performing a VANISH STRIKE will inflict even more damage and reveal the positions of nearby enemies upon defeating an opponent.</a>
                 </div>
             </div>

@@ -73,6 +73,7 @@ nav:
     - 'details/starcards.md'
     - 'details/appearances.md'
     - 'details/gamemodes.md'
+    - 'details/bugfixes.md'
   - Setup:
     - 'setup/installation.md'
     - 'setup/troubleshooting.md'

@@ -368,15 +368,15 @@ ___
       <span class="ability-name">E-5 ACP</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Fires a grenade that inflicts lingering damage to those caught in its blast radius.">
+    <a class="ability-item" data-text="Fires a grenade that sickens those caught in its blast radius, causing them to take lingering damage and weaken anybody else nearby.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_RadiationLauncher.svg">
       <span class="ability-name">Radiation Launcher</span>
     </a><a class="ability-item" data-text="Command an ally to fight harder, temporarily granting them unlimited blaster cooling and immunity to crowd control abilities.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_ChainBoost.svg">
       <span class="ability-name">Tactical Prowess</span>
-    </a><a class="ability-item" data-text="Deployable field kit which, when stepped on, boosts an ally with bonus damage output..">
+    </a><a class="ability-item" data-text="Deploy three boxes which, when stopped on, will refresh abilities and speed up recharge times.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_HAADS.svg">
-      <span class="ability-name">Field Booster</span>
+      <span class="ability-name">Resupply Kits</span>
     </a>
     </div>
   </div>
