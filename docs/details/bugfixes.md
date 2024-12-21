@@ -22,6 +22,9 @@ Battlefront Plus fixes dozens of bugs leftover from the base game. Many of these
 
 - Anakin Skywalker
     - Fixed an issue in the lightsaber attack sequence with the wrong animation playing after performing a lunge attack.
+- Boba Fett
+    - CONCUSSION ROCKET
+        - Fixed an issue with the disruption and flash affectors applying to Boba Fett if he is very close to the impact.
 - Bossk
     - SPREADING THE DISEASE Star Card
         - Fixed an issue with the Star Card not actually increasing the radius of DIOXIS GRENADE.

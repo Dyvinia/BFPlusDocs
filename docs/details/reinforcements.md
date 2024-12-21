@@ -32,9 +32,9 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a><a class="ability-item" data-text="Activate your rangefinder to scan the vicinity for enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/arctrooper/ARC_Scanner.svg">
       <span class="ability-name">Helmet Scanner</span>
-    </a><a class="ability-item" data-text="Boosts your sprint speed. Defeating enemies will briefly generate bonus health.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/arctrooper/ARC_ShieldRush.svg">
-      <span class="ability-name">Shield Rush</span>
+    </a><a class="ability-item" data-text="Charges up a rapid fire barrage which deals high damage. For each enemy defeated with the ability, the duration of the next use is extended by 1 second.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/arctrooper/ARC_Barrage.svg">
+      <span class="ability-name">Blaster Barrage</span>
     </a>
     </div>
   </div>
@@ -226,15 +226,15 @@ ___
       <span class="ability-name">AQ Laser Cannon</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Defeating enemies with the AQ Laser Cannon while Recon is active will reveal their nearby allies to you and your team.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_Recon.svg">
-      <span class="ability-name">Recon</span>
-    </a><a class="ability-item" data-text="Scans the vicinity to briefly reveal nearby hostiles.">
+    <a class="ability-item" data-text="Reduce ability recharge times and restore health by attacking a marked enemy. Defeating the target will significantly reduce the cooldown of your next TRIDENT PURSUENT.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_Head.svg">
+      <span class="ability-name">Trident Pursuent</span>
+    </a><a class="ability-item" data-text="Single scan pulse to briefly reveal hostiles in the vicinity. Activating 3 pulses within a short time will engage a much longer scan duration.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_Scanner.svg">
       <span class="ability-name">Sonar Scan</span>
-    </a><a class="ability-item" data-text="Rapidly regenerates the Aqua Droid's health.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_SelfRepair.svg">
-      <span class="ability-name">Self-Repair</span>
+    </a><a class="ability-item" data-text="Increases damage towards enemies revealed by SONAR SCAN or marked by TRIDENT PURSUENT.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_Spear.svg">
+      <span class="ability-name">Spearhead</span>
     </a>
     </div>
   </div>
@@ -374,7 +374,7 @@ ___
     </a><a class="ability-item" data-text="Command an ally to fight harder, temporarily granting them unlimited blaster cooling and immunity to crowd control abilities.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_ChainBoost.svg">
       <span class="ability-name">Tactical Prowess</span>
-    </a><a class="ability-item" data-text="Deploy three boxes which, when stopped on, will refresh abilities and speed up recharge times.">
+    </a><a class="ability-item" data-text="Deploys three boxes which, when stopped on, will take abilities out of recharge.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_HAADS.svg">
       <span class="ability-name">Resupply Kits</span>
     </a>
@@ -710,17 +710,17 @@ ___
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.3em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/shocktrooper/Weapons_ShockTrooper_E-22.svg">
-      <span class="ability-name">E-22</span>
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.3em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/shocktrooper/Weapons_ShockTrooper_DLT-19.svg">
+      <span class="ability-name">DLT-19</span>
     </a>
     <div>
     </a><a class="ability-item" data-text="The SE-14C is a blaster pistol that fires 5-round bursts, making it ideal for close-quarter combat.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_SE14C.svg">
       <span class="ability-name">SE-14C</span>
-    </a><a class="ability-item" data-text="Fires canisters that administer a continuous electric shock that deals damage and greatly hinders enemies' vision.">
+    </a><a class="ability-item" data-text="Fires smoke canisters which administer a continuous electric shock, slowing the enemy, damaging them, and hindering their vision. Disruption abilities will severely damage those caught within the smoke.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_ShockLauncher.svg">
       <span class="ability-name">Shock Launcher</span>
-    </a><a class="ability-item" data-text="A modified defusion device which creates a burst of ionized energy that overheats enemy weapons, defuses explosives, and temporarily disables turrets. If used while at least 2 allies are nearby, the Shock Trooper gains brief supercooling.">
+    </a><a class="ability-item" data-text="A modified defusion device which overheats weapons, defuses explosives, and disables turrets. If used on enemies caught in the electric smoke of the SHOCK LAUNCHER, they will take severe damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_Disruption.svg">
       <span class="ability-name">Disruption</span>
     </a>
