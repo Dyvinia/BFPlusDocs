@@ -161,7 +161,8 @@
 
 .gallery-images {
     border-radius: 0.75em;
-    width: calc(50% - 2.35px);
+    /*width: calc(50% - 2.35px);*/
+    width: 49.6%; /* idk */
     margin-top: -3px;
 }
 
