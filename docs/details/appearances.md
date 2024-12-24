@@ -241,9 +241,6 @@ Customize your characters with dozens of new appearances added to Troopers, Rein
 ### **Emperor Palpatine**
 <div class="container" style="margin-top: -0.8em;" id="villains-emperorpalpatine"></div>
 
-### **General Grievous**
-<div class="container" style="margin-top: -0.8em;" id="villains-generalgrievous"></div>
-
 ### **Grand Admiral Thrawn**
 <div class="container" style="margin-top: -0.8em;" id="villains-grandadmiralthrawn"></div>
 
