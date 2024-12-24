@@ -1,5 +1,5 @@
 # Gallery
-![v10cover](assets/community-updates\v10\temp_cover_v10.webp){ .round-corners }
+![v10cover](/assets/community-updates\v10\temp_cover_v10.webp){ .round-corners }
 ![pyre-phasma](assets/gallery/pyre-phasma.webp){ .gallery-images  }
 ![royalguard_praetorian](assets/gallery/royalguard_praetorian.webp){ .gallery-images  }
 ![royalguard_lightarmor](assets/gallery/royalguard_lightarmor.webp){ .gallery-images  }
