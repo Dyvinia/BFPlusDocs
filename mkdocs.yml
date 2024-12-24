@@ -22,6 +22,7 @@ markdown_extensions:
   - toc:
       toc_depth: 3
 hooks:
+  - 'docs/community-updates/toc.py'
   - 'docs/details/toc.py'
 plugins:
   - glightbox:
@@ -51,9 +52,11 @@ extra:
       link: https://discord.gg/99VtTgFBqq 
       name: Discord
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/extra.css?v=10christmas
 extra_javascript:
   - js/extra.js
+  - js/cards.js
+  - js/swiped-events.min.js
 
 repo_url: https://www.nexusmods.com/starwarsbattlefront22017/mods/7592 
 repo_name: Download on NexusMods
@@ -70,9 +73,8 @@ nav:
     - 'details/starcards.md'
     - 'details/appearances.md'
     - 'details/gamemodes.md'
-  - Setup:
-    - 'setup/installation.md'
-    - 'setup/troubleshooting.md'
+    - 'details/bugfixes.md'
   - Community Updates:
+    - 'community-updates/v10.md'
     - 'community-updates/v9.md'
     - 'community-updates/v8.md'

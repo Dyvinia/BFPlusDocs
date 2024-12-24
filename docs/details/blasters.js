@@ -49,7 +49,10 @@ function createBlaster(element) {
                         </div><div class="attachment-item" onclick="window.location='${element.attachmentTwo.jumpto}';">
                             <img class="ability" class="no-lb" src="../../assets/attachments/${element.attachmentTwo.image}">
                             <span class="ability-name">${element.attachmentTwo.name}</span>
-                        </div>
+                        </div>${element.attachmentThree ? `<div class="attachment-item" onclick="window.location='${element.attachmentThree.jumpto}';">
+                            <img class="ability" class="no-lb" src="../../assets/attachments/${element.attachmentThree.image}">
+                            <span class="ability-name">${element.attachmentThree.name}</span>
+                        </div>` : ''}
                     </div>
                     ` : ''}
                 </div>
@@ -60,59 +63,55 @@ function createBlaster(element) {
 
 const json = fetch("../../lists/blasters.json").then(response => response.json());
 
-// add universal sidearms
-json.then(data => data.assault.secondary = data.universalSidearms.concat(data.assault.secondary));
-json.then(data => data.heavy.secondary = data.universalSidearms.concat(data.heavy.secondary));
-json.then(data => data.specialist.secondary = data.universalSidearms.concat(data.specialist.secondary));
+json.then(data => {
+    data.assault.secondary = data.universalSidearms.concat(data.assault.secondary);
+    data.heavy.secondary = data.universalSidearms.concat(data.heavy.secondary);
+    data.specialist.secondary = data.universalSidearms.concat(data.specialist.secondary)
 
-// add blasters
-json.then(data => data.assault.primary.forEach(element => document.getElementById('assault-primary').innerHTML += createBlaster(element)));
-json.then(data => data.assault.secondary.forEach(element => document.getElementById('assault-secondary').innerHTML += createBlaster(element)));
+    data.assault.primary.forEach(element => document.getElementById('assault-primary').innerHTML += createBlaster(element));
+    data.assault.secondary.forEach(element => document.getElementById('assault-secondary').innerHTML += createBlaster(element));
 
-json.then(data => data.heavy.primary.forEach(element => document.getElementById('heavy-primary').innerHTML += createBlaster(element)));
-json.then(data => data.heavy.secondary.forEach(element => document.getElementById('heavy-secondary').innerHTML += createBlaster(element)));
+    data.heavy.primary.forEach(element => document.getElementById('heavy-primary').innerHTML += createBlaster(element));
+    data.heavy.secondary.forEach(element => document.getElementById('heavy-secondary').innerHTML += createBlaster(element));
 
-json.then(data => data.officer.primary.forEach(element => document.getElementById('officer-primary').innerHTML += createBlaster(element)));
+    data.officer.primary.forEach(element => document.getElementById('officer-primary').innerHTML += createBlaster(element));
 
-json.then(data => data.specialist.primary.forEach(element => document.getElementById('specialist-primary').innerHTML += createBlaster(element)));
-json.then(data => data.specialist.secondary.forEach(element => document.getElementById('specialist-secondary').innerHTML += createBlaster(element)));
+    data.specialist.primary.forEach(element => document.getElementById('specialist-primary').innerHTML += createBlaster(element));
+    data.specialist.secondary.forEach(element => document.getElementById('specialist-secondary').innerHTML += createBlaster(element));
+});
 
 function search(id) {
-    const containerID = id.replace("-search", "");
-    const height = document.getElementById(containerID).offsetHeight;
+    const containerIDs = [
+        'assault-primary', 
+        'assault-secondary',
+        'heavy-primary',
+        'heavy-secondary',
+        'officer-primary',
+        'specialist-primary',
+        'specialist-secondary',
+    ];
 
-    json.then(data => {
-        document.getElementById(containerID).innerHTML = null;
+    for (const containerID of containerIDs) {
+        json.then(data => {
+            document.getElementById(containerID).innerHTML = null;
 
-        let filtered = data[containerID.split('-')[0]][containerID.split('-')[1]]
-                        .filter(element => element.name.toLowerCase().replace("-", "").replace(" ", "").includes(document.getElementById(id).value.toLowerCase().replace("-", "").replace(" ", "")));
+            let filtered = data[containerID.split('-')[0]][containerID.split('-')[1]]
+                            .filter(element => element.name.toLowerCase().replace("-", "").replace(" ", "").includes(document.getElementById(id).value.toLowerCase().replace("-", "").replace(" ", "")));
 
-        if (filtered.length == 0) {
-            document.getElementById(containerID).innerHTML = `<div style="height:${height}px">No Results</div>`;
-        }
-        
-        filtered.forEach(element => document.getElementById(containerID).innerHTML += createBlaster(element));
-    });
-}
+            if (filtered.length == 0) {
+                document.getElementById(containerID).innerHTML = `<div style="color: #aaa; margin-top: -0.4em;">No Results</div>`;
+            }
 
-function toggleSearch(id) {
-    console.log(document.activeElement);
-    const searchID = id.replace("-toggle", "");
-    let searchBox = document.getElementById(searchID);
+            filtered.forEach(element => document.getElementById(containerID).innerHTML += createBlaster(element));
+        });
+    }
 
-    if (searchBox.style.display == "block") {
-        searchBox.style.display = "none"
+    if (document.getElementById(id).value != "") {
+        document.getElementById("officer-secondary").style.display = "none";
+        document.getElementById("officer-secondary-fakeresults").style.display = "block";
     }
     else {
-        searchBox.style.display = "block"
-        searchBox.focus();
+        document.getElementById("officer-secondary").style.display = "block";
+        document.getElementById("officer-secondary-fakeresults").style.display = "none";
     }
-    searchBox.value = "";
-    search(searchID);
-}
-
-function unfocus(id) {
-    let searchBox = document.getElementById(id);
-    if (searchBox.value == "")
-        setTimeout(() => searchBox.style.display = "none", 100);
 }
