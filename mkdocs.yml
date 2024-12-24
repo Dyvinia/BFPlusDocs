@@ -74,9 +74,6 @@ nav:
     - 'details/appearances.md'
     - 'details/gamemodes.md'
     - 'details/bugfixes.md'
-  - Setup:
-    - 'setup/installation.md'
-    - 'setup/troubleshooting.md'
   - Community Updates:
     - 'community-updates/v10.md'
     - 'community-updates/v9.md'
