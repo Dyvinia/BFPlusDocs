@@ -1,8 +1,14 @@
 # Reinforcements
 
+<div style="text-align: center">
+  <video class="round-corners" autoplay muted loop playsinline disablePictureInPicture>
+    <source src="../../assets/videos/reinforcements_banner.mp4" type="video/mp4">
+  </video>
+</div>
+
 Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian Death Gang's elite enforcers, hunt Jedi with the Inquisition's Purge Troopers, or specialize in any of the other 30 new or reworked Reinforcements featured in Battlefront Plus.
 
-## The Clone Wars
+## **The Clone Wars**
 
 ### Galactic Republic
 
@@ -26,9 +32,9 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a><a class="ability-item" data-text="Activate your rangefinder to scan the vicinity for enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/arctrooper/ARC_Scanner.svg">
       <span class="ability-name">Helmet Scanner</span>
-    </a><a class="ability-item" data-text="Boosts your sprint speed. Defeating enemies will briefly generate bonus health.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/arctrooper/ARC_ShieldRush.svg">
-      <span class="ability-name">Shield Rush</span>
+    </a><a class="ability-item" data-text="Charges up a rapid fire barrage which deals high damage. For each enemy defeated with the ability, the duration of the next use is extended by 1 second.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/arctrooper/ARC_Barrage.svg">
+      <span class="ability-name">Blaster Barrage</span>
     </a>
     </div>
   </div>
@@ -138,9 +144,9 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a><a class="ability-item" data-text="Unleash a blast of electricity, dealing immense damage to targeted enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_BoltCaster.svg">
       <span class="ability-name">Bolt Caster</span>
-    </a><a class="ability-item" data-text="Drop a grenade that supercools the blasters of nearby allies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_CoolingGrenade.svg">
-      <span class="ability-name">Supercooling Grenade</span>
+    </a><a class="ability-item" data-text="Deployable field kit which, when stepped on, supplies an ally with instant healing and takes their abilities out of recharge.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_HAADS.svg">
+      <span class="ability-name">Field Kit</span>
     </a>
     </div>
   </div>
@@ -151,8 +157,8 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
   <div class="text">
     <h3>
       <strong>Gungan Warrior</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Protector">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Protector.svg">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
@@ -196,11 +202,13 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
       <span class="ability-name">Anti-Infantry Mode</span>
     </a><a class="ability-item" data-text="Deploys a Combat Shield to block fire coming from the front. If allies are nearby, a more powerful Bubble Shield is deployed instead for full protection.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/republicgunner/RepublicGunner_CombatShield.svg">
-      <span class="ability-name">Advanced Shield</span>
+      <span class="ability-name">Staged Shield</span>
     </a>
     </div>
   </div>
 </div>
+
+___
 
 ### Separatists
 
@@ -218,15 +226,15 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
       <span class="ability-name">AQ Laser Cannon</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Defeating enemies with the AQ Laser Cannon while Recon is active will reveal their nearby allies to you and your team.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_Recon.svg">
-      <span class="ability-name">Recon</span>
-    </a><a class="ability-item" data-text="Scans the vicinity to briefly reveal nearby hostiles.">
+    <a class="ability-item" data-text="Reduce ability recharge times and restore health by attacking a marked enemy. Defeating the target will significantly reduce the cooldown of your next TRIDENT PURSUENT.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_Head.svg">
+      <span class="ability-name">Trident Pursuent</span>
+    </a><a class="ability-item" data-text="Single scan pulse to briefly reveal hostiles in the vicinity. Activating 3 pulses within a short time will engage a much longer scan duration.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_Scanner.svg">
       <span class="ability-name">Sonar Scan</span>
-    </a><a class="ability-item" data-text="Rapidly regenerates the Aqua Droid's health.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_SelfRepair.svg">
-      <span class="ability-name">Self-Repair</span>
+    </a><a class="ability-item" data-text="Increases damage towards enemies revealed by SONAR SCAN or marked by TRIDENT PURSUENT.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/aquadroid/AQ_Spear.svg">
+      <span class="ability-name">Spearhead</span>
     </a>
     </div>
   </div>
@@ -324,8 +332,8 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
   <div class="text">
     <h3>
       <strong>MagnaGuard Protector</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Protector">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Protector.svg">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
@@ -342,9 +350,6 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a><a class="ability-item" data-text="Each hit with the Electropike becomes more powerful and damaging to any opponent for a brief period.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/magnaguardprotector/MagnaGuardProtector_DamageBuff.svg">
       <span class="ability-name">Droid Rage</span>
-    </a><a class="ability-item" data-text="Temporarily boost the IG-100's health to a surplus. Encountering damage during the process will cancel the effect.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/magnaguardprotector/MagnaGuardProtector_ShieldBuff.svg">
-      <span class="ability-name">Shield</span>
     </div>
   </div>
 </div>
@@ -360,24 +365,26 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
       <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -1.75em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/tacticaldroid/Weapons_TacticalDroidE-5.svg">
-      <span class="ability-name">E-5</span>
+      <span class="ability-name">E-5 ACP</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Fires a grenade that inflicts lingering damage to those caught in its blast radius.">
+    <a class="ability-item" data-text="Fires a grenade that sickens those caught in its blast radius, causing them to take lingering damage and weaken anybody else nearby.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_RadiationLauncher.svg">
       <span class="ability-name">Radiation Launcher</span>
     </a><a class="ability-item" data-text="Command an ally to fight harder, temporarily granting them unlimited blaster cooling and immunity to crowd control abilities.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_ChainBoost.svg">
       <span class="ability-name">Tactical Prowess</span>
-    </a><a class="ability-item" data-text="Enhanced energy shield that protects users from incoming projectiles while allowing outward projectiles to pass through, but has a limited power supply that hinders its deployment time.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_BubbleShield.svg">
-      <span class="ability-name">Enhanced Squad Shield</span>
+    </a><a class="ability-item" data-text="Deploys three boxes which, when stopped on, will take abilities out of recharge.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_HAADS.svg">
+      <span class="ability-name">Resupply Kits</span>
     </a>
     </div>
   </div>
 </div>
 
-## Galactic Civil War
+___
+
+## **Galactic Civil War**
 
 ### Rebel Alliance
 
@@ -386,8 +393,8 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
   <div class="text">
     <h3>
       <strong>Honor Guard</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
@@ -395,18 +402,15 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
       <span class="ability-name">DH-17</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Kickstarts health regeneration of every allied player within the vicinity.">
+    <a class="ability-item" data-text="Projectile canister of bacta mist which immediately disperses on contact, kickstarting the health regeneration of every allied player within its vicinity.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Bacta.svg">
       <span class="ability-name">Bacta Grenade</span>
-    </a><a class="ability-item" data-text="Switches to a modified A280-CFE, equipped with a triple burst mode and ion shots that can more easily take down Imperial Walkers.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_A280CFE.svg">
-      <span class="ability-name">A280-CFE</span>
-    </a><a class="ability-item" data-text="The Honor Guard boosts his health and discharges the surrounding area, neutralising all explosive devices.">
+    </a><a class="ability-item" data-text="The Honor Guard discharges the surrounding area, neutralising all explosive devices. It will additionally grant the user bonus health if at least two allies are nearby.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_Defuser.svg">
       <span class="ability-name">Honorable Discharge</span>
-    </a><a class="ability-item" data-text="Stick close to Heroes to gain bonus health regeneration and boost the radius of Honorable Discharge.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
-      <span class="ability-name">Sentinel</span>
+    </a><a class="ability-item" data-text="Deployable proximity mine that will push back and daze enemies. Up to three can be active at a time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/honorguard/HonorGuard_TripMine.svg">
+      <span class="ability-name">Concussion Mine</span>
     </a>
     </div>
   </div>
@@ -422,17 +426,17 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0em; margin-left: -0.25em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/rebelcommando/Weapons_RebelCommandoRelbyV10.svg">
-      <span class="ability-name">Relby-V10</span>
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0em; margin-left: -0.25em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/rebelcommando/Weapons_RebelCommando_T39P.svg">
+      <span class="ability-name">T-39P</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Switches the Relby-V10 into a grenade firing mode. Limited ammo, but can be resupplied by Officers using recharge command.">
+    </a><a class="ability-item" data-text="Deploy a flare for resupply, recharging the abilities of nearby allies. Instantly refreshes STIM PACKS and MICROGRENADE LAUNCHER ammunition.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelcommando/RebelCommando_Flare.svg">
+      <span class="ability-name">Resupply Flare</span>
+    <a class="ability-item" data-text="Equip a rapid-fire microgrenade launcher. Ammo is limited, but has a chance of being replenished from defeated foes.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelcommando/RebelCommando_Barrage.svg">
-      <span class="ability-name">Grenadier</span>
-    </a><a class="ability-item" data-text="Switches the Relby-V10 into an automatic firing mode allowing for faster firing with less accuracy.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelcommando/RebelCommando_Repeater.svg">
-      <span class="ability-name">Repeater Mode</span>
-    </a><a class="ability-item" data-text="Injects the Commando with stimulants that boosts movement speed and starts health regen instantly. Limited uses.">
+      <span class="ability-name">Microgrenade Launcher</span>
+    </a><a class="ability-item" data-text="Bacta canisters which boost movement speed and initiate health regeneration. Limited in supply, but have a chance to be scavenged from defeated foes.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelcommando/RebelCommando_StimPacks.svg">
       <span class="ability-name">Stim Packs</span>
     </a>
@@ -511,9 +515,9 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a>
     <div>
     <a class="ability-item" data-text="Deploy a highly explosive device set yo detonate after a short time. While active, your sprint speed is also increased.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_TimeBomb_Fixed.svg">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_TimeBomb.svg">
       <span class="ability-name">Time Bomb</span>
-    </a><a class="ability-item" data-text="Rebel Intelligence reveals nearby hostiles.">
+    </a><a class="ability-item" data-text="Intelligence gathered from the field reveals nearby hostiles. Defeating enemies with the TRUNCHEON ATTACK will increase the number of scan pulses.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_Scanner.svg">
       <span class="ability-name">Rebel Intel</span>
     </a><a class="ability-item" data-text="Blunt force melee strikes that can be chained into a powerful third strike, that knocks the enemy to the ground.">
@@ -534,7 +538,7 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.25em; margin-left: -0.75em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/wookieewarrior/Weapons_WookieeWarriorBowcaster.svg">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.25em; margin-left: 0.15em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/wookieewarrior/Weapons_WookieeWarriorBowcaster.svg">
       <span class="ability-name">Bowcaster</span>
     </a>
     <div>
@@ -544,13 +548,15 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a><a class="ability-item" data-text="Modifies the primary fire mode and supercools the barrel to prevent heat buildup.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/wookieewarrior/WookieeWarrior_Overload.svg">
       <span class="ability-name">Overload</span>
-    </a><a class="ability-item" data-text="The Wookiee Warrior smals his fists into the ground, dealing damage and knocking enemies off their feet. When successfully hitting an enemy, the warrior replenishes a portion of his base health. Sustaining damage will build the Wookiee's rage, increasing the radius of the ability.">
+    </a><a class="ability-item" data-text="Ground pound attack which deals heavy damage and knocks enemies off their feet, restoring health for each successful hit. Sustaining damage will increase the radius of the ability.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/wookieewarrior/WookieeWarrior_Slam.svg">
       <span class="ability-name">Slam</span>
     </a>
     </div>
   </div>
 </div>
+
+___
 
 ### Galactic Empire
 
@@ -571,12 +577,12 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     <a class="ability-item" data-text="The Sonic Imploder uses light and sound to subdue targets, overloading enemies' senses without inflicting very much damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_SonicImploder.svg">
       <span class="ability-name">Sonic Imploder</span>
-    </a><a class="ability-item" data-text="Activates the Death Trooper's advanced helmet sensors, highlighting enemies and revealing their locations on radar.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_MotionScan.svg">
-      <span class="ability-name">Advanced Sensors</span>
-    </a><a class="ability-item" data-text="For a limited time, equip a DLT-19D sniper rifle. Extra time is gained with kills.">
+    </a><a class="ability-item" data-text="Activates an aura that increases headshot damage for the Death Trooper and nearby allies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_FiringSquad.svg">
+      <span class="ability-name">Firing Squad</span>
+    </a><a class="ability-item" data-text="Go behind enemy lines by becoming undetectable to enemy scanners, scrambling their radars, and equipping a powerful DLT-19D sniper rifle. Defeating enemies will extend the active time of OPERATIVE.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_MarksmanRush.svg">
-      <span class="ability-name">Marksman Rush</span>
+      <span class="ability-name">Operative</span>
     </a>
     </div>
   </div>
@@ -655,7 +661,7 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     <a class="ability-item" data-text="Shock grenade that stuns enemies in place.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/purgetroopercommander/PurgeTrooperCommander_StunGrenade.svg">
       <span class="ability-name">Pacification Grenade</span>
-    </a><a class="ability-item" data-text="Scans the vicinity to reveal nearby enemies.">
+    </a><a class="ability-item" data-text="Scans the vicinity to reveal nearby enemies for a short duration. If Jedi are present, the duration is doubled.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/purgetroopercommander/PurgeTrooperCommander_Scanner.svg">
       <span class="ability-name">Inquisition</span>
     </a><a class="ability-item" data-text="Charges up a powerful explosive shot at the cost of additional heat build-up.">
@@ -676,22 +682,19 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.3em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/royalguard/Weapons_RoyalGuardT21.svg">
-      <span class="ability-name">T-21</span>
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2em; margin-left: -2.5em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/royalguard/Weapons_RoyalGuardT21.svg">
+      <span class="ability-name">S-195</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Temporarily overcharge the T-21 into a triple burst firing mode.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_BurstMode.svg">
-      <span class="ability-name">Burst Fire</span>
-    </a><a class="ability-item" data-text="Those caught in the Royal Guard's gaze will recieve increased damage.">
+    </a><a class="ability-item" data-text="Those caught in the Royal Guard's gaze will recieve increased damage. Extend the ability's duration by defeating enemies with SINISTER STRIKES.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_RoyalPresence.svg">
       <span class="ability-name">Royal Presence</span>
     </a><a class="ability-item" data-text="The Royal Guard receives a large damage reduction and bonus health, but only for a short time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_EmperorsWill.svg">
       <span class="ability-name">Emperor's Will</span>
-    </a><a class="ability-item" data-text="When near another villain, the Royal Guard will passively gain a small health increase.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_Inspiration.svg">
-      <span class="ability-name">Inspiration</span>
+    <a class="ability-item" data-text="Chain swift melee attacks with SINISTER STRIKES, performing a powerful knockdown on the third and final swing.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/royalguard/RoyalGuard_ForcePike.svg">
+      <span class="ability-name">Sinister Strikes</span>
     </a>
     </div>
   </div>
@@ -702,27 +705,24 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
   <div class="text">
     <h3>
       <strong>Shock Trooper</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -2.25em; margin-left: -2.1em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/shocktrooper/Weapons_ShockTrooper_SE-14C.svg">
-      <span class="ability-name">SE-14C</span>
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: 0.3em; margin-left: 0.2em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/shocktrooper/Weapons_ShockTrooper_DLT-19.svg">
+      <span class="ability-name">DLT-19</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Kickstarts health regeneration of every allied player within its vicinity.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_BactaGrenade.svg">
-      <span class="ability-name">Bacta Grenade</span>
-    </a><a class="ability-item" data-text="Fires canisters that administer a continuous electric shock that deals damage and greatly hinders enemies' vision.">
+    </a><a class="ability-item" data-text="The SE-14C is a blaster pistol that fires 5-round bursts, making it ideal for close-quarter combat.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_SE14C.svg">
+      <span class="ability-name">SE-14C</span>
+    </a><a class="ability-item" data-text="Fires smoke canisters which administer a continuous electric shock, slowing the enemy, damaging them, and hindering their vision. Disruption abilities will severely damage those caught within the smoke.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_ShockLauncher.svg">
       <span class="ability-name">Shock Launcher</span>
-    </a><a class="ability-item" data-text="A modified defusion device which creates a burst of ionized energy that overheats enemy weapons, defuses explosives, and temporarily disables turrets.">
+    </a><a class="ability-item" data-text="A modified defusion device which overheats weapons, defuses explosives, and disables turrets. If used on enemies caught in the electric smoke of the SHOCK LAUNCHER, they will take severe damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/shocktrooper/ShockTrooper_Disruption.svg">
       <span class="ability-name">Disruption</span>
-    </a><a class="ability-item" data-text="Stick close to Heroes to gain bonus health regeneration and an extra bonus upon activating Disruption.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
-      <span class="ability-name">Sentinel</span>
     </a>
     </div>
   </div>
@@ -745,18 +745,20 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     <a class="ability-item" data-text="Deployable decoy that relays enemy locations and disrupt their scanners to display a false enemy. If deployed outdoors, it can be used to call in an orbital strike.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_ScannerBeacon.svg">
       <span class="ability-name">Scanner Beacon</span>
-    </a><a class="ability-item" data-text="The droid provides itself and nearby allies a cooling bonus.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_Support.svg">
-      <span class="ability-name">Mechanical Companion</span>
-    </a><a class="ability-item" data-text="Primes the droid for self-destruct when activated. When fired, it detonates and immediately kills the droid while damaging nearby enemies.">
+    </a><a class="ability-item" data-text="Primes the droid to self-destruct. After 6 seconds, or upon death, it will create an explosion which damages nearby enemies. RETRIGGER ACTION: Cancel self-destruct.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_SelfDestruct.svg">
       <span class="ability-name">Self Destruct</span>
+    </a><a class="ability-item" data-text="Fire two grenades that each deploy a cloud of smoke, obscuring vision in their areas.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/viper/Viper_Support.svg">
+      <span class="ability-name">Smoke Grenade</span>
     </a>
     </div>
   </div>
 </div>
 
-## The Cold War
+___
+
+## **The Cold War**
 
 ### Resistance
 
@@ -789,34 +791,6 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
 </div>
 
 <div class="reinforcement">
-  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_NiktoSmuggler.png">
-  <div class="text">
-    <h3>
-      <strong>Nikto Smuggler</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Infiltrator">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
-      </a>
-    </h3>
-    <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1em; margin-left: -1.1em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/niktosmuggler/Weapons_NiktoSmugglerDualDT29.svg">
-      <span class="ability-name">Dual DT-29</span>
-    </a>
-    <div>
-    <a class="ability-item" data-text="Fire from both DT-29s at once, trading accuracy for firepower.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/niktosmuggler/NiktoSmuggler_DualShot.svg">
-      <span class="ability-name">Double Tap</span>
-    </a><a class="ability-item" data-text="Scan the area to reveal the 4 closest enemies. The number of enemies you can reveal is increased by defeating enemies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/niktosmuggler/NiktoSmuggler_Scanner.svg">
-      <span class="ability-name">Data Theft</span>
-    </a><a class="ability-item" data-text="Charge forward, knocking over and damaging the first enemy you hit.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/niktosmuggler/NiktoSmuggler_ShoulderCharge.svg">
-      <span class="ability-name">Shoulder Charge</span>
-    </a>
-    </div>
-  </div>
-</div>
-
-<div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_ResistanceJumpTrooper.png">
   <div class="text">
     <h3>
@@ -833,16 +807,46 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     <a class="ability-item" data-text="The Jetpack's burst thrusters are used to boost the Aerial upwards. Well suited for traversing obstructions and evading danger.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_Jetpack.svg">
       <span class="ability-name">Jump Pack</span>
-    </a><a class="ability-item" data-text="Designed to fire solid projectiles, this crude but reliable rifle is excellent at hitting targets at extreme ranges.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_CyclerRifle.svg">
-      <span class="ability-name">Cycler Rifle</span>
-    </a><a class="ability-item" data-text="Fires a concussion projectile that knocks down enemies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_ConcussionDart.svg">
-      <span class="ability-name">Concussion Dart</span>
+    </a><a class="ability-item" data-text="Extended barrel and stock for a single, precise, high-power blaster bolt. Defeating enemies with a headshot while this configuration is active will instantly refresh the ability.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_Sniper.svg">
+      <span class="ability-name">Sniper Mode</span>
+    </a><a class="ability-item" data-text="Charge-up muzzle device for firing a single ion explosive. Effective against shields, vehicles, and groups of enemies.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/resistancerocketjumper/ResistanceRocketJumper_Launcher.svg">
+      <span class="ability-name">Ion Launcher Mode</span>
     </a>
     </div>
   </div>
 </div>
+
+<div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_NiktoSmuggler.png">
+  <div class="text">
+    <h3>
+      <strong>Smuggler</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Infiltrator">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Infiltrator.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1em; margin-left: -1.1em; transform: translateY(-2px);" src="../../assets/abilities/reinfocements/niktosmuggler/Weapons_NiktoSmugglerDualDT29.svg">
+      <span class="ability-name">Dual DT-29</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Throw an improvised incendiary projectile that spews fire on impact.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/niktosmuggler/NiktoSmuggler_Molotov.svg">
+      <span class="ability-name">Bottle Bomb</span>
+    </a><a class="ability-item" data-text="Smuggled intel reveals nearby enemies for a short duration. Defeating revealed enemies will increase the detection radius.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/niktosmuggler/NiktoSmuggler_Scanner.svg">
+      <span class="ability-name">Data Theft</span>
+    <a class="ability-item" data-text="Fire from both DT-29s at once, trading accuracy for firepower.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/niktosmuggler/NiktoSmuggler_DualShot.svg">
+      <span class="ability-name">Double Tap</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+___
 
 ### First Order
 
@@ -866,9 +870,9 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a><a class="ability-item" data-text="Reconfigures the D-93 to spew lingering flames that stick to surfaces.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/flametrooper/Flametrooper_Berserker.svg">
       <span class="ability-name">Blazing Inferno</span>
-    </a><a class="ability-item" data-text="When retriggered, splits into multiple smaller incendiary grenades that deal a small amount of damage to enemies passing through.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/flametrooper/Flametrooper_SplitterFire.svg">
-      <span class="ability-name">Incendiary Splitter</span>
+    </a><a class="ability-item" data-text="Regenerate health while the ability is active. Each enemy defeated prior to activation will increase the duration of the next use up to a maximum.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/flametrooper/Flametrooper_Regen.svg">
+      <span class="ability-name">Infernal Restoration</span>
     </a>
     </div>
   </div>
@@ -897,7 +901,7 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a><a class="ability-item" data-text="Passively regenerates a small amount of health while active. Retrigger to deactivate ability.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/guaviansecurity/GuavianSecurity_Healing.svg">
       <span class="ability-name">Regeneration</span>
-    </a><a class="ability-item" data-text="Cybernetic reservoir containing a serum that enhances the Guavian Security's attributes. Using abilities will drain this reservoir, which will need to fully replenish itself before it can be used again.">
+    </a><a class="ability-item" data-text="Cybernetic reservoir containing a serum that enhances the Guavian Security's attributes. Using abilities will drain this reservoir, which will deactivate them if emptied.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/guaviansecurity/GuavianSecurity_Supply.svg">
       <span class="ability-name">Reservoir</span>
     </a>
@@ -910,13 +914,13 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
   <div class="text">
     <h3>
       <strong>Riot Control Trooper</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -0.75em; transform: translateY(-5px);" src="../../assets/abilities/reinfocements/riotcontrol/Weapons_RiotControlSE-44C_and_Z6RiotControlBaton.svg">
-      <span class="ability-name">SE-44C + Z6 Riot Control Baton</span>
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -0.75em; transform: translateY(-5px);" src="../../assets/abilities/reinfocements/riotcontrol/Weapons_Z6RiotControlBaton.svg">
+      <span class="ability-name">Z6 Riot Control Baton</span>
     </a>
     <div>
     <a class="ability-item" data-text="Non-lethal grenade that drastically blinds enemies for a short duration.">
@@ -928,6 +932,9 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a><a class="ability-item" data-text="Temporarily boosts the Enforcer's health.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/riotcontrol/RiotControl_Fortify.svg">
       <span class="ability-name">Fortify</span>
+    </a><a class="ability-item" data-text="Fully automatic sidearm that can be fired at any time.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/riotcontrol/RiotControl_SE-44C.svg">
+      <span class="ability-name">SE-44C</span>
     </a>
     </div>
   </div>
@@ -960,3 +967,7 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </div>
   </div>
 </div>
+
+___
+
+![main](../assets/gallery/maincover_v2_wide.webp){ .round-corners } 

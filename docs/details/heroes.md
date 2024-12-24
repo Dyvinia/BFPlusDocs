@@ -1,6 +1,12 @@
 # Heroes & Villains
 
-Battlefront Plus adds more than a dozen new heroes across all factions, each with their own unique abilities, Star Cards, and appearances. From iconic, fan favorite characters to more obscure ones, new heroes come from every corner of the Star Wars canon.
+<div style="text-align: center">
+  <video class="round-corners" autoplay muted loop playsinline disablePictureInPicture>
+    <source src="../../assets/videos/heroes_banner.mp4" type="video/mp4">
+  </video>
+</div>
+
+Battlefront Plus adds 22 new heroes across all factions, each with their own unique abilities, Star Cards, and appearances. From iconic, fan favorite characters to more obscure ones, new heroes come from every corner of the Star Wars canon.
 
 ## Heroes
 
@@ -39,7 +45,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     <a class="ability-item" data-text="Cal uses the Force to freeze enemies in front of him. By charging up this ability, he can extend the reach of this ability.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/calkestis/Cal_Freeze.svg">
       <span class="ability-name">Force Stasis</span>
-    </a><a class="ability-item" data-text="Cal switches forms to attack with a Double-Bladed lightsaber, increasing his stamina but reducing damage.">
+    </a><a class="ability-item" data-text="Cal switches forms to attack with a Double-Bladed lightsaber, increasing his stamina but reducing damage and deflection accuracy.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/calkestis/Cal_DoubleLightsaber.svg">
       <span class="ability-name">Double-Bladed</span>
     </a><a class="ability-item" data-text="Cal injects himself with a Stim Canister, instantly replenishing a large portion of his health.">
@@ -65,10 +71,10 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     <a class="ability-item" data-text="Rex can throw up to three EMP grenades that will explode after a short time, stunning enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captainrex/Rex_Grenade.svg">
       <span class="ability-name">Droid Poppers</span>
-    </a><a class="ability-item" data-text="While active, enemies nearby to Rex will have all forms of healing blocked. Rex will additionally have increased sprint speed.">
+    </a><a class="ability-item" data-text="While active, enemies nearby to Rex will have all forms of healing blocked.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captainrex/Rex_HealBlockAura.svg">
       <span class="ability-name">Unconventional Tactics</span>
-    </a><a class="ability-item" data-text="Generation one armor holds up, boosting Rex's health.">
+    </a><a class="ability-item" data-text="Generation one armor holds up, boosting Captain Rex's resistance to incoming damage. As his health decreases, this effect is strengthened, ensuring his ability to stay in the fight.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/captainrex/Rex_Fortify.svg">
       <span class="ability-name">Generation One</span>
     </a>
@@ -111,18 +117,44 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </h3>
     <a>Din Djarin, also known as "The Mandalorian", was a renowned Mandalorian warrior during the era of the New Republic. With his Mandalorian armor, IB-94 blaster pistol, Amban sniper rifle, and beskar helmet, Djarin was both well-equipped and enigmatic.</a>
     <div>
+    <a class="ability-item" data-text="Din Djarin fires his grappling hook at an enemy, rapidly pulling himself to them with an attack that knocks them to the ground.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_ThermalVision.svg">
+      <span class="ability-name">Grapple Strike</span>
     <a class="ability-item" data-text="Equips a high power disruptor sniper rifle for a short time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_AmbanSniper.svg">
       <span class="ability-name">Amban Phase-Pulse Blaster</span>
-    </a><a class="ability-item" data-text="Din Djarin's Helmet displays heat signatures, revealing nearby enemies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_ThermalVision.svg">
-      <span class="ability-name">Thermal Vision</span>
     </a><a class="ability-item" data-text="Din Djarin fires a salvo of guided munitions that seek out nearby enemies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_WhistlingBirds.svg">
       <span class="ability-name">Whistling Birds</span>
-    </a><a class="ability-item" data-text="When performing a melee attack, he will strike down nearby enemies with the Darksaber.">
+    </a><a class="ability-item" data-text="When performing a melee attack, Din Djarin will strike down nearby enemies with the Darksaber.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dindjarin/Mando_Darksaber.svg">
       <span class="ability-name">Darksaber</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Hunter.png">
+  <div class="text">
+    <h3 id="hunter">
+      <strong>Hunter</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.3em;" src="../../assets/blasters/officer-blasters/Weapons_DC-17.svg">
+    </h3>
+    <a>Hunter was the leader of Clone Force 99, a squad of defective clones known as the "Bad Batch." His enhanced senses granted him heightened awareness and the ability to perceive electromagnetic frequencies, making him an exceptional tracker.</a>
+    <div>
+    <a class="ability-item" data-text="Low-damage stun mode. The first two hits on an enemy will stagger and the third will knock them down, as well as inflict extra damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/hunter/Ability_Hunter_StunBlast.svg">
+      <span class="ability-name">Stun Mode</span>
+    </a><a class="ability-item" data-text="Hunter becomes more resistant in combat, granting him bonus health and preventing him from being stunned or knocked down.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/hunter/Ability_Hunter_SelfBuff.svg">
+      <span class="ability-name">Combat Prowess</span>
+    </a><a class="ability-item" data-text="Chain swift strikes with the VIBRO-KNIFE, performing a powerful knockdown on the third and final swing.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/hunter/Ability_Hunter_Knife.svg">
+      <span class="ability-name">Vibro-Knife</span>
+    </a><a class="ability-item" data-text="Hunter's exceptional skills as a tracker enable him to passively view enemy footsteps at all times.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/hunter/Ability_Hunter_Vision.svg">
+      <span class="ability-name">Enhanced Senses</span>
     </a>
     </div>
   </div>
@@ -137,15 +169,44 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </h3>
     <a>Maz Kanata had resided at her castle for over a thousand years, witnessing the Dark Side take many forms, when the First Order emerged from hiding. The destruction of the Hosnian System and subsequent subjugation of the galaxy prompted the "Pirate Queen" to take a stand against this new threat.</a>
     <div>
-    <a class="ability-item" data-text="Maz creates an extra volatile reaction to dash forward with her jetpack, causing burn damage to nearby enemies while it is active.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_BurnDash.svg">
-      <span class="ability-name">Burn Dash</span>
+    <a class="ability-item" data-text="Advanced jetpack that enables flight while spending fuel. Its hover mode is activated by aiming down the sight of the blaster while in air.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_Jetpack.svg">
+      <span class="ability-name">Jetpack</span>
     </a><a class="ability-item" data-text="Enemies dealing damage to Maz will recieve a small amount of damage in return.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_Reflect.svg">
       <span class="ability-name">Change in Fortune</span>
+    <a class="ability-item" data-text="Maz creates an extra volatile reaction to dash forward with her jetpack, causing burn damage to nearby enemies while it is active.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_BurnDash.svg">
+      <span class="ability-name">Burn Dash</span>
     </a><a class="ability-item" data-text="Maz equips an MPL-57 grenade launcher that will increase the projectile's fuse time, blast, and launch speed when the trigger is held.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_MPL.svg">
       <span class="ability-name">Adjustable Fuse</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Merrin.png">
+  <div class="text">
+    <h3 id="merrin">
+      <strong>Merrin</strong>
+      <img class="weapon-saber" class="no-lb" style="margin-left: -0.1em; width: 100px; transform: translateY(4px);" src="../../assets/abilities/heroes/merrin/Weapons_MerrinLightsaber.svg">
+    </h3>
+    <a>Nightsister Merrin is one of the very last of her people following the Separatist invasion of Dathomir. Since her initially hostile encounter with Cal Kestis, a Jedi Padawan who had also lost his people, she has become an explorer and a most dependable ally to Kestis, his crew, and those in need across the galaxy.</a>
+    <div>
+    <a class="ability-item" data-text="Merrin hurling an explosive fireball of Magick. Upgrades with each level of Merrin's Power Meter and resets it upon use.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/merrin/Merrin_Fireball.svg">
+      <span class="ability-name">Fireball</span>
+    </a><a class="ability-item" data-text="Merrin uses her Magick to root a target in place, along with any enemies in their immediate vicinity.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/merrin/Merrin_Roots.svg">
+      <span class="ability-name">Magick Roots</span>
+    </a><a class="ability-item" data-text="Merrin teleports forward, briefly avoiding every form of attack and disappearing from the radar.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/merrin/Merrin_Teleport.svg">
+      <span class="ability-name">Teleportation</span>
+    </a><a class="ability-item" data-text="Whenever Merrin strikes an enemy with her spear or inflicts them with Magick Roots, her Power Meter will gradually fill, improving her abilities.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/merrin/Merrin_PowerMeter.svg">
+      <span class="ability-name">Power</span>
     </a>
     </div>
   </div>
@@ -175,6 +236,29 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 </div>
 
 <div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Padme.png">
+  <div class="text">
+    <h3 id="padme">
+      <strong>Padme Amidala</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.1em;" src="../../assets/abilities/heroes/padme/Weapons_PadmeELG-3A.svg">
+    </h3>
+    <a>Strong-willed and righteous, Padmé Amidala was unyielding in the fight for a better galaxy, be it in the Galactic Senate or on the battlefield. Secretly married to Anakin Skywalker, she was the biological mother of Leia Organa and Luke Skywalker.</a>
+    <div>
+    <a class="ability-item" data-text="Padmé temporarily upgrades her ELG-3A's power level. Within a moment of Overcharge's activation, reactivate the ability, up to an additional two times to increase the damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/padme/Padme_Overcharge.svg">
+      <span class="ability-name">Overcharge</span>
+    </a><a class="ability-item" data-text="Padmé inspires her allies to rally together, granting herself and those nearby a small healing aura.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/padme/Padme_Command.svg">
+      <span class="ability-name">Royal Resolve</span>
+    </a><a class="ability-item" data-text="Summon R2-D2 to support allies with improved capture point speed, radar scan, smoke grenades, and shock attacks. Padmé interacts with objectives faster while R2-D2 is deployed.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/padme/Padme_R2-D2.svg">
+      <span class="ability-name">R2-D2</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_ShrivSuurgav.png">
   <div class="text">
     <h3 id="shriv">
@@ -197,7 +281,32 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
   </div>
 </div>
 
+___
+
 ## Villains
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_AsajjVentress.png">
+  <div class="text">
+    <h3 id="ventress">
+      <strong>Asajj Ventress</strong>
+      <img class="weapon-saber" class="no-lb" style="margin-left: -0.69em; width: 120px; transform: translateY(-2px);" src="../../assets/abilities/heroes/asajjventress/Weapons_AsajjVentressLightsaber.svg">
+    </h3>
+    <a>Prior to being betrayed by her master, Count Dooku, Asajj Ventress was a fallen Jedi who served as commander of the Separatist army and the Sith's personal assassin. Throughout much of the Clone Wars, she gained a reputation as a skillful warrior whose power was rivaled by her arrogance.</a>
+    <div>
+    <a class="ability-item" data-text="Ventress throws a projectile that damages enemies on impact and will ricochet off surfaces.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/asajjventress/AsajjVentress_StarBlades.svg">
+      <span class="ability-name">Starblades</span>
+    </a><a class="ability-item" data-text="Ventress cloaks herself in Magick Ichor, becoming invisible. Perform a lightsaber attack while cloaked to execute a Vanish Strike, dealing extra damage and revealing Ventress.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/asajjventress/AsajjVentress_Cloak.svg">
+      <span class="ability-name">Vanish</span>
+    </a><a class="ability-item" data-text="Ventress lifts an enemy into the air, leaving them open to attack.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/asajjventress/AsajjVentress_SelectChoke.svg">
+      <span class="ability-name">Force Grasp</span>
+    </a>
+    </div>
+  </div>
+</div>
 
 <div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portait_CaptainCardinal.png">
@@ -231,15 +340,38 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     </h3>
     <a>Clad in a unique, gold-plated set of stormtrooper armor and a military leader at heart, Commander Pyre showed determination to serve the First Order at all costs and made sure to distinguish himself on the field. </a>
     <div>
-    <a class="ability-item" data-text="Commander Pyre plants a device that boosts the health of nearby allies.">
+    <a class="ability-item" data-text="Commander Pyre marks a rally point for his team, boosting the health of any ally standing in its radius.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commanderpyre/Pyre_DeployBoost.svg">
       <span class="ability-name">Gold Zone</span>
     </a><a class="ability-item" data-text="Commander Pyre commands nearby allies to withstand all attacks, granting those around him a very high damage reduction for a short time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commanderpyre/Pyre_Might.svg">
       <span class="ability-name">Seize This Moment</span>
-    </a><a class="ability-item" data-text="Commander Pyre increases his damage and passively heals nearby allies.">
+    </a><a class="ability-item" data-text="Commander Pyre increases his damage and passively heals nearby allies. Defeating troopers or damaging heroes increases the healing effect up to a maximum.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commanderpyre/Pyre_Laxus.svg">
       <span class="ability-name">Thunderer Legion</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_DaganGera.png">
+  <div class="text">
+    <h3 id="dagan">
+      <strong>Dagan Gera</strong>
+      <img class="weapon-saber" class="no-lb" style="margin-left: -0.5em; width: 100px; transform: translateY(3px);" src="../../assets/abilities/heroes/dagangera/Weapons_DaganLightsaber.svg">
+    </h3>
+    <a>A renowned and ambitious Jedi Master of the High Republic, Dagan Gera discovered the hidden planet Tanalorr and set to use it as a bastion for the Jedi Order on the galactic frontier. When the High Council gave the order to abandon Tanalorr to invading marauders, Dagan turned against his fellow Jedi, costing him an arm.</a>
+    <div>
+    <a class="ability-item" data-text="Dagan summons a volley of orbs that slowly seek out enemies ahead of them.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dagangera/Dagan_ForceOrbs.svg">
+      <span class="ability-name">Force Orbs</span>
+    </a><a class="ability-item" data-text="Dagan switches to a dual wield saber stance and conjures a powerful Force Illusion to confuse enemies. In this stance, he can deflect blaster bolts and has increased attack stamina, but reduced defense.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dagangera/Dagan_Illusion.svg">
+      <span class="ability-name">Force Illusion</span>
+    </a><a class="ability-item" data-text="Dagan plants an orb of Force energy into the ground, which will unleash devastating damage after a moment.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dagangera/Dagan_ForceBomb.svg">
+      <span class="ability-name">Force Bomb</span>
     </a>
     </div>
   </div>
@@ -272,6 +404,29 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
 </div>
 
 <div class="hero">
+  <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_GrandAdmiralThrawn.png">
+  <div class="text">
+    <h3 id="thrawn">
+      <strong>Grand Admiral Thrawn</strong>
+      <img class="weapon-blaster" class="no-lb" style="margin-left: -1.5em; transform: translateY(4px)" src="../../assets/abilities/heroes/thrawn/Weapons_RK-3.svg">
+    </h3>
+    <a>Mitth'raw'nuruodo, better known as Thrawn, is a Grand Admiral of the Imperial Navy, commanding the 7th Fleet. Despite being non-human, an extreme rarity in the Empire's military, he was promoted by Emperor Palpatine for his brilliance and ruthless efficiency. Thrawn believed that in order to achieve victory in war, one must know their enemy.</a>
+    <div>
+    <a class="ability-item" data-text="Thrawn marks his attackers and inflicts them with weakness, an effect which strengthens as he withstands their assault. Enduring enough attacks will inflict greater weakness on all enemies within a large radius and inhibit their abilities.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/thrawn/Thrawn_Ability_Defender.svg">
+      <span class="ability-name">Know The Enemy</span>
+    </a><a class="ability-item" data-text="Thrawn and his nearby allies receive healing and damage resistance. The strength of these effects is increased with the number of players affected.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/thrawn/Thrawn_Ability_UpgradeCommand.svg">
+      <span class="ability-name">Direct Command</span>
+    </a><a class="ability-item" data-text="Equip a pair of macrobinoculars to call in a bombardment from Thrawn's personal Star Destroyer when outdoors. Mark an area indoors that will spot nearby enemies and inhibit their ability to capture zones, with success rewarding Thrawn with a recharge speed bonus.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/thrawn/Thrawn_Ability_Binocs.svg">
+      <span class="ability-name">Chimaera Strike</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero">
   <img class="portrait" class="no-lb"  src="../../assets/portraits/heroes/Portrait_Hask.png">
   <div class="text">
     <h3 id="hask">
@@ -283,7 +438,7 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     <a class="ability-item" data-text="Hask reveals enemies within his line of sight to his allies. When revealed, they will have all forms of healing blocked.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_DebuffEnemy.svg">
       <span class="ability-name">Routing Traitors</span>
-    </a><a class="ability-item" data-text="Hask leads the charge with a modified E-11 Blast Cannon, passively boosting nearby allies with dsiruption immunity.">
+    </a><a class="ability-item" data-text="Hask leads the charge with a modified E-11 Blast Cannon, passively boosting nearby allies with disruption immunity.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_BuffAlly.svg">
       <span class="ability-name">Blast Cannon</span>
     </a><a class="ability-item" data-text="Hask charges up a volatile power blast that ignites a small flame upon impact.">
@@ -329,9 +484,9 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     <a class="ability-item" data-text="Back mounted jetpack that utilizes burst thrusters to allow Jango to jet over large distances. It is well suited for traversing obstructions and evading danger.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/jangofett/Jango_JumpPack.svg">
       <span class="ability-name">Jet Boost</span>
-    </a><a class="ability-item" data-text="When dealing damage, Jango Fett gains bonus health. Upon getting kills, he is awarded extra Battle Points.">
+    </a><a class="ability-item" data-text="Jango Fett boosts his health, up to a maximum, based on the number of enemies nearby when the ability was activated.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/jangofett/Jango_Collecting.svg">
-      <span class="ability-name">Collecting Bounties</span>
+      <span class="ability-name">Adaptive Armor</span>
     </a><a class="ability-item" data-text="Jango briefly activates the flamethrower mounted in his gauntlet, incinerating enemies in front of him.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/jangofett/Jango_WristFlamethrower.svg">
       <span class="ability-name">Wrist Flamethower</span>
@@ -355,13 +510,17 @@ Battlefront Plus adds more than a dozen new heroes across all factions, each wit
     <a class="ability-item" data-text="The Second Sister saps the life force from enemies in front of her to heal herself. This effect is amplified with a higher number of victims.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/secondsister/SecondSister_ForceDrain.svg">
       <span class="ability-name">Force Drain</span>
-    </a><a class="ability-item" data-text="The Second Sister switches forms to attack with a Double-Bladed lightsaber, increasing her stamina but reducing damage.">
+    </a><a class="ability-item" data-text="The Second Sister switches forms to attack with a Double-Bladed lightsaber, increasing her stamina but reducing damage and deflection accuracy.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/secondsister/SecondSister_DoubleLightsaber.svg">
       <span class="ability-name">Double-Bladed</span>
-    </a><a class="ability-item" data-text="The Second Sister lunges forward with a deadly slash that knocks enemies onto the ground.">
+    </a><a class="ability-item" data-text="The Second Sister lunges forward with a deadly slash that knocks enemies onto the ground. While the DOUBLE-BLADED stance is active, the radius of the attack is increased but its damage is reduced.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/secondsister/SecondSister_Lunge.svg">
       <span class="ability-name">Cunning Slash</span>
     </a>
     </div>
   </div>
 </div>
+
+___
+
+![main](../assets/gallery/maincover_v2_wide.webp){ .round-corners } 
