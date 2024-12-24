@@ -52,7 +52,7 @@ extra:
       link: https://discord.gg/99VtTgFBqq 
       name: Discord
 extra_css:
-  - stylesheets/extra.css?v=10
+  - stylesheets/extra.css?v=10christmas
 extra_javascript:
   - js/extra.js
   - js/cards.js
