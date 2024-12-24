@@ -504,7 +504,7 @@
     
                 "damage": "9-6",
                 "range": "20-64",
-                "rof": "2700 x 10 - 100",
+                "rof": "2700 x 10 - 110",
                 "heat": "0.021",
     
                 "attachmentOne": {
@@ -581,8 +581,8 @@
 
                 "trait": "Slow-firing tri-shot mode from the hip, repeater mode while zoomed in",
     
-                "damage": "25-14 x 3 | 32-20",
-                "range": "12-24 | 10-40",
+                "damage": "26-15 x 3 | 32-23",
+                "range": "12-28 | 10-40",
                 "rof": "160 | 450",
                 "heat": "0.027",
     
@@ -784,7 +784,7 @@
                 "image": "heavy-blasters/Weapons_SonicBlaster.svg",
     
                 "damage": "49-30 | 20",
-                "range": "20-40 | 1-5",
+                "range": "20-40 | 1.5-5",
                 "rof": "90",
                 "heat": "0.136",
     
