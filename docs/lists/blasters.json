@@ -1584,7 +1584,7 @@
 
                 "trait": "Requires reloading an energy magazine",
     
-                "damage": "110-75",
+                "damage": "110-77",
                 "range": "10-65",
                 "rof": "65",
                 "heat": "0.2",
