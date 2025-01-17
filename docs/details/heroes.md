@@ -433,7 +433,7 @@ ___
       <strong>Gideon Hask</strong>
       <img class="weapon-blaster" class="no-lb" style="margin-left: -1.5em; transform: translateY(4px)" src="../../assets/abilities/heroes/gideonhask/Weapons_HaskRK-3.svg">
     </h3>
-    <a>Oprhaned as a child by a Rebel attack, Gideon Hask became zealously loyal to the Galactic Empire, eventually joining the elite Inferno Squadron. After his squadmates defected to the Rebellion during Operation Cinder, Hask maintained his allegiance to the Empire and later its successor state: the First Order.</a>
+    <a>Orphaned as a child by a Rebel attack, Gideon Hask became zealously loyal to the Galactic Empire, eventually joining the elite Inferno Squadron. After his squadmates defected to the Rebellion during Operation Cinder, Hask maintained his allegiance to the Empire and later its successor state: the First Order.</a>
     <div>
     <a class="ability-item" data-text="Hask reveals enemies within his line of sight to his allies. When revealed, they will have all forms of healing blocked.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/gideonhask/Hask_DebuffEnemy.svg">
