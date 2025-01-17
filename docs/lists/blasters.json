@@ -2,6 +2,31 @@
     "assault": {
         "primary": [
             {
+                "name": "A280",
+                "image": "assault-blasters/Weapons_A280.svg",
+    
+                "damage": "30-17",
+                "range": "20-40",
+                "rof": "600 x 3 - 110",
+                "heat": "0.042",
+    
+                "attachmentOne": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
+                },
+                "attachmentTwo": {
+                    "name": "Improved Cooling",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#improvedcooling"
+                },
+                "attachmentThree": {
+                    "name": "Improved Range",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#improvedrange"
+                }
+            },
+            {
                 "name": "A295",
                 "image": "assault-blasters/Weapons_A280C.svg",
     
@@ -49,6 +74,31 @@
                     "name": "Critical Shot",
                     "image": "Attach_Sharpshooter.svg",
                     "jumpto": "#critical"
+                }
+            },
+            {
+                "name": "CR-2",
+                "image": "assault-blasters/Weapons_CR-2.svg",
+    
+                "damage": "12-8",
+                "range": "15-30",
+                "rof": "900",
+                "heat": "0.02",
+    
+                "attachmentOne": {
+                    "name": "Reduced Recoil",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#reducedrecoil"
+                },
+                "attachmentTwo": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
+                },
+                "attachmentThree": {
+                    "name": "Night Vision",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#nightvision"
                 }
             },
             {
@@ -129,6 +179,33 @@
                 }
             },
             {
+                "name": "E-10",
+                "image": "assault-blasters/Weapons_E-10.svg",
+
+                "trait": "Enhanced melee stuns enemies and does increased damage",
+    
+                "damage": "30-24",
+                "range": "15-50",
+                "rof": "700 x 2 - 140",
+                "heat": "0.046",
+    
+                "attachmentOne": {
+                    "name": "Exploding Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#explosive"
+                },
+                "attachmentTwo": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
+                },
+                "attachmentThree": {
+                    "name": "Berserker",
+                    "image": "Attach_Berserker.svg",
+                    "jumpto": "#berserker"
+                }
+            },
+            {
                 "name": "E-11",
                 "image": "assault-blasters/Weapons_E-11.svg",
     
@@ -151,6 +228,31 @@
                     "name": "Berserker",
                     "image": "Attach_Berserker.svg",
                     "jumpto": "#berserker"
+                }
+            },
+            {
+                "name": "E-11D",
+                "image": "assault-blasters/Weapons_E-11D.svg",
+    
+                "damage": "40-15",
+                "range": "10-60",
+                "rof": "300",
+                "heat": "0.0712",
+    
+                "attachmentOne": {
+                    "name": "Reduced Recoil",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#reducedrecoil"
+                },
+                "attachmentTwo": {
+                    "name": "Flashlight",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#flashlight"
+                },
+                "attachmentThree": {
+                    "name": "Improved Range",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#improvedrange"
                 }
             },
             {
@@ -204,6 +306,31 @@
                 }
             },
             {
+                "name": "EL-16HFE",
+                "image": "assault-blasters/Weapons_EL-16HFE.svg",
+    
+                "damage": "49-30",
+                "range": "20-40",
+                "rof": "200",
+                "heat": "0.06667",
+    
+                "attachmentOne": {
+                    "name": "Reduced Recoil",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#reducedrecoil"
+                },
+                "attachmentTwo": {
+                    "name": "Flashlight",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#flashlight"
+                },
+                "attachmentThree": {
+                    "name": "Improved Range",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#improvedrange"
+                }
+            },
+            {
                 "name": "F-11D",
                 "image": "assault-blasters/Weapons_F-11D.svg",
     
@@ -218,7 +345,7 @@
                     "jumpto": "#critical"
                 },
                 "attachmentTwo": {
-                    "name": "Explosive Shot",
+                    "name": "Exploding Shot",
                     "image": "Attach_BarrelExtension.svg",
                     "jumpto": "#explosive"
                 },
@@ -307,7 +434,7 @@
                 "name": "T-12",
                 "image": "assault-blasters/Weapons_T-12.svg",
     
-                "damage": "38-7",
+                "damage": "38-7 x 4",
                 "range": "7-18",
                 "rof": "300",
                 "heat": "0.66",
@@ -453,7 +580,7 @@
                 "damage": "45-26",
                 "range": "12-27",
                 "rof": "360",
-                "heat": "0.11"
+                "heat": "0.095"
             },
             {
                 "name": "Bulldog RLR",
@@ -477,7 +604,7 @@
     
                 "damage": "50-35",
                 "range": "15-35",
-                "rof": "360 - 90",
+                "rof": "360 x 3 - 90",
                 "heat": "0.056",
     
                 "attachmentOne": {
@@ -504,7 +631,7 @@
     
                 "damage": "9-6",
                 "range": "20-64",
-                "rof": "2700 x 10 - 100",
+                "rof": "2700 x 10 - 110",
                 "heat": "0.021",
     
                 "attachmentOne": {
@@ -573,6 +700,31 @@
                     "name": "Critical Shot",
                     "image": "Attach_Sharpshooter.svg",
                     "jumpto": "#critical"
+                }
+            },
+            {
+                "name": "DC-15LE",
+                "image": "heavy-blasters/Weapons_DC-15LE.svg",
+    
+                "damage": "16-10",
+                "range": "20-40",
+                "rof": "700",
+                "heat": "0.0181818",
+    
+                "attachmentOne": {
+                    "name": "Reduced Recoil",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
+                },
+                "attachmentTwo": {
+                    "name": "Improved Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#scope"
+                },
+                "attachmentThree": {
+                    "name": "Exploding Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#explosive"
                 }
             },
             {
@@ -683,8 +835,8 @@
 
                 "trait": "Fires 2 parallel blaster bolts at once",
     
-                "damage": "30-22 x 2",
-                "range": "15-40",
+                "damage": "32-25 x 2",
+                "range": "24-56",
                 "rof": "200",
                 "heat": "0.11",
     
@@ -702,6 +854,31 @@
                     "name": "Flashlight",
                     "image": "Attach_Barrel.svg",
                     "jumpto": "#flashlight"
+                }
+            },
+            {
+                "name": "FWMB-10K",
+                "image": "heavy-blasters/Weapons_FWMB-10K.svg",
+    
+                "damage": "24-15",
+                "range": "20-40",
+                "rof": "450",
+                "heat": "0.026181792",
+    
+                "attachmentOne": {
+                    "name": "Auto Cooling",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#focusedfire"
+                },
+                "attachmentTwo": {
+                    "name": "Night Vision",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#nightvision"
+                },
+                "attachmentThree": {
+                    "name": "Ion Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#ionshot"
                 }
             },
             {
@@ -733,8 +910,8 @@
                 "name": "M-45",
                 "image": "heavy-blasters/Weapons_M-45.svg",
     
-                "damage": "16-13",
-                "range": "20-40",
+                "damage": "20-14",
+                "range": "20-45",
                 "rof": "500",
                 "heat": "0.014",
     
@@ -764,7 +941,7 @@
                 "heat": "0.03125",
     
                 "attachmentOne": {
-                    "name": "Explosive Shot",
+                    "name": "Exploding Shot",
                     "image": "Attach_BarrelExtension.svg",
                     "jumpto": "#explosive"
                 },
@@ -784,7 +961,7 @@
                 "image": "heavy-blasters/Weapons_SonicBlaster.svg",
     
                 "damage": "49-30 | 20",
-                "range": "20-40 | 1-5",
+                "range": "20-40 | 1.5-5",
                 "rof": "90",
                 "heat": "0.136",
     
@@ -832,6 +1009,56 @@
                 }
             },
             {
+                "name": "T-21",
+                "image": "heavy-blasters/Weapons_T21.svg",
+    
+                "damage": "65-51",
+                "range": "10-50",
+                "rof": "180",
+                "heat": "0.09",
+    
+                "attachmentOne": {
+                    "name": "Scope",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#scope"
+                },
+                "attachmentTwo": {
+                    "name": "Improved Handling",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#improvedhandling"
+                },
+                "attachmentThree": {
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
+                }
+            },
+            {
+                "name": "TL-50",
+                "image": "heavy-blasters/Weapons_TL-50.svg",
+    
+                "damage": "20-10",
+                "range": "15-40",
+                "rof": "700",
+                "heat": "0.032",
+    
+                "attachmentOne": {
+                    "name": "Improved Cooling",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#improvedcooling"
+                },
+                "attachmentTwo": {
+                    "name": "Reduced Spread",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#reducedspread"
+                },
+                "attachmentThree": {
+                    "name": "Secondary Fire",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#altfire"
+                }
+            },
+            {
                 "name": "V-6D",
                 "image": "heavy-blasters/Weapons_V-6D.svg",
 
@@ -840,7 +1067,7 @@
                 "damage": "80",
                 "radius": "0.75-5",
                 "rof": "80",
-                "heat": "0.034",
+                "heat": "0.34",
     
                 "attachmentOne": {
                     "name": "Focused Fire",
@@ -882,8 +1109,8 @@
                 "name": "K-16 Bryar Pistol",
                 "image": "heavy-sidearms/Weapons_K16BryarPistol.svg",
     
-                "damage": "56-12 x 1 | 1.5 | 2",
-                "range": "8-36",
+                "damage": "56-35 x 1 | 1.5 | 2",
+                "range": "21-36",
                 "rof": "250",
                 "heat": "0.078"
             },
@@ -933,6 +1160,31 @@
                     "name": "Ion Shot",
                     "image": "Attach_Barrel.svg",
                     "jumpto": "#ionshot"
+                }
+            },
+            {
+                "name": "Blurrg-1120",
+                "image": "officer-blasters/Weapons_Blurrg-1120.svg",
+    
+                "damage": "30-12",
+                "range": "15-40",
+                "rof": "600 x 2 - 130",
+                "heat": "0.05",
+    
+                "attachmentOne": {
+                    "name": "Reduced Recoil",
+                    "image": "Attach_Grip.svg",
+                    "jumpto": "#reducedrecoil"
+                },
+                "attachmentTwo": {
+                    "name": "Improved Burst",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#escapeartist"
+                },
+                "attachmentThree": {
+                    "name": "Exploding Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#explosive"
                 }
             },
             {
@@ -1037,6 +1289,31 @@
                     "name": "Focused Fire",
                     "image": "Attach_Stock.svg",
                     "jumpto": "#focusedfire"
+                }
+            },
+            {
+                "name": "DL-18",
+                "image": "officer-blasters/Weapons_DL-18.svg",
+    
+                "damage": "41-15",
+                "range": "15-30",
+                "rof": "300",
+                "heat": "0.05",
+    
+                "attachmentOne": {
+                    "name": "Improved Cooling",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#improvedcooling"
+                },
+                "attachmentTwo": {
+                    "name": "Reduced Spread",
+                    "image": "Attach_RangeFinder.svg",
+                    "jumpto": "#reducedspread"
+                },
+                "attachmentThree": {
+                    "name": "Repeating Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#fullauto"
                 }
             },
             {
@@ -1224,8 +1501,8 @@
 
                 "trait": "Charges to 3 power levels at 90% power per second, increasing damage",
     
-                "damage": "56-12 (1x | 1.5x | 2x)",
-                "range": "8-36",
+                "damage": "56-35 (1x | 1.5x | 2x)",
+                "range": "21-36",
                 "rof": "250",
                 "heat": "0.078",
     
@@ -1235,7 +1512,7 @@
                     "jumpto": "#chargehack"
                 },
                 "attachmentTwo": {
-                    "name": "Explosive Shot",
+                    "name": "Exploding Shot",
                     "image": "Attach_BarrelExtension.svg",
                     "jumpto": "#explosive"
                 },
@@ -1276,7 +1553,7 @@
     
                 "damage": "17-12",
                 "range": "7-12",
-                "rof": "1020",
+                "rof": "1050",
                 "heat": "0.047",
     
                 "attachmentOne": {
@@ -1346,6 +1623,31 @@
                 }
             },
             {
+                "name": "S-5",
+                "image": "officer-blasters/Weapons_S-5.svg",
+    
+                "damage": "67-45",
+                "range": "15-50",
+                "rof": "140",
+                "heat": "0.1",
+    
+                "attachmentOne": {
+                    "name": "Reduced Recoil",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#reducedrecoil"
+                },
+                "attachmentTwo": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
+                },
+                "attachmentThree": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
+                }
+            },
+            {
                 "name": "SE-14C",
                 "image": "officer-blasters/Weapons_SE-14C.svg",
     
@@ -1385,14 +1687,39 @@
                     "jumpto": "#gunslinger"
                 },
                 "attachmentTwo": {
-                    "name": "Explosive Shot",
+                    "name": "Exploding Shot",
                     "image": "Attach_BarrelExtension.svg",
-                    "jumpto": "#explosiveshot"
+                    "jumpto": "#explosive"
                 },
                 "attachmentThree": {
                     "name": "Dual Zoom",
                     "image": "Attach_Scope.svg",
                     "jumpto": "#dualzoom"
+                }
+            },
+            {
+                "name": "SE-44C",
+                "image": "officer-blasters/Weapons_SE-44C.svg",
+    
+                "damage": "31-20",
+                "range": "15-30",
+                "rof": "300",
+                "heat": "0.035",
+    
+                "attachmentOne": {
+                    "name": "Improved Cooling",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#improvedcooling"
+                },
+                "attachmentTwo": {
+                    "name": "Night Vision",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#nightvision"
+                },
+                "attachmentThree": {
+                    "name": "Rapid Fire",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#rapidfire"
                 }
             },
             {
@@ -1429,7 +1756,7 @@
                 "damage": "45-26",
                 "range": "12-27",
                 "rof": "360",
-                "heat": "0.11",
+                "heat": "0.095",
     
                 "attachmentOne": {
                     "name": "Burst Mode",
@@ -1483,8 +1810,8 @@
 
                 "trait": "Blaster bolts ricochet off all surfaces",
     
-                "damage": "50 (+10)",
-                "range": "12-60",
+                "damage": "56 (+15)",
+                "range": "Infinite",
                 "rof": "200",
                 "heat": "0.167",
     
@@ -1522,6 +1849,31 @@
                     "name": "A180 Rifle",
                     "image": "Attach_RifleA180.svg",
                     "jumpto": "#a180-rifle"
+                }
+            },
+            {
+                "name": "A280-CFE",
+                "image": "specialist-blasters/Weapons_A280CFE.svg",
+    
+                "damage": "33-25",
+                "range": "20-40",
+                "rof": "320",
+                "heat": "0.067",
+    
+                "attachmentOne": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
+                },
+                "attachmentTwo": {
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
+                },
+                "attachmentThree": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
                 }
             },
             {
@@ -1579,12 +1931,37 @@
                 }
             },
             {
+                "name": "Cycler Rifle",
+                "image": "specialist-blasters/Weapons_CyclerRifle.svg",
+    
+                "damage": "75",
+                "range": "Infinite",
+                "rof": "180",
+                "heat": "0.34",
+    
+                "attachmentOne": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
+                },
+                "attachmentTwo": {
+                    "name": "Reduced Recoil",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#reducedrecoil"
+                },
+                "attachmentThree": {
+                    "name": "Improved Cooling",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#improvedcooling"
+                }
+            },
+            {
                 "name": "DC-17m Sniper",
                 "image": "specialist-blasters/Weapons_DC-17m-Sniper.svg",
 
                 "trait": "Requires reloading an energy magazine",
     
-                "damage": "110-75",
+                "damage": "110-77",
                 "range": "10-65",
                 "rof": "65",
                 "heat": "0.2",
@@ -1710,6 +2087,56 @@
                 }
             },
             {
+                "name": "IQA-11",
+                "image": "specialist-blasters/Weapons_IQA-11.svg",
+    
+                "damage": "67",
+                "range": "Infinite",
+                "rof": "130",
+                "heat": "0.2",
+    
+                "attachmentOne": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
+                },
+                "attachmentTwo": {
+                    "name": "Bolt Speed",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#boltspeed"
+                },
+                "attachmentThree": {
+                    "name": "Improved Cooling",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#improvedcooling"
+                }
+            },
+            {
+                "name": "NT-242",
+                "image": "specialist-blasters/Weapons_NT-242.svg",
+    
+                "damage": "94-84",
+                "range": "30-75",
+                "rof": "80",
+                "heat": "0.401",
+    
+                "attachmentOne": {
+                    "name": "Dual Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#dualzoom"
+                },
+                "attachmentTwo": {
+                    "name": "Disruptor Shot",
+                    "image": "Attach_BarrelExtension.svg",
+                    "jumpto": "#disruptorshot"
+                },
+                "attachmentThree": {
+                    "name": "Improved Cooling",
+                    "image": "Attach_CoolingCell.svg",
+                    "jumpto": "#improvedcooling"
+                }
+            },
+            {
                 "name": "PK-23",
                 "image": "specialist-blasters/Weapons_PK23.svg",
     
@@ -1739,7 +2166,7 @@
                 "image": "specialist-blasters/Weapons_RelbyV-10.svg",
     
                 "damage": "38-32",
-                "range": "10-60 | 1-5",
+                "range": "10-60",
                 "rof": "350",
                 "heat": "0.067",
     
@@ -1769,7 +2196,7 @@
                 "heat": "0.143",
     
                 "attachmentOne": {
-                    "name": "Explosive Shot",
+                    "name": "Exploding Shot",
                     "image": "Attach_BarrelExtension.svg",
                     "jumpto": "#explosive"
                 },

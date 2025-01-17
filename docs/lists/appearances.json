@@ -1423,6 +1423,13 @@
                 "zoom": "150%",
                 "up": "45%",
                 "left": "12%"
+            },
+            {
+                "name": "Hardened Warrior",
+                "image": "../../assets/new-appearances-v2/heroes/maul_hardened_warrior.webp",
+                "zoom": "150%",
+                "up": "45%",
+                "left": "12%"
             }
         ],
         "darthvader": [

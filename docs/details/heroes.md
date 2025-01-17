@@ -244,7 +244,7 @@ Battlefront Plus adds 22 new heroes across all factions, each with their own uni
     </h3>
     <a>Strong-willed and righteous, Padmé Amidala was unyielding in the fight for a better galaxy, be it in the Galactic Senate or on the battlefield. Secretly married to Anakin Skywalker, she was the biological mother of Leia Organa and Luke Skywalker.</a>
     <div>
-    <a class="ability-item" data-text="Padmé temporarily upgrades her ELG-3A's power level. Within a moment of Overcharge's activation, reactivate the ability, up to an additional two times to increase the damage.">
+    <a class="ability-item" data-text="Padmé temporarily upgrades her ELG-3A's power level and resets its heat. Within a moment of activation, reactivate the ability, up to an additional two times, to increase the power level for even more damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/padme/Padme_Overcharge.svg">
       <span class="ability-name">Overcharge</span>
     </a><a class="ability-item" data-text="Padmé inspires her allies to rally together, granting herself and those nearby a small healing aura.">
