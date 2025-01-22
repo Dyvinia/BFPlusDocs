@@ -178,9 +178,9 @@ Battlefront Plus adds 22 new heroes across all factions, each with their own uni
     <a class="ability-item" data-text="Maz creates an extra volatile reaction to dash forward with her jetpack, causing burn damage to nearby enemies while it is active.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_BurnDash.svg">
       <span class="ability-name">Burn Dash</span>
-    </a><a class="ability-item" data-text="Maz equips an MPL-57 grenade launcher that will increase the projectile's fuse time, blast, and launch speed when the trigger is held.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_MPL.svg">
-      <span class="ability-name">Adjustable Fuse</span>
+    </a><a class="ability-item" data-text="Maz charges up her DH-17R to unleash a rapid fire laser barrage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_LaserBarrage.svg">
+      <span class="ability-name">Laser Barrage</span>
     </a>
     </div>
   </div>

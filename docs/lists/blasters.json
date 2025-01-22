@@ -656,10 +656,10 @@
 
                 "trait": "Fires 2 parallel blaster bolts at once",
     
-                "damage": "10-7 x 2 (+3)",
+                "damage": "10-7 x 2 (+8)",
                 "range": "12-60",
                 "rof": "540",
-                "heat": "0.05",
+                "heat": "0.045",
     
                 "attachmentOne": {
                     "name": "Flashlight",
@@ -809,7 +809,7 @@
                 "image": "heavy-blasters/Weapons_E-5C.svg",
     
                 "damage": "14-8",
-                "range": "15-40",
+                "range": "15-55",
                 "rof": "800",
                 "heat": "0.01",
     
@@ -1810,9 +1810,9 @@
 
                 "trait": "Blaster bolts ricochet off all surfaces",
     
-                "damage": "56 (+15)",
+                "damage": "54 (+12)",
                 "range": "Infinite",
-                "rof": "200",
+                "rof": "180",
                 "heat": "0.167",
     
                 "attachmentOne": {

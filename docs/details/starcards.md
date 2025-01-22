@@ -723,8 +723,8 @@ ___
             <div>
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/maz/Card_Maz_9_Mid.png">
                 <div class="text">
-                    <h4><b>Evasion</b></h4>
-                    <a>Maz Kanata has +1 Evade, but slower Evade recharge time.</a>
+                    <h4><b>Air Dispute</b></h4>
+                    <a>Damaging enemies will briefly prevent Maz's jetpack from draining fuel.</a>
                 </div>
             </div>
         </div>

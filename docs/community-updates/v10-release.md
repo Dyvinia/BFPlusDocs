@@ -25,9 +25,9 @@ ___
 - **General Changes**
     - Updated the frontend tiles with quick navigation to Instant Action, an update news screen, and a random music player.
     - Added effects to enemies actively taking damage from burning affectors (i.e. flamethrowers).
-    - Added stat displays for all custom Star Cards where relevant.
+    - Added stat displays for all custom Star Cards and adjusted how they're displayed.
     - Added custom loading screen tips.
-    - Removed stat displays for all blasters.
+    - Removed stat display bars for all blasters in exchange for raw value displays.
 
 - **Arcade**
     - Replaced BattleAI with Autoplayers. 
@@ -127,8 +127,10 @@ ___
         - Removed Defender Sporting Pistol.
         - Removed Relby K-23.
         - Reorganized all blasters to display in alphabetical order.
-        - 773 Firepuncher
+        - 773-Firepuncher
             - Increased damage.
+            - Increased recoil.
+            - Reduced rate of fire
             - Altered time to live to take effect after the moment of collision.
             - Increased max count of active projectiles.
             - FUZE Attachment
@@ -159,6 +161,8 @@ ___
         - Cycler Rifle
             - Scopeless, canted aiming when DUAL ZOOM attachment is not equipped.
         - DC-12U
+            - Increased damage of the invisible middle projectile.
+            - Improved cooling.
             - Added FOCUSED FIRE attachment.
         - DC-15
             - Increased damage.
@@ -215,6 +219,7 @@ ___
         - E-5
             - Added GUNSLINGER attachment.
         - E-5C
+            - Increased end drop-off range. 
             - Added BERSERKER attachment.
         - E-5S
             - Added CRITICAL SHOT attachment.
@@ -278,6 +283,7 @@ ___
             - Added CRITICAL SHOT attachment.
         - RT-97C
             - Increased damage.
+            - Increased accuracy.
             - Added CRITICAL SHOT attachment.
         - SE-14C
             - Added PRECISION BLASTER attachment.
@@ -458,6 +464,12 @@ ___
             - Increased recharge time.
         - Added Commander [Phase II] and 332nd Company appearances.
     - Clone Sharpshooter
+        - 773-Firepuncher
+            - Increased damage.
+            - Increased recoil.
+            - Reduced rate of fire
+            - Altered time to live to take effect after the moment of collision.
+            - Increased max count of active projectiles.
         - BEAM RIFLE
             - No longer blocks sprinting while active.
             - Added UI element indicating ammo remaining.
@@ -1091,6 +1103,8 @@ ___
             - Defeating an enemy affected by the SABERDART will grant the bonus, no longer requiring a kill with the SABERDART itself.
         - Autoplayers can now use the melee attack.
         - Added unique voicelines.
+    - Kylo Ren
+        - Added Forest Duel and Starkiller Base appearances.
     - Lando Calrissian
         - Added High Roller appearance.
     - Leia Organa
@@ -1100,17 +1114,18 @@ ___
             - Can be used mid-air.
         - Added Bespin and Training Helmet appearances.
     - Maz Kanata
+        - LASER BARRAGE replaced ADJUSTABLE FUSE
+            - Maz charges up her DH-17R to unleash a rapid fire laser barrage.
+        - AIR DISPUTE Star Card replaced EVASION
+            - Damaging enemies will briefly prevent Maz's jetpack from draining fuel.
         - JETPACK
           - Can be activated by use of the left ability, similar to jet trooper reinforcements.
         - CHANGE IN FORTUNE
+            - Increased damage.
             - Added new start, end, and success sounds.
         - BURN DASH
             - Moved to the Right Ability category.
             - Updated icon.
-        - ADJUSTABLE FUSE
-            - Moved to the Bottom Ability category.
-            - Updated assets.
-            - Updated effects.
         - AN ACQUIRED TASTED Star Card
             - Decreased the deflected damage cooldown so that it occurs slightly more frequently.
         - Added unique voicelines.

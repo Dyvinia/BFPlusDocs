@@ -166,7 +166,7 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
       <span class="ability-name">Gungan Spear</span>
     </a>
     <div>
-    <a class="ability-item" data-text="The Gungan Warrior and nearby allies receive reduced explosive damage, as well as being immune to crowd control abilities, preventing them from being stunned or knocked down.">
+    <a class="ability-item" data-text="The Gungan Warrior and nearby allies receive reduced explosive damage and are unable to be stunned or knocked down.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/gunganwarrior/GunganWarrior_BombadStrength.svg">
       <span class="ability-name">Bombad Strength</span>
     </a><a class="ability-item" data-text="The Gungan Warrior and nearby allies will slowly regenerate health for a short time, even when taking damage.">
