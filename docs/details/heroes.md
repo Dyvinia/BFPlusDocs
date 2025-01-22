@@ -178,9 +178,9 @@ Battlefront Plus adds 22 new heroes across all factions, each with their own uni
     <a class="ability-item" data-text="Maz creates an extra volatile reaction to dash forward with her jetpack, causing burn damage to nearby enemies while it is active.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_BurnDash.svg">
       <span class="ability-name">Burn Dash</span>
-    </a><a class="ability-item" data-text="Maz equips an MPL-57 grenade launcher that will increase the projectile's fuse time, blast, and launch speed when the trigger is held.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_MPL.svg">
-      <span class="ability-name">Adjustable Fuse</span>
+    </a><a class="ability-item" data-text="Maz charges up her DH-17R to unleash a rapid fire laser barrage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/mazkanata/MazKanata_LaserBarrage.svg">
+      <span class="ability-name">Laser Barrage</span>
     </a>
     </div>
   </div>
@@ -244,7 +244,7 @@ Battlefront Plus adds 22 new heroes across all factions, each with their own uni
     </h3>
     <a>Strong-willed and righteous, Padmé Amidala was unyielding in the fight for a better galaxy, be it in the Galactic Senate or on the battlefield. Secretly married to Anakin Skywalker, she was the biological mother of Leia Organa and Luke Skywalker.</a>
     <div>
-    <a class="ability-item" data-text="Padmé temporarily upgrades her ELG-3A's power level. Within a moment of Overcharge's activation, reactivate the ability, up to an additional two times to increase the damage.">
+    <a class="ability-item" data-text="Padmé temporarily upgrades her ELG-3A's power level and resets its heat. Within a moment of activation, reactivate the ability, up to an additional two times, to increase the power level for even more damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/padme/Padme_Overcharge.svg">
       <span class="ability-name">Overcharge</span>
     </a><a class="ability-item" data-text="Padmé inspires her allies to rally together, granting herself and those nearby a small healing aura.">

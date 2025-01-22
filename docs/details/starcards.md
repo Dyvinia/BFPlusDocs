@@ -402,8 +402,8 @@ ___
             <div>
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cal/Card_Cal_10_Mid.png">
                 <div class="text">
-                    <h4><b>Stim Frequency</b></h4>
-                    <a>The recharge time of STIM CANISTER is shorter, enabling Cal to heal himself more often.</a>
+                    <h4><b>Stim Potency</b></h4>
+                    <a>STIM CANISTER restores more health.</a>
                 </div>
             </div>
         </div>
@@ -424,8 +424,8 @@ ___
             <div>
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cal/Card_Cal_6_Mid.png">
                 <div class="text">
-                    <h4><b>SURVIVOR</b></h4>
-                    <a>Cal takes reduced damage from explosions and toxins, as well as recovers from blinding effects more quickly.</a>
+                    <h4><b>Path Forward</b></h4>
+                    <a>Attacking enemies with the DOUBLE-BLADED lightsaber stance will reduce ability recharge times even more.</a>
                 </div>
             </div>
         </div>
@@ -723,8 +723,8 @@ ___
             <div>
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/maz/Card_Maz_9_Mid.png">
                 <div class="text">
-                    <h4><b>Evasion</b></h4>
-                    <a>Maz Kanata has +1 Evade, but slower Evade recharge time.</a>
+                    <h4><b>Air Dispute</b></h4>
+                    <a>Damaging enemies will briefly prevent Maz's jetpack from draining fuel.</a>
                 </div>
             </div>
         </div>

@@ -4,6 +4,8 @@ Battlefront Plus fixes dozens of bugs leftover from the base game. Many of these
 
 ## Reinforcements
 
+- B2-RP
+    - Fixed an issue with autoplayers using B1 names.
 - Caphex Spy
     - TRUNCHEON STRIKES
         - Fixed an issue with the missing attack animations.
@@ -17,6 +19,11 @@ Battlefront Plus fixes dozens of bugs leftover from the base game. Many of these
         - Fixed an issue with the weapon not receiving unlimited blaster cooling from the Officer's BLAST COMMAND or Finn's BIG DEAL.
     - ANTI-ARMOR MODE
         - Fixed an issue with the weapon not receiving unlimited blaster cooling from the Officer's BLAST COMMAND or Finn's BIG DEAL.
+
+## Vehicles
+
+- Y-Wing
+    - Fixed an issue with the vehicle being free on Tatooine - Galactic Assault.
 
 ## Heroes
 
@@ -43,6 +50,7 @@ Battlefront Plus fixes dozens of bugs leftover from the base game. Many of these
         - Fixed an issue with DARK AURA receiving the bonus damage without having to affect 3 enemies at a time like the description states.
 - Finn
     - BIG DEAL
+        - Fixed numerous exploits which would result in other characters receiving permanent damage resistance granted by their own abilities.
         - Fixed an issue enabling the player to have the AOE bonuses permanently active.
     - NO MORE RUNNING Star Card
         - Fixed an issue with DEADEYE receiving the bonus damage without having to obtain 3 kills with the ability like the description states.
@@ -55,8 +63,11 @@ Battlefront Plus fixes dozens of bugs leftover from the base game. Many of these
     - LINE UP, WEAKLINGS Star Card
         - Fixed an issue with CLAW RUSH receiving the bonus damage without having to hit at least 1 enemy with the ability like the description states.
 - Han Solo
+    - SHARPSHOOTER
+        - Fixed an issue with the player being permanently slowed from the ability after deactivation due  
     - SHOULDER CHARGE
         - Fixed an exploit that would enable perpetual use of the ability.
+        - Fixed an issue which resulted in players being unable to activate the ability upon impacting an enemy and getting ragdolled or choked.
 - Iden Versio
     - ACQUIRING TARGETS Star Card
         - Fixed an issue with the effects of this Star Card being swapped with SHOCKING REACH.
