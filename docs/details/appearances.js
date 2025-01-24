@@ -114,6 +114,7 @@ fetch("../../lists/appearances.json").then(response => response.json()).then(dat
         'heroes-obiwan',
         'heroes-padme',
         'heroes-shriv',
+        'heroes-yoda',
 
         'villains-asajjventress',
         'villains-boba',
@@ -130,6 +131,7 @@ fetch("../../lists/appearances.json").then(response => response.json()).then(dat
         'villains-gideonhask',
         'villains-greedo',
         'villains-jango',
+        'villains-kylo',
         'villains-secondsister',
         'villains-zam',
     ];
