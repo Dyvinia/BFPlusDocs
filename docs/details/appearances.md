@@ -205,6 +205,9 @@ Customize your characters with dozens of new appearances added to Troopers, Rein
 ### **Shriv**
 <div class="container" style="margin-top: -0.8em;" id="heroes-shriv"></div>
 
+### **Yoda**
+<div class="container" style="margin-top: -0.8em;" id="heroes-yoda"></div>
+
 
 ## Villains
 
@@ -252,6 +255,9 @@ Customize your characters with dozens of new appearances added to Troopers, Rein
 
 ### **Jango Fett**
 <div class="container" style="margin-top: -0.8em;" id="villains-jango"></div>
+
+### **Kylo Ren**
+<div class="container" style="margin-top: -0.8em;" id="villains-kylo"></div>
 
 ### **Second Sister**
 <div class="container" style="margin-top: -0.8em;" id="villains-secondsister"></div>

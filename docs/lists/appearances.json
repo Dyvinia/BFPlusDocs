@@ -1305,6 +1305,12 @@
                 "up": "22%",
                 "left": "18%"
             }
+        ],
+        "yoda": [
+            {
+                "name": "Legacy",
+                "image": "../../assets/new-appearances-v2/heroes/yoda_2003.webp"
+            }
         ]
     },
     "villains": {
@@ -1504,6 +1510,36 @@
             {
                 "name": "Z-6",
                 "image": "../../assets/new-appearances-v2/heroes/jango_z-6.webp",
+                "zoom": "130%",
+                "up": "22%",
+                "left": "15%"
+            }
+        ],
+        "kylo": [
+            {
+                "name": "Forest Duel",
+                "image": "../../assets/new-appearances-v2/heroes/kylo_forestduel.webp",
+                "zoom": "130%",
+                "up": "22%",
+                "left": "14%"
+            },
+            {
+                "name": "Starkiller Base",
+                "image": "../../assets/new-appearances-v2/heroes/kylo_starkillerbase.webp",
+                "zoom": "130%",
+                "up": "22%",
+                "left": "15%"
+            },
+            {
+                "name": "Shirtless",
+                "image": "../../assets/new-appearances-v2/heroes/kylo_shirtless.webp",
+                "zoom": "130%",
+                "up": "22%",
+                "left": "15%"
+            },
+            {
+                "name": "Supremacy",
+                "image": "../../assets/new-appearances-v2/heroes/kylo_ep8helmet.webp",
                 "zoom": "130%",
                 "up": "22%",
                 "left": "15%"
