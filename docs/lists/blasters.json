@@ -1810,9 +1810,9 @@
 
                 "trait": "Blaster bolts ricochet off all surfaces",
     
-                "damage": "54 (+12)",
+                "damage": "53 (+13)",
                 "range": "Infinite",
-                "rof": "180",
+                "rof": "150",
                 "heat": "0.167",
     
                 "attachmentOne": {
@@ -1909,7 +1909,7 @@
 
                 "trait": "Enhanced melee stuns enemies and does increased damage",
     
-                "damage": "45-30 x 2",
+                "damage": "45-30",
                 "range": "10-60",
                 "rof": "220",
                 "heat": "0.067",

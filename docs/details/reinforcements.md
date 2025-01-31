@@ -141,7 +141,7 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     <a class="ability-item" data-text="A powerful explosive charge which can be manually detonated at any time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_Detpack.svg">
       <span class="ability-name">Detpack</span>
-    </a><a class="ability-item" data-text="Unleash a blast of electricity, dealing immense damage to targeted enemies.">
+    </a><a class="ability-item" data-text="Unleash a blast of electricity, dealing immense damage to targeted enemies. Charging the ability will cause the lightning to bounce to other nearby targets for less damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/cloneengineer/CloneEngineer_BoltCaster.svg">
       <span class="ability-name">Bolt Caster</span>
     </a><a class="ability-item" data-text="Deployable field kit which, when stepped on, supplies an ally with instant healing and takes their abilities out of recharge.">
