@@ -112,6 +112,7 @@ ___
         - Added the cut "TAKE THAT" emote.
         - Added the cut "THAT'S HOW" emote.
     - Blasters
+        - New Randomize blaster options for primary and secondary weapons.
         - New Assault blaster: E-10.
         - New Assault blaster: Neo-Crusader Rifle.
         - New Heavy blaster: ABR-2 Zato Rifle.
@@ -337,6 +338,11 @@ ___
             - Added ION SHOT attachment.
             - Increased base zoom.
         - Zersium Rifle
+            - Improved functional consistency.
+            - Increased rate of fire.
+            - Changed firing mode to fully automatic.
+            - Increased zoom.
+            - Removed randomized heat build-up.
             - Added BURST MODE attachment.
             - Updated weapon icon.
     - Sidearms
@@ -484,6 +490,10 @@ ___
         - DETPACK
             - Increased blast radius.
             - Increased throw speed.
+        - BOLT CASTER
+            - Added charge-up function. Base charge does greater damage on a singular target, while the higher charge level does less damage and arcs out to upwards of 8 other targets.
+            - Added UI element while targeting to improve visual feedback.
+            - Updated description.
         - FIELD KIT replaced SUPERCOOLING GRENADE
             - Deployable field kit which, when stepped on, supplies an ally with instant healing and takes their abilities out of recharge.
         - Autoplayers can now use the melee attack.
