@@ -57,6 +57,7 @@ fetch("../../lists/appearances.json").then(response => response.json()).then(dat
         'droids-officer',
         'droids-specialist',
         'droids-b2',
+        'droids-bx',
         'droids-combatmagnaguard',
         'droids-tacticaldroid',
 

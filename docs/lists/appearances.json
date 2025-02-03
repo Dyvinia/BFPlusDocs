@@ -563,6 +563,32 @@
                 "image": "../../assets/new-appearances-v2/reinforcements/droid_enforcer_b2_gold.webp"
             }
         ],
+        "bx": [
+            {
+                "name": "Hutt Cartel",
+                "image": "../../assets/new-appearances-v2/reinforcements/droid_infiltrator_bx_hutt_01.webp"
+            },
+            {
+                "name": "Hutt Cartel",
+                "image": "../../assets/new-appearances-v2/reinforcements/droid_infiltrator_bx_hutt_02.webp"
+            },
+            {
+                "name": "Bedlam Raider",
+                "image": "../../assets/new-appearances-v2/reinforcements/droid_infiltrator_bx_bedlam_default.webp"
+            },
+            {
+                "name": "Bedlam Raider",
+                "image": "../../assets/new-appearances-v2/reinforcements/droid_infiltrator_bx_bedlam_hybrid.webp"
+            },
+            {
+                "name": "Bedlam Raider",
+                "image": "../../assets/new-appearances-v2/reinforcements/droid_infiltrator_bx_bedlam_melee.webp"
+            },
+            {
+                "name": "Bedlam Raider",
+                "image": "../../assets/new-appearances-v2/reinforcements/droid_infiltrator_bx_bedlam_rifle.webp"
+            }
+        ],
         "combatmagnaguard": [
             {
                 "name": "Holowan",
@@ -1159,6 +1185,13 @@
             {
                 "name": "Duel",
                 "image": "../../assets/new-appearances-v2/heroes/luke_duel.webp",
+                "zoom": "130%",
+                "up": "22%",
+                "left": "18%"
+            },
+            {
+                "name": "Cloak",
+                "image": "../../assets/new-appearances-v2/heroes/luke_jabbaspalace.webp",
                 "zoom": "130%",
                 "up": "22%",
                 "left": "18%"

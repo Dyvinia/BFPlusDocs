@@ -429,6 +429,8 @@ ___
         - WRIST ROCKET
             - The projectile is affected by gravity.
             - Replaced crosshair.
+        - TRI-SHOT
+            - Reduced venting duration.
     - B2 Super Battle Droid
         - Increased Battle Point price to 2000.
         - TWIN WRIST-BLASTER

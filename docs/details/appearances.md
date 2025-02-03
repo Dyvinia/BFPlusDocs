@@ -60,6 +60,9 @@ Customize your characters with dozens of new appearances added to Troopers, Rein
 <h3 style="font-size: 1.05em;"><b>B2 Super Battle Droid</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="droids-b2"></div>
 
+<h3 style="font-size: 1.05em;"><b>BX Commando Droid</b></h3>
+<div class="container" style="margin-top: -0.8em;" id="droids-bx"></div>
+
 <h3 style="font-size: 1.05em;"><b>Combat Magnaguard</b></h3>
 <div class="container" style="margin-top: -0.8em;" id="droids-combatmagnaguard"></div>
 
