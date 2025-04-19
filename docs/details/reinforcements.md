@@ -449,8 +449,8 @@ ___
   <div class="text">
     <h3>
       <strong>Rebel Pilot</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Sentinel">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Sentinel.svg">
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
       </a>
     </h3>
     <a class="reinforcement-weapon-item" style="cursor: default;">
