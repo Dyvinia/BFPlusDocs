@@ -514,7 +514,7 @@ ___
       <span class="ability-name">A180 Pistol</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Deploy a highly explosive device set yo detonate after a short time. While active, your sprint speed is also increased.">
+    <a class="ability-item" data-text="Deploy a highly explosive device set to detonate after a short time. While active, your sprint speed is also increased.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/rebelsaboteur/RebelSaboteur_TimeBomb.svg">
       <span class="ability-name">Time Bomb</span>
     </a><a class="ability-item" data-text="Intelligence gathered from the field reveals nearby hostiles. Defeating enemies with the TRUNCHEON ATTACK will increase the number of scan pulses.">
