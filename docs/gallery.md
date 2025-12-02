@@ -1,3 +1,8 @@
+---
+description: Battlefront+ Gallery
+image: /assets/community-updates/v10/temp_cover_v10.webp
+---
+
 # Gallery
 ![v10cover](/assets/community-updates\v10\temp_cover_v10.webp){ .round-corners }
 ![pyre-phasma](assets/gallery/pyre-phasma.webp){ .gallery-images  }

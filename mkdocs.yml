@@ -1,4 +1,5 @@
 site_name: Battlefront+
+site_description: "Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (2017), featuring a massive expansion to its roster of characters, selection of abilities, and list of appearances, all while maintaining a philosophy of diversity, balance, and compatibility with the fabric of the vanilla game. This project has continually pushed the boundaries of Battlefront II, bringing forth new and unique content, thanks to the combined efforts and contributions of the most talented members in the game's community."
 theme:
   name: material
   logo: assets/bfplus-logo.svg
@@ -39,6 +40,12 @@ plugins:
       auto_caption: false
       caption_position: bottom
   - mkdocs-video
+  - macros
+  - minify:
+      minify_css: true
+      cache_safe: true
+      css_files:
+        - stylesheets/extra.css
 extra:
   generator: false
   analytics:
@@ -52,7 +59,7 @@ extra:
       link: https://discord.gg/99VtTgFBqq 
       name: Discord
 extra_css:
-  - stylesheets/extra.css?v=10christmas
+  - stylesheets/extra.css
 extra_javascript:
   - js/extra.js
   - js/cards.js

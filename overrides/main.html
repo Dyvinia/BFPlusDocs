@@ -1,9 +1,30 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
-    <meta property="og:title" content="Battlefront+">
-    <meta property="og:description" content="Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (2017), featuring a massive expansion to its roster of characters, selection of abilities, and list of appearances, all while maintaining a philosophy of diversity, balance, and compatibility with the fabric of the vanilla game. This project has continually pushed the boundaries of Battlefront II, bringing forth new and unique content, thanks to the combined efforts and contributions of the most talented members in the game's community.">
-    <meta property="og:image" content="https://battlefront.plus/assets/gallery/maincover_v2.webp">
+    {% set title = config.site_name %}
+    {% if page and page.meta and page.meta.title %}
+      {% set title = title ~ " - " ~ page.meta.title %}
+    {% elif page and page.title and not page.is_homepage %}
+      {% set title = title ~ " - " ~ page.title | striptags %}
+    {% endif %}
+
+    {% set description = config.site_description %}
+    {% if page and page.meta and page.meta.description %}
+      {% set description = page.meta.description %}
+    {% endif %}
+    
+    {% set image = None %}
+    {% if page and page.meta and page.meta.image %}
+      {% set image = page.meta.image %}
+    {% endif %}
+    {% if not image %}
+      {% set image = "https://battlefront.plus/assets/gallery/maincover_v2.webp" %}
+    {% endif %}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:description" content="{{ description }}" />
+    {% if image %}<meta property="og:image" content="{{ image }}" />{% endif %}
     <meta name="theme-color" data-react-helmet="true" content="#fca503"/>
     <meta name="darkreader-lock">
 {% endblock %}
