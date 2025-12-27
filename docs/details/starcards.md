@@ -380,7 +380,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cal/Card_Cal_9_Mid.png">
                 <div class="text">
                     <h4><b>Persistence</b></h4>
-                    <a>Cal takes even less damage while using FORCE STASIS.</a>
+                    <a>Cal deals bonus damage to enemies affected by Force Stasis.</a>
                 </div>
             </div>
         </div>
@@ -414,7 +414,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cal/Card_Cal_2_Mid.png">
                 <div class="text">
                     <h4><b>Peacekeeper</b></h4>
-                    <a>The charge-up time of FORCE STASIS is slightly shorter.</a>
+                    <a>Enemies are affected by FORCE STASIS for a longer duration, but the ability has a slower cooldown.</a>
                 </div>
             </div>
         </div>
@@ -501,10 +501,10 @@ ___
     <div class="item">
         <div class="star-card">
             <div>
-                <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cody/Card_1_Mid.png">
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cody/Card_7_Mid.png">
                 <div class="text">
-                    <h4><b>Ion Capacitors</b></h4>
-                    <a>The radius of ION FIELD is increased.</a>
+                    <h4><b>Blast Them</b></h4>
+                    <a>Attacking a target marked by Attack Order will additionally grant resistance to incoming damage.</a>
                 </div>
             </div>
         </div>
@@ -513,7 +513,7 @@ ___
     <div class="item">
         <div class="star-card">
             <div>
-                <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cody/Card_7_Mid.png">
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cody/Card_8_Mid.png">
                 <div class="text">
                     <h4><b>You'll Be Needing This</b></h4>
                     <a>The cooldown of ENERGY WALL is reduced.</a>
@@ -524,7 +524,7 @@ ___
     <div class="item">
         <div class="star-card">
             <div>
-                <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cody/Card_8_Mid.png">
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cody/Card_4_Mid.png">
                 <div class="text">
                     <h4><b>Always a Way</b></h4>
                     <a>Defeating enemies with the BATTLE RIFLE will replenish its active time.</a>
@@ -538,7 +538,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cody/Card_6_Mid.png">
                 <div class="text">
                     <h4><b>You Can Count On Us</b></h4>
-                    <a>When allied Reinforcements or Heroes are standing nearer to Cody, he will regenerate even more health.</a>
+                    <a>If he is within 18 meters of three friendly units, Commander Cody and his close allies will regenerate some health.</a>
                 </div>
             </div>
         </div>
@@ -546,10 +546,10 @@ ___
     <div class="item">
         <div class="star-card">
             <div>
-                <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cody/Card_5_Mid.png">
+                <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/cody/Card_1_Mid.png">
                 <div class="text">
                     <h4><b>Armored Up</b></h4>
-                    <a>Commander Cody spawns with extra bonus health and replenishes some whenever he defeats an enemy.</a>
+                    <a>Commander Cody gains some bonus health whenever he defeats an enemy. This effect can be stacked limitlessly, but drains slowly over time.</a>
                 </div>
             </div>
         </div>
@@ -1004,7 +1004,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/asajjventress/Card_Ventress_1_Mid.png">
                 <div class="text">
                     <h4><b>Sister of the Night</b></h4>
-                    <a>The duration of VANISH is increased, allowing Ventress to remain invisible even longer.</a>
+                    <a>The duration of VANISH is increased, allowing Ventress to remain invisible even longer, but the recharge time is slower.</a>
                 </div>
             </div>
         </div>
@@ -1252,7 +1252,7 @@ ___
                 <img loading="lazy" class="no-lb" src="../../assets/star-cards/hero/dengar/Card_Dengar_9_Mid.png">
                 <div class="text">
                     <h4><b>More Toys</b></h4>
-                    <a>Dengar throws an additional, lighter grenade with EXPLOSIVE ARRAY, but the ability has a slightly longer recharge time.</a>
+                    <a>The cooldown on Explosive Array is reduced and the bombs have a longer fuse time.</a>
                 </div>
             </div>
         </div>

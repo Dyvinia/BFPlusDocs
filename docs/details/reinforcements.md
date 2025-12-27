@@ -88,7 +88,7 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
     </a><a class="ability-item" data-text="Apply an Ion Charge to your regular ammunition for a short time. Highly effective against vehicles.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/clonejettrooper/CloneJetTrooper_IonCharge.svg">
       <span class="ability-name">Ion Charge</span>
-    </a><a class="ability-item" data-text="Throw a thermal detonator that will stick to surfaces and explode shortly after.">
+    </a><a class="ability-item" data-text="Thermal detonator that sticks to enemies and surfaces, exploding momentarily after.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/clonejettrooper/CloneJetTrooper_StickyGrenade.svg">
       <span class="ability-name">Sticky Grenade</span>
     </a>
@@ -166,9 +166,9 @@ Take to the skies with the Clone Jet Trooper, crush opponents as one the Guavian
       <span class="ability-name">Gungan Spear</span>
     </a>
     <div>
-    <a class="ability-item" data-text="The Gungan Warrior and nearby allies receive reduced explosive damage and are unable to be stunned or knocked down.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/gunganwarrior/GunganWarrior_BombadStrength.svg">
-      <span class="ability-name">Bombad Strength</span>
+    <a class="ability-item" data-text="Hand thrown ball of electrified plasma that stuns an enemy on impact.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/gunganwarrior/GunganWarrior_Booma.svg">
+      <span class="ability-name">Booma</span>
     </a><a class="ability-item" data-text="The Gungan Warrior and nearby allies will slowly regenerate health for a short time, even when taking damage.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/gunganwarrior/GunganWarrior_Healing.svg">
       <span class="ability-name">Will Of The Gods</span>
@@ -580,9 +580,9 @@ ___
     </a><a class="ability-item" data-text="Activates an aura that increases headshot damage for the Death Trooper and nearby allies.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_FiringSquad.svg">
       <span class="ability-name">Firing Squad</span>
-    </a><a class="ability-item" data-text="Go behind enemy lines by becoming undetectable to enemy scanners, scrambling their radars, and equipping a powerful DLT-19D sniper rifle. Defeating enemies will extend the active time of OPERATIVE.">
+    </a><a class="ability-item" data-text="Swap to a rifle with higher range and accuracy.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/deathtrooper/DeathTrooper_MarksmanRush.svg">
-      <span class="ability-name">Operative</span>
+      <span class="ability-name">Marksman Rifle</span>
     </a>
     </div>
   </div>
@@ -605,12 +605,12 @@ ___
     <a class="ability-item" data-text="Advanced jetpack that enables flight while spending fuel. Its hover mode is activated by aiming down sights while in the air.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/imperialjumptrooper/ImperialJumpTrooper_Jetpack.svg">
       <span class="ability-name">Jetpack</span>
-    </a><a class="ability-item" data-text="Unleashes a blast of electricity, dealing immense damage to targeted enemies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/imperialjumptrooper/ImperialJumpTrooper_ArcCaster.svg">
-      <span class="ability-name">Arc Caster</span>
-    </a><a class="ability-item" data-text="Barrel mounted flashlight that reveals enemies.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/imperialjumptrooper/ImperialJumpTrooper_Flashlight.svg">
-      <span class="ability-name">Flashlight</span>
+    </a><a class="ability-item" data-text="Your jetpack creates a firey explosion upon landing, damaging nearby enemies and burning them.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/imperialjumptrooper/ImperialJumpTrooper_ExplosiveLanding.svg">
+      <span class="ability-name">Impact Event</span>
+    </a><a class="ability-item" data-text="Reconfigure the E-11 to fire scatter blasts for devastating damage at close range.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/imperialjumptrooper/ImperialJumpTrooper_BlastCannon.svg">
+      <span class="ability-name">Blast Cannon</span>
     </a>
     </div>
   </div>
@@ -776,15 +776,15 @@ ___
       <span class="ability-name">NN-14</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Multi-Purpose Launcher loaded with two smoke grenades.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/combatmedic/CombatMedic_SmokeLauncher.svg">
-      <span class="ability-name">Smoke Launcher</span>
-    </a><a class="ability-item" data-text="Call out to an ally in need, granting them damage reduction. Improves your sprint speed while gaining a small amount of health regeneration upon taking damage.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/combatmedic/CombatMedic_Dependable.svg">
-      <span class="ability-name">Dependable</span>
     </a><a class="ability-item" data-text="Pressurized bacta container that sprays allies with a healing mist.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/combatmedic/CombatMedic_BactaSpray.svg">
       <span class="ability-name">Bacta Spray</span>
+    </a><a class="ability-item" data-text="Call out to an ally in need, granting them and yourself resistance to damage and increased sprint speed, as well as some health regeneration upon taking damage.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/combatmedic/CombatMedic_Dependable.svg">
+      <span class="ability-name">Dependable</span>
+    <a class="ability-item" data-text="Multi-Purpose Launcher loaded with two smoke grenades.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/combatmedic/CombatMedic_SmokeLauncher.svg">
+      <span class="ability-name">Smoke Launcher</span>
     </a>
     </div>
   </div>
@@ -954,15 +954,15 @@ ___
       <span class="ability-name">F-11D</span>
     </a>
     <div>
-    <a class="ability-item" data-text="Grants a healing boost to a targeted ally.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/stormtroopercommander/StormtrooperCommander_Healing.svg">
-      <span class="ability-name">Restoration</span>
-    </a><a class="ability-item" data-text="Activates an aura that increases damage takes for nearby enemies.">
+    <a class="ability-item" data-text="Boost an ally with increased headshot damage or bonus health.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/stormtroopercommander/StormtrooperCommander_Boost.svg">
+      <span class="ability-name">Restoring Order</span>
+    </a><a class="ability-item" data-text="Activates an aura for nearby allies that increases sprint speed or replenishes health.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/stormtroopercommander/StormtrooperCommander_WeaknessAura.svg">
-      <span class="ability-name">Repression</span>
-    </a><a class="ability-item" data-text="Spherical barrier that provides protection from incoming blaster fire.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/stormtroopercommander/StormtrooperCommander_PersonalShield.svg">
-      <span class="ability-name">Personal Shield</span>
+      <span class="ability-name">Move As One</span>
+    </a><a class="ability-item" data-text="Toggle between the offensive and defensive effects of your abilities to suit the situation on the battlefront.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/stormtroopercommander/StormtrooperCommander_Toggle.svg">
+      <span class="ability-name">Strategic Adjustment</span>
     </a>
     </div>
   </div>

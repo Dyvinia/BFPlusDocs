@@ -1138,31 +1138,6 @@
     "officer": {
         "primary": [
             {
-                "name": "BG-38",
-                "image": "officer-blasters/Weapons_BG-38.svg",
-    
-                "damage": "51-12",
-                "range": "20-40",
-                "rof": "280",
-                "heat": "0.05",
-    
-                "attachmentOne": {
-                    "name": "Multi-Shot Reconfiguration",
-                    "image": "Attach_SecondaryFire.svg",
-                    "jumpto": "#multishot"
-                },
-                "attachmentTwo": {
-                    "name": "Focused Fire",
-                    "image": "Attach_Stock.svg",
-                    "jumpto": "#focusedfire"
-                },
-                "attachmentThree": {
-                    "name": "Ion Shot",
-                    "image": "Attach_Barrel.svg",
-                    "jumpto": "#ionshot"
-                }
-            },
-            {
                 "name": "Blurrg-1120",
                 "image": "officer-blasters/Weapons_Blurrg-1120.svg",
     
@@ -1289,6 +1264,31 @@
                     "name": "Focused Fire",
                     "image": "Attach_Stock.svg",
                     "jumpto": "#focusedfire"
+                }
+            },
+            {
+                "name": "DH-42",
+                "image": "officer-blasters/Weapons_BG-38.svg",
+    
+                "damage": "51-12",
+                "range": "20-40",
+                "rof": "280",
+                "heat": "0.05",
+    
+                "attachmentOne": {
+                    "name": "Multi-Shot Reconfiguration",
+                    "image": "Attach_SecondaryFire.svg",
+                    "jumpto": "#multishot"
+                },
+                "attachmentTwo": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
+                },
+                "attachmentThree": {
+                    "name": "Ion Shot",
+                    "image": "Attach_Barrel.svg",
+                    "jumpto": "#ionshot"
                 }
             },
             {
@@ -1520,6 +1520,58 @@
                     "name": "Escape Artist",
                     "image": "Attach_EscapeArtist.svg",
                     "jumpto": "#escapeartist"
+                }
+            },
+            {
+                "name": "LL-30",
+                "image": "officer-blasters/Weapons_LL-30.svg",
+    
+                "damage": "38-18",
+                "range": "18-50",
+                "rof": "285",
+                "heat": "0.059",
+    
+                "attachmentOne": {
+                    "name": "Night Vision",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#nightvision"
+                },
+                "attachmentTwo": {
+                    "name": "Precision Blaster",
+                    "image": "Attach_Elite.svg",
+                    "jumpto": "#precisionblaster"
+                },
+                "attachmentThree": {
+                    "name": "Repeating Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#fullauto"
+                }
+            },
+            {
+                "name": "LL-30 Navy",
+                "image": "officer-blasters/Weapons_LL-30_Navy.svg",
+
+                "trait": "Every other shot to an enemy deals bonus damage within a short duration",
+    
+                "damage": "32-27",
+                "range": "12-34",
+                "rof": "150",
+                "heat": "0.125",
+    
+                "attachmentOne": {
+                    "name": "Burst Mode",
+                    "image": "Attach_Trigger.svg",
+                    "jumpto": "#burstmode"
+                },
+                "attachmentTwo": {
+                    "name": "Improved Zoom",
+                    "image": "Attach_Scope.svg",
+                    "jumpto": "#scope"
+                },
+                "attachmentThree": {
+                    "name": "Focused Fire",
+                    "image": "Attach_Stock.svg",
+                    "jumpto": "#focusedfire"
                 }
             },
             {

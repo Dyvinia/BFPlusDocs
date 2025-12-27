@@ -42,7 +42,7 @@ Battlefront Plus adds 21 new heroes across all factions, each with their own uni
     </h3>
     <a>As one of the few Jedi who survived the purge that destroyed the Jedi Order, Cal Kestis lived in seclusion for years until a confrontation with the Inquisitorius compelled him to openly resist the Empire's rule. Hunted across the galaxy by the Empire's Jedi hunters, Kestis embraced his connection to the Force once more.</a>
     <div>
-    <a class="ability-item" data-text="Cal uses the Force to freeze enemies in front of him. By charging up this ability, he can extend the reach of this ability.">
+    <a class="ability-item" data-text="Cal uses the Force to freeze enemies, leaving them more vulnerable to attack. The area of effect is narrow with high range while in the single-bladed stance, but has a small radius all around him while in the double-bladed stance.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/calkestis/Cal_Freeze.svg">
       <span class="ability-name">Force Stasis</span>
     </a><a class="ability-item" data-text="Cal switches forms to attack with a Double-Bladed lightsaber, increasing his stamina but reducing damage and deflection accuracy.">
@@ -91,18 +91,15 @@ Battlefront Plus adds 21 new heroes across all factions, each with their own uni
     </h3>
     <a>CC-2224 "Cody" was a Clone Marshal Commander who commanded the 7th Sky Corps - including its renowned 212th Attack Battalion. His skill as a military strategist and fighter was equally matched by his friendship and loyalty, as Cody maintained a strong bond with his Jedi General Obi-Wan Kenobi and fellow troopers.</a>
     <div>
-    <a class="ability-item" data-text="Commander Cody activates an ion field that defuses incoming explosives and jams enemy blasters, as well as slowly damaging them over time.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commandercody/Cody_DefuseDisrupt.svg">
-      <span class="ability-name">Ion Field</span>
+    <a class="ability-item" data-text="Commander Cody marks an enemy for elimination, revealing them to his team. Anyone attacking the target briefly receives improved recharge times and blaster cooling.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commandercody/Cody_Order.svg">
+      <span class="ability-name">Attack Order</span>
     </a><a class="ability-item" data-text="Commander Cody swaps to an ion charged burst fire DC-15 for a limited time.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commandercody/Cody_PierceShield.svg">
       <span class="ability-name">Battle Rifle</span>
     </a><a class="ability-item" data-text="Deployable cover that is impervious to damage, but can be destroyed by attacking its central projector.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commandercody/Cody_Shield.svg">
       <span class="ability-name">Energy Wall</span>
-    </a><a class="ability-item" data-text="Commander Cody deploys with 150 bonus health. While standing near allied Reinforcements and Heroes, he will passively regenerate lost health.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/heroes/commandercody/Cody_Sentinel.svg">
-      <span class="ability-name">Ghost Company</span>
     </a>
     </div>
   </div>
@@ -386,7 +383,7 @@ ___
     </h3>
     <a>Dengar was a Corellian bounty hunter, fighting in both the Clone Wars and Galactic Civil War. Considered one of the best in the galaxy, he was among the bounty hunters selected by Darth Vader to hunt Han Solo.</a>
     <div>
-    <a class="ability-item" data-text="Dengar throws a handful of explosive devices, dealing heavy damage to anyone caught in the radius.">
+    <a class="ability-item" data-text="Dengar will toss sticky bombs at any enemies ahead of him, which can cause significant damage when multiple people are affected and grouped up.">
       <img class="ability" class="no-lb" src="../../assets/abilities/heroes/dengar/Dengar_ExplosiveArray.svg">
       <span class="ability-name">Explosive Array</span>
     </a><a class="ability-item" data-text="Dengar increases his blaster's rate of fire for a short amount of time.">
