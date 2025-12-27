@@ -328,6 +328,34 @@ ___
 </div>
 
 <div class="reinforcement">
+  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_TacticalDroid.png">
+  <div class="text">
+    <h3>
+      <strong>Tactical Droid</strong>
+      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
+        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
+      </a>
+    </h3>
+    <a class="reinforcement-weapon-item" style="cursor: default;">
+      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -0.3em; margin-left: -0.5em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/tacticaldroid/Weapons_TacticalDroidE-5.svg">
+      <span class="ability-name">E-5 ACP</span>
+    </a>
+    <div>
+    <a class="ability-item" data-text="Fires a grenade that sickens those caught in its blast radius, causing them to take lingering damage and weaken anybody else nearby.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_RadiationLauncher.svg">
+      <span class="ability-name">Radiation Launcher</span>
+    </a><a class="ability-item" data-text="Command an ally to fight harder, temporarily granting them unlimited blaster cooling and immunity to crowd control abilities.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_ChainBoost.svg">
+      <span class="ability-name">Tactical Prowess</span>
+    </a><a class="ability-item" data-text="Deploys three boxes which, when stopped on, will take abilities out of recharge.">
+      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_HAADS.svg">
+      <span class="ability-name">Resupply Kits</span>
+    </a>
+    </div>
+  </div>
+</div>
+
+<div class="reinforcement">
   <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_MagnaGuardProtector.png">
   <div class="text">
     <h3>
@@ -350,34 +378,6 @@ ___
     </a><a class="ability-item" data-text="Each hit with the Electropike becomes more powerful and damaging to any opponent for a brief period.">
       <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/magnaguardprotector/MagnaGuardProtector_DamageBuff.svg">
       <span class="ability-name">Droid Rage</span>
-    </div>
-  </div>
-</div>
-
-<div class="reinforcement">
-  <img class="portrait" class="no-lb" src="../../assets/portraits/reinforcements/Portrait_TacticalDroid.png">
-  <div class="text">
-    <h3>
-      <strong>Tactical Droid</strong>
-      <a class="reinforcement-class" style="margin-left: -0.4em;"  data-text="Enforcer">
-        <img class="reinforcement-type" class="no-lb" src="../../assets/abilities/reinfocements/Class_Enforcer.svg">
-      </a>
-    </h3>
-    <a class="reinforcement-weapon-item" style="cursor: default;">
-      <img class="reinforcement-weapon" class="no-lb" style="margin-right: -1.5em; margin-left: -1.75em; transform: translateY(-1px);" src="../../assets/abilities/reinfocements/tacticaldroid/Weapons_TacticalDroidE-5.svg">
-      <span class="ability-name">E-5 ACP</span>
-    </a>
-    <div>
-    <a class="ability-item" data-text="Fires a grenade that sickens those caught in its blast radius, causing them to take lingering damage and weaken anybody else nearby.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_RadiationLauncher.svg">
-      <span class="ability-name">Radiation Launcher</span>
-    </a><a class="ability-item" data-text="Command an ally to fight harder, temporarily granting them unlimited blaster cooling and immunity to crowd control abilities.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_ChainBoost.svg">
-      <span class="ability-name">Tactical Prowess</span>
-    </a><a class="ability-item" data-text="Deploys three boxes which, when stopped on, will take abilities out of recharge.">
-      <img class="ability" class="no-lb" src="../../assets/abilities/reinfocements/tacticaldroid/TacticalDroid_HAADS.svg">
-      <span class="ability-name">Resupply Kits</span>
-    </a>
     </div>
   </div>
 </div>
