@@ -8,7 +8,7 @@ devTemplate?.classList.remove("hidden");
 
 devs.children[0].remove();
 
-const devsData = (await JsonFetch.get<any[]>("../../lists/devs.json")).sort((a, b) => a.name.localeCompare(b.name));
+const devsData = (await JsonFetch.get<any[]>("assets/data/devs.json")).sort((a, b) => a.name.localeCompare(b.name));
 devsData.forEach(dev => {
     const devElement = devTemplate.cloneNode(true) as HTMLAnchorElement;
     devElement.removeAttribute("id");

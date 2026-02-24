@@ -10,14 +10,6 @@
   scrollbar-color: #808080 #000;
 
   --grid-w: 50vw;
-
-  --br-mult: 1;
-}
-
-@supports (corner-shape: squircle) {
-  :root {
-    --br-mult: 2;
-  }
 }
 
 ::-webkit-scrollbar {
