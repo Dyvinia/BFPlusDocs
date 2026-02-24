@@ -122,7 +122,7 @@ ___
 
 <div id="specialist-secondary" class="container"></div>
 
-<script src="../blasters.js?v={{ now() }}"></script>
+<script src="../blasters.js"></script>
 
 ___
 

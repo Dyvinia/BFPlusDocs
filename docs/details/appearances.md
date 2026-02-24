@@ -9,7 +9,7 @@
 Customize your characters with dozens of new appearances added to Troopers, Reinforcements, and Heroes across all factions. From Ahsoka Tano's 332nd Company to Imperial Army troopers, a battle damaged Darth Vader to Luke's Endor outfit, and even Bossk in a tuxedo, Battlefront Plus provides a wide selection of iconic cosmetic options to simulate battles across the stars.
 
 <p style="font-size: 14px; margin-top: -1em; margin-bottom: -1em; opacity: 0.69;">Hint: Click on images to zoom</p>
-<script src="../appearances.js?v={{ now() }}"></script>
+<script src="../appearances.js"></script>
 
 ## Troopers
 

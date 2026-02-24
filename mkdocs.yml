@@ -40,7 +40,6 @@ plugins:
       auto_caption: false
       caption_position: bottom
   - mkdocs-video
-  - macros
   - minify:
       minify_css: true
       cache_safe: true
