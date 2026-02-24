@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Univers Condensed';
+  font-display: swap;
+  font-weight: 420;
+  src: url('/assets/fonts/LinotypeUnivers-420Cn.woff2') format('woff2'),
+}
+@font-face {
+  font-family: 'Univers Condensed';
+  font-display: swap;
+  font-weight: 520;
+  src: url('/assets/fonts/LinotypeUnivers-520CnMedium.woff2') format('woff2'),
+}
+@font-face {
+  font-family: 'Univers Condensed';
+  font-display: swap;
+  font-weight: 620;
+  src: url('/assets/fonts/LinotypeUnivers-620CnBold.woff2') format('woff2'),
+}
+@font-face {
+  font-family: 'Univers Condensed';
+  font-display: swap;
+  font-weight: 720;
+  src: url('/assets/fonts/LinotypeUnivers-720CnHeavy.woff2') format('woff2'),
+}
+@font-face {
+  font-family: 'Univers Condensed';
+  font-display: swap;
+  font-weight: 820;
+  src: url('/assets/fonts/LT_UniversCond820.woff2') format('woff2'),
+}
+@font-face {
+  font-family: 'Univers Regular';
+  font-display: swap;
+  font-weight: 430;
+  src: url('/assets/fonts/LinotypeUnivers-430Regular.woff2') format('woff2'),
+}

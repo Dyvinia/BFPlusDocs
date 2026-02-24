@@ -10,7 +10,7 @@ theme:
     primary: custom
     accent: orange
   font:
-    text: Poppins
+    text: Roboto
   features:
     - navigation.tabs
     - navigation.tabs.sticky

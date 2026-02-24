@@ -47,13 +47,22 @@ h1, h2, h3, h4, h5, h6 {
 
 /* H1, H2, etc */
 .md-typeset h1 {
-  color: #aaa;
+  color: #fff;
   font-size: 2em;
+  font-family: 'Univers Condensed', sans-serif;
+  font-weight: 620;
+  text-transform: uppercase;
 }
 .md-typeset h2 {
   color: #ccc;
   font-size: 1.69em;
-  font-weight: 400;
+  font-family: 'Univers Condensed', sans-serif;
+  font-weight: 520;
+}
+.md-typeset h3 {
+  font-size: 1.5em;
+  font-family: 'Univers Condensed', sans-serif;
+  font-weight: 520;
 }
 .md-typeset h5 {
   color: #999;
@@ -111,6 +120,19 @@ h1, h2, h3, h4, h5, h6 {
     justify-content: flex-end;
     height: 100%;
     gap: 0.25rem;
+    
+    .md-tabs__item {
+      align-items: center;
+      display: flex;
+
+      .md-tabs__link {
+        font-size: 0.85rem;
+        margin: 0;
+        text-transform: uppercase;
+        font-family: 'Univers Condensed', sans-serif;
+        font-weight: 620;
+      }
+    }
   }
   
   .md-header__inner {
@@ -183,12 +205,12 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Developers */
 .md-typeset .devs {
-  color: #fff;
-  cursor:pointer;
-  display:inline-block;
+  color: #ccc;
+  cursor: pointer;
+  display: inline-block;
   font-weight: 500;
-  padding:.5em .5em;
-  transition:color 125ms,background-color 125ms,border-color 125ms;
+  padding: .5em .5em;
+  transition: color 125ms, background-color 125ms, border-color 125ms;
   align-content: center;
 }
 .md-typeset .devs:hover {
@@ -202,7 +224,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 48px;
   border-radius: 50%;
   vertical-align: middle;
-  transition:opacity 125ms;
+  transition: opacity 125ms;
   margin-right: 0.5em;
 }
 .devs:hover > img {
