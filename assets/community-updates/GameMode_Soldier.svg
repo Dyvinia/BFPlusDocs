@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 25.4 25.399999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="GameMode_Soldier.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     width="384mm"
+     units="px"
+     borderlayer="false"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     inkscape:zoom="6.1282588"
+     inkscape:cx="73.34873"
+     inkscape:cy="58.499488"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:deskcolor="#d1d1d1" /><defs
+     id="defs2" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       id="path1"
+       d="M 12.750075,4.7457656 C 11.037094,4.7457656 9.6325797,6.1509489 9.6325797,7.8639317 H 15.901698 C 15.867438,6.1509489 14.497318,4.7457656 12.750075,4.7457656 Z M 10.865794,9.2343182 C 10.763015,9.4741367 10.728621,9.7138212 10.728621,9.9536371 C 10.728621,11.084206 11.619508,11.975092 12.750075,11.975092 C 13.880644,11.975092 14.771531,11.084206 14.771531,9.9536371 C 14.771531,9.7138212 14.737138,9.4398762 14.634359,9.2343182 Z M 10.420152,13.373582 C 9.9583146,13.36234 8.0734962,13.482386 7.4739527,16.120378 C 6.7887598,19.135227 6.4802882,20.265663 6.4802882,20.265663 H 8.6047894 C 8.9816462,18.906587 9.3581003,17.547711 9.7349572,16.188629 H 10.11168 C 9.8376018,17.547711 9.5640585,18.906587 9.2899833,20.265663 H 16.210169 C 15.924786,18.906587 15.63906,17.547711 15.353678,16.188629 H 15.7304 C 16.118561,17.547711 16.5072,18.906587 16.895364,20.265663 H 19.019195 C 19.019195,20.265663 18.745652,19.135227 18.0262,16.120378 C 17.341006,13.105531 14.976955,13.379605 14.976955,13.379605 H 10.523197 C 10.523197,13.379605 10.486128,13.375189 10.420152,13.373582 Z"
+       fill="#ffffff"
+       style="stroke-width:0.666535" /></g><inkscape:templateinfo><inkscape:name>Ability SVG</inkscape:name><inkscape:author>Soulbruh</inkscape:author><inkscape:shortdesc>Used for abilities in BFII</inkscape:shortdesc><inkscape:date>2021-07-24</inkscape:date></inkscape:templateinfo></svg>

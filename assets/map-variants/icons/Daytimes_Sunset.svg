@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 25.4 25.399999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Daytimes_Sunset.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     width="384mm"
+     units="px"
+     borderlayer="false"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     inkscape:zoom="1.5320647"
+     inkscape:cx="2.9372128"
+     inkscape:cy="65.597752"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect2-4"
+       d="M 12.162806,7.4465532 V 9.9384982 C 12.162806,10.641655 13.237196,10.641654 13.237196,9.9384982 V 7.4465532 C 13.237196,6.7435257 12.162806,6.7435257 12.162806,7.4465532 Z M 7.693432,8.2468644 C 7.606876,8.2492026 7.519443,8.2725817 7.438901,8.3190818 C 7.181167,8.4678844 7.093515,8.7951861 7.242317,9.0529183 L 8.488291,11.210921 C 8.637093,11.468654 8.964334,11.556422 9.222068,11.40762 C 9.479802,11.258818 9.567511,10.93146 9.418709,10.673726 L 8.172794,8.5157226 C 8.07049,8.3385323 7.883857,8.2417212 7.693432,8.2468644 Z M 17.706568,8.2468644 C 17.516143,8.2417212 17.329514,8.3385323 17.227206,8.5157226 L 15.98129,10.673726 C 15.832493,10.93146 15.920198,11.258818 16.177931,11.40762 C 16.435671,11.556422 16.762907,11.468654 16.911712,11.210921 L 18.157684,9.0529183 C 18.306488,8.7951861 18.21883,8.4678844 17.961098,8.3190818 C 17.88056,8.2725817 17.793124,8.2492026 17.706568,8.2468644 Z M 4.067003,11.901543 C 3.876578,11.8964 3.689943,11.993211 3.587641,12.170401 C 3.438837,12.428134 3.526488,12.755434 3.784223,12.904236 L 5.942284,14.150151 C 6.20002,14.298953 6.527317,14.2113 6.67612,13.953568 C 6.824922,13.695836 6.737271,13.368593 6.479537,13.21979 L 4.321419,11.97376 C 4.240877,11.927259 4.153559,11.903881 4.067003,11.901543 Z M 21.332995,11.901543 C 21.24644,11.903881 21.159123,11.927259 21.078585,11.97376 L 18.920464,13.21979 C 18.662731,13.368594 18.575082,13.695836 18.723879,13.953568 C 18.872683,14.2113 19.199982,14.298953 19.457715,14.150151 L 21.61578,12.904236 C 21.873513,12.755434 21.961162,12.428134 21.812358,12.170401 C 21.710057,11.993211 21.523421,11.8964 21.332995,11.901543 Z M 7.47266,15.926416 C 10.489181,14.724733 14.909051,14.724028 17.927341,15.926416 C 16.44241,10.726709 8.957586,10.726729 7.47266,15.926416 Z M 5.45074,18.480717 H 19.949262 C 18.093136,15.219087 7.306867,15.219078 5.45074,18.480717 Z"
+       sodipodi:nodetypes="sssssssccsccssccsccssssccsccsscccccsscccccc"
+       fill="#ffffff" />
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>Ability SVG</inkscape:name>
+    <inkscape:author>Soulbruh</inkscape:author>
+    <inkscape:shortdesc>Used for abilities in BFII</inkscape:shortdesc>
+    <inkscape:date>2021-07-24</inkscape:date>
+  </inkscape:templateinfo>
+</svg>

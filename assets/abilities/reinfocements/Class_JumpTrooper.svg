@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 25.4 25.399999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Class_JumpTrooper.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     width="384mm"
+     units="px"
+     borderlayer="false"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     inkscape:zoom="6.1282588"
+     inkscape:cx="47.892886"
+     inkscape:cy="46.750637"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="#ffffff"
+       d="M 13.486996,11.678087 C 13.486996,12.207254 13.486996,12.736421 13.486996,13.265587 C 12.95783,13.265587 12.428663,13.265587 11.899496,13.265587 C 11.899496,12.736421 11.899496,12.207254 11.899496,11.678087 C 11.458436,11.678087 11.01764,11.678087 10.57658,11.678087 C 11.282223,10.619754 11.987603,9.5614206 12.693246,8.5030873 C 13.39889,9.5614206 14.104269,10.619754 14.809913,11.678087 C 14.368853,11.678087 13.928057,11.678087 13.486996,11.678087 C 13.486996,11.678087 13.486996,11.678087 13.486996,11.678087 Z M 13.486996,16.440587 C 12.95783,16.440587 12.428663,16.440587 11.899496,16.440587 C 11.899496,15.911421 11.899496,15.382254 11.899496,14.853087 C 12.428663,14.853087 12.95783,14.853087 13.486996,14.853087 C 13.486996,15.382254 13.486996,15.911421 13.486996,16.440587 C 13.486996,16.440587 13.486996,16.440587 13.486996,16.440587 Z M 12.693246,5.3280874 C 8.5922047,5.3280874 5.2849131,8.635379 5.2849131,12.736421 C 5.2849131,16.837462 8.5922047,20.144754 12.693246,20.144754 C 16.794288,20.144754 20.10158,16.837462 20.10158,12.736421 C 20.10158,8.635379 16.794288,5.3280874 12.693246,5.3280874 C 12.693246,5.3280874 12.693246,5.3280874 12.693246,5.3280874 Z"
+       id="path105" />
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>Ability SVG</inkscape:name>
+    <inkscape:author>Soulbruh</inkscape:author>
+    <inkscape:shortdesc>Used for abilities in BFII</inkscape:shortdesc>
+    <inkscape:date>2021-07-24</inkscape:date>
+  </inkscape:templateinfo>
+</svg>

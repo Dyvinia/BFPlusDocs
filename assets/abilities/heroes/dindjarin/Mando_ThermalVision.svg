@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 25.4 25.399999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Mando_Grapple.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     width="384mm"
+     units="px"
+     borderlayer="false"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     inkscape:zoom="4"
+     inkscape:cx="60"
+     inkscape:cy="43.125"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:deskcolor="#d1d1d1" /><defs
+     id="defs2"><inkscape:path-effect
+       effect="spiro"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1" /><inkscape:path-effect
+       effect="spiro"
+       id="path-effect5-4"
+       is_visible="true"
+       lpeversion="1" /></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       id="path8"
+       d="M 20.158397,5.3201593 L 11.694325,8.127044 L 12.571516,9.0920535 C 12.571516,9.0920535 13.690846,8.2160728 14.215884,8.7411113 C 14.808972,9.3341989 13.711833,10.276116 13.711833,10.276116 L 15.026479,11.627978 C 15.026479,11.627978 15.998714,10.557133 16.575196,11.166367 C 17.085539,11.705699 16.178876,12.800289 16.178876,12.800289 L 17.119401,13.703598 Z M 8.6161528,8.3307538 C 8.2411854,8.3307538 7.8665171,8.4558756 7.6165388,8.7058539 L 6.6165984,9.7057944 C 6.1166417,10.205751 6.1166417,11.20572 6.6165984,11.705675 L 12.116107,17.205185 C 12.616071,17.705132 12.116107,18.205125 12.116107,18.205125 C 12.116107,18.205125 11.616123,18.705081 11.116167,18.205125 L 8.6161528,15.705111 C 8.1161962,15.205154 7.116555,15.205154 6.6165984,15.705111 L 5.6166579,16.705052 L 6.6165984,17.704992 L 7.1164054,17.205185 C 7.616362,16.705228 7.6163893,16.705228 8.1163458,17.205185 L 10.616034,19.704873 C 11.115986,20.20483 12.115959,20.204828 12.615914,19.704873 L 13.615854,18.704932 C 14.115813,18.204975 14.115812,17.205008 13.615854,16.705052 L 8.1163458,11.205541 C 7.6164004,10.705576 8.1163458,10.205601 8.1163458,10.205601 C 8.1163458,10.205601 8.6163297,9.7056445 9.1162863,10.205601 L 11.615974,12.705615 C 12.115926,13.205573 13.115898,13.205573 13.615854,12.705615 L 14.615795,11.705675 L 13.615854,10.705735 L 13.116047,11.205541 C 12.616091,11.7055 12.616065,11.705498 12.116107,11.205541 L 9.6160933,8.7058539 C 9.3661151,8.4558756 8.9911203,8.3307538 8.6161528,8.3307538 Z"
+       fill="#ffffff"
+       style="stroke-width:1.09845" /></g><inkscape:templateinfo><inkscape:name>Ability SVG</inkscape:name><inkscape:author>Soulbruh</inkscape:author><inkscape:shortdesc>Used for abilities in BFII</inkscape:shortdesc><inkscape:date>2021-07-24</inkscape:date></inkscape:templateinfo></svg>
