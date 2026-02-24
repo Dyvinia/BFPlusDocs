@@ -853,3 +853,7 @@ body[data-md-color-scheme="slate"] .gslide-desc {
     height: 100%;
     display: block;
 }
+
+.hidden {
+    display: none !important;
+}

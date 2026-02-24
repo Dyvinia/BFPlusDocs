@@ -1,3 +1,5 @@
+<script type="module" src="/js/home.js"></script>
+
 # Overview
 
 ![MainImage](/assets/gallery/maincover_v2.webp){ .round-corners }  
@@ -8,13 +10,8 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
 
 ### Developers
 
-<p id="devs"></p>
-
-<script>
-    fetch("../../lists/devs.json").then(res => res.json()).then(data => data.sort((a, b) => a.name.localeCompare(b.name)).forEach(element => {
-        document.getElementById('devs').innerHTML +=
-            `<a class="devs" href="${element.link}" target="_blank" rel="noopener noreferrer">
-            	<img class="no-lb" src="${element.image}"/>${element.name}
-	        </a>`;
-    }));
-</script>
+<p id="devs">
+  <a id="dev" class="devs hidden" target="_blank" rel="noopener noreferrer">
+    <img class="no-lb"/>
+  </a>
+</p>

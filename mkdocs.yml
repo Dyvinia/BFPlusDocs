@@ -39,12 +39,6 @@ plugins:
        - no-lb
       auto_caption: false
       caption_position: bottom
-  - mkdocs-video
-  - minify:
-      minify_css: true
-      cache_safe: true
-      css_files:
-        - stylesheets/extra.css
 extra:
   generator: false
   analytics:
