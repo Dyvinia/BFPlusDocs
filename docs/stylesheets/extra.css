@@ -934,3 +934,8 @@ body[data-md-color-scheme="slate"] .gslide-desc {
 .hidden {
   display: none !important;
 }
+
+.noselect {
+  -webkit-user-select: none;
+  user-select: none;
+}

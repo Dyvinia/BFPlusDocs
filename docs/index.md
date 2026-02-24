@@ -1,4 +1,6 @@
+<link rel="stylesheet" href="/stylesheets/collection.css">
 <script type="module" src="/js/home.js"></script>
+<script type="module" src="/js/collection.js"></script>
 
 # Overview
 
@@ -7,6 +9,19 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
 
 [Coming Soon to NexusMods](https://www.nexusmods.com/starwarsbattlefront22017/mods/7592){ .md-button target="_blank" }
 [Join the Discord](https://discord.gg/99VtTgFBqq){ .md-discord-button target="_blank" }
+
+### Collection
+
+<div class="collection unloaded noselect">
+  <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
+  <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
+  <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
+  <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
+  <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
+  <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
+  <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
+  <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
+</div>
 
 ### Developers
 
