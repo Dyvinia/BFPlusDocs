@@ -23,6 +23,9 @@ bf-collection {
       background-color: #151515;
       filter: brightness(1.2);
     }
+    &:not(:defined) {
+      filter: brightness(0);
+    }
 
     img {
       display: block;

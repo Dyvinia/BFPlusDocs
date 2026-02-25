@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="/stylesheets/collection.css">
 <script type="module" src="/js/home.js"></script>
-<script type="module" src="/js/collection.js"></script>
+<script type="module" async src="/js/collection.js"></script>
 
 # Overview
 
