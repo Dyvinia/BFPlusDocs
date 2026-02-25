@@ -1,4 +1,4 @@
-.collection {
+bf-collection {
   position: relative;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -7,6 +7,8 @@
   overflow: hidden;
   gap: 1px;
   background-color: #666;
+  -webkit-user-select: none;
+  user-select: none;
 
   .item {
     position: relative;
@@ -29,7 +31,7 @@
     }
   }
 
-  &.unloaded {
+  &[unloaded] {
     background-color: #050505;
   }
 }

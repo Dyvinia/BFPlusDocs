@@ -1,8 +1,9 @@
+const collection = $('bf-collection');
+
 fillEmpty();
-new ResizeObserver(fillEmpty).observe($('.collection')!);
+new ResizeObserver(fillEmpty).observe(collection!);
 
 function fillEmpty() {
-    const collection = $('.collection');
     if (!collection)
         return;
 
@@ -19,5 +20,5 @@ function fillEmpty() {
         collection.appendChild(empty);
     }
 
-    collection.classList.remove('unloaded');
+    collection.removeAttribute('unloaded');
 }

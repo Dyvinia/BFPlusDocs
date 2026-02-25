@@ -12,7 +12,7 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
 
 ### Collection
 
-<div class="collection unloaded noselect">
+<bf-collection unloaded>
   <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
   <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
   <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
@@ -21,7 +21,7 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
   <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
   <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
   <a class="item" href="/collection/characters"><img class="no-lb" src="../../assets/portraits/heroes/Portrait_Merrin.png"></a>
-</div>
+</bf-collection>
 
 ### Developers
 
