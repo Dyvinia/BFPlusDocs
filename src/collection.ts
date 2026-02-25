@@ -1,24 +1,33 @@
-const collection = $('bf-collection');
+class BfCollection extends HTMLElement {
+    private resizeObserver: ResizeObserver;
 
-fillEmpty();
-new ResizeObserver(fillEmpty).observe(collection!);
-
-function fillEmpty() {
-    if (!collection)
-        return;
-
-    collection.$$('.empty').forEach(slot => slot.remove());
-    
-    const items = collection.$$('.item');
-    
-    const columnCount = [...items].filter(item => item.offsetTop === items[0].offsetTop).length;
-    const remainder = items.length % columnCount;
-    
-    for (let i = 0; i < (remainder === 0 ? 0 : columnCount - remainder); i++) {
-        const empty = document.createElement('div');
-        empty.className = 'item empty';
-        collection.appendChild(empty);
+    constructor() {
+        super();
+        this.fillEmpty = this.fillEmpty.bind(this);
+        this.resizeObserver = new ResizeObserver(this.fillEmpty);
     }
 
-    collection.removeAttribute('unloaded');
+    connectedCallback() {
+        this.fillEmpty();
+        this.resizeObserver.observe(this);
+    }
+    disconnectedCallback() {
+        this.resizeObserver.disconnect();
+    }
+
+    fillEmpty() {
+        this.$$('.empty').forEach(slot => slot.remove());
+    
+        const items = this.$$('.item');
+        
+        const columnCount = [...items].filter(item => item.offsetTop === items[0].offsetTop).length;
+        const remainder = items.length % columnCount;
+        
+        for (let i = 0; i < (remainder === 0 ? 0 : columnCount - remainder); i++) {
+            const empty = document.createElement('div');
+            empty.className = 'item empty';
+            this.appendChild(empty);
+        }
+    }
 }
+customElements.define('bf-collection', BfCollection);

@@ -31,7 +31,7 @@ bf-collection {
     }
   }
 
-  &[unloaded] {
+  &:not(:defined) {
     background-color: #050505;
   }
 }
