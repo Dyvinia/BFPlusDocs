@@ -1,4 +1,4 @@
-class BfCollection extends HTMLElement {
+class Collection extends HTMLElement {
     private resizeObserver: ResizeObserver;
 
     constructor() {
@@ -18,16 +18,28 @@ class BfCollection extends HTMLElement {
     fillEmpty() {
         this.$$('.empty').forEach(slot => slot.remove());
     
-        const items = this.$$('.item');
+        const items = this.$$('collection-item');
         
         const columnCount = [...items].filter(item => item.offsetTop === items[0].offsetTop).length;
         const remainder = items.length % columnCount;
         
         for (let i = 0; i < (remainder === 0 ? 0 : columnCount - remainder); i++) {
-            const empty = document.createElement('div');
-            empty.className = 'item empty';
+            const empty = document.createElement('collection-item');
+            empty.toggleAttribute('empty', true);
             this.appendChild(empty);
         }
     }
 }
-customElements.define('bf-collection', BfCollection);
+class CollectionItem extends HTMLElement {
+    connectedCallback() {
+        if (this.hasAttribute('empty'))
+            return;
+        this.innerHTML = `
+            <a href="${this.getAttribute('link')}" style="display: block; width: 100%; height: 100%;">
+                <img class="no-lb" src="${this.getAttribute('image')}" alt="Collection item">
+            </a>
+        `;
+    }
+}
+customElements.define('bf-collection', Collection);
+customElements.define('collection-item', CollectionItem);

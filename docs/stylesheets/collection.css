@@ -10,8 +10,9 @@ bf-collection {
   -webkit-user-select: none;
   user-select: none;
 
-  .item {
+  collection-item {
     position: relative;
+    display: block;
     aspect-ratio: 1 / 1;
     margin: 0;
     overflow: hidden;
