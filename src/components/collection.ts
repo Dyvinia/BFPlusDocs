@@ -18,7 +18,7 @@ class Collection extends HTMLElement {
     }
 
     fillEmpty() {
-        this.$$('.empty').forEach(slot => slot.remove());
+        this.$$('[empty]').forEach(slot => slot.remove());
     
         const items = this.$$('collection-item');
         
