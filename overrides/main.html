@@ -27,7 +27,7 @@
     {% if image %}<meta property="og:image" content="{{ image }}" />{% endif %}
     <meta name="theme-color" data-react-helmet="true" content="#fca503"/>
     <meta name="darkreader-lock">
-    <script type="module" async src="/js/utils/utils.js"></script>
+    
     <link rel="preload" href="/assets/fonts/LinotypeUnivers-420Cn.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/assets/fonts/LinotypeUnivers-430Regular.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/assets/fonts/LinotypeUnivers-520CnMedium.woff2" as="font" type="font/woff2" crossorigin>
@@ -35,4 +35,9 @@
     <link rel="preload" href="/assets/fonts/LinotypeUnivers-720CnHeavy.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/assets/fonts/LT_UniversCond820.woff2" as="font" type="font/woff2" crossorigin>
     <link href="/stylesheets/fonts/univers.css" rel="stylesheet">
+    
+    <link rel="modulepreload" href="/js/utils/utils.js">
+
+    <link rel="stylesheet" href="/stylesheets/components/collection.css">
+    <script type="module" async src="/js/components/collection.js"></script>
 {% endblock %}
