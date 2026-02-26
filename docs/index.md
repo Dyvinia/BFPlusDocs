@@ -35,14 +35,12 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
 #### Reinforcements
 
 <bf-collection>
-  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
-  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
-  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
-  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
-  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
-  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
-  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
-  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
+  <collection-item link="/characters/special/arctrooper" image="/assets/portraits/special/Portrait_ARCTrooper.png"></collection-item>
+  <collection-item link="/characters/special/cloneflametrooper" image="/assets/portraits/special/Portrait_CloneFlametrooper.png"></collection-item>
+  <collection-item link="/characters/special/clonejettrooper" image="/assets/portraits/special/Portrait_CloneJetTrooper.png"></collection-item>
+  <collection-item link="/characters/special/clonesharpshooter" image="/assets/portraits/special/Portrait_CloneSharpshooter.png"></collection-item>
+  <collection-item link="/characters/special/cloneengineer" image="/assets/portraits/special/Portrait_CloneEngineer.png"></collection-item>
+  <collection-item link="/characters/special/gunganwarrior" image="/assets/portraits/special/Portrait_GunganWarrior.png"></collection-item>
 </bf-collection>
 
 #### Troopers
