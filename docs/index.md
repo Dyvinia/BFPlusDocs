@@ -12,15 +12,48 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
 
 ### Collection
 
+#### Heroes
+
 <bf-collection>
-  <collection-item link="/characters/merrin" image="/assets/portraits/heroes/Portrait_Merrin.png"></collection-item>
-  <collection-item link="/characters/merrin" image="/assets/portraits/heroes/Portrait_Merrin.png"></collection-item>
-  <collection-item link="/characters/merrin" image="/assets/portraits/heroes/Portrait_Merrin.png"></collection-item>
-  <collection-item link="/characters/merrin" image="/assets/portraits/heroes/Portrait_Merrin.png"></collection-item>
-  <collection-item link="/characters/merrin" image="/assets/portraits/heroes/Portrait_Merrin.png"></collection-item>
-  <collection-item link="/characters/merrin" image="/assets/portraits/heroes/Portrait_Merrin.png"></collection-item>
-  <collection-item link="/characters/merrin" image="/assets/portraits/heroes/Portrait_Merrin.png"></collection-item>
-  <collection-item link="/characters/merrin" image="/assets/portraits/heroes/Portrait_Merrin.png"></collection-item>
+  <collection-item link="/characters/hero/ahsoka" image="/assets/portraits/hero/Portrait_Ahsoka.png"></collection-item>
+  <collection-item link="/characters/hero/cal" image="/assets/portraits/hero/Portrait_Cal.png"></collection-item>
+  <collection-item link="/characters/hero/captainrex" image="/assets/portraits/hero/Portrait_CaptainRex.png"></collection-item>
+  <collection-item link="/characters/hero/commandercody" image="/assets/portraits/hero/Portrait_CommanderCody.png"></collection-item>
+  <collection-item link="/characters/hero/dindjarin" image="/assets/portraits/hero/Portrait_DinDjarin.png"></collection-item>
+  <collection-item link="/characters/hero/hunter" image="/assets/portraits/hero/Portrait_Hunter.png"></collection-item>
+  <collection-item link="/characters/hero/niennunb" image="/assets/portraits/hero/Portrait_NienNunb.png"></collection-item>
+  <collection-item link="/characters/hero/padme" image="/assets/portraits/hero/Portrait_Padme.png"></collection-item>
+  <collection-item link="/characters/hero/ventress" image="/assets/portraits/hero/Portrait_Ventress.png"></collection-item>
+  <collection-item link="/characters/hero/captaincardinal" image="/assets/portraits/hero/Portrait_CaptainCardinal.png"></collection-item>
+  <collection-item link="/characters/hero/commanderpyre" image="/assets/portraits/hero/Portrait_CommanderPyre.png"></collection-item>
+  <collection-item link="/characters/hero/dagan" image="/assets/portraits/hero/Portrait_Dagan.png"></collection-item>
+  <collection-item link="/characters/hero/dengar" image="/assets/portraits/hero/Portrait_Dengar.png"></collection-item>
+  <collection-item link="/characters/hero/thrawn" image="/assets/portraits/hero/Portrait_Thrawn.png"></collection-item>
+  <collection-item link="/characters/hero/greedo" image="/assets/portraits/hero/Portrait_Greedo.png"></collection-item>
+  <collection-item link="/characters/hero/jango" image="/assets/portraits/hero/Portrait_Jango.png"></collection-item>
+  <collection-item link="/characters/hero/secondsister" image="/assets/portraits/hero/Portrait_SecondSister.png"></collection-item>
+</bf-collection>
+
+#### Reinforcements
+
+<bf-collection>
+  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
+  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
+  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
+  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
+  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
+  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
+  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
+  <collection-item link="/characters/special/clonegunner" image="/assets/portraits/special/Portrait_CloneGunner.png"></collection-item>
+</bf-collection>
+
+#### Troopers
+
+<bf-collection>
+  <collection-item link="/characters/trooper/assault" image="/assets/portraits/hero/Portrait_Merrin.png"></collection-item>
+  <collection-item link="/characters/trooper/heavy" image="/assets/portraits/hero/Portrait_Merrin.png"></collection-item>
+  <collection-item link="/characters/trooper/officer" image="/assets/portraits/hero/Portrait_Merrin.png"></collection-item>
+  <collection-item link="/characters/trooper/specialist" image="/assets/portraits/hero/Portrait_Merrin.png"></collection-item>
 </bf-collection>
 
 ### Developers
