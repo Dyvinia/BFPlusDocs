@@ -1,3 +1,5 @@
+import "../utils/utils.js";
+
 class Collection extends HTMLElement {
     private resizeObserver: ResizeObserver;
 
