@@ -34,7 +34,14 @@ class Collection extends HTMLElement {
 }
 class CollectionItem extends HTMLElement {
     private static readonly classes: Record<string, string> = {
-        "enforcer": "/assets/abilities/reinfocements/Class_Enforcer.svg",
+        "assault": "/assets/classes/Class_Trooper_Assault.svg",
+        "heavy": "/assets/classes/Class_Trooper_Heavy.svg",
+        "officer": "/assets/classes/Class_Trooper_Officer.svg",
+        "specialist": "/assets/classes/Class_Trooper_Specialist.svg",
+        "aerial": "/assets/classes/Class_Special_Aerial.svg",
+        "infiltrator": "/assets/classes/Class_Special_Infiltrator.svg",
+        "enforcer": "/assets/classes/Class_Special_Enforcer.svg",
+        "sentinel": "/assets/classes/Class_Special_Sentinel.svg",
     };
     private static readonly factions: Record<string, string> = {
         "republic": "/assets/factions/Factions_GalacticRepublic.svg",
