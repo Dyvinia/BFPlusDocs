@@ -21,6 +21,11 @@
       {% set image = "https://battlefront.plus/assets/gallery/maincover_v2.webp" %}
     {% endif %}
 
+    {% set extra_head = None %}
+    {% if page and page.meta and page.meta.extra_head %}
+      {% set extra_head = page.meta.extra_head %}
+    {% endif %}
+
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ title }}" />
     <meta property="og:description" content="{{ description }}" />
@@ -40,4 +45,8 @@
 
     <link rel="stylesheet" href="/stylesheets/components/collection.css">
     <script type="module" async src="/js/components/collection.js"></script>
+
+    {% if extra_head %}
+      {{ extra_head }}
+    {% endif %}
 {% endblock %}
