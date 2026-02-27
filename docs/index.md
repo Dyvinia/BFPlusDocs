@@ -11,7 +11,7 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
 ### Collection
 
 #### Heroes
-<bf-collection>
+<bf-collection size="130px">
   <collection-item link="/details/characters/hero/ahsoka" image="/assets/portraits/hero/Portrait_Ahsoka.png"></collection-item>
   <collection-item link="/details/characters/hero/cal" image="/assets/portraits/hero/Portrait_Cal.png"></collection-item>
   <collection-item link="/details/characters/hero/captainrex" image="/assets/portraits/hero/Portrait_CaptainRex.png"></collection-item>
@@ -34,7 +34,7 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
 
 #### Reinforcements
 
-<bf-collection>
+<bf-collection size="115px">
   <collection-item faction="republic" class="infiltrator" link="/details/characters/special/arctrooper" image="/assets/portraits/special/Portrait_ARCTrooper.png"></collection-item>
   <collection-item faction="republic" class="enforcer" link="/details/characters/special/clonecommando" image="/assets/portraits/special/Portrait_CloneCommando.png"></collection-item>
   <collection-item faction="republic" class="enforcer" link="/details/characters/special/cloneflametrooper" image="/assets/portraits/special/Portrait_CloneFlametrooper.png"></collection-item>

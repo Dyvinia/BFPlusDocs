@@ -10,6 +10,7 @@ class Collection extends HTMLElement {
     }
 
     connectedCallback() {
+        this.style.setProperty('--size', this.getAttribute('size') ?? '150px');
         this.fillEmpty();
         this.resizeObserver.observe(this);
     }
