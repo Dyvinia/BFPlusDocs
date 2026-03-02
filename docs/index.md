@@ -35,7 +35,7 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
 </bf-collection>
 
 #### Villains
-<bf-collection>
+<bf-collection size="130px">
   <collection-item link="/details/characters/hero/asajjventress" image="/assets/portraits/hero/Portrait_Ventress.png"></collection-item>
   <collection-item link="/details/characters/hero/bb9e" image="/assets/portraits/hero/Portrait_BB9E.png"></collection-item>
   <collection-item link="/details/characters/hero/bossk" image="/assets/portraits/hero/Portrait_Bossk.png"></collection-item>
@@ -105,11 +105,11 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
 
 #### Troopers
 
-<bf-collection>
-  <collection-item class="assault" link="/details/characters/trooper/assault" image="/assets/portraits/hero/Portrait_Assault.png"></collection-item>
-  <collection-item class="heavy" link="/details/characters/trooper/heavy" image="/assets/portraits/hero/Portrait_Heavy.png"></collection-item>
-  <collection-item class="officer" link="/details/characters/trooper/officer" image="/assets/portraits/hero/Portrait_Officer.png"></collection-item>
-  <collection-item class="specialist" link="/details/characters/trooper/specialist" image="/assets/portraits/hero/Portrait_Specialist.png"></collection-item>
+<bf-collection size="130px">
+  <collection-item class="assault" link="/details/characters/trooper/assault" image="/assets/portraits/trooper/Portrait_Assault.png"></collection-item>
+  <collection-item class="heavy" link="/details/characters/trooper/heavy" image="/assets/portraits/trooper/Portrait_Heavy.png"></collection-item>
+  <collection-item class="officer" link="/details/characters/trooper/officer" image="/assets/portraits/trooper/Portrait_Officer.png"></collection-item>
+  <collection-item class="specialist" link="/details/characters/trooper/specialist" image="/assets/portraits/trooper/Portrait_Specialist.png"></collection-item>
 </bf-collection>
 
 ### Developers
