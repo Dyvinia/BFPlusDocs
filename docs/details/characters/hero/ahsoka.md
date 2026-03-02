@@ -9,7 +9,15 @@ Health: 800
 
 Max Health Regeneration: 250
 
-**ABILITIES**
+**PASSIVE ABILITIES**
+
+<img class="ability" class="no-lb" src="/assets/abilities/PassiveAbility_Health.svg"> HEALTH ON ELIMINATION
+
+Regain health for each defeated enemy.
+
+Effect: +20 health for defeating Troopers, 60 for Reinforcements, and 100 for Heroes
+
+**COMBAT ABILITIES**
 
 <img class="weapon-saber" class="no-lb" style="margin-left: -1.5em; width: 140px; transform: translateY(-2px);" src="/assets/abilities/hero/ahsokatano/Weapons_AhsokaLightsabers.svg"> AHSOKA TANO'S LIGHTSABERS
 
