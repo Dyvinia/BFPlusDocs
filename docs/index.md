@@ -13,22 +13,48 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
 #### Heroes
 <bf-collection>
   <collection-item link="/details/characters/hero/ahsoka" image="/assets/portraits/hero/Portrait_Ahsoka.png"></collection-item>
+  <collection-item link="/details/characters/hero/anakin" image="/assets/portraits/hero/Portrait_Anakin.png"></collection-item>
+  <collection-item link="/details/characters/hero/bb8" image="/assets/portraits/hero/Portrait_BB8.png"></collection-item>
   <collection-item link="/details/characters/hero/cal" image="/assets/portraits/hero/Portrait_Cal.png"></collection-item>
   <collection-item link="/details/characters/hero/captainrex" image="/assets/portraits/hero/Portrait_CaptainRex.png"></collection-item>
+  <collection-item link="/details/characters/hero/chewbacca" image="/assets/portraits/hero/Portrait_Chewbacca.png"></collection-item>
   <collection-item link="/details/characters/hero/commandercody" image="/assets/portraits/hero/Portrait_CommanderCody.png"></collection-item>
   <collection-item link="/details/characters/hero/dindjarin" image="/assets/portraits/hero/Portrait_DinDjarin.png"></collection-item>
+  <collection-item link="/details/characters/hero/finn" image="/assets/portraits/hero/Portrait_Finn.png"></collection-item>
+  <collection-item link="/details/characters/hero/han" image="/assets/portraits/hero/Portrait_HanSolo.png"></collection-item>
   <collection-item link="/details/characters/hero/hunter" image="/assets/portraits/hero/Portrait_Hunter.png"></collection-item>
+  <collection-item link="/details/characters/hero/lando" image="/assets/portraits/hero/Portrait_LandoCalrissian.png"></collection-item>
+  <collection-item link="/details/characters/hero/leia" image="/assets/portraits/hero/Portrait_LeiaOrgana.png"></collection-item>
+  <collection-item link="/details/characters/hero/luke" image="/assets/portraits/hero/Portrait_LukeSkywalker.png"></collection-item>
   <collection-item link="/details/characters/hero/maz" image="/assets/portraits/hero/Portrait_Maz.png"></collection-item>
   <collection-item link="/details/characters/hero/niennunb" image="/assets/portraits/hero/Portrait_NienNunb.png"></collection-item>
+  <collection-item link="/details/characters/hero/obiwan" image="/assets/portraits/hero/Portrait_ObiWan.png"></collection-item>
   <collection-item link="/details/characters/hero/padme" image="/assets/portraits/hero/Portrait_Padme.png"></collection-item>
-  <collection-item link="/details/characters/hero/ventress" image="/assets/portraits/hero/Portrait_Ventress.png"></collection-item>
+  <collection-item link="/details/characters/hero/rey" image="/assets/portraits/hero/Portrait_Rey.png"></collection-item>
+  <collection-item link="/details/characters/hero/yoda" image="/assets/portraits/hero/Portrait_Yoda.png"></collection-item>
+</bf-collection>
+
+#### Villains
+<bf-collection>
+  <collection-item link="/details/characters/hero/asajjventress" image="/assets/portraits/hero/Portrait_Ventress.png"></collection-item>
+  <collection-item link="/details/characters/hero/bb9e" image="/assets/portraits/hero/Portrait_BB9E.png"></collection-item>
+  <collection-item link="/details/characters/hero/bossk" image="/assets/portraits/hero/Portrait_Bossk.png"></collection-item>
+  <collection-item link="/details/characters/hero/bobafett" image="/assets/portraits/hero/Portrait_BobaFett.png"></collection-item>
   <collection-item link="/details/characters/hero/captaincardinal" image="/assets/portraits/hero/Portrait_CaptainCardinal.png"></collection-item>
+  <collection-item link="/details/characters/hero/captainphasma" image="/assets/portraits/hero/Portrait_Phasma.png"></collection-item>
   <collection-item link="/details/characters/hero/commanderpyre" image="/assets/portraits/hero/Portrait_CommanderPyre.png"></collection-item>
+  <collection-item link="/details/characters/hero/countdooku" image="/assets/portraits/hero/Portrait_Dooku.png"></collection-item>
   <collection-item link="/details/characters/hero/dagan" image="/assets/portraits/hero/Portrait_Dagan.png"></collection-item>
+  <collection-item link="/details/characters/hero/darthmaul" image="/assets/portraits/hero/Portrait_DarthMaul.png"></collection-item>
+  <collection-item link="/details/characters/hero/darthvader" image="/assets/portraits/hero/Portrait_DarthVader.png"></collection-item>
+  <collection-item link="/details/characters/hero/emperorpalpatine" image="/assets/portraits/hero/Portrait_Palpatine.png"></collection-item>
   <collection-item link="/details/characters/hero/dengar" image="/assets/portraits/hero/Portrait_Dengar.png"></collection-item>
-  <collection-item link="/details/characters/hero/thrawn" image="/assets/portraits/hero/Portrait_Thrawn.png"></collection-item>
+  <collection-item link="/details/characters/hero/generalrievous" image="/assets/portraits/hero/Portrait_Grievous.png"></collection-item>
+  <collection-item link="/details/characters/hero/grandadmiralthrawn" image="/assets/portraits/hero/Portrait_Thrawn.png"></collection-item>
   <collection-item link="/details/characters/hero/greedo" image="/assets/portraits/hero/Portrait_Greedo.png"></collection-item>
-  <collection-item link="/details/characters/hero/jango" image="/assets/portraits/hero/Portrait_Jango.png"></collection-item>
+  <collection-item link="/details/characters/hero/idenversio" image="/assets/portraits/hero/Portrait_IdenVersio.png"></collection-item>
+  <collection-item link="/details/characters/hero/jangofett" image="/assets/portraits/hero/Portrait_Jango.png"></collection-item>
+  <collection-item link="/details/characters/hero/kyloren" image="/assets/portraits/hero/Portrait_KyloRen.png"></collection-item>
   <collection-item link="/details/characters/hero/secondsister" image="/assets/portraits/hero/Portrait_SecondSister.png"></collection-item>
 </bf-collection>
 
