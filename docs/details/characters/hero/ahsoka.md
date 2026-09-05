@@ -19,7 +19,13 @@ Effect: +20 health for defeating Troopers, 60 for Reinforcements, and 100 for He
 
 **COMBAT ABILITIES**
 
-<img class="weapon-saber" class="no-lb" style="margin-left: -1.5em; width: 140px; transform: translateY(-2px);" src="/assets/abilities/hero/ahsokatano/Weapons_AhsokaLightsabers.svg"> AHSOKA TANO'S LIGHTSABERS
+<div style="cursor: default;">
+    <img class="weapon-saber no-lb" style="margin-left: -1.5em; width: 140px; transform: translateY(-2px);" src="/assets/abilities/hero/ahsokatano/Weapons_AhsokaLightsabers.svg">
+    AHSOKA TANO'S LIGHTSABERS
+    <hover-tooltip>
+        <p>Damage: 125</p>
+    </hover-tooltip>
+</div>
 
 Damage: 125
 

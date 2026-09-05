@@ -56,7 +56,7 @@ extra_css:
 extra_javascript:
   - js/extra.js
   - js/cards.js
-  - js/swiped-events.min.js
+  - js/swiped-events.js
   
 copyright: Battlefront+ Team 
 
