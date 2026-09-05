@@ -87,7 +87,7 @@ Battlefront+ is the largest ongoing mod project for Star Wars Battlefront II (20
   <collection-item faction="empire" class="aerial" link="/details/characters/special/imperialjumptrooper" image="/assets/portraits/special/Portrait_ImperialJumpTrooper.png"></collection-item>
   <collection-item faction="empire" class="infiltrator" link="/details/characters/special/isbagent" image="/assets/portraits/special/Portrait_ISB_Agent.png"></collection-item>
   <collection-item faction="empire" class="infiltrator" link="/details/characters/special/purgetroopercommander" image="/assets/portraits/special/Portrait_PurgeTrooperCommander.png"></collection-item>
-  <collection-item faction="empire" class="infiltrator" link="/details/characters/special/royalguard" image="/assets/portraits/special/Portrait_RoyalGuard.png"></collection-item>
+  <collection-item faction="empire" class="enforcer" link="/details/characters/special/royalguard" image="/assets/portraits/special/Portrait_RoyalGuard.png"></collection-item>
   <collection-item faction="empire" class="enforcer" link="/details/characters/special/shocktrooper" image="/assets/portraits/special/Portrait_ShockTrooper.png"></collection-item>
   <collection-item faction="empire" class="infiltrator" link="/details/characters/special/viperprobedroid" image="/assets/portraits/special/Portrait_ViperProbe.png"></collection-item>
   <collection-item faction="resistance" class="infiltrator" link="/details/characters/special/caphexspy" image="/assets/portraits/special/Portrait_CaphexSpy.png"></collection-item>
